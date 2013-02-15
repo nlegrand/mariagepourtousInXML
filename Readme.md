@@ -26,4 +26,7 @@ Bug
 &lt;sp&gt; se referme beaucoup trop tôt : prise en compte des autres
 paragraphes.
 
+Todo
+====
 
+Tester automatiquement la validité du XML.
