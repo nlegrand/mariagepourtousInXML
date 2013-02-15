@@ -1,5 +1,7 @@
-Télécharge les comptes rendus de séance de l'Assemblée nationale et
-les transforme en XML TEI.
+Télécharge les comptes rendus de séance de l'Assemblée nationale sur
+l'[ouverture du mariage aux couples de même
+sexe](http://www.assemblee-nationale.fr/14/dossiers/mariage_personnes_meme_sexe.asp)
+et les transforme en XML TEI.
 
 Le but est de pouvoir les retransformer « proprement » en quoique ce
 soit (docbook, txt, xhtml...), dans le but de faire des recherches
