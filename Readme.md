@@ -10,8 +10,11 @@ Utilisation
 ===========
 
 Fonctionne dans un environnement *nix (Linux, Mac OS X,
-BSD). Nécessite GNU `make(1)`, `perl(1)`, `wget(1)`.
+BSD). Nécessite GNU `make(1)`, `perl(1)`, `wget(1)`, éventuelement
+`git(1)`.
 
+    git clone git://github.com/nlegrand/mariagepourtousInXML.git
+    cd mariagepourtousInXML/
     make download
     make
 
