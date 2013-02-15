@@ -34,7 +34,7 @@ all: $(CRANMPT:%=%.xml)
 clean:
 	rm *.xml
 
-download:
+download: $(CRANMPT:%=%.asp)
 	@for cranmpt in $(CRANMPT) ; do \
 	wget "http://www.assemblee-nationale.fr/14/cri/2012-2013/$${cranmpt}.asp" ; \
 	done
