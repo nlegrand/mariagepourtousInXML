@@ -21,7 +21,7 @@ BSD). Nécessite GNU `make(1)`, `perl(1)`, `wget(1)`, éventuelement
 Bug
 ===
 
-<sp> se referme beaucoup trop tôt : prise en compte des autres
+&lt;sp&gt; se referme beaucoup trop tôt : prise en compte des autres
 paragraphes.
 
 
