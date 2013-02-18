@@ -29,10 +29,16 @@ CRANMPT=20130118 \
 %.xml: %.asp compte_rendu_to_tei.pl
 	./compte_rendu_to_tei.pl $< > $@
 
-all: $(CRANMPT:%=%.xml)
+%.txt: %.xml
+	xsltproc xmltei_to_plaintext.xsl $< > $@
+
+all: $(CRANMPT:%=%.xml) tout.txt
+
+tout.txt: $(CRANMPT:%=%.txt)
+	cat $$(ls 2013*.txt |sort) >tout.txt
 
 clean:
-	rm *.xml
+	rm *.xml *.txt
 
 download:
 	@for cranmpt in $(CRANMPT) ; do \
