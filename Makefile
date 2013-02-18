@@ -38,7 +38,7 @@ tout.txt: $(CRANMPT:%=%.txt)
 	cat $$(ls 2013*.txt |sort) >tout.txt
 
 clean:
-	rm *.xml *.txt
+	rm -f *.xml *.txt
 
 download:
 	@for cranmpt in $(CRANMPT) ; do \
