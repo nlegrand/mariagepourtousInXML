@@ -22,7 +22,6 @@ BSD). Nécessite GNU `make(1)`, `perl(1)`, `wget(1)`, `xsltproc(1)`,
 
     git clone git://github.com/nlegrand/mariagepourtousInXML.git
     cd mariagepourtousInXML/
-    make download
     make
 
 Mise à jour
