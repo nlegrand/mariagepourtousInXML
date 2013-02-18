@@ -40,6 +40,9 @@ tout.txt: $(CRANMPT:%=%.txt)
 clean:
 	rm -f *.xml *.txt
 
+cleanasp:
+	rm -f *.asp
+
 download:
 	@for cranmpt in $(CRANMPT) ; do \
 	wget "http://www.assemblee-nationale.fr/14/cri/2012-2013/$${cranmpt}.asp" ; \
