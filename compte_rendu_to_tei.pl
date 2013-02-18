@@ -37,7 +37,8 @@ sub clean_entities {
 
 sub print_body {
     my $aspfilename = shift @_;
-    my $state = "main"; #main, subpart, subsubpart
+    my $div_state = "main"; #main, subpart, subsubpart
+    my $sp_state = "closed"; #closed open
     print "<text>\n";
     print "<body>\n";
     open my $aspfh, "<", $aspfilename
@@ -53,10 +54,14 @@ sub print_body {
 	    my $intervention = encode("utf8", $3) ;
 	    clean_entities(\$intervenant);
 	    clean_entities(\$intervention);
+	    if ($sp_state eq "open") {
+		print "\n</sp>\n";
+	    } else {
+		$sp_state = "open";
+	    }
 	    print "\n<sp>\n";
 	    print "  <speaker>$intervenant$titre</speaker>\n";
 	    print "  <p>$intervention</p>\n";
-	    print "</sp>\n";
 	}   elsif (m!^<p>(.*?)</p>!) {
 	    my $para = encode("utf-8", $1) ;
 	    clean_entities(\$para);
@@ -64,16 +69,20 @@ sub print_body {
 	}
 
 	if (m!<h2 class="(.*?)">(.*?)</h2>!) {
+	    if ($sp_state eq "open") {
+		print "</sp>\n";
+		$sp_state = "closed";
+	    }
 	    my $div_level = $1 ;
 	    my $div_head = encode("utf8", $2) ;
 	    clean_entities(\$div_head) ;
-	    if ($state eq "subpart" or $state eq "subsubpart") {
+	    if ($div_state eq "subpart" or $div_state eq "subsubpart") {
 		print "</div>\n";
 	    }
 	    if ($div_level eq "titre1") {
-		$state = "subpart";
+		$div_state = "subpart";
 	    } elsif ($div_level eq "titre3") {
-		$state = "subsubpart";
+		$div_state = "subsubpart";
 	    }
 	    print "\n\n<div>\n";
 	    print "<head>$div_head</head>\n";
@@ -84,9 +93,12 @@ sub print_body {
 	    print "<p>$presidence</p>\n";
 	}
     }
-    if ($state eq "subpart") {
+    if ($sp_state eq "open") {
+	print "</sp>\n";
+    }
+    if ($div_state eq "subpart") {
 	print "</div>\n";
-    } elsif ($state eq "subsubpart") {
+    } elsif ($div_state eq "subsubpart") {
 	print "</div>\n</div>\n";
     }
     close $aspfh;
