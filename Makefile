@@ -43,6 +43,13 @@ clean:
 cleanasp:
 	rm -f *.asp
 
+TXM-TXT-CSV:
+	mkdir TXM-TXT-CSV
+
+txm: TXM-TXT-CSV $(CRANMPT:%=%.txt)
+	cp 2013*.txt TXM-TXT-CSV
+	./gen_txm_metadata.sh > TXM-TXT-CSV/metadata.csv
+
 download:
 	@for cranmpt in $(CRANMPT) ; do \
 	wget "http://www.assemblee-nationale.fr/14/cri/2012-2013/$${cranmpt}.asp" ; \
