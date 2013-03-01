@@ -1,9 +1,12 @@
 #!/bin/sh
 
-echo \"id\",\"titre\"
-cd TXM-TXT-CVS
-for filename in *.txt
-do
-    echo -n \"$filename\",\"
-    sed -e 's/$/"/' -n -e 1p $filename 
-done
+function print_csv () {
+    echo \"id\",\"titre\"
+    for filename in 2013*.txt
+    do
+	echo -n \"$filename\",\"
+	sed -e 's/$/"/' -n -e 1p $filename 
+    done
+}
+
+print_csv > metadata.csv

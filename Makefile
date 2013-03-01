@@ -1,4 +1,10 @@
-#ID des Comptes rendus de l'Assemblée Nationale sur le mariage pour tous
+.PHONP: clean all cleanasp txm tei archives
+
+#export directories
+TXMDIR=MPT-TXM-TXT-CSV
+TEIDIR=MPT-TEI
+
+#ID of National French Assembly Report about same sex marriage
 CRANMPT=20130118 \
 	20130119 \
 	20130120 \
@@ -38,17 +44,30 @@ tout.txt: $(CRANMPT:%=%.txt)
 	cat $$(ls 2013*.txt |sort) >tout.txt
 
 clean:
-	rm -f *.xml *.txt
+	rm -rf *.xml *.txt $(TXMDIR)* $(TEIDIR)* metadata.csv
 
 cleanasp:
 	rm -f *.asp
 
-TXM-TXT-CSV:
-	mkdir TXM-TXT-CSV
+$(TXMDIR):
+	mkdir $(TXMDIR)
 
-txm: TXM-TXT-CSV $(CRANMPT:%=%.txt)
-	cp 2013*.txt TXM-TXT-CSV
-	./gen_txm_metadata.sh > TXM-TXT-CSV/metadata.csv
+$(TEIDIR):
+	mkdir $(TEIDIR)
+
+txm: metadata.csv $(TXMDIR) $(CRANMPT:%=%.txt)
+	cp 2013*.txt $(TXMDIR)
+	cp metadata.csv $(TXMDIR)
+	zip $(TXMDIR).zip $(TXMDIR)/*
+
+metadata.csv:
+	./gen_txm_metadata.sh
+
+tei: $(TEIDIR) $(CRANMPT:%=%.xml)
+	cp *.xml $(TEIDIR)
+	zip $(TEIDIR).zip $(TEIDIR)/*
+
+archives: txm tei
 
 download:
 	@for cranmpt in $(CRANMPT) ; do \
