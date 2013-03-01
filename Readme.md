@@ -55,7 +55,7 @@ Serge Heiden m'a averti de l'existence de deux articles de la revue
 [Mot](http://mots.revues.org/) de 1999 donnant de très bonnes idées
 d'exploitation de ce type de corpus :
 
-- S. Bonnafous, D. Desmarchelier : « Quand les députés coupent le
+- S. Bonnafous, D. Desmarchelier : « [Quand les députés coupent le
   RESEDA](http://www.persee.fr/web/revues/home/prescript/article/mots_0243-6450_1999_num_60_1_2166) » ;
 
 - S. Heiden : [Encodage uniforme et normalisé de corpus. Application à
