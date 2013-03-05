@@ -25,14 +25,14 @@ use Encode;
 
 sub clean_entities {
     my $string = shift @_ ;
-    $$string =~ s/<(:?a|b|i|font).*?>//g;
+    $$string =~ s/<(:?a|b|i|font).*?>//g
     $$string =~ s!</(:?a|b|i|font)>!!g;
     $$string =~ s/<!--.*?-->//g;
     $$string =~ s/&nbsp;/ /g;
     $$string =~ s/&#8217;/'/g;
     $$string =~ s/&#339;/œ/g;
     $$string =~ s/&#8230;/.../g;
-    $$string =~ s/&#8211;/-/g;
+    $$string =~ s/&#8211;/–/g;
 }
 
 sub print_body {
