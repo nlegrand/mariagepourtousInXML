@@ -1,6 +1,6 @@
 #!/bin/sh
 
-function print_csv () {
+print_csv () {
     echo \"id\",\"titre\"
     for filename in 2013*.txt
     do
