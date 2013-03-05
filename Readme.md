@@ -22,7 +22,9 @@ dans une archive .zip :
 
 - les fichiers [XML
   TEI](http://perso.obspm.fr/nicolas.legrand/MPT-TEI.zip) (importable
-  en l'état dans [Philologic](https://sites.google.com/site/philologic3/)) ;
+  en l'état dans
+  [Philologic](https://sites.google.com/site/philologic3/) ou dans TXM
+  via le module XML-TEI-BFM) ;
 
 - les fichiers
   [TXT](http://perso.obspm.fr/nicolas.legrand/MPT-TXM-TXT-CSV.zip)
