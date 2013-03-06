@@ -46,13 +46,13 @@ $(TXTDIR)%.txt: $(XMLDIR)%.xml
 all: $(CRANMPT:%=$(XMLDIR)%.xml) $(TXTDIR)tout.txt
 
 $(TXTDIR)tout.txt: $(CRANMPT:%=$(TXTDIR)%.txt)
-	cat $$(ls 2013*.txt |sort) >$(TXTDIR)tout.txt
+	cat $$(ls $(TXTDIR)2013*.txt |sort) >$(TXTDIR)tout.txt
 
 clean:
-	rm -rf *.xml *.txt $(TXMDIR)* $(TEIDIR)* metadata.csv
+	rm -rf $(XMLDIR)*.xml $(TXTDIR)*.txt $(TXMDIR)* $(TEIDIR)* metadata.csv
 
 cleanasp:
-	rm -f *.asp
+	rm -f $(HTMLDIR)*.asp
 
 $(TXMDIR):
 	mkdir $(TXMDIR)
