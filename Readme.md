@@ -23,8 +23,8 @@ dans une archive .zip :
 - les fichiers [XML
   TEI](http://perso.obspm.fr/nicolas.legrand/MPT-TEI.zip) (importable
   en l'état dans
-  [Philologic](https://sites.google.com/site/philologic3/) ou dans TXM
-  via le module XML-TEI-BFM) ;
+  [Philologic](https://sites.google.com/site/philologic3/) ou dans
+  [TXM](http://textometrie.ens-lyon.fr/)) via le module XML-TEI-BFM) ;
 
 - les fichiers
   [TXT](http://perso.obspm.fr/nicolas.legrand/MPT-TXM-TXT-CSV.zip)
@@ -91,8 +91,26 @@ Pour mettre à jour avec les dernières modifications :
 Todo
 ====
 
-Tester automatiquement la validité du XML.
+Tester automatiquement la validité du XML (fait grossièrement par
+`xsltproc(1)`).
 
-Enrichir le XML pour faire des recherches par orateur dans philologic.
+Mettre les XLM et les ASP dans des dossiers à part que l'on s'y
+retrouve dans l'arbre.
 
-Créer des fichiers XML importables dans TXM.
+Erreur ?
+========
+
+regardscitoyen fait déjà des extractions de cette base et met des
+[dumps SQL à
+disposition](http://www.regardscitoyens.org/telechargement/donnees/). L'utilisation
+de ce dump aurait sans doute été plus propre. Cependant comme j'ai
+commencé avec ma méthode avec laquelle je suis familiarisé, je
+rechigne à comprendre le dump SQL pour l'exploiter. J'aurais
+clairement préféré un fichier XML comme donnée textuelle.
+
+En revanche un nouveau travail qui consisterait à charger d'autres
+débats, voir l'ensemble des débats depuis 2007 gagnerait à utiliser le
+travail de regardscitoyens.
+
+Et non, je n'ai pas honte de réinventer la roue :), parce que je
+m'amuse beaucoup et que de toutes façons, je fais ça pour le fun.
