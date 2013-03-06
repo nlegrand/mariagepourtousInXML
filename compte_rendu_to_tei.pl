@@ -25,7 +25,7 @@ use Encode;
 
 sub clean_entities {
     my $string = shift @_ ;
-    $$string =~ s/<(:?a|b|i|font).*?>//g
+    $$string =~ s/<(:?a|b|i|font).*?>//g;
     $$string =~ s!</(:?a|b|i|font)>!!g;
     $$string =~ s/<!--.*?-->//g;
     $$string =~ s/&nbsp;/ /g;
