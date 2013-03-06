@@ -22,6 +22,7 @@
 use strict ;
 use warnings ;
 use Encode;
+use JSON;
 
 sub clean_entities {
     my $string = shift @_ ;
@@ -37,21 +38,50 @@ sub clean_entities {
 
 sub print_body {
     my $aspfilename = shift @_;
-    my $div_state = "main"; #main, subpart, subsubpart
-    my $sp_state = "closed"; #closed open
+    my $deputes_id = shift @_;
+
+    my $div_state = "main";	#main, subpart, subsubpart
+    my $sp_state = "closed";	#closed open
+    my $last_intervenant = "";
     print "<text>\n";
     print "<body>\n";
     open my $aspfh, "<", $aspfilename
-	or die "can't open $aspfilename : $!" ;
+      or die "can't open $aspfilename : $!" ;
     while (<$aspfh>) {
-	if (m!^<p>.*?<b>(.*?)(?:,){0,1}</b>(?:<i>(.*?)</i>.){0,1}(.*)</p>!) {
-	    my $intervenant = encode("utf8", $1) ;
+
+	if (m!<p class="sstitreinfo"><b><i>(Suite de la discussion d&#8217;un projet de loi)</i></b></p>!) {
+	    my $sstitre = $1;
+	    clean_entities(\$sstitre);
+	    print "<p>$sstitre</p>\n";
+	} elsif (m!^<p>.*?<b>(.*?)</b>(?:<i>(.*?)</i>.){0,1}(.*)</p>!) {
+	    my $intervenant = encode("utf8", $1);
 	    my $titre = encode("utf8", $2) || "";
 	    if ($titre) {
 		clean_entities(\$titre);
 		$titre = "," . $titre ;
 	    }
 	    my $intervention = encode("utf8", $3) ;
+	    my $intervenant_id = "";
+	    if (m!<a href="http://www.assemblee-nationale.fr/14/tribun/fiches_id/([0-9]+).asp" target="_top">!) {
+		$intervenant_id = $1;
+
+		if ($deputes_id->{$intervenant_id}) {
+		    $intervenant = encode("utf8", $deputes_id->{$intervenant_id});
+		}
+	    }
+	    my $intervention_type = "";
+	    my $intervention_id = "";
+	    if ($intervenant =~ /président/) {
+		$intervention_type = "régulation";
+	    } elsif (m!<a name="(INTER_[0-9]+)"></a>!) {
+		$intervention_id = "corresp=\"http://www.assemblee-nationale.fr/14/cri/2012-2013/$aspfilename#$1\"";
+		$intervention_type = "intervention";
+		$last_intervenant = $intervenant;
+	    } elsif ($last_intervenant eq $intervenant) {
+		$intervention_type = "intervention";
+	    } else {
+		$intervention_type = "interruption";
+	    }
 	    clean_entities(\$intervenant);
 	    clean_entities(\$intervention);
 	    if ($sp_state eq "open") {
@@ -59,10 +89,10 @@ sub print_body {
 	    } else {
 		$sp_state = "open";
 	    }
-	    print "\n<sp>\n";
+	    print "\n<sp who=\"$intervenant\" n=\"$intervention_type\" $intervention_id>\n";
 	    print "  <speaker>$intervenant$titre</speaker>\n";
 	    print "  <p>$intervention</p>\n";
-	}   elsif (m!^<p>(.*?)</p>!) {
+	} elsif (m!^<p>(.*?)</p>!) {
 	    my $para = encode("utf-8", $1) ;
 	    clean_entities(\$para);
 	    print "<p>$para</p>\n";
@@ -106,28 +136,28 @@ sub print_body {
     print "</text>\n";
 }
 
-sub print_xml {
-    my ($aspfilename, $title, $editiondate, $date, $director) = @_;
+  sub print_xml {
+      my ($aspfilename, $title, $editiondate, $date, $director) = @_;
 
-    open my $aspfh, "<", $aspfilename
+      open my $aspfh, "<", $aspfilename
 	or die "can't open $aspfilename : $!" ;
 
-    while(<$aspfh>) {
-	$_ = encode("utf8", $_);
-	clean_entities(\$_);
-	if(m!<h1 class="seance">(.*2013)</h1>!) {
-	    $title = "Mariage pour tous - " . $1 ;
-	    $title =~ /séance du (.*2013)/;
-	    $date = $1;
-	}
-	if(m!<div id="signature"><p align="center">(.*?)</p>!) {
-	    $director = $1;
-	    }
-    }
+      while (<$aspfh>) {
+	  $_ = encode("utf8", $_);
+	  clean_entities(\$_);
+	  if (m!<h1 class="seance">(.*2013)</h1>!) {
+	      $title = "Mariage pour tous - " . $1 ;
+	      $title =~ /séance du (.*2013)/;
+	      $date = $1;
+	  }
+	  if (m!<div id="signature"><p align="center">(.*?)</p>!) {
+	      $director = $1;
+	  }
+      }
 
-    close $aspfh ;
+      close $aspfh ;
 
-    print <<"TEIHEADER";
+      print <<"TEIHEADER";
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
    <teiHeader>
@@ -169,11 +199,19 @@ sub print_xml {
     </teiHeader>
 TEIHEADER
 
-    print_body($aspfilename);
+      print_body($aspfilename);
 
-    print "</TEI>\n";
-}
+      print "</TEI>\n";
+  }
 
 my $aspfilename =  $ARGV[0];
 
-print_xml($aspfilename, "mariage pour tous","Aujourd'hui","Maintenant","un mec");
+open my $fh, "<", "deputes_id.json";
+my $deputes_id;
+  {
+      local $/;
+       $deputes_id =  decode_json <$fh> ;
+  }
+close $fh;
+
+print_xml($aspfilename, $deputes_id, "mariage pour tous","Aujourd'hui","Maintenant","un mec");
