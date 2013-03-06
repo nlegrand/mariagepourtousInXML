@@ -37,9 +37,7 @@ sub clean_entities {
 }
 
 sub print_body {
-    my $aspfilename = shift @_;
-    my $deputes_id = shift @_;
-
+    my ($aspfilename, $deputes_id, $official_id) = @_;
     my $div_state = "main";	#main, subpart, subsubpart
     my $sp_state = "closed";	#closed open
     my $last_intervenant = "";
@@ -74,7 +72,7 @@ sub print_body {
 	    if ($intervenant =~ /président/) {
 		$intervention_type = "régulation";
 	    } elsif (m!<a name="(INTER_[0-9]+)"></a>!) {
-		$intervention_id = "corresp=\"http://www.assemblee-nationale.fr/14/cri/2012-2013/$aspfilename#$1\"";
+		$intervention_id = "corresp=\"http://www.assemblee-nationale.fr/14/cri/2012-2013/$official_id#$1\"";
 		$intervention_type = "intervention";
 		$last_intervenant = $intervenant;
 	    } elsif ($last_intervenant eq $intervenant) {
@@ -137,8 +135,11 @@ sub print_body {
 }
 
   sub print_xml {
-      my ($aspfilename, $title, $editiondate, $date, $director) = @_;
+      my ($aspfilename, $deputes_id , $official_id) = @_;
 
+      my $title = $official_id;
+      my $date = "";
+      my $director = "";
       open my $aspfh, "<", $aspfilename
 	or die "can't open $aspfilename : $!" ;
 
@@ -199,12 +200,14 @@ sub print_body {
     </teiHeader>
 TEIHEADER
 
-      print_body($aspfilename);
+      print_body($aspfilename, $deputes_id, $official_id);
 
       print "</TEI>\n";
   }
 
 my $aspfilename =  $ARGV[0];
+my $official_id = $aspfilename;
+$official_id =~ s!files/html/!!;
 
 open my $fh, "<", "deputes_id.json";
 my $deputes_id;
@@ -214,4 +217,5 @@ my $deputes_id;
   }
 close $fh;
 
-print_xml($aspfilename, $deputes_id, "mariage pour tous","Aujourd'hui","Maintenant","un mec");
+&print_xml($aspfilename , $deputes_id , $official_id);
+
