@@ -60,7 +60,7 @@ $(TXMDIR):
 $(TEIDIR):
 	mkdir $(TEIDIR)
 
-txm: metadata.csv $(TXMDIR) $(CRANMPT:%=%.txt)
+txm: metadata.csv $(TXMDIR) $(CRANMPT:%=$(TXTDIR)%.txt)
 	cp $(TXTDIR)2013*.txt $(TXMDIR)
 	cp metadata.csv $(TXMDIR)
 	zip $(TXMDIR).zip $(TXMDIR)/*
@@ -68,7 +68,7 @@ txm: metadata.csv $(TXMDIR) $(CRANMPT:%=%.txt)
 metadata.csv:
 	./gen_txm_metadata.sh
 
-tei: $(TEIDIR) $(CRANMPT:%=%.xml)
+tei: $(TEIDIR) $(CRANMPT:%=$(XMLDIR)%.xml)
 	cp $(XMLDIR)*.xml $(TEIDIR)
 	zip $(TEIDIR).zip $(TEIDIR)/*
 

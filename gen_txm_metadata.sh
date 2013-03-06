@@ -2,7 +2,7 @@
 
 print_csv () {
     echo \"id\",\"titre\"
-    for filename in 2013*.txt
+    for filename in files/txt/2013*.txt
     do
 	echo -n \"$filename\",\"
 	sed -e 's/$/"/' -n -e 1p $filename 
