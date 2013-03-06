@@ -63,8 +63,8 @@ sub print_body {
 	    if (m!<a href="http://www.assemblee-nationale.fr/14/tribun/fiches_id/([0-9]+).asp" target="_top">!) {
 		$intervenant_id = $1;
 
-		if ($deputes_id->{$intervenant_id}) {
-		    $intervenant = encode("utf8", $deputes_id->{$intervenant_id});
+		if ($deputes_id->{$intervenant_id}{'nom'}) {
+		    $intervenant = encode("utf8", $deputes_id->{$intervenant_id}{'nom'});
 		}
 	    }
 	    my $intervention_type = "";
@@ -79,6 +79,13 @@ sub print_body {
 		$intervention_type = "intervention";
 	    } else {
 		$intervention_type = "interruption";
+	    }
+	    if ($intervention_type && $intervention_id) {
+		if ($deputes_id->{$intervenant_id}{'groupe'}) {
+		    $intervention_type =
+			encode("utf8", $deputes_id->{$intervenant_id}{'groupe'})
+			. " " . $intervention_type ;
+		}
 	    }
 	    clean_entities(\$intervenant);
 	    clean_entities(\$intervention);

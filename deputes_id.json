@@ -1,575 +1,2294 @@
 {
-    "1001": "Marc-Philippe Daubresse", 
-    "1012": "Charles de La Verpilli\u00e8re", 
-    "1020": "Bernard Debr\u00e9", 
-    "1029": "Bernard Deflesselles", 
-    "1031": "Lucien Degauchy", 
-    "1032": "Pascal Deguilhem", 
-    "1116": "Michel Destot", 
-    "1124": "Patrick Devedjian", 
-    "1141": "Marc Dolez", 
-    "1152": "Dominique Dord", 
-    "1155": "Ren\u00e9 Dosi\u00e8re", 
-    "1182": "Jean-Pierre Dufau", 
-    "1193": "William Dumas", 
-    "1198": "Laurence Dumont", 
-    "1199": "Jean-Louis Dumont", 
-    "1206": "Nicolas Dupont-Aignan", 
-    "1208": "Jean-Paul Dupr\u00e9", 
-    "1214": "Yves Durand", 
-    "1226": "Philippe Duron", 
-    "1243": "Christian Eckert", 
-    "1252": "Henri Emmanuelli", 
-    "1263": "Christian Estrosi", 
-    "1310": "Fran\u00e7ois Fillon", 
-    "1353": "Michel Fran\u00e7aix", 
-    "1362": "Christian Franqueville", 
-    "1364": "Jacqueline Fraysse", 
-    "1373": "\u00c9douard Fritch", 
-    "1379": "Yves Fromion", 
-    "1401": "Yann Galut", 
-    "1445": "Herv\u00e9 Gaymard", 
-    "1459": "Bernard G\u00e9rard", 
-    "1466": "Alain Gest", 
-    "1477": "Georges Ginesta", 
-    "1483": "Jean-Pierre Giran", 
-    "1496": "Jean Glavany", 
-    "1498": "Claude Goasguen", 
-    "1521": "Philippe Goujon", 
-    "1567": "J\u00e9r\u00f4me Guedj", 
-    "1574": "Jean-Claude Guibal", 
-    "1579": "\u00c9lisabeth Guigou", 
-    "1585": "Jean-Jacques Guillet", 
-    "1592": "David Habib", 
-    "1630": "Michel Herbillon", 
-    "1661": "Philippe Houillon", 
-    "1689": "Fran\u00e7oise Imbert", 
-    "1695": "Christian Jacob", 
-    "1699": "Denis Jacquat", 
-    "1710": "Serge Janquin", 
-    "1748": "Armand Jung", 
-    "1761": "Christian Kert", 
-    "1770": "Jacques Kossowski", 
-    "1778": "Patrick Labaune", 
-    "1789": "Conchita Lacuey", 
-    "1790": "Marc Laffineur", 
-    "1809": "J\u00e9r\u00f4me Lambert", 
-    "1838": "Jean Lassalle", 
-    "1844": "Jean Launay", 
-    "1857": "Thierry Lazaro", 
-    "1866": "Gilbert Le Bris", 
-    "1871": "Jean-Yves Le D\u00e9aut", 
-    "1874": "Marc Le Fur", 
-    "1880": "Jean-Marie Le Guen", 
-    "1886": "Bruno Le Roux", 
-    "1911": "Michel Lefait", 
-    "1931": "Pierre Lellouche", 
-    "1936": "Patrick Lemasle", 
-    "1946": "Jean Leonetti", 
-    "1954": "Pierre Lequiller", 
-    "1960": "Maurice Leroy", 
-    "1963": "Michel Lesage", 
-    "1977": "Michel Liebgott", 
-    "1979": "Martine Ligni\u00e8res-Cassou", 
-    "1991": "Fran\u00e7ois Loncle", 
-    "2011": "Lionnel Luca", 
-    "2045": "No\u00ebl Mam\u00e8re", 
-    "2051": "Thierry Mandon", 
-    "2073": "Thierry Mariani", 
-    "2075": "Alfred Marie-Jeanne", 
-    "2083": "Herv\u00e9 Mariton", 
-    "2084": "Alain Marleix", 
-    "2086": "Franck Marlin", 
-    "2089": "Alain Marsaud", 
-    "2098": "Philippe Armand Martin", 
-    "2099": "Patrice Martin-Lalande", 
-    "2124": "Jean-Claude Mathis", 
-    "216574": "Francis Hillmeyer", 
-    "2191": "Jean-Claude Mignon", 
-    "2229": "Pierre Morange", 
-    "2236": "Herv\u00e9 Morin", 
-    "223837": "Bernard Brochand", 
-    "2250": "Alain Moyne-Bressand", 
-    "2257": "Jacques Myard", 
-    "2265": "Philippe Nauche", 
-    "2277": "Yves Nicolin", 
-    "2295": "Patrick Ollier", 
-    "230": "Bernard Accoyer", 
-    "230329": "Jean-Fran\u00e7ois Lamour", 
-    "2317": "Michel Pajon", 
-    "2338": "Christian Paul", 
-    "2343": "Germinal Peiro", 
-    "2345": "Jacques P\u00e9lissard", 
-    "2365": "Jean-Claude Perez", 
-    "2374": "Genevi\u00e8ve Gaillard", 
-    "2377": "Bernard Perrut", 
-    "243": "Yves Albarello", 
-    "2430": "Philippe Plisson", 
-    "2492": "Didier Quentin", 
-    "2503": "Dominique Raimbourg", 
-    "2529": "Jean-Luc Reitzer", 
-    "2549": "Marie-Line Reynaud", 
-    "259": "Nicole Ameline", 
-    "2597": "Fran\u00e7ois Rochebloine", 
-    "2600": "Alain Rodet", 
-    "2603": "Marcel Rogemont", 
-    "2611": "Bernard Roman", 
-    "2631": "Ren\u00e9 Rouquet", 
-    "2664": "Paul Salen", 
-    "2667": "Rudy Salles", 
-    "266774": "Laurent Furst", 
-    "266776": "Fr\u00e9d\u00e9ric Reiss", 
-    "266788": "Pierre Morel-A-L'Huissier", 
-    "266797": "Philippe Gosselin", 
-    "266863": "Jean-Pierre Fougerat", 
-    "267013": "Michel Sordi", 
-    "267042": "Yannick Favennec", 
-    "267057": "C\u00e9leste Lett", 
-    "267075": "\u00c9tienne Blanc", 
-    "267080": "Xavier Bertrand", 
-    "267091": "Fr\u00e9d\u00e9rique Massat", 
-    "267148": "Franck Gilard", 
-    "267151": "Jean-Pierre Gorges", 
-    "267165": "Luc Chatel", 
-    "267178": "Nicolas Dhuicq", 
-    "267188": "Martine Carrillon-Couvreur", 
-    "267200": "S\u00e9bastien Huyghe", 
-    "267204": "Jean-Marie Sermier", 
-    "267227": "Arlette Grosskost", 
-    "267233": "Christophe Bouillon", 
-    "267241": "St\u00e9phane Demilly", 
-    "267246": "Michel Heinrich", 
-    "267260": "B\u00e9reng\u00e8re Poletti", 
-    "267266": "Yves Censi", 
-    "267278": "Philippe Martin", 
-    "267285": "Laurent Wauquiez", 
-    "267289": "Jean-Pierre Door", 
-    "267306": "Andr\u00e9 Chassaigne", 
-    "267317": "Dominique Le M\u00e8ner", 
-    "267327": "Damien Meslot", 
-    "267330": "Michel Zumkeller", 
-    "267336": "Jo\u00ebl Giraud", 
-    "267355": "Antoine Herth", 
-    "267358": "Jean-Louis Christ", 
-    "267378": "Genevi\u00e8ve Levy", 
-    "267407": "Paul Giacobbi", 
-    "267429": "Dino Cinieri", 
-    "267433": "Gilles Bourdouleix", 
-    "267450": "R\u00e9mi Delatte", 
-    "267457": "\u00c9lie Aboud", 
-    "267459": "Claude Greff", 
-    "267469": "Michel Piron", 
-    "267479": "Kl\u00e9ber Mesquida", 
-    "267492": "Jean-Jacques Candelier", 
-    "267499": "Christophe Guilloteau", 
-    "2675": "Andr\u00e9 Santini", 
-    "267506": "Philippe Vitel", 
-    "267512": "Alain Marc", 
-    "267527": "Martial Saddier", 
-    "267532": "Marc Francina", 
-    "267534": "Luce Pane", 
-    "267551": "Jacques Lamblin", 
-    "267556": "Alain Marty", 
-    "267576": "Marcel Bonnot", 
-    "267585": "Francis Vercamer", 
-    "267591": "Georges Fenech", 
-    "267598": "Josette Pons", 
-    "267605": "Val\u00e9rie Pecresse", 
-    "267623": "Carlos Da Silva", 
-    "267628": "Nathalie Kosciusko-Morizet", 
-    "267673": "Philippe Folliot", 
-    "267680": "Charles-Ange Ginesy", 
-    "267689": "Camille de Rocca Serra", 
-    "267695": "Patricia Adam", 
-    "267706": "Nathalie App\u00e9r\u00e9", 
-    "267728": "Christophe Priou", 
-    "267735": "Claude de Ganay", 
-    "267743": "\u00c9douard Courtial", 
-    "267762": "Jean-Pierre Decool", 
-    "267765": "Fran\u00e7ois-Xavier Villain", 
-    "267775": "Philippe Cochet", 
-    "267785": "Guillaume Larriv\u00e9", 
-    "267794": "Mich\u00e8le Tabarot", 
-    "267797": "Catherine Vautrin", 
-    "267801": "Yves J\u00e9go", 
-    "267813": "Guy Geoffroy", 
-    "267822": "Jacques Alain B\u00e9nisti", 
-    "267835": "Jean-Yves Le Bouillonnec", 
-    "267886": "Axel Poniatowski", 
-    "267895": "J\u00e9r\u00f4me Chartier", 
-    "267918": "Th\u00e9r\u00e8se Guilbert", 
-    "267923": "Guy Delcourt", 
-    "267954": "Dani\u00e8le Hoffman-Rispal", 
-    "267965": "Annick Lepetit", 
-    "268019": "Jean-Christophe Lagarde", 
-    "268039": "\u00c9ric Jalton", 
-    "268042": "Gabrielle Louis-Carabin", 
-    "268051": "Serge Grouard", 
-    "2685": "Odile Saugues", 
-    "2690": "Fran\u00e7ois Sauvadet", 
-    "2693": "Gilbert Sauvan", 
-    "2700": "Fran\u00e7ois Scellier", 
-    "2707": "Andr\u00e9 Schneider", 
-    "271": "Sylvie Andrieux", 
-    "2713": "Roger-G\u00e9rard Schwartzenberg", 
-    "2775": "Alain Suguenot", 
-    "2792": "Jean-Charles Taugourdeau", 
-    "2796": "Guy Teissier", 
-    "2799": "Pascal Terrasse", 
-    "2800": "G\u00e9rard Terrier", 
-    "2801": "Michel Terrot", 
-    "2815": "Dominique Tian", 
-    "2828": "Alain Tourret", 
-    "2859": "Daniel Vaillant", 
-    "2876": "Fran\u00e7ois Vannson", 
-    "2883": "Michel Vauzelle", 
-    "2895": "Michel Vergnier", 
-    "2907": "Jean-S\u00e9bastien Vialatte", 
-    "2936": "Michel Voisin", 
-    "295": "Fran\u00e7ois Asensi", 
-    "2952": "Jean-Luc Warsmann", 
-    "2960": "\u00c9ric Woerth", 
-    "2971": "Marie-Jo Zimmermann", 
-    "304016": "Sandrine Hurel", 
-    "309643": "V\u00e9ronique Besse", 
-    "314": "Olivier Audibert Troin", 
-    "330008": "Xavier Breton", 
-    "330118": "Guy Chambefort", 
-    "330130": "Bernard Lesterlin", 
-    "330240": "\u00c9ric Ciotti", 
-    "330357": "Olivier Dussopt", 
-    "330546": "Marie-Lou Marcel", 
-    "330613": "Henri Jibrayel", 
-    "330684": "Val\u00e9rie Boyer", 
-    "330788": "Bernard Reyn\u00e8s", 
-    "330981": "Martine Pinville", 
-    "331014": "Catherine Qu\u00e9r\u00e9", 
-    "331146": "Sauveur Gandolfi-Scheit", 
-    "331282": "Corinne Erhel", 
-    "331442": "Franck Reynier", 
-    "331481": "Bruno Le Maire", 
-    "331567": "Laure de La Raudi\u00e8re", 
-    "331582": "Philippe Vigier", 
-    "331594": "Jean-Jacques Urvoas", 
-    "331658": "Annick Le Loch", 
-    "331753": "Catherine Lemorton", 
-    "331807": "Martine Martinel", 
-    "331835": "Monique Iborra", 
-    "331973": "Pascale Got", 
-    "331990": "Alain Rousset", 
-    "332015": "Martine Faure", 
-    "332206": "Jean-Ren\u00e9 Marsac", 
-    "332228": "Thierry Benoit", 
-    "332305": "Jean-Patrick Gille", 
-    "332384": "Michel Issindou", 
-    "332523": "Marie-Christine Dalloz", 
-    "332614": "R\u00e9gis Juanico", 
-    "332636": "Jean-Louis Gagnaire", 
-    "332747": "Fran\u00e7ois de Rugy", 
-    "332796": "Michel M\u00e9nard", 
-    "332843": "Marie-Odile Bouill\u00e9", 
-    "332886": "Olivier Carr\u00e9", 
-    "332950": "Dominique Orliac", 
-    "333043": "Marc Goua", 
-    "333134": "Gu\u00e9nha\u00ebl Huet", 
-    "333224": "Benoist Apparu", 
-    "333335": "Herv\u00e9 F\u00e9ron", 
-    "333421": "Bertrand Pancher", 
-    "333818": "Christian Hutin", 
-    "334": "Jean-Paul Bacquet", 
-    "334116": "Jacqueline Maquet", 
-    "334149": "Daniel Fasquelle", 
-    "334654": "\u00c9ric Straumann", 
-    "334755": "Pierre-Alain Muet", 
-    "334768": "Jean-Louis Touraine", 
-    "334811": "Pascale Crozon", 
-    "334843": "Patrice Verch\u00e8re", 
-    "334906": "Philippe Meunier", 
-    "334951": "Jean-Michel Villaum\u00e9", 
-    "335017": "Christophe Sirugue", 
-    "335054": "Marietta Karamanli", 
-    "335159": "Lionel Tardy", 
-    "335319": "Sandrine Mazetier", 
-    "335567": "Fran\u00e7oise Gu\u00e9got", 
-    "335758": "Franck Riester", 
-    "336015": "Jean Grellier", 
-    "336112": "Jacques Valax", 
-    "336316": "Jean-Claude Bouchet", 
-    "336421": "Catherine Coutelle", 
-    "336439": "Jean-Michel Cl\u00e9ment", 
-    "336576": "Marie-Louise Fort", 
-    "336971": "Daniel Goldberg", 
-    "337483": "Serge Letchimy", 
-    "337504": "Chantal Berthelot", 
-    "337550": "Patrick Lebreton", 
-    "337568": "Jean-Claude Fruteau", 
-    "337633": "Annick Girardin", 
-    "339": "Dominique Baert", 
-    "340432": "Alain Faur\u00e9", 
-    "340755": "Gaby Charroux", 
-    "341246": "Viviane Le Dissez", 
-    "341339": "Colette Langlade", 
-    "341981": "Marie R\u00e9calde", 
-    "342332": "Jean-Marie Beffara", 
-    "342415": "Marie-No\u00eblle Battistel", 
-    "342539": "Florence Delaunay", 
-    "342935": "Marianne Dubois", 
-    "342997": "Jean-Claude Gouget", 
-    "343493": "Gwendal Rouillard", 
-    "343623": "Anne Grommerch", 
-    "344114": "Jean-Jacques Cottel", 
-    "344242": "Philippe Kemel", 
-    "344492": "Fernand Sir\u00e9", 
-    "344776": "Dominique Nachury", 
-    "345619": "Edouard Philippe", 
-    "345897": "Arnaud Richard", 
-    "345937": "Jean-Fr\u00e9d\u00e9ric Poisson", 
-    "345994": "Jean-Luc Drapeau", 
-    "346": "Patrick Balkany", 
-    "346170": "Jacques Moignard", 
-    "346876": "Thierry Sol\u00e8re", 
-    "356": "G\u00e9rard Bapt", 
-    "369": "Fran\u00e7ois Baroin", 
-    "381": "Claude Bartolone", 
-    "394": "Christian Bataille", 
-    "405480": "Fran\u00e7ois Pupponi", 
-    "417099": "Arnaud Robinet", 
-    "422119": "David Douillet", 
-    "441": "Huguette Bello", 
-    "508": "Gis\u00e8le Bi\u00e9mouret", 
-    "536": "Jean-Pierre Blazy", 
-    "543": "Patrick Bloche", 
-    "551": "Alain Bocquet", 
-    "560": "Daniel Boisserie", 
-    "563": "Jacques Bompard", 
-    "588": "Jean-Louis Borloo", 
-    "605036": "Damien Abad", 
-    "605069": "Jean-Louis Bricout", 
-    "605076": "Marie-Fran\u00e7oise Bechtel", 
-    "605084": "Jacques Krabal", 
-    "605131": "Christophe Castaner", 
-    "605143": "Karine Berger", 
-    "605261": "Sabine Buis", 
-    "605278": "Christophe L\u00e9onard", 
-    "605349": "Marie-H\u00e9l\u00e8ne Fabre", 
-    "605426": "Patrick Mennucci", 
-    "605518": "Fran\u00e7ois-Michel Lambert", 
-    "605557": "Jean-David Ciot", 
-    "605606": "Clotilde Valter", 
-    "605625": "Isabelle Attard", 
-    "605643": "Alain Calmette", 
-    "605694": "Olivier Falorni", 
-    "605703": "Suzanne Tallard", 
-    "605745": "Nicolas Sansu", 
-    "605758": "Sophie Dessus", 
-    "605782": "Laurent Marcangeli", 
-    "605804": "Laurent Grandguillaume", 
-    "605830": "Kheira Bouziane", 
-    "605888": "Annie Le Houerou", 
-    "605922": "Brigitte Allain", 
-    "605952": "Barbara Romagnan", 
-    "605963": "\u00c9ric Alauzet", 
-    "605991": "Annie Genevard", 
-    "606030": "Nathalie Nieson", 
-    "606040": "Jean-Louis Destans", 
-    "606098": "Olivier Marleix", 
-    "606149": "Jean-Luc Bleunven", 
-    "606161": "Chantal Guittet", 
-    "606171": "Richard Ferrand", 
-    "606202": "Fran\u00e7oise Dumas", 
-    "606212": "Gilbert Collard", 
-    "606225": "Patrice Prat", 
-    "606230": "Fabrice Verdier", 
-    "606258": "Christophe Cavard", 
-    "606299": "Jean-Luc Moudenc", 
-    "606351": "Carole Delga", 
-    "606363": "Christophe Borgel", 
-    "606375": "\u00c9milienne Poumirol", 
-    "606412": "Sandrine Doucet", 
-    "606478": "Yves Foulon", 
-    "606495": "Gilles Savary", 
-    "606507": "Florent Boudi\u00e9", 
-    "606545": "Jean-Louis Roumegas", 
-    "606555": "Anne-Yvonne Le Dain", 
-    "606573": "Fanny Dombre Coste", 
-    "606586": "Fr\u00e9d\u00e9ric Roig", 
-    "606623": "S\u00e9bastien Denaja", 
-    "606631": "Christian Assaf", 
-    "606639": "Patrick Vignal", 
-    "606665": "Marie-Anne Chapdelaine", 
-    "606675": "Fran\u00e7ois Andr\u00e9", 
-    "606693": "Isabelle Le Callennec", 
-    "606712": "Gilles Lurton", 
-    "606745": "Isabelle Bruneau", 
-    "606793": "Laurent Baumel", 
-    "606888": "Jean-Pierre Barbier", 
-    "606899": "Erwann Binet", 
-    "606910": "Mich\u00e8le Bonneton", 
-    "606924": "Jo\u00eblle Huillier", 
-    "606991": "Denys Robiliard", 
-    "607090": "Jean-Pierre Vigier", 
-    "607155": "Yves Daniel", 
-    "607187": "Monique Rabin", 
-    "607193": "Sophie Errante", 
-    "607256": "Val\u00e9rie Corre", 
-    "607283": "Lucette Lousteau", 
-    "607287": "Matthias Fekl", 
-    "607310": "Luc Belot", 
-    "607369": "Serge Bardy", 
-    "607395": "St\u00e9phane Travert", 
-    "607489": "Guillaume Chevrollier", 
-    "607509": "Chaynesse Khirouni", 
-    "607553": "Dominique Potier", 
-    "607595": "Herv\u00e9 Pellois", 
-    "607603": "Philippe Le Ray", 
-    "607606": "Jean-Pierre Le Roch", 
-    "607619": "Paul Molac", 
-    "607632": "Philippe Nogu\u00e8s", 
-    "607691": "Laurent Kalinowski", 
-    "607699": "Paola Zanetti", 
-    "607761": "Audrey Linkenheld", 
-    "607769": "R\u00e9mi Pauvros", 
-    "607846": "G\u00e9rald Darmanin", 
-    "607892": "Jean-Pierre Allossery", 
-    "607919": "Anne-Lise Dufour-Tonini", 
-    "608011": "Joaquim Pueyo", 
-    "608016": "V\u00e9ronique Louwagie", 
-    "608038": "Yves Goasdoue", 
-    "608083": "Brigitte Bourguignon", 
-    "608098": "Yann Capet", 
-    "608120": "St\u00e9phane Saint-Andr\u00e9", 
-    "608158": "Nicolas Bays", 
-    "608172": "Christine Pires Beaune", 
-    "608186": "Danielle Auroi", 
-    "608235": "Nathalie Chabanne", 
-    "608264": "Colette Capdevielle", 
-    "608276": "Sylviane Alaux", 
-    "608292": "Jeanine Dubi\u00e9", 
-    "608310": "Jacques Cresta", 
-    "608328": "S\u00e9gol\u00e8ne Neuville", 
-    "608348": "Pierre Aylagas", 
-    "608363": "Philippe Bies", 
-    "608380": "Sophie Rohfritsch", 
-    "608416": "Patrick Hetzel", 
-    "608434": "Claude Sturni", 
-    "608495": "Thierry Braillard", 
-    "608574": "H\u00e9l\u00e8ne Geoffroy", 
-    "608641": "Yves Blein", 
-    "608662": "Alain Chr\u00e9tien", 
-    "608672": "Thomas Th\u00e9venoud", 
-    "608684": "Edith Gueugneau", 
-    "608686": "Philippe Baumel", 
-    "608695": "C\u00e9cile Untermaier", 
-    "608718": "Fran\u00e7oise Dubois", 
-    "608741": "Sylvie Tolmont", 
-    "608778": "B\u00e9atrice Santais", 
-    "608785": "Bernadette Laclais", 
-    "608826": "Virginie Duby-Muller", 
-    "608851": "Sophie Dion", 
-    "608920": "Seybah Dagoma", 
-    "609016": "Denis Baupin", 
-    "609042": "Pascal Cherki", 
-    "609205": "Catherine Troallic", 
-    "609218": "Estelle Grelier", 
-    "609222": "Dominique Chauvel", 
-    "609245": "Val\u00e9rie Lacroute", 
-    "609292": "Eduardo Rihan Cypel", 
-    "609314": "Emeric Br\u00e9hier", 
-    "609332": "Olivier Faure", 
-    "609345": "Fran\u00e7ois de Mazi\u00e8res", 
-    "609365": "Henri Guaino", 
-    "609435": "Fran\u00e7oise Descamps-Crosnier", 
-    "609442": "Jean-Marie Tetart", 
-    "609465": "Jean-Philippe Mall\u00e9", 
-    "609513": "Pascale Boistard", 
-    "609520": "Barbara Pompili", 
-    "609535": "Jean-Claude Buisine", 
-    "609578": "Linda Gourjade", 
-    "609590": "Val\u00e9rie Rabault", 
-    "609691": "Mich\u00e8le Fournier-Armand", 
-    "609709": "Marion Mar\u00e9chal-Le Pen", 
-    "609726": "Julien Aubert", 
-    "609740": "Alain Leboeuf", 
-    "609743": "Sylviane Bulteau", 
-    "609764": "Yannick Moreau", 
-    "609775": "Hugues Fourage", 
-    "609816": "V\u00e9ronique Massonneau", 
-    "609845": "Catherine Beaubatie", 
-    "609963": "Michel Pouzol", 
-    "609983": "Maud Olivier", 
-    "610002": "Eva Sas", 
-    "610045": "Malek Boutih", 
-    "610066": "Alexis Bachelay", 
-    "610075": "S\u00e9bastien Pietrasanta", 
-    "610125": "Jean-Christophe Fromantin", 
-    "610195": "Julie Sommaruga", 
-    "610203": "Jean-Marc Germain", 
-    "610245": "Mathieu Hanotin", 
-    "610291": "Razzy Hammadi", 
-    "610313": "Elisabeth Pochon", 
-    "610354": "Pascal Popelin", 
-    "610427": "Laurence Abeille", 
-    "610481": "Jean-Luc Laurent", 
-    "610521": "Jean-No\u00ebl Carpentier", 
-    "610529": "G\u00e9rard Sebaoun", 
-    "610539": "Philippe Doucet", 
-    "610594": "Dominique Lefebvre", 
-    "610615": "Ary Chalus", 
-    "610634": "Bruno Nestor Azerot", 
-    "610654": "Jean-Philippe Nilor", 
-    "610667": "Gabriel Serville", 
-    "610681": "Ericka Bareigts", 
-    "610701": "Jean Jacques Vlody", 
-    "610729": "Monique Orph\u00e9", 
-    "610733": "Thierry Robert", 
-    "610752": "Boinali Said", 
-    "610758": "Ibrahim Aboubacar", 
-    "610770": "Sonia Lagarde", 
-    "610775": "Philippe Gomes", 
-    "610804": "Jonas Tahuaitu", 
-    "610820": "Jean-Paul Tuaiva", 
-    "610830": "Daniel Gibbes", 
-    "610860": "Sergio Coronado", 
-    "610873": "Axelle Lemaire", 
-    "610891": "Philip Cordery", 
-    "610905": "Arnaud Leroy", 
-    "610924": "Claudine Schmid", 
-    "610936": "Pierre-Yves Le Borgn'", 
-    "610968": "Pouria Amirshahi", 
-    "642682": "Avi Assouly", 
-    "642684": "Jean-Pierre Maggi", 
-    "642724": "Fr\u00e9d\u00e9ric Barbier", 
-    "642739": "Gwenegan Bui", 
-    "642743": "Vincent Feltesse", 
-    "642788": "Olivier V\u00e9ran", 
-    "642836": "Genevi\u00e8ve Gosselin", 
-    "642844": "Sylvie Pichot", 
-    "642940": "Fan\u00e9lie Carrey-Conte", 
-    "642984": "Pierre L\u00e9autey", 
-    "642987": "Guillaume Bachelay", 
-    "643145": "H\u00e9l\u00e8ne Vainqueur-Christophe", 
-    "667": "Philippe Briand", 
-    "672": "Jean-Jacques Bridey", 
-    "680": "Fran\u00e7ois Brottes", 
-    "687214": "Sylvain Berrios", 
-    "689": "Marie-George Buffet", 
-    "695": "Vincent Burroni", 
-    "696": "Dominique Bussereau", 
-    "719": "Jean-Christophe Cambad\u00e9lis", 
-    "735": "Christophe Caresche", 
-    "746": "Gilles Carrez", 
-    "754": "Patrice Carvalho", 
-    "765": "Laurent Cathala", 
-    "770": "Jean-Yves Caullet", 
-    "810": "Jean-Paul Chanteguet", 
-    "815": "G\u00e9rard Charasse", 
-    "840": "Guy-Michel Chauveau", 
-    "856": "G\u00e9rard Cherpion", 
-    "872": "Alain Claeys", 
-    "877": "Marie-Fran\u00e7oise Clergeau", 
-    "917": "Jean-Fran\u00e7ois Cop\u00e9", 
-    "923": "Fran\u00e7ois Cornut-Gentille", 
-    "942": "Charles de Courson", 
-    "951": "Jean-Michel Couve", 
-    "998": "Olivier Dassault"
+    "1001": {
+        "groupe": "UMP", 
+        "nom": "Marc-Philippe Daubresse"
+    }, 
+    "1012": {
+        "groupe": "UMP", 
+        "nom": "Charles de La Verpilli\u00e8re"
+    }, 
+    "1020": {
+        "groupe": "UMP", 
+        "nom": "Bernard Debr\u00e9"
+    }, 
+    "1029": {
+        "groupe": "UMP", 
+        "nom": "Bernard Deflesselles"
+    }, 
+    "1031": {
+        "groupe": "UMP", 
+        "nom": "Lucien Degauchy"
+    }, 
+    "1032": {
+        "groupe": "SRC", 
+        "nom": "Pascal Deguilhem"
+    }, 
+    "1116": {
+        "groupe": "SRC", 
+        "nom": "Michel Destot"
+    }, 
+    "1124": {
+        "groupe": "UMP", 
+        "nom": "Patrick Devedjian"
+    }, 
+    "1141": {
+        "groupe": "GDR", 
+        "nom": "Marc Dolez"
+    }, 
+    "1152": {
+        "groupe": "UMP", 
+        "nom": "Dominique Dord"
+    }, 
+    "1155": {
+        "groupe": "SRC", 
+        "nom": "Ren\u00e9 Dosi\u00e8re"
+    }, 
+    "1182": {
+        "groupe": "SRC", 
+        "nom": "Jean-Pierre Dufau"
+    }, 
+    "1193": {
+        "groupe": "SRC", 
+        "nom": "William Dumas"
+    }, 
+    "1198": {
+        "groupe": "SRC", 
+        "nom": "Laurence Dumont"
+    }, 
+    "1199": {
+        "groupe": "SRC", 
+        "nom": "Jean-Louis Dumont"
+    }, 
+    "1206": {
+        "groupe": "NI", 
+        "nom": "Nicolas Dupont-Aignan"
+    }, 
+    "1208": {
+        "groupe": "SRC", 
+        "nom": "Jean-Paul Dupr\u00e9"
+    }, 
+    "1214": {
+        "groupe": "SRC", 
+        "nom": "Yves Durand"
+    }, 
+    "1226": {
+        "groupe": "SRC", 
+        "nom": "Philippe Duron"
+    }, 
+    "1243": {
+        "groupe": "SRC", 
+        "nom": "Christian Eckert"
+    }, 
+    "1252": {
+        "groupe": "SRC", 
+        "nom": "Henri Emmanuelli"
+    }, 
+    "1263": {
+        "groupe": "UMP", 
+        "nom": "Christian Estrosi"
+    }, 
+    "1310": {
+        "groupe": "UMP", 
+        "nom": "Fran\u00e7ois Fillon"
+    }, 
+    "1353": {
+        "groupe": "SRC", 
+        "nom": "Michel Fran\u00e7aix"
+    }, 
+    "1362": {
+        "groupe": "SRC", 
+        "nom": "Christian Franqueville"
+    }, 
+    "1364": {
+        "groupe": "GDR", 
+        "nom": "Jacqueline Fraysse"
+    }, 
+    "1373": {
+        "groupe": "UDI", 
+        "nom": "\u00c9douard Fritch"
+    }, 
+    "1379": {
+        "groupe": "UMP", 
+        "nom": "Yves Fromion"
+    }, 
+    "1401": {
+        "groupe": "SRC", 
+        "nom": "Yann Galut"
+    }, 
+    "1445": {
+        "groupe": "UMP", 
+        "nom": "Herv\u00e9 Gaymard"
+    }, 
+    "1459": {
+        "groupe": "UMP", 
+        "nom": "Bernard G\u00e9rard"
+    }, 
+    "1466": {
+        "groupe": "UMP", 
+        "nom": "Alain Gest"
+    }, 
+    "1477": {
+        "groupe": "UMP", 
+        "nom": "Georges Ginesta"
+    }, 
+    "1483": {
+        "groupe": "UMP", 
+        "nom": "Jean-Pierre Giran"
+    }, 
+    "1496": {
+        "groupe": "SRC", 
+        "nom": "Jean Glavany"
+    }, 
+    "1498": {
+        "groupe": "UMP", 
+        "nom": "Claude Goasguen"
+    }, 
+    "1521": {
+        "groupe": "UMP", 
+        "nom": "Philippe Goujon"
+    }, 
+    "1567": {
+        "groupe": "SRC", 
+        "nom": "J\u00e9r\u00f4me Guedj"
+    }, 
+    "1574": {
+        "groupe": "UMP", 
+        "nom": "Jean-Claude Guibal"
+    }, 
+    "1579": {
+        "groupe": "SRC", 
+        "nom": "\u00c9lisabeth Guigou"
+    }, 
+    "1585": {
+        "groupe": "UMP", 
+        "nom": "Jean-Jacques Guillet"
+    }, 
+    "1592": {
+        "groupe": "SRC", 
+        "nom": "David Habib"
+    }, 
+    "1630": {
+        "groupe": "UMP", 
+        "nom": "Michel Herbillon"
+    }, 
+    "1661": {
+        "groupe": "UMP", 
+        "nom": "Philippe Houillon"
+    }, 
+    "1689": {
+        "groupe": "SRC", 
+        "nom": "Fran\u00e7oise Imbert"
+    }, 
+    "1695": {
+        "groupe": "UMP", 
+        "nom": "Christian Jacob"
+    }, 
+    "1699": {
+        "groupe": "UMP", 
+        "nom": "Denis Jacquat"
+    }, 
+    "1710": {
+        "groupe": "SRC", 
+        "nom": "Serge Janquin"
+    }, 
+    "1748": {
+        "groupe": "SRC", 
+        "nom": "Armand Jung"
+    }, 
+    "1761": {
+        "groupe": "UMP", 
+        "nom": "Christian Kert"
+    }, 
+    "1770": {
+        "groupe": "UMP", 
+        "nom": "Jacques Kossowski"
+    }, 
+    "1778": {
+        "groupe": "UMP", 
+        "nom": "Patrick Labaune"
+    }, 
+    "1789": {
+        "groupe": "SRC", 
+        "nom": "Conchita Lacuey"
+    }, 
+    "1790": {
+        "groupe": "UMP", 
+        "nom": "Marc Laffineur"
+    }, 
+    "1809": {
+        "groupe": "SRC", 
+        "nom": "J\u00e9r\u00f4me Lambert"
+    }, 
+    "1838": {
+        "groupe": "NI", 
+        "nom": "Jean Lassalle"
+    }, 
+    "1844": {
+        "groupe": "SRC", 
+        "nom": "Jean Launay"
+    }, 
+    "1857": {
+        "groupe": "UMP", 
+        "nom": "Thierry Lazaro"
+    }, 
+    "1866": {
+        "groupe": "SRC", 
+        "nom": "Gilbert Le Bris"
+    }, 
+    "1871": {
+        "groupe": "SRC", 
+        "nom": "Jean-Yves Le D\u00e9aut"
+    }, 
+    "1874": {
+        "groupe": "UMP", 
+        "nom": "Marc Le Fur"
+    }, 
+    "1880": {
+        "groupe": "SRC", 
+        "nom": "Jean-Marie Le Guen"
+    }, 
+    "1886": {
+        "groupe": "SRC", 
+        "nom": "Bruno Le Roux"
+    }, 
+    "1911": {
+        "groupe": "SRC", 
+        "nom": "Michel Lefait"
+    }, 
+    "1931": {
+        "groupe": "UMP", 
+        "nom": "Pierre Lellouche"
+    }, 
+    "1936": {
+        "groupe": "SRC", 
+        "nom": "Patrick Lemasle"
+    }, 
+    "1946": {
+        "groupe": "UMP", 
+        "nom": "Jean Leonetti"
+    }, 
+    "1954": {
+        "groupe": "UMP", 
+        "nom": "Pierre Lequiller"
+    }, 
+    "1960": {
+        "groupe": "UDI", 
+        "nom": "Maurice Leroy"
+    }, 
+    "1963": {
+        "groupe": "SRC", 
+        "nom": "Michel Lesage"
+    }, 
+    "1977": {
+        "groupe": "SRC", 
+        "nom": "Michel Liebgott"
+    }, 
+    "1979": {
+        "groupe": "SRC", 
+        "nom": "Martine Ligni\u00e8res-Cassou"
+    }, 
+    "1991": {
+        "groupe": "SRC", 
+        "nom": "Fran\u00e7ois Loncle"
+    }, 
+    "2011": {
+        "groupe": "UMP", 
+        "nom": "Lionnel Luca"
+    }, 
+    "2045": {
+        "groupe": "ECOLO", 
+        "nom": "No\u00ebl Mam\u00e8re"
+    }, 
+    "2051": {
+        "groupe": "SRC", 
+        "nom": "Thierry Mandon"
+    }, 
+    "2073": {
+        "groupe": "UMP", 
+        "nom": "Thierry Mariani"
+    }, 
+    "2075": {
+        "groupe": "GDR", 
+        "nom": "Alfred Marie-Jeanne"
+    }, 
+    "2083": {
+        "groupe": "UMP", 
+        "nom": "Herv\u00e9 Mariton"
+    }, 
+    "2084": {
+        "groupe": "UMP", 
+        "nom": "Alain Marleix"
+    }, 
+    "2086": {
+        "groupe": "UMP", 
+        "nom": "Franck Marlin"
+    }, 
+    "2089": {
+        "groupe": "UMP", 
+        "nom": "Alain Marsaud"
+    }, 
+    "2098": {
+        "groupe": "UMP", 
+        "nom": "Philippe Armand Martin"
+    }, 
+    "2099": {
+        "groupe": "UMP", 
+        "nom": "Patrice Martin-Lalande"
+    }, 
+    "2124": {
+        "groupe": "UMP", 
+        "nom": "Jean-Claude Mathis"
+    }, 
+    "216574": {
+        "groupe": "UDI", 
+        "nom": "Francis Hillmeyer"
+    }, 
+    "2191": {
+        "groupe": "UMP", 
+        "nom": "Jean-Claude Mignon"
+    }, 
+    "2229": {
+        "groupe": "UMP", 
+        "nom": "Pierre Morange"
+    }, 
+    "2236": {
+        "groupe": "UDI", 
+        "nom": "Herv\u00e9 Morin"
+    }, 
+    "223837": {
+        "groupe": "UMP", 
+        "nom": "Bernard Brochand"
+    }, 
+    "2250": {
+        "groupe": "UMP", 
+        "nom": "Alain Moyne-Bressand"
+    }, 
+    "2257": {
+        "groupe": "UMP", 
+        "nom": "Jacques Myard"
+    }, 
+    "2265": {
+        "groupe": "SRC", 
+        "nom": "Philippe Nauche"
+    }, 
+    "2277": {
+        "groupe": "UMP", 
+        "nom": "Yves Nicolin"
+    }, 
+    "2295": {
+        "groupe": "UMP", 
+        "nom": "Patrick Ollier"
+    }, 
+    "230": {
+        "groupe": "UMP", 
+        "nom": "Bernard Accoyer"
+    }, 
+    "230329": {
+        "groupe": "UMP", 
+        "nom": "Jean-Fran\u00e7ois Lamour"
+    }, 
+    "2317": {
+        "groupe": "SRC", 
+        "nom": "Michel Pajon"
+    }, 
+    "2338": {
+        "groupe": "SRC", 
+        "nom": "Christian Paul"
+    }, 
+    "2343": {
+        "groupe": "SRC", 
+        "nom": "Germinal Peiro"
+    }, 
+    "2345": {
+        "groupe": "UMP", 
+        "nom": "Jacques P\u00e9lissard"
+    }, 
+    "2365": {
+        "groupe": "SRC", 
+        "nom": "Jean-Claude Perez"
+    }, 
+    "2374": {
+        "groupe": "SRC", 
+        "nom": "Genevi\u00e8ve Gaillard"
+    }, 
+    "2377": {
+        "groupe": "UMP", 
+        "nom": "Bernard Perrut"
+    }, 
+    "243": {
+        "groupe": "UMP", 
+        "nom": "Yves Albarello"
+    }, 
+    "2430": {
+        "groupe": "SRC", 
+        "nom": "Philippe Plisson"
+    }, 
+    "2492": {
+        "groupe": "UMP", 
+        "nom": "Didier Quentin"
+    }, 
+    "2503": {
+        "groupe": "SRC", 
+        "nom": "Dominique Raimbourg"
+    }, 
+    "2529": {
+        "groupe": "UMP", 
+        "nom": "Jean-Luc Reitzer"
+    }, 
+    "2549": {
+        "groupe": "SRC", 
+        "nom": "Marie-Line Reynaud"
+    }, 
+    "259": {
+        "groupe": "UMP", 
+        "nom": "Nicole Ameline"
+    }, 
+    "2597": {
+        "groupe": "UDI", 
+        "nom": "Fran\u00e7ois Rochebloine"
+    }, 
+    "2600": {
+        "groupe": "SRC", 
+        "nom": "Alain Rodet"
+    }, 
+    "2603": {
+        "groupe": "SRC", 
+        "nom": "Marcel Rogemont"
+    }, 
+    "2611": {
+        "groupe": "SRC", 
+        "nom": "Bernard Roman"
+    }, 
+    "2631": {
+        "groupe": "SRC", 
+        "nom": "Ren\u00e9 Rouquet"
+    }, 
+    "2664": {
+        "groupe": "UMP", 
+        "nom": "Paul Salen"
+    }, 
+    "2667": {
+        "groupe": "UDI", 
+        "nom": "Rudy Salles"
+    }, 
+    "266774": {
+        "groupe": "UMP", 
+        "nom": "Laurent Furst"
+    }, 
+    "266776": {
+        "groupe": "UMP", 
+        "nom": "Fr\u00e9d\u00e9ric Reiss"
+    }, 
+    "266788": {
+        "groupe": "UMP", 
+        "nom": "Pierre Morel-A-L'Huissier"
+    }, 
+    "266797": {
+        "groupe": "UMP", 
+        "nom": "Philippe Gosselin"
+    }, 
+    "266863": {
+        "groupe": "SRC", 
+        "nom": "Jean-Pierre Fougerat"
+    }, 
+    "267013": {
+        "groupe": "UMP", 
+        "nom": "Michel Sordi"
+    }, 
+    "267042": {
+        "groupe": "UDI", 
+        "nom": "Yannick Favennec"
+    }, 
+    "267057": {
+        "groupe": "UMP", 
+        "nom": "C\u00e9leste Lett"
+    }, 
+    "267075": {
+        "groupe": "UMP", 
+        "nom": "\u00c9tienne Blanc"
+    }, 
+    "267080": {
+        "groupe": "UMP", 
+        "nom": "Xavier Bertrand"
+    }, 
+    "267091": {
+        "groupe": "SRC", 
+        "nom": "Fr\u00e9d\u00e9rique Massat"
+    }, 
+    "267148": {
+        "groupe": "UMP", 
+        "nom": "Franck Gilard"
+    }, 
+    "267151": {
+        "groupe": "UMP", 
+        "nom": "Jean-Pierre Gorges"
+    }, 
+    "267165": {
+        "groupe": "UMP", 
+        "nom": "Luc Chatel"
+    }, 
+    "267178": {
+        "groupe": "UMP", 
+        "nom": "Nicolas Dhuicq"
+    }, 
+    "267188": {
+        "groupe": "SRC", 
+        "nom": "Martine Carrillon-Couvreur"
+    }, 
+    "267200": {
+        "groupe": "UMP", 
+        "nom": "S\u00e9bastien Huyghe"
+    }, 
+    "267204": {
+        "groupe": "UMP", 
+        "nom": "Jean-Marie Sermier"
+    }, 
+    "267227": {
+        "groupe": "UMP", 
+        "nom": "Arlette Grosskost"
+    }, 
+    "267233": {
+        "groupe": "SRC", 
+        "nom": "Christophe Bouillon"
+    }, 
+    "267241": {
+        "groupe": "UDI", 
+        "nom": "St\u00e9phane Demilly"
+    }, 
+    "267246": {
+        "groupe": "UMP", 
+        "nom": "Michel Heinrich"
+    }, 
+    "267260": {
+        "groupe": "UMP", 
+        "nom": "B\u00e9reng\u00e8re Poletti"
+    }, 
+    "267266": {
+        "groupe": "UMP", 
+        "nom": "Yves Censi"
+    }, 
+    "267278": {
+        "groupe": "SRC", 
+        "nom": "Philippe Martin"
+    }, 
+    "267285": {
+        "groupe": "UMP", 
+        "nom": "Laurent Wauquiez"
+    }, 
+    "267289": {
+        "groupe": "UMP", 
+        "nom": "Jean-Pierre Door"
+    }, 
+    "267306": {
+        "groupe": "GDR", 
+        "nom": "Andr\u00e9 Chassaigne"
+    }, 
+    "267317": {
+        "groupe": "UMP", 
+        "nom": "Dominique Le M\u00e8ner"
+    }, 
+    "267327": {
+        "groupe": "UMP", 
+        "nom": "Damien Meslot"
+    }, 
+    "267330": {
+        "groupe": "UDI", 
+        "nom": "Michel Zumkeller"
+    }, 
+    "267336": {
+        "groupe": "RRDP", 
+        "nom": "Jo\u00ebl Giraud"
+    }, 
+    "267355": {
+        "groupe": "UMP", 
+        "nom": "Antoine Herth"
+    }, 
+    "267358": {
+        "groupe": "UMP", 
+        "nom": "Jean-Louis Christ"
+    }, 
+    "267378": {
+        "groupe": "UMP", 
+        "nom": "Genevi\u00e8ve Levy"
+    }, 
+    "267407": {
+        "groupe": "RRDP", 
+        "nom": "Paul Giacobbi"
+    }, 
+    "267429": {
+        "groupe": "UMP", 
+        "nom": "Dino Cinieri"
+    }, 
+    "267433": {
+        "groupe": "UDI", 
+        "nom": "Gilles Bourdouleix"
+    }, 
+    "267450": {
+        "groupe": "UMP", 
+        "nom": "R\u00e9mi Delatte"
+    }, 
+    "267457": {
+        "groupe": "UMP", 
+        "nom": "\u00c9lie Aboud"
+    }, 
+    "267459": {
+        "groupe": "UMP", 
+        "nom": "Claude Greff"
+    }, 
+    "267469": {
+        "groupe": "UDI", 
+        "nom": "Michel Piron"
+    }, 
+    "267479": {
+        "groupe": "SRC", 
+        "nom": "Kl\u00e9ber Mesquida"
+    }, 
+    "267492": {
+        "groupe": "GDR", 
+        "nom": "Jean-Jacques Candelier"
+    }, 
+    "267499": {
+        "groupe": "UMP", 
+        "nom": "Christophe Guilloteau"
+    }, 
+    "2675": {
+        "groupe": "UDI", 
+        "nom": "Andr\u00e9 Santini"
+    }, 
+    "267506": {
+        "groupe": "UMP", 
+        "nom": "Philippe Vitel"
+    }, 
+    "267512": {
+        "groupe": "UMP", 
+        "nom": "Alain Marc"
+    }, 
+    "267527": {
+        "groupe": "UMP", 
+        "nom": "Martial Saddier"
+    }, 
+    "267532": {
+        "groupe": "UMP", 
+        "nom": "Marc Francina"
+    }, 
+    "267534": {
+        "groupe": "SRC", 
+        "nom": "Luce Pane"
+    }, 
+    "267551": {
+        "groupe": "UMP", 
+        "nom": "Jacques Lamblin"
+    }, 
+    "267556": {
+        "groupe": "UMP", 
+        "nom": "Alain Marty"
+    }, 
+    "267576": {
+        "groupe": "UMP", 
+        "nom": "Marcel Bonnot"
+    }, 
+    "267585": {
+        "groupe": "UDI", 
+        "nom": "Francis Vercamer"
+    }, 
+    "267591": {
+        "groupe": "UMP", 
+        "nom": "Georges Fenech"
+    }, 
+    "267598": {
+        "groupe": "UMP", 
+        "nom": "Josette Pons"
+    }, 
+    "267605": {
+        "groupe": "UMP", 
+        "nom": "Val\u00e9rie Pecresse"
+    }, 
+    "267623": {
+        "groupe": "SRC", 
+        "nom": "Carlos Da Silva"
+    }, 
+    "267628": {
+        "groupe": "UMP", 
+        "nom": "Nathalie Kosciusko-Morizet"
+    }, 
+    "267673": {
+        "groupe": "UDI", 
+        "nom": "Philippe Folliot"
+    }, 
+    "267680": {
+        "groupe": "UMP", 
+        "nom": "Charles-Ange Ginesy"
+    }, 
+    "267689": {
+        "groupe": "UMP", 
+        "nom": "Camille de Rocca Serra"
+    }, 
+    "267695": {
+        "groupe": "SRC", 
+        "nom": "Patricia Adam"
+    }, 
+    "267706": {
+        "groupe": "SRC", 
+        "nom": "Nathalie App\u00e9r\u00e9"
+    }, 
+    "267728": {
+        "groupe": "UMP", 
+        "nom": "Christophe Priou"
+    }, 
+    "267735": {
+        "groupe": "UMP", 
+        "nom": "Claude de Ganay"
+    }, 
+    "267743": {
+        "groupe": "UMP", 
+        "nom": "\u00c9douard Courtial"
+    }, 
+    "267762": {
+        "groupe": "UMP", 
+        "nom": "Jean-Pierre Decool"
+    }, 
+    "267765": {
+        "groupe": "UDI", 
+        "nom": "Fran\u00e7ois-Xavier Villain"
+    }, 
+    "267775": {
+        "groupe": "UMP", 
+        "nom": "Philippe Cochet"
+    }, 
+    "267785": {
+        "groupe": "UMP", 
+        "nom": "Guillaume Larriv\u00e9"
+    }, 
+    "267794": {
+        "groupe": "UMP", 
+        "nom": "Mich\u00e8le Tabarot"
+    }, 
+    "267797": {
+        "groupe": "UMP", 
+        "nom": "Catherine Vautrin"
+    }, 
+    "267801": {
+        "groupe": "UDI", 
+        "nom": "Yves J\u00e9go"
+    }, 
+    "267813": {
+        "groupe": "UMP", 
+        "nom": "Guy Geoffroy"
+    }, 
+    "267822": {
+        "groupe": "UMP", 
+        "nom": "Jacques Alain B\u00e9nisti"
+    }, 
+    "267835": {
+        "groupe": "SRC", 
+        "nom": "Jean-Yves Le Bouillonnec"
+    }, 
+    "267886": {
+        "groupe": "UMP", 
+        "nom": "Axel Poniatowski"
+    }, 
+    "267895": {
+        "groupe": "UMP", 
+        "nom": "J\u00e9r\u00f4me Chartier"
+    }, 
+    "267918": {
+        "groupe": "SRC", 
+        "nom": "Th\u00e9r\u00e8se Guilbert"
+    }, 
+    "267923": {
+        "groupe": "SRC", 
+        "nom": "Guy Delcourt"
+    }, 
+    "267954": {
+        "groupe": "SRC", 
+        "nom": "Dani\u00e8le Hoffman-Rispal"
+    }, 
+    "267965": {
+        "groupe": "SRC", 
+        "nom": "Annick Lepetit"
+    }, 
+    "268019": {
+        "groupe": "UDI", 
+        "nom": "Jean-Christophe Lagarde"
+    }, 
+    "268039": {
+        "groupe": "SRC", 
+        "nom": "\u00c9ric Jalton"
+    }, 
+    "268042": {
+        "groupe": "SRC", 
+        "nom": "Gabrielle Louis-Carabin"
+    }, 
+    "268051": {
+        "groupe": "UMP", 
+        "nom": "Serge Grouard"
+    }, 
+    "2685": {
+        "groupe": "SRC", 
+        "nom": "Odile Saugues"
+    }, 
+    "2690": {
+        "groupe": "UDI", 
+        "nom": "Fran\u00e7ois Sauvadet"
+    }, 
+    "2693": {
+        "groupe": "SRC", 
+        "nom": "Gilbert Sauvan"
+    }, 
+    "2700": {
+        "groupe": "UMP", 
+        "nom": "Fran\u00e7ois Scellier"
+    }, 
+    "2707": {
+        "groupe": "UMP", 
+        "nom": "Andr\u00e9 Schneider"
+    }, 
+    "271": {
+        "groupe": "SRC", 
+        "nom": "Sylvie Andrieux"
+    }, 
+    "2713": {
+        "groupe": "RRDP", 
+        "nom": "Roger-G\u00e9rard Schwartzenberg"
+    }, 
+    "2775": {
+        "groupe": "UMP", 
+        "nom": "Alain Suguenot"
+    }, 
+    "2792": {
+        "groupe": "UMP", 
+        "nom": "Jean-Charles Taugourdeau"
+    }, 
+    "2796": {
+        "groupe": "UMP", 
+        "nom": "Guy Teissier"
+    }, 
+    "2799": {
+        "groupe": "SRC", 
+        "nom": "Pascal Terrasse"
+    }, 
+    "2800": {
+        "groupe": "SRC", 
+        "nom": "G\u00e9rard Terrier"
+    }, 
+    "2801": {
+        "groupe": "UMP", 
+        "nom": "Michel Terrot"
+    }, 
+    "2815": {
+        "groupe": "UMP", 
+        "nom": "Dominique Tian"
+    }, 
+    "2828": {
+        "groupe": "RRDP", 
+        "nom": "Alain Tourret"
+    }, 
+    "2859": {
+        "groupe": "SRC", 
+        "nom": "Daniel Vaillant"
+    }, 
+    "2876": {
+        "groupe": "UMP", 
+        "nom": "Fran\u00e7ois Vannson"
+    }, 
+    "2883": {
+        "groupe": "SRC", 
+        "nom": "Michel Vauzelle"
+    }, 
+    "2895": {
+        "groupe": "SRC", 
+        "nom": "Michel Vergnier"
+    }, 
+    "2907": {
+        "groupe": "UMP", 
+        "nom": "Jean-S\u00e9bastien Vialatte"
+    }, 
+    "2936": {
+        "groupe": "UMP", 
+        "nom": "Michel Voisin"
+    }, 
+    "295": {
+        "groupe": "GDR", 
+        "nom": "Fran\u00e7ois Asensi"
+    }, 
+    "2952": {
+        "groupe": "UMP", 
+        "nom": "Jean-Luc Warsmann"
+    }, 
+    "2960": {
+        "groupe": "UMP", 
+        "nom": "\u00c9ric Woerth"
+    }, 
+    "2971": {
+        "groupe": "UMP", 
+        "nom": "Marie-Jo Zimmermann"
+    }, 
+    "304016": {
+        "groupe": "SRC", 
+        "nom": "Sandrine Hurel"
+    }, 
+    "309643": {
+        "groupe": "NI", 
+        "nom": "V\u00e9ronique Besse"
+    }, 
+    "314": {
+        "groupe": "UMP", 
+        "nom": "Olivier Audibert Troin"
+    }, 
+    "330008": {
+        "groupe": "UMP", 
+        "nom": "Xavier Breton"
+    }, 
+    "330118": {
+        "groupe": "SRC", 
+        "nom": "Guy Chambefort"
+    }, 
+    "330130": {
+        "groupe": "SRC", 
+        "nom": "Bernard Lesterlin"
+    }, 
+    "330240": {
+        "groupe": "UMP", 
+        "nom": "\u00c9ric Ciotti"
+    }, 
+    "330357": {
+        "groupe": "SRC", 
+        "nom": "Olivier Dussopt"
+    }, 
+    "330546": {
+        "groupe": "SRC", 
+        "nom": "Marie-Lou Marcel"
+    }, 
+    "330613": {
+        "groupe": "SRC", 
+        "nom": "Henri Jibrayel"
+    }, 
+    "330684": {
+        "groupe": "UMP", 
+        "nom": "Val\u00e9rie Boyer"
+    }, 
+    "330788": {
+        "groupe": "UMP", 
+        "nom": "Bernard Reyn\u00e8s"
+    }, 
+    "330981": {
+        "groupe": "SRC", 
+        "nom": "Martine Pinville"
+    }, 
+    "331014": {
+        "groupe": "SRC", 
+        "nom": "Catherine Qu\u00e9r\u00e9"
+    }, 
+    "331146": {
+        "groupe": "UMP", 
+        "nom": "Sauveur Gandolfi-Scheit"
+    }, 
+    "331282": {
+        "groupe": "SRC", 
+        "nom": "Corinne Erhel"
+    }, 
+    "331442": {
+        "groupe": "UDI", 
+        "nom": "Franck Reynier"
+    }, 
+    "331481": {
+        "groupe": "UMP", 
+        "nom": "Bruno Le Maire"
+    }, 
+    "331567": {
+        "groupe": "UMP", 
+        "nom": "Laure de La Raudi\u00e8re"
+    }, 
+    "331582": {
+        "groupe": "UDI", 
+        "nom": "Philippe Vigier"
+    }, 
+    "331594": {
+        "groupe": "SRC", 
+        "nom": "Jean-Jacques Urvoas"
+    }, 
+    "331658": {
+        "groupe": "SRC", 
+        "nom": "Annick Le Loch"
+    }, 
+    "331753": {
+        "groupe": "SRC", 
+        "nom": "Catherine Lemorton"
+    }, 
+    "331807": {
+        "groupe": "SRC", 
+        "nom": "Martine Martinel"
+    }, 
+    "331835": {
+        "groupe": "SRC", 
+        "nom": "Monique Iborra"
+    }, 
+    "331973": {
+        "groupe": "SRC", 
+        "nom": "Pascale Got"
+    }, 
+    "331990": {
+        "groupe": "SRC", 
+        "nom": "Alain Rousset"
+    }, 
+    "332015": {
+        "groupe": "SRC", 
+        "nom": "Martine Faure"
+    }, 
+    "332206": {
+        "groupe": "SRC", 
+        "nom": "Jean-Ren\u00e9 Marsac"
+    }, 
+    "332228": {
+        "groupe": "UDI", 
+        "nom": "Thierry Benoit"
+    }, 
+    "332305": {
+        "groupe": "SRC", 
+        "nom": "Jean-Patrick Gille"
+    }, 
+    "332384": {
+        "groupe": "SRC", 
+        "nom": "Michel Issindou"
+    }, 
+    "332523": {
+        "groupe": "UMP", 
+        "nom": "Marie-Christine Dalloz"
+    }, 
+    "332614": {
+        "groupe": "SRC", 
+        "nom": "R\u00e9gis Juanico"
+    }, 
+    "332636": {
+        "groupe": "SRC", 
+        "nom": "Jean-Louis Gagnaire"
+    }, 
+    "332747": {
+        "groupe": "ECOLO", 
+        "nom": "Fran\u00e7ois de Rugy"
+    }, 
+    "332796": {
+        "groupe": "SRC", 
+        "nom": "Michel M\u00e9nard"
+    }, 
+    "332843": {
+        "groupe": "SRC", 
+        "nom": "Marie-Odile Bouill\u00e9"
+    }, 
+    "332886": {
+        "groupe": "UMP", 
+        "nom": "Olivier Carr\u00e9"
+    }, 
+    "332950": {
+        "groupe": "RRDP", 
+        "nom": "Dominique Orliac"
+    }, 
+    "333043": {
+        "groupe": "SRC", 
+        "nom": "Marc Goua"
+    }, 
+    "333134": {
+        "groupe": "UMP", 
+        "nom": "Gu\u00e9nha\u00ebl Huet"
+    }, 
+    "333224": {
+        "groupe": "UMP", 
+        "nom": "Benoist Apparu"
+    }, 
+    "333335": {
+        "groupe": "SRC", 
+        "nom": "Herv\u00e9 F\u00e9ron"
+    }, 
+    "333421": {
+        "groupe": "UDI", 
+        "nom": "Bertrand Pancher"
+    }, 
+    "333818": {
+        "groupe": "SRC", 
+        "nom": "Christian Hutin"
+    }, 
+    "334": {
+        "groupe": "SRC", 
+        "nom": "Jean-Paul Bacquet"
+    }, 
+    "334116": {
+        "groupe": "SRC", 
+        "nom": "Jacqueline Maquet"
+    }, 
+    "334149": {
+        "groupe": "UMP", 
+        "nom": "Daniel Fasquelle"
+    }, 
+    "334654": {
+        "groupe": "UMP", 
+        "nom": "\u00c9ric Straumann"
+    }, 
+    "334755": {
+        "groupe": "SRC", 
+        "nom": "Pierre-Alain Muet"
+    }, 
+    "334768": {
+        "groupe": "SRC", 
+        "nom": "Jean-Louis Touraine"
+    }, 
+    "334811": {
+        "groupe": "SRC", 
+        "nom": "Pascale Crozon"
+    }, 
+    "334843": {
+        "groupe": "UMP", 
+        "nom": "Patrice Verch\u00e8re"
+    }, 
+    "334906": {
+        "groupe": "UMP", 
+        "nom": "Philippe Meunier"
+    }, 
+    "334951": {
+        "groupe": "SRC", 
+        "nom": "Jean-Michel Villaum\u00e9"
+    }, 
+    "335017": {
+        "groupe": "SRC", 
+        "nom": "Christophe Sirugue"
+    }, 
+    "335054": {
+        "groupe": "SRC", 
+        "nom": "Marietta Karamanli"
+    }, 
+    "335159": {
+        "groupe": "UMP", 
+        "nom": "Lionel Tardy"
+    }, 
+    "335319": {
+        "groupe": "SRC", 
+        "nom": "Sandrine Mazetier"
+    }, 
+    "335567": {
+        "groupe": "UMP", 
+        "nom": "Fran\u00e7oise Gu\u00e9got"
+    }, 
+    "335758": {
+        "groupe": "UMP", 
+        "nom": "Franck Riester"
+    }, 
+    "336015": {
+        "groupe": "SRC", 
+        "nom": "Jean Grellier"
+    }, 
+    "336112": {
+        "groupe": "SRC", 
+        "nom": "Jacques Valax"
+    }, 
+    "336316": {
+        "groupe": "UMP", 
+        "nom": "Jean-Claude Bouchet"
+    }, 
+    "336421": {
+        "groupe": "SRC", 
+        "nom": "Catherine Coutelle"
+    }, 
+    "336439": {
+        "groupe": "SRC", 
+        "nom": "Jean-Michel Cl\u00e9ment"
+    }, 
+    "336576": {
+        "groupe": "UMP", 
+        "nom": "Marie-Louise Fort"
+    }, 
+    "336971": {
+        "groupe": "SRC", 
+        "nom": "Daniel Goldberg"
+    }, 
+    "337483": {
+        "groupe": "SRC", 
+        "nom": "Serge Letchimy"
+    }, 
+    "337504": {
+        "groupe": "SRC", 
+        "nom": "Chantal Berthelot"
+    }, 
+    "337550": {
+        "groupe": "SRC", 
+        "nom": "Patrick Lebreton"
+    }, 
+    "337568": {
+        "groupe": "SRC", 
+        "nom": "Jean-Claude Fruteau"
+    }, 
+    "337633": {
+        "groupe": "RRDP", 
+        "nom": "Annick Girardin"
+    }, 
+    "339": {
+        "groupe": "SRC", 
+        "nom": "Dominique Baert"
+    }, 
+    "340432": {
+        "groupe": "SRC", 
+        "nom": "Alain Faur\u00e9"
+    }, 
+    "340755": {
+        "groupe": "GDR", 
+        "nom": "Gaby Charroux"
+    }, 
+    "341246": {
+        "groupe": "SRC", 
+        "nom": "Viviane Le Dissez"
+    }, 
+    "341339": {
+        "groupe": "SRC", 
+        "nom": "Colette Langlade"
+    }, 
+    "341981": {
+        "groupe": "SRC", 
+        "nom": "Marie R\u00e9calde"
+    }, 
+    "342332": {
+        "groupe": "SRC", 
+        "nom": "Jean-Marie Beffara"
+    }, 
+    "342415": {
+        "groupe": "SRC", 
+        "nom": "Marie-No\u00eblle Battistel"
+    }, 
+    "342539": {
+        "groupe": "SRC", 
+        "nom": "Florence Delaunay"
+    }, 
+    "342935": {
+        "groupe": "UMP", 
+        "nom": "Marianne Dubois"
+    }, 
+    "342997": {
+        "groupe": "SRC", 
+        "nom": "Jean-Claude Gouget"
+    }, 
+    "343493": {
+        "groupe": "SRC", 
+        "nom": "Gwendal Rouillard"
+    }, 
+    "343623": {
+        "groupe": "UMP", 
+        "nom": "Anne Grommerch"
+    }, 
+    "344114": {
+        "groupe": "SRC", 
+        "nom": "Jean-Jacques Cottel"
+    }, 
+    "344242": {
+        "groupe": "SRC", 
+        "nom": "Philippe Kemel"
+    }, 
+    "344492": {
+        "groupe": "UMP", 
+        "nom": "Fernand Sir\u00e9"
+    }, 
+    "344776": {
+        "groupe": "UMP", 
+        "nom": "Dominique Nachury"
+    }, 
+    "345619": {
+        "groupe": "UMP", 
+        "nom": "Edouard Philippe"
+    }, 
+    "345897": {
+        "groupe": "UDI", 
+        "nom": "Arnaud Richard"
+    }, 
+    "345937": {
+        "groupe": "UMP", 
+        "nom": "Jean-Fr\u00e9d\u00e9ric Poisson"
+    }, 
+    "345994": {
+        "groupe": "SRC", 
+        "nom": "Jean-Luc Drapeau"
+    }, 
+    "346": {
+        "groupe": "UMP", 
+        "nom": "Patrick Balkany"
+    }, 
+    "346170": {
+        "groupe": "RRDP", 
+        "nom": "Jacques Moignard"
+    }, 
+    "346876": {
+        "groupe": "UMP", 
+        "nom": "Thierry Sol\u00e8re"
+    }, 
+    "356": {
+        "groupe": "SRC", 
+        "nom": "G\u00e9rard Bapt"
+    }, 
+    "369": {
+        "groupe": "UMP", 
+        "nom": "Fran\u00e7ois Baroin"
+    }, 
+    "381": {
+        "groupe": "SRC", 
+        "nom": "Claude Bartolone"
+    }, 
+    "394": {
+        "groupe": "SRC", 
+        "nom": "Christian Bataille"
+    }, 
+    "405480": {
+        "groupe": "SRC", 
+        "nom": "Fran\u00e7ois Pupponi"
+    }, 
+    "417099": {
+        "groupe": "UMP", 
+        "nom": "Arnaud Robinet"
+    }, 
+    "422119": {
+        "groupe": "UMP", 
+        "nom": "David Douillet"
+    }, 
+    "441": {
+        "groupe": "GDR", 
+        "nom": "Huguette Bello"
+    }, 
+    "508": {
+        "groupe": "SRC", 
+        "nom": "Gis\u00e8le Bi\u00e9mouret"
+    }, 
+    "536": {
+        "groupe": "SRC", 
+        "nom": "Jean-Pierre Blazy"
+    }, 
+    "543": {
+        "groupe": "SRC", 
+        "nom": "Patrick Bloche"
+    }, 
+    "551": {
+        "groupe": "GDR", 
+        "nom": "Alain Bocquet"
+    }, 
+    "560": {
+        "groupe": "SRC", 
+        "nom": "Daniel Boisserie"
+    }, 
+    "563": {
+        "groupe": "NI", 
+        "nom": "Jacques Bompard"
+    }, 
+    "588": {
+        "groupe": "UDI", 
+        "nom": "Jean-Louis Borloo"
+    }, 
+    "605036": {
+        "groupe": "UMP", 
+        "nom": "Damien Abad"
+    }, 
+    "605069": {
+        "groupe": "SRC", 
+        "nom": "Jean-Louis Bricout"
+    }, 
+    "605076": {
+        "groupe": "SRC", 
+        "nom": "Marie-Fran\u00e7oise Bechtel"
+    }, 
+    "605084": {
+        "groupe": "RRDP", 
+        "nom": "Jacques Krabal"
+    }, 
+    "605131": {
+        "groupe": "SRC", 
+        "nom": "Christophe Castaner"
+    }, 
+    "605143": {
+        "groupe": "SRC", 
+        "nom": "Karine Berger"
+    }, 
+    "605261": {
+        "groupe": "SRC", 
+        "nom": "Sabine Buis"
+    }, 
+    "605278": {
+        "groupe": "SRC", 
+        "nom": "Christophe L\u00e9onard"
+    }, 
+    "605349": {
+        "groupe": "SRC", 
+        "nom": "Marie-H\u00e9l\u00e8ne Fabre"
+    }, 
+    "605426": {
+        "groupe": "SRC", 
+        "nom": "Patrick Mennucci"
+    }, 
+    "605518": {
+        "groupe": "ECOLO", 
+        "nom": "Fran\u00e7ois-Michel Lambert"
+    }, 
+    "605557": {
+        "groupe": "SRC", 
+        "nom": "Jean-David Ciot"
+    }, 
+    "605606": {
+        "groupe": "SRC", 
+        "nom": "Clotilde Valter"
+    }, 
+    "605625": {
+        "groupe": "ECOLO", 
+        "nom": "Isabelle Attard"
+    }, 
+    "605643": {
+        "groupe": "SRC", 
+        "nom": "Alain Calmette"
+    }, 
+    "605694": {
+        "groupe": "RRDP", 
+        "nom": "Olivier Falorni"
+    }, 
+    "605703": {
+        "groupe": "SRC", 
+        "nom": "Suzanne Tallard"
+    }, 
+    "605745": {
+        "groupe": "GDR", 
+        "nom": "Nicolas Sansu"
+    }, 
+    "605758": {
+        "groupe": "SRC", 
+        "nom": "Sophie Dessus"
+    }, 
+    "605782": {
+        "groupe": "UMP", 
+        "nom": "Laurent Marcangeli"
+    }, 
+    "605804": {
+        "groupe": "SRC", 
+        "nom": "Laurent Grandguillaume"
+    }, 
+    "605830": {
+        "groupe": "SRC", 
+        "nom": "Kheira Bouziane"
+    }, 
+    "605888": {
+        "groupe": "SRC", 
+        "nom": "Annie Le Houerou"
+    }, 
+    "605922": {
+        "groupe": "ECOLO", 
+        "nom": "Brigitte Allain"
+    }, 
+    "605952": {
+        "groupe": "SRC", 
+        "nom": "Barbara Romagnan"
+    }, 
+    "605963": {
+        "groupe": "ECOLO", 
+        "nom": "\u00c9ric Alauzet"
+    }, 
+    "605991": {
+        "groupe": "UMP", 
+        "nom": "Annie Genevard"
+    }, 
+    "606030": {
+        "groupe": "SRC", 
+        "nom": "Nathalie Nieson"
+    }, 
+    "606040": {
+        "groupe": "SRC", 
+        "nom": "Jean-Louis Destans"
+    }, 
+    "606098": {
+        "groupe": "UMP", 
+        "nom": "Olivier Marleix"
+    }, 
+    "606149": {
+        "groupe": "SRC", 
+        "nom": "Jean-Luc Bleunven"
+    }, 
+    "606161": {
+        "groupe": "SRC", 
+        "nom": "Chantal Guittet"
+    }, 
+    "606171": {
+        "groupe": "SRC", 
+        "nom": "Richard Ferrand"
+    }, 
+    "606202": {
+        "groupe": "SRC", 
+        "nom": "Fran\u00e7oise Dumas"
+    }, 
+    "606212": {
+        "groupe": "NI", 
+        "nom": "Gilbert Collard"
+    }, 
+    "606225": {
+        "groupe": "SRC", 
+        "nom": "Patrice Prat"
+    }, 
+    "606230": {
+        "groupe": "SRC", 
+        "nom": "Fabrice Verdier"
+    }, 
+    "606258": {
+        "groupe": "ECOLO", 
+        "nom": "Christophe Cavard"
+    }, 
+    "606299": {
+        "groupe": "UMP", 
+        "nom": "Jean-Luc Moudenc"
+    }, 
+    "606351": {
+        "groupe": "SRC", 
+        "nom": "Carole Delga"
+    }, 
+    "606363": {
+        "groupe": "SRC", 
+        "nom": "Christophe Borgel"
+    }, 
+    "606375": {
+        "groupe": "SRC", 
+        "nom": "\u00c9milienne Poumirol"
+    }, 
+    "606412": {
+        "groupe": "SRC", 
+        "nom": "Sandrine Doucet"
+    }, 
+    "606478": {
+        "groupe": "UMP", 
+        "nom": "Yves Foulon"
+    }, 
+    "606495": {
+        "groupe": "SRC", 
+        "nom": "Gilles Savary"
+    }, 
+    "606507": {
+        "groupe": "SRC", 
+        "nom": "Florent Boudi\u00e9"
+    }, 
+    "606545": {
+        "groupe": "ECOLO", 
+        "nom": "Jean-Louis Roumegas"
+    }, 
+    "606555": {
+        "groupe": "SRC", 
+        "nom": "Anne-Yvonne Le Dain"
+    }, 
+    "606573": {
+        "groupe": "SRC", 
+        "nom": "Fanny Dombre Coste"
+    }, 
+    "606586": {
+        "groupe": "SRC", 
+        "nom": "Fr\u00e9d\u00e9ric Roig"
+    }, 
+    "606623": {
+        "groupe": "SRC", 
+        "nom": "S\u00e9bastien Denaja"
+    }, 
+    "606631": {
+        "groupe": "SRC", 
+        "nom": "Christian Assaf"
+    }, 
+    "606639": {
+        "groupe": "SRC", 
+        "nom": "Patrick Vignal"
+    }, 
+    "606665": {
+        "groupe": "SRC", 
+        "nom": "Marie-Anne Chapdelaine"
+    }, 
+    "606675": {
+        "groupe": "SRC", 
+        "nom": "Fran\u00e7ois Andr\u00e9"
+    }, 
+    "606693": {
+        "groupe": "UMP", 
+        "nom": "Isabelle Le Callennec"
+    }, 
+    "606712": {
+        "groupe": "UMP", 
+        "nom": "Gilles Lurton"
+    }, 
+    "606745": {
+        "groupe": "SRC", 
+        "nom": "Isabelle Bruneau"
+    }, 
+    "606793": {
+        "groupe": "SRC", 
+        "nom": "Laurent Baumel"
+    }, 
+    "606888": {
+        "groupe": "UMP", 
+        "nom": "Jean-Pierre Barbier"
+    }, 
+    "606899": {
+        "groupe": "SRC", 
+        "nom": "Erwann Binet"
+    }, 
+    "606910": {
+        "groupe": "ECOLO", 
+        "nom": "Mich\u00e8le Bonneton"
+    }, 
+    "606924": {
+        "groupe": "SRC", 
+        "nom": "Jo\u00eblle Huillier"
+    }, 
+    "606991": {
+        "groupe": "SRC", 
+        "nom": "Denys Robiliard"
+    }, 
+    "607090": {
+        "groupe": "UMP", 
+        "nom": "Jean-Pierre Vigier"
+    }, 
+    "607155": {
+        "groupe": "SRC", 
+        "nom": "Yves Daniel"
+    }, 
+    "607187": {
+        "groupe": "SRC", 
+        "nom": "Monique Rabin"
+    }, 
+    "607193": {
+        "groupe": "SRC", 
+        "nom": "Sophie Errante"
+    }, 
+    "607256": {
+        "groupe": "SRC", 
+        "nom": "Val\u00e9rie Corre"
+    }, 
+    "607283": {
+        "groupe": "SRC", 
+        "nom": "Lucette Lousteau"
+    }, 
+    "607287": {
+        "groupe": "SRC", 
+        "nom": "Matthias Fekl"
+    }, 
+    "607310": {
+        "groupe": "SRC", 
+        "nom": "Luc Belot"
+    }, 
+    "607369": {
+        "groupe": "SRC", 
+        "nom": "Serge Bardy"
+    }, 
+    "607395": {
+        "groupe": "SRC", 
+        "nom": "St\u00e9phane Travert"
+    }, 
+    "607489": {
+        "groupe": "UMP", 
+        "nom": "Guillaume Chevrollier"
+    }, 
+    "607509": {
+        "groupe": "SRC", 
+        "nom": "Chaynesse Khirouni"
+    }, 
+    "607553": {
+        "groupe": "SRC", 
+        "nom": "Dominique Potier"
+    }, 
+    "607595": {
+        "groupe": "SRC", 
+        "nom": "Herv\u00e9 Pellois"
+    }, 
+    "607603": {
+        "groupe": "UMP", 
+        "nom": "Philippe Le Ray"
+    }, 
+    "607606": {
+        "groupe": "SRC", 
+        "nom": "Jean-Pierre Le Roch"
+    }, 
+    "607619": {
+        "groupe": "ECOLO", 
+        "nom": "Paul Molac"
+    }, 
+    "607632": {
+        "groupe": "SRC", 
+        "nom": "Philippe Nogu\u00e8s"
+    }, 
+    "607691": {
+        "groupe": "SRC", 
+        "nom": "Laurent Kalinowski"
+    }, 
+    "607699": {
+        "groupe": "SRC", 
+        "nom": "Paola Zanetti"
+    }, 
+    "607761": {
+        "groupe": "SRC", 
+        "nom": "Audrey Linkenheld"
+    }, 
+    "607769": {
+        "groupe": "SRC", 
+        "nom": "R\u00e9mi Pauvros"
+    }, 
+    "607846": {
+        "groupe": "UMP", 
+        "nom": "G\u00e9rald Darmanin"
+    }, 
+    "607892": {
+        "groupe": "SRC", 
+        "nom": "Jean-Pierre Allossery"
+    }, 
+    "607919": {
+        "groupe": "SRC", 
+        "nom": "Anne-Lise Dufour-Tonini"
+    }, 
+    "608011": {
+        "groupe": "SRC", 
+        "nom": "Joaquim Pueyo"
+    }, 
+    "608016": {
+        "groupe": "UMP", 
+        "nom": "V\u00e9ronique Louwagie"
+    }, 
+    "608038": {
+        "groupe": "SRC", 
+        "nom": "Yves Goasdoue"
+    }, 
+    "608083": {
+        "groupe": "SRC", 
+        "nom": "Brigitte Bourguignon"
+    }, 
+    "608098": {
+        "groupe": "SRC", 
+        "nom": "Yann Capet"
+    }, 
+    "608120": {
+        "groupe": "RRDP", 
+        "nom": "St\u00e9phane Saint-Andr\u00e9"
+    }, 
+    "608158": {
+        "groupe": "SRC", 
+        "nom": "Nicolas Bays"
+    }, 
+    "608172": {
+        "groupe": "SRC", 
+        "nom": "Christine Pires Beaune"
+    }, 
+    "608186": {
+        "groupe": "ECOLO", 
+        "nom": "Danielle Auroi"
+    }, 
+    "608235": {
+        "groupe": "SRC", 
+        "nom": "Nathalie Chabanne"
+    }, 
+    "608264": {
+        "groupe": "SRC", 
+        "nom": "Colette Capdevielle"
+    }, 
+    "608276": {
+        "groupe": "SRC", 
+        "nom": "Sylviane Alaux"
+    }, 
+    "608292": {
+        "groupe": "RRDP", 
+        "nom": "Jeanine Dubi\u00e9"
+    }, 
+    "608310": {
+        "groupe": "SRC", 
+        "nom": "Jacques Cresta"
+    }, 
+    "608328": {
+        "groupe": "SRC", 
+        "nom": "S\u00e9gol\u00e8ne Neuville"
+    }, 
+    "608348": {
+        "groupe": "SRC", 
+        "nom": "Pierre Aylagas"
+    }, 
+    "608363": {
+        "groupe": "SRC", 
+        "nom": "Philippe Bies"
+    }, 
+    "608380": {
+        "groupe": "UMP", 
+        "nom": "Sophie Rohfritsch"
+    }, 
+    "608416": {
+        "groupe": "UMP", 
+        "nom": "Patrick Hetzel"
+    }, 
+    "608434": {
+        "groupe": "UMP", 
+        "nom": "Claude Sturni"
+    }, 
+    "608495": {
+        "groupe": "RRDP", 
+        "nom": "Thierry Braillard"
+    }, 
+    "608574": {
+        "groupe": "SRC", 
+        "nom": "H\u00e9l\u00e8ne Geoffroy"
+    }, 
+    "608641": {
+        "groupe": "SRC", 
+        "nom": "Yves Blein"
+    }, 
+    "608662": {
+        "groupe": "UMP", 
+        "nom": "Alain Chr\u00e9tien"
+    }, 
+    "608672": {
+        "groupe": "SRC", 
+        "nom": "Thomas Th\u00e9venoud"
+    }, 
+    "608684": {
+        "groupe": "SRC", 
+        "nom": "Edith Gueugneau"
+    }, 
+    "608686": {
+        "groupe": "SRC", 
+        "nom": "Philippe Baumel"
+    }, 
+    "608695": {
+        "groupe": "SRC", 
+        "nom": "C\u00e9cile Untermaier"
+    }, 
+    "608718": {
+        "groupe": "SRC", 
+        "nom": "Fran\u00e7oise Dubois"
+    }, 
+    "608741": {
+        "groupe": "SRC", 
+        "nom": "Sylvie Tolmont"
+    }, 
+    "608778": {
+        "groupe": "SRC", 
+        "nom": "B\u00e9atrice Santais"
+    }, 
+    "608785": {
+        "groupe": "SRC", 
+        "nom": "Bernadette Laclais"
+    }, 
+    "608826": {
+        "groupe": "UMP", 
+        "nom": "Virginie Duby-Muller"
+    }, 
+    "608851": {
+        "groupe": "UMP", 
+        "nom": "Sophie Dion"
+    }, 
+    "608920": {
+        "groupe": "SRC", 
+        "nom": "Seybah Dagoma"
+    }, 
+    "609016": {
+        "groupe": "ECOLO", 
+        "nom": "Denis Baupin"
+    }, 
+    "609042": {
+        "groupe": "SRC", 
+        "nom": "Pascal Cherki"
+    }, 
+    "609205": {
+        "groupe": "SRC", 
+        "nom": "Catherine Troallic"
+    }, 
+    "609218": {
+        "groupe": "SRC", 
+        "nom": "Estelle Grelier"
+    }, 
+    "609222": {
+        "groupe": "SRC", 
+        "nom": "Dominique Chauvel"
+    }, 
+    "609245": {
+        "groupe": "UMP", 
+        "nom": "Val\u00e9rie Lacroute"
+    }, 
+    "609292": {
+        "groupe": "SRC", 
+        "nom": "Eduardo Rihan Cypel"
+    }, 
+    "609314": {
+        "groupe": "SRC", 
+        "nom": "Emeric Br\u00e9hier"
+    }, 
+    "609332": {
+        "groupe": "SRC", 
+        "nom": "Olivier Faure"
+    }, 
+    "609345": {
+        "groupe": "UMP", 
+        "nom": "Fran\u00e7ois de Mazi\u00e8res"
+    }, 
+    "609365": {
+        "groupe": "UMP", 
+        "nom": "Henri Guaino"
+    }, 
+    "609435": {
+        "groupe": "SRC", 
+        "nom": "Fran\u00e7oise Descamps-Crosnier"
+    }, 
+    "609442": {
+        "groupe": "UMP", 
+        "nom": "Jean-Marie Tetart"
+    }, 
+    "609465": {
+        "groupe": "SRC", 
+        "nom": "Jean-Philippe Mall\u00e9"
+    }, 
+    "609513": {
+        "groupe": "SRC", 
+        "nom": "Pascale Boistard"
+    }, 
+    "609520": {
+        "groupe": "ECOLO", 
+        "nom": "Barbara Pompili"
+    }, 
+    "609535": {
+        "groupe": "SRC", 
+        "nom": "Jean-Claude Buisine"
+    }, 
+    "609578": {
+        "groupe": "SRC", 
+        "nom": "Linda Gourjade"
+    }, 
+    "609590": {
+        "groupe": "SRC", 
+        "nom": "Val\u00e9rie Rabault"
+    }, 
+    "609691": {
+        "groupe": "SRC", 
+        "nom": "Mich\u00e8le Fournier-Armand"
+    }, 
+    "609709": {
+        "groupe": "NI", 
+        "nom": "Marion Mar\u00e9chal-Le Pen"
+    }, 
+    "609726": {
+        "groupe": "UMP", 
+        "nom": "Julien Aubert"
+    }, 
+    "609740": {
+        "groupe": "UMP", 
+        "nom": "Alain Leboeuf"
+    }, 
+    "609743": {
+        "groupe": "SRC", 
+        "nom": "Sylviane Bulteau"
+    }, 
+    "609764": {
+        "groupe": "NI", 
+        "nom": "Yannick Moreau"
+    }, 
+    "609775": {
+        "groupe": "SRC", 
+        "nom": "Hugues Fourage"
+    }, 
+    "609816": {
+        "groupe": "ECOLO", 
+        "nom": "V\u00e9ronique Massonneau"
+    }, 
+    "609845": {
+        "groupe": "SRC", 
+        "nom": "Catherine Beaubatie"
+    }, 
+    "609963": {
+        "groupe": "SRC", 
+        "nom": "Michel Pouzol"
+    }, 
+    "609983": {
+        "groupe": "SRC", 
+        "nom": "Maud Olivier"
+    }, 
+    "610002": {
+        "groupe": "ECOLO", 
+        "nom": "Eva Sas"
+    }, 
+    "610045": {
+        "groupe": "SRC", 
+        "nom": "Malek Boutih"
+    }, 
+    "610066": {
+        "groupe": "SRC", 
+        "nom": "Alexis Bachelay"
+    }, 
+    "610075": {
+        "groupe": "SRC", 
+        "nom": "S\u00e9bastien Pietrasanta"
+    }, 
+    "610125": {
+        "groupe": "UDI", 
+        "nom": "Jean-Christophe Fromantin"
+    }, 
+    "610195": {
+        "groupe": "SRC", 
+        "nom": "Julie Sommaruga"
+    }, 
+    "610203": {
+        "groupe": "SRC", 
+        "nom": "Jean-Marc Germain"
+    }, 
+    "610245": {
+        "groupe": "SRC", 
+        "nom": "Mathieu Hanotin"
+    }, 
+    "610291": {
+        "groupe": "SRC", 
+        "nom": "Razzy Hammadi"
+    }, 
+    "610313": {
+        "groupe": "SRC", 
+        "nom": "Elisabeth Pochon"
+    }, 
+    "610354": {
+        "groupe": "SRC", 
+        "nom": "Pascal Popelin"
+    }, 
+    "610427": {
+        "groupe": "ECOLO", 
+        "nom": "Laurence Abeille"
+    }, 
+    "610481": {
+        "groupe": "SRC", 
+        "nom": "Jean-Luc Laurent"
+    }, 
+    "610521": {
+        "groupe": "RRDP", 
+        "nom": "Jean-No\u00ebl Carpentier"
+    }, 
+    "610529": {
+        "groupe": "SRC", 
+        "nom": "G\u00e9rard Sebaoun"
+    }, 
+    "610539": {
+        "groupe": "SRC", 
+        "nom": "Philippe Doucet"
+    }, 
+    "610594": {
+        "groupe": "SRC", 
+        "nom": "Dominique Lefebvre"
+    }, 
+    "610615": {
+        "groupe": "RRDP", 
+        "nom": "Ary Chalus"
+    }, 
+    "610634": {
+        "groupe": "GDR", 
+        "nom": "Bruno Nestor Azerot"
+    }, 
+    "610654": {
+        "groupe": "GDR", 
+        "nom": "Jean-Philippe Nilor"
+    }, 
+    "610667": {
+        "groupe": "GDR", 
+        "nom": "Gabriel Serville"
+    }, 
+    "610681": {
+        "groupe": "SRC", 
+        "nom": "Ericka Bareigts"
+    }, 
+    "610701": {
+        "groupe": "SRC", 
+        "nom": "Jean Jacques Vlody"
+    }, 
+    "610729": {
+        "groupe": "SRC", 
+        "nom": "Monique Orph\u00e9"
+    }, 
+    "610733": {
+        "groupe": "RRDP", 
+        "nom": "Thierry Robert"
+    }, 
+    "610752": {
+        "groupe": "SRC", 
+        "nom": "Boinali Said"
+    }, 
+    "610758": {
+        "groupe": "SRC", 
+        "nom": "Ibrahim Aboubacar"
+    }, 
+    "610770": {
+        "groupe": "UDI", 
+        "nom": "Sonia Lagarde"
+    }, 
+    "610775": {
+        "groupe": "UDI", 
+        "nom": "Philippe Gomes"
+    }, 
+    "610804": {
+        "groupe": "UDI", 
+        "nom": "Jonas Tahuaitu"
+    }, 
+    "610820": {
+        "groupe": "UDI", 
+        "nom": "Jean-Paul Tuaiva"
+    }, 
+    "610830": {
+        "groupe": "UMP", 
+        "nom": "Daniel Gibbes"
+    }, 
+    "610860": {
+        "groupe": "ECOLO", 
+        "nom": "Sergio Coronado"
+    }, 
+    "610873": {
+        "groupe": "SRC", 
+        "nom": "Axelle Lemaire"
+    }, 
+    "610891": {
+        "groupe": "SRC", 
+        "nom": "Philip Cordery"
+    }, 
+    "610905": {
+        "groupe": "SRC", 
+        "nom": "Arnaud Leroy"
+    }, 
+    "610924": {
+        "groupe": "UMP", 
+        "nom": "Claudine Schmid"
+    }, 
+    "610936": {
+        "groupe": "SRC", 
+        "nom": "Pierre-Yves Le Borgn'"
+    }, 
+    "610968": {
+        "groupe": "SRC", 
+        "nom": "Pouria Amirshahi"
+    }, 
+    "642682": {
+        "groupe": "SRC", 
+        "nom": "Avi Assouly"
+    }, 
+    "642684": {
+        "groupe": "SRC", 
+        "nom": "Jean-Pierre Maggi"
+    }, 
+    "642724": {
+        "groupe": "SRC", 
+        "nom": "Fr\u00e9d\u00e9ric Barbier"
+    }, 
+    "642739": {
+        "groupe": "SRC", 
+        "nom": "Gwenegan Bui"
+    }, 
+    "642743": {
+        "groupe": "SRC", 
+        "nom": "Vincent Feltesse"
+    }, 
+    "642788": {
+        "groupe": "SRC", 
+        "nom": "Olivier V\u00e9ran"
+    }, 
+    "642836": {
+        "groupe": "SRC", 
+        "nom": "Genevi\u00e8ve Gosselin"
+    }, 
+    "642844": {
+        "groupe": "SRC", 
+        "nom": "Sylvie Pichot"
+    }, 
+    "642940": {
+        "groupe": "SRC", 
+        "nom": "Fan\u00e9lie Carrey-Conte"
+    }, 
+    "642984": {
+        "groupe": "SRC", 
+        "nom": "Pierre L\u00e9autey"
+    }, 
+    "642987": {
+        "groupe": "SRC", 
+        "nom": "Guillaume Bachelay"
+    }, 
+    "643145": {
+        "groupe": "SRC", 
+        "nom": "H\u00e9l\u00e8ne Vainqueur-Christophe"
+    }, 
+    "667": {
+        "groupe": "UMP", 
+        "nom": "Philippe Briand"
+    }, 
+    "672": {
+        "groupe": "SRC", 
+        "nom": "Jean-Jacques Bridey"
+    }, 
+    "680": {
+        "groupe": "SRC", 
+        "nom": "Fran\u00e7ois Brottes"
+    }, 
+    "687214": {
+        "groupe": "UMP", 
+        "nom": "Sylvain Berrios"
+    }, 
+    "689": {
+        "groupe": "GDR", 
+        "nom": "Marie-George Buffet"
+    }, 
+    "695": {
+        "groupe": "SRC", 
+        "nom": "Vincent Burroni"
+    }, 
+    "696": {
+        "groupe": "UMP", 
+        "nom": "Dominique Bussereau"
+    }, 
+    "719": {
+        "groupe": "SRC", 
+        "nom": "Jean-Christophe Cambad\u00e9lis"
+    }, 
+    "735": {
+        "groupe": "SRC", 
+        "nom": "Christophe Caresche"
+    }, 
+    "746": {
+        "groupe": "UMP", 
+        "nom": "Gilles Carrez"
+    }, 
+    "754": {
+        "groupe": "GDR", 
+        "nom": "Patrice Carvalho"
+    }, 
+    "765": {
+        "groupe": "SRC", 
+        "nom": "Laurent Cathala"
+    }, 
+    "770": {
+        "groupe": "SRC", 
+        "nom": "Jean-Yves Caullet"
+    }, 
+    "810": {
+        "groupe": "SRC", 
+        "nom": "Jean-Paul Chanteguet"
+    }, 
+    "815": {
+        "groupe": "RRDP", 
+        "nom": "G\u00e9rard Charasse"
+    }, 
+    "840": {
+        "groupe": "SRC", 
+        "nom": "Guy-Michel Chauveau"
+    }, 
+    "856": {
+        "groupe": "UMP", 
+        "nom": "G\u00e9rard Cherpion"
+    }, 
+    "872": {
+        "groupe": "SRC", 
+        "nom": "Alain Claeys"
+    }, 
+    "877": {
+        "groupe": "SRC", 
+        "nom": "Marie-Fran\u00e7oise Clergeau"
+    }, 
+    "917": {
+        "groupe": "UMP", 
+        "nom": "Jean-Fran\u00e7ois Cop\u00e9"
+    }, 
+    "923": {
+        "groupe": "UMP", 
+        "nom": "Fran\u00e7ois Cornut-Gentille"
+    }, 
+    "942": {
+        "groupe": "UDI", 
+        "nom": "Charles de Courson"
+    }, 
+    "951": {
+        "groupe": "UMP", 
+        "nom": "Jean-Michel Couve"
+    }, 
+    "998": {
+        "groupe": "UMP", 
+        "nom": "Olivier Dassault"
+    }
 }
