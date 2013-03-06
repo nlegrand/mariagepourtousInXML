@@ -4,6 +4,11 @@
 TXMDIR=MPT-TXM-TXT-CSV
 TEIDIR=MPT-TEI
 
+#Generated docs directories
+XMLDIR=files/xml/
+TXTDIR=files/txt/
+HTMLDIR=files/html/
+
 #ID of National French Assembly Report about same sex marriage
 CRANMPT=20130118 \
 	20130119 \
@@ -32,16 +37,16 @@ CRANMPT=20130118 \
 	20130144
 
 
-%.xml: %.asp compte_rendu_to_tei.pl
+$(XMLDIR)%.xml: $(HTMLDIR)%.asp compte_rendu_to_tei.pl
 	./compte_rendu_to_tei.pl $< > $@
 
-%.txt: %.xml
+$(TXTDIR)%.txt: $(XMLDIR)%.xml
 	xsltproc xmltei_to_plaintext.xsl $< > $@
 
-all: $(CRANMPT:%=%.xml) tout.txt
+all: $(CRANMPT:%=$(XMLDIR)%.xml) $(TXTDIR)tout.txt
 
-tout.txt: $(CRANMPT:%=%.txt)
-	cat $$(ls 2013*.txt |sort) >tout.txt
+$(TXTDIR)tout.txt: $(CRANMPT:%=$(TXTDIR)%.txt)
+	cat $$(ls 2013*.txt |sort) >$(TXTDIR)tout.txt
 
 clean:
 	rm -rf *.xml *.txt $(TXMDIR)* $(TEIDIR)* metadata.csv
@@ -56,7 +61,7 @@ $(TEIDIR):
 	mkdir $(TEIDIR)
 
 txm: metadata.csv $(TXMDIR) $(CRANMPT:%=%.txt)
-	cp 2013*.txt $(TXMDIR)
+	cp $(TXTDIR)2013*.txt $(TXMDIR)
 	cp metadata.csv $(TXMDIR)
 	zip $(TXMDIR).zip $(TXMDIR)/*
 
@@ -64,13 +69,14 @@ metadata.csv:
 	./gen_txm_metadata.sh
 
 tei: $(TEIDIR) $(CRANMPT:%=%.xml)
-	cp *.xml $(TEIDIR)
+	cp $(XMLDIR)*.xml $(TEIDIR)
 	zip $(TEIDIR).zip $(TEIDIR)/*
 
 archives: txm tei
 
 download:
 	@for cranmpt in $(CRANMPT) ; do \
+	cd $(HTMLDIR)
 	wget "http://www.assemblee-nationale.fr/14/cri/2012-2013/$${cranmpt}.asp" ; \
 	done
 
