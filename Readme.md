@@ -4,9 +4,10 @@ sexe](http://www.assemblee-nationale.fr/14/dossiers/mariage_personnes_meme_sexe.
 et les transforme en XML TEI et en fichier texte.
 
 À partir de chaque fichier source « _identifiant_.asp » (eg
-20130129.asp) sont générés un équivalent « _identifiant_.xml » (XML
-TEI) et « _identifiant_.txt ». Un fichier « tout.txt » contient la
-concaténation de tous les « _identifiant_.txt ».
+20130129.asp) sont générés dans le dossier _files_ un équivalent
+« _identifiant_.xml » (XML TEI) et « _identifiant_.txt ». Un fichier
+« tout.txt » contient la concaténation de tous les
+« _identifiant_.txt ».
 
 Le but est de pouvoir les retransformer « proprement » en quoique ce
 soit (docbook, xhtml...), dans le but de faire des recherches
