@@ -8,6 +8,7 @@ TEIDIR=MPT-TEI
 XMLDIR=files/xml/
 TXTDIR=files/txt/
 HTMLDIR=files/html/
+GEXFDIR=files/gexf/
 
 #ID of National French Assembly Report about same sex marriage
 CRANMPT=20130118 \
@@ -43,7 +44,10 @@ $(XMLDIR)%.xml: $(HTMLDIR)%.asp compte_rendu_to_tei.pl
 $(TXTDIR)%.txt: $(XMLDIR)%.xml
 	xsltproc xmltei_to_plaintext.xsl $< > $@
 
-all: $(CRANMPT:%=$(XMLDIR)%.xml) $(TXTDIR)tout.txt
+$(GEXFDIR)/mpt.gexf: tei_to_gexf.py $(CRANMPT:%=$(XMLDIR)%.xml)
+	tei_to_gexf.py $(CRANMPT:%=$(XMLDIR)%.xml) > $@
+
+all: $(CRANMPT:%=$(XMLDIR)%.xml) $(TXTDIR)tout.txt $(GEXFDIR)/mpt.gexf
 
 $(TXTDIR)tout.txt: $(CRANMPT:%=$(TXTDIR)%.txt)
 	cat $$(ls $(TXTDIR)2013*.txt |sort) >$(TXTDIR)tout.txt
