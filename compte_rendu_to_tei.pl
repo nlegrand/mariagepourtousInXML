@@ -69,6 +69,7 @@ sub print_body {
 	    }
 	    my $intervention_type = "";
 	    my $intervention_id = "";
+	    my $political_group = "";
 	    if ($intervenant =~ /président/) {
 		$intervention_type = "régulation";
 	    } elsif (m!<a name="(INTER_[0-9]+)"></a>!) {
@@ -80,11 +81,11 @@ sub print_body {
 	    } else {
 		$intervention_type = "interruption";
 	    }
-	    if ($intervention_type && $intervention_id) {
+	    if ($intervention_type && $intervenant_id) {
 		if ($deputes_id->{$intervenant_id}{'groupe'}) {
-		    $intervention_type =
-			encode("utf8", $deputes_id->{$intervenant_id}{'groupe'})
-			. " " . $intervention_type ;
+		    $political_group = "n=\""
+			. encode("utf8", $deputes_id->{$intervenant_id}{'groupe'})
+			. "\"";
 		}
 	    }
 	    clean_entities(\$intervenant);
@@ -94,7 +95,7 @@ sub print_body {
 	    } else {
 		$sp_state = "open";
 	    }
-	    print "\n<sp who=\"$intervenant\" n=\"$intervention_type\" $intervention_id>\n";
+	    print "\n<sp who=\"$intervenant\" ana=\"$intervention_type\" $political_group $intervention_id>\n";
 	    print "  <speaker>$intervenant$titre</speaker>\n";
 	    print "  <p>$intervention</p>\n";
 	} elsif (m!^<p>(.*?)</p>!) {
