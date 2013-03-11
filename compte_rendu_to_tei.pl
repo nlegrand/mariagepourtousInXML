@@ -72,7 +72,7 @@ sub print_body {
 	    my $political_group = "";
 	    if ($intervenant =~ /président/) {
 		$intervention_type = "régulation";
-	    } elsif (m!<a name="(INTER_[0-9]+)"></a>!) {
+	    } elsif (m!<a name="(INTER_(?:MINISTRE_ADT_|ADT_){0,1}[0-9]+)"></a>!) {
 		$intervention_id = "corresp=\"http://www.assemblee-nationale.fr/14/cri/2012-2013/$official_id#$1\"";
 		$intervention_type = "intervention";
 		$last_intervenant = $intervenant;
