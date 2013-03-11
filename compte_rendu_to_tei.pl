@@ -95,6 +95,8 @@ sub print_body {
 	    } else {
 		$sp_state = "open";
 	    }
+	    $intervenant =~ s/(?:M\.|Mme) //;
+	    $intervenant =~ s/[\.,]//g;
 	    print "\n<sp who=\"$intervenant\" ana=\"$intervention_type\" $political_group $intervention_id>\n";
 	    print "  <speaker>$intervenant$titre</speaker>\n";
 	    print "  <p>$intervention</p>\n";
