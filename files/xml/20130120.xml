@@ -43,8 +43,8 @@
 <p></p>
 <p>Présidence de M. Claude Bartolone</p>
 
-<sp who="M. le président" ana="régulation"  >
-  <speaker>M. le président</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p>. La séance est ouverte.</p>
 <p>(La séance est ouverte à quinze heures.)</p>
 <p></p>
@@ -55,8 +55,8 @@
 <div>
 <head>Questions au Gouvernement</head>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> L'ordre du jour appelle les questions au Gouvernement.</p>
 <p>Nous commençons par une question du groupe de l'Union pour un mouvement populaire.</p>
 </sp>
@@ -66,8 +66,8 @@
 <div>
 <head>Circulaire de la garde des sceaux</head>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à M. Jean-François Copé. (Applaudissements sur les bancs du groupe UMP.)</p>
 
 </sp>
@@ -94,14 +94,14 @@
 
 </sp>
 
-<sp who="De nombreux députés du groupe SRC." ana="interruption"  >
-  <speaker>De nombreux députés du groupe SRC.</speaker>
+<sp who="De nombreux députés du groupe SRC" ana="interruption"  >
+  <speaker>De nombreux députés du groupe SRC</speaker>
   <p> Non !</p>
 
 </sp>
 
-<sp who="De nombreux députés du groupe UMP." ana="interruption"  >
-  <speaker>De nombreux députés du groupe UMP.</speaker>
+<sp who="De nombreux députés du groupe UMP" ana="interruption"  >
+  <speaker>De nombreux députés du groupe UMP</speaker>
   <p> Si !</p>
 
 </sp>
@@ -116,15 +116,15 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à Mme la garde des sceaux, ministre de la justice. (Vives protestations et huées sur les bancs du groupe UMP. – Applaudissements sur les bancs des groupes SRC, écologiste et RRDP, les députés socialistes se levant.)</p>
 <p>Mes chers collègues, écoutez la réponse...</p>
 
 </sp>
 
-<sp who="Mme Christiane Taubira," ana="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_1">
-  <speaker>Mme Christiane Taubira,, garde des sceaux, ministre de la justice.</speaker>
+<sp who="Christiane Taubira" ana="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_1">
+  <speaker>Christiane Taubira, garde des sceaux, ministre de la justice.</speaker>
   <p>Je vous rappelle, monsieur le député, que parmi les principes d'ordre public du droit français se trouve le principe d'indisponibilité du corps humain,...</p>
 
 </sp>
@@ -135,8 +135,8 @@
 
 </sp>
 
-<sp who="Mme Christiane Taubira," ana="intervention"  >
-  <speaker>Mme Christiane Taubira,, garde des sceaux.</speaker>
+<sp who="Christiane Taubira" ana="intervention"  >
+  <speaker>Christiane Taubira, garde des sceaux.</speaker>
   <p>...qui est inscrit à l'article 16 du code civil. Le Gouvernement s'est déjà prononcé sur ce point et vous me fournissez l'occasion de réaffirmer formellement ici qu'il est absolument opposé à la gestation pour autrui et n'ouvrira pas un tel droit. (Exclamations sur de nombreux bancs des groupes UMP et UDI. – Applaudissements sur de nombreux bancs du groupe SRC.)</p>
 
 </sp>
@@ -147,50 +147,50 @@
 
 </sp>
 
-<sp who="Mme Christiane Taubira," ana="intervention"  >
-  <speaker>Mme Christiane Taubira,, garde des sceaux.</speaker>
+<sp who="Christiane Taubira" ana="intervention"  >
+  <speaker>Christiane Taubira, garde des sceaux.</speaker>
   <p>La Cour de cassation, par trois arrêts datant d'avril 2011, a confirmé ce principe d'indisponibilité du corps humain, le Président de la République l'a réaffirmé, de même que le Premier ministre.</p>
 
 </sp>
 
-<sp who="De nombreux députés des groupes UMP et UDI." ana="interruption"  >
-  <speaker>De nombreux députés des groupes UMP et UDI.</speaker>
+<sp who="De nombreux députés des groupes UMP et UDI" ana="interruption"  >
+  <speaker>De nombreux députés des groupes UMP et UDI</speaker>
   <p> Pourquoi la circulaire ?</p>
 
 </sp>
 
-<sp who="Mme Christiane Taubira," ana="intervention"  >
-  <speaker>Mme Christiane Taubira,, garde des sceaux.</speaker>
+<sp who="Christiane Taubira" ana="intervention"  >
+  <speaker>Christiane Taubira, garde des sceaux.</speaker>
   <p>J'ai moi-même indiqué le 16 janvier devant la commission des lois que nous ne tolérerions pas la moindre éraflure à ce principe d'indisponibilité du corps humain.</p>
 
 </sp>
 
-<sp who="De nombreux députés des groupes UMP et UDI. " ana="interruption"  >
-  <speaker>De nombreux députés des groupes UMP et UDI. </speaker>
+<sp who="De nombreux députés des groupes UMP et UDI " ana="interruption"  >
+  <speaker>De nombreux députés des groupes UMP et UDI </speaker>
   <p>Et la circulaire ?</p>
 
 </sp>
 
-<sp who="Mme Christiane Taubira," ana="intervention"  >
-  <speaker>Mme Christiane Taubira,, garde des sceaux.</speaker>
+<sp who="Christiane Taubira" ana="intervention"  >
+  <speaker>Christiane Taubira, garde des sceaux.</speaker>
   <p>Les enfants concernés par la circulaire étaient au nombre de onze en 2012, de quarante-quatre entre 2008 et 2011. Cette circulaire porte, non pas sur l'état-civil, mais sur le constat de nationalité. (« Non ! » sur de nombreux bancs des groupes UMP et UDI.) La filiation de ces enfants est établie par document probant. Les juridictions délivrant le certificat de nationalité française dans certains cas et non dans d'autres, j'ai demandé aux greffiers en chef, étant donné que ce certificat de nationalité française est dû (Vives protestations sur de nombreux bancs des groupes UMP et UDI), de veiller à ce que, conformément à votre souci de l'intérêt supérieur des enfants (Nouvelles protestations sur les bancs des groupes UMP et UDI), dans une République qui veille à l'égalité, la justice traite les enfants de la même façon sur l'ensemble du territoire et leur délivre ce certificat de nationalité. (Applaudissements sur les bancs des groupes SRC, écologiste, RRDP et GDR, les députés des groupes SRC et écologiste se levant. – Huées sur les bancs des groupes UMP et UDI.)</p>
 
 </sp>
 
-<sp who="De nombreux députés du groupe UMP." ana="interruption"  >
-  <speaker>De nombreux députés du groupe UMP.</speaker>
+<sp who="De nombreux députés du groupe UMP" ana="interruption"  >
+  <speaker>De nombreux députés du groupe UMP</speaker>
   <p> Démission ! Démission !</p>
 
 </sp>
 
-<sp who="Plusieurs députés du groupe SRC." ana="interruption"  >
-  <speaker>Plusieurs députés du groupe SRC.</speaker>
+<sp who="Plusieurs députés du groupe SRC" ana="interruption"  >
+  <speaker>Plusieurs députés du groupe SRC</speaker>
   <p> Voyous !</p>
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> Soyez conscients, mes chers collègues, de l'image que nous donnons. Vous avez eu la réponse à votre question.</p>
 
 </sp>
@@ -205,8 +205,8 @@
 <div>
 <head>Refondation de l'école</head>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à M. Luc Belot, pour le groupe socialiste, républicain et citoyen.</p>
 
 </sp>
@@ -222,14 +222,14 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à M. le ministre de l'éducation nationale.</p>
 
 </sp>
 
-<sp who="M. Vincent Peillon," ana="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_3">
-  <speaker>M. Vincent Peillon,, ministre de l'éducation nationale.</speaker>
+<sp who="Vincent Peillon" ana="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_3">
+  <speaker>Vincent Peillon, ministre de l'éducation nationale.</speaker>
   <p>Monsieur le député, depuis la loi Jospin de 1989 et la loi Fillon de 2005, notre pays n'a pas assez débattu de l'école et n'a pas fixé ses grandes orientations. (« C'est faux ! » sur plusieurs bancs du groupe UMP.)</p>
 <p>Nos résultats ne sont pas bons, parce que nous nous heurtons à un plafond de verre – nous n'arrivons pas à augmenter le nombre des élèves atteignant le baccalauréat ou commençant des études supérieures –, parce que les inégalités augmentent et parce que les performances scolaires sont de moins en moins bonnes, tant selon les évaluations nationales qu'internationales. C'est un grand gâchis pour des individus, des enfants, des élèves, et c'est mauvais pour notre nation, en termes de compétitivité économique, de cohésion sociale, d'esprit civique.</p>
 <p>C'est pourquoi le Président de la République et le Premier ministre ont décidé de faire de l'école la priorité. J'espère donc que nous serons capables d'avoir un grand débat parlementaire autour de ces priorités que sont le primaire et les apprentissages fondamentaux pour tous les enfants de France, le rétablissement d'une formation initiale et continue des enseignants ainsi que de rythmes plus adaptés pour les élèves, l'entrée dans la modernité grâce à l'apprentissage d'une langue étrangère, la création d'un service public du numérique et, enfin, la possibilité – car les orientations subies sont trop nombreuses – de créer dans ce pays un service public territorialisé de l'orientation efficace et de réaliser un meilleur ajustement entre les études et les métiers.</p>
@@ -243,8 +243,8 @@
 
 </sp>
 
-<sp who="M. Vincent Peillon, " ana="interruption"  >
-  <speaker>M. Vincent Peillon, ,ministre.</speaker>
+<sp who="Vincent Peillon " ana="interruption"  >
+  <speaker>Vincent Peillon ,ministre.</speaker>
   <p>Notre grande tradition, c'est celle qui doit permettre de se rassembler autour de l'école, dans l'intérêt des élèves, qui est aussi l'intérêt de la France. Nous sommes prêts à mener ce grand débat parlementaire, et j'espère que le Parlement nous accompagnera tout au long des mois à venir pour améliorer encore ce projet de refondation. (Applaudissements sur les bancs du groupe SRC.)</p>
 </sp>
 </div>
@@ -253,8 +253,8 @@
 <div>
 <head>Gestation pour autrui</head>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à M. Jean-Christophe Fromantin, pour le groupe Union des démocrates et indépendants.</p>
 
 </sp>
@@ -281,41 +281,41 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à Mme la garde des sceaux, ministre de la justice. (Vives protestations sur les bancs des groupes UMP et UDI.)</p>
 <p>Mes chers collègues, c'est le Gouvernement qui désigne le ministre chargé de répondre à vos questions.</p>
 <p>Vous avez la parole, madame la garde des sceaux. (« Démission ! Démission ! » sur plusieurs bancs du groupe UMP.)</p>
 
 </sp>
 
-<sp who="Mme Christiane Taubira, " ana="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_5">
-  <speaker>Mme Christiane Taubira, ,garde des sceaux, ministre de la justice.</speaker>
+<sp who="Christiane Taubira " ana="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_5">
+  <speaker>Christiane Taubira ,garde des sceaux, ministre de la justice.</speaker>
   <p>Monsieur le député, il me faudra faire quelques efforts pour m'habituer à la nécessité de répéter constamment les mêmes réponses aux mêmes questions. (Exclamations sur les bancs du groupe UMP.)</p>
 
 </sp>
 
-<sp who="Plusieurs députés des groupes UMP et UDI." ana="interruption"  >
-  <speaker>Plusieurs députés des groupes UMP et UDI.</speaker>
+<sp who="Plusieurs députés des groupes UMP et UDI" ana="interruption"  >
+  <speaker>Plusieurs députés des groupes UMP et UDI</speaker>
   <p> Référendum !</p>
 
 </sp>
 
-<sp who="Mme Christiane Taubira, " ana="intervention"  >
-  <speaker>Mme Christiane Taubira, ,garde des sceaux.</speaker>
+<sp who="Christiane Taubira " ana="intervention"  >
+  <speaker>Christiane Taubira ,garde des sceaux.</speaker>
   <p>Mais cela permet au moins de démontrer la constance du Gouvernement et la rectitude de ses positions.</p>
 <p>Je rappelle simplement que la circulaire s'adresse aux greffiers en chef et qu'elle concerne un acte administratif. (« Non ! » sur les bancs des groupes UMP et UDI.)</p>
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> Mes chers collègues, écoutez la réponse de Mme la ministre, s'il vous plaît !</p>
 
 </sp>
 
-<sp who="Mme Christiane Taubira, " ana="intervention"  >
-  <speaker>Mme Christiane Taubira, ,garde des sceaux.</speaker>
+<sp who="Christiane Taubira " ana="intervention"  >
+  <speaker>Christiane Taubira ,garde des sceaux.</speaker>
   <p>Il ne s'agit pas d'un acte judiciaire. Cet acte administratif est fondé sur des documents établis sur la base du droit. Aussi suis-je étonnée que des législateurs, dont d'anciens ministres, familiers de la hiérarchie des normes, accoutumés à nos dispositifs juridiques et judiciaires, y compris de contestation, organisent délibérément l'amalgame, la confusion et le désarroi. Cela ne marchera pas souvent ! Cela ne marchera pas longtemps ! (Applaudissements sur les bancs des groupes SRC et écologiste. – « Répondez à la question ! » sur les bancs des groupes UMP et UDI.)</p>
 <p>Je me suis exprimée sur cette circulaire le 16 janvier : vous vous réveillez bien tard ! (Exclamations prolongées sur les bancs du groupe UMP.) Ceux qui étaient présents ont pu entendre très clairement la position du Gouvernement,...</p>
 
@@ -327,8 +327,8 @@
 
 </sp>
 
-<sp who="Mme Christiane Taubira, " ana="intervention"  >
-  <speaker>Mme Christiane Taubira, ,garde des sceaux.</speaker>
+<sp who="Christiane Taubira " ana="intervention"  >
+  <speaker>Christiane Taubira ,garde des sceaux.</speaker>
   <p>...au sujet de l'amendement qu'il a rejeté. Quant à ceux qui étaient absents, ils savent que la splendeur de votre maison consiste à retenir tous les propos qui y ont été prononcés.</p>
 
 </sp>
@@ -339,8 +339,8 @@
 
 </sp>
 
-<sp who="Mme Christiane Taubira, " ana="intervention"  >
-  <speaker>Mme Christiane Taubira, ,garde des sceaux.</speaker>
+<sp who="Christiane Taubira " ana="intervention"  >
+  <speaker>Christiane Taubira ,garde des sceaux.</speaker>
   <p>Le Gouvernement reste opposé à la GPA. Nous vous le répéterons aussi souvent que nécessaire. Cette circulaire concerne onze enfants pour l'année 2012. (Applaudissements sur les bancs des groupes SRC, écologiste, GDR et RRDP. – Protestations sur les bancs des groupes UMP et UDI.)</p>
 </sp>
 </div>
@@ -349,8 +349,8 @@
 <div>
 <head>Situation de l'entreprise Goodyear</head>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à Mme Barbara Pompili, pour le groupe écologiste.</p>
 
 </sp>
@@ -364,14 +364,14 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à M. le ministre du redressement productif.</p>
 
 </sp>
 
-<sp who="M. Arnaud Montebourg," ana="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_7">
-  <speaker>M. Arnaud Montebourg,, ministre du redressement productif.</speaker>
+<sp who="Arnaud Montebourg" ana="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_7">
+  <speaker>Arnaud Montebourg, ministre du redressement productif.</speaker>
   <p>Madame la députée, la question d'Amiens-Nord et du site de Goodyear est un dossier difficile et qui préoccupe, vous le savez, le Gouvernement. C'est un dossier au long cours. Goodyear a annoncé dès 2009 son intention de se désengager de l'activité de fabrication de pneumatiques pour les véhicules de tourisme et de céder la production de pneumatiques pour l'activité agricole à un repreneur nommé Titan. Ce dernier a repris l'intégralité dans le monde des activités agraires de Goodyear, à l'exception du site d'Amiens, qui est resté en discussion jusqu'au mois de juin.</p>
 <p>Les salariés, à travers leurs organisations syndicales, ont obtenu la suspension du plan social par deux fois, en 2009 et en 2011. Des points de vue qui étaient étrangers et éloignés se sont rapprochés.</p>
 
@@ -383,21 +383,21 @@
 
 </sp>
 
-<sp who="M. Arnaud Montebourg," ana="intervention"  >
-  <speaker>M. Arnaud Montebourg,, ministre.</speaker>
+<sp who="Arnaud Montebourg" ana="intervention"  >
+  <speaker>Arnaud Montebourg, ministre.</speaker>
   <p>Je crois que votre collègue Pascale Boistard, qui suit ce dossier, est parfaitement informée de ces difficultés.</p>
 <p>Ces points de vue se sont rapprochés au point que nous étions presque arrivés à un accord au mois de juin entre Goodyear, Titan et le personnel, mais un certain nombre d'engagements n'ont pu être obtenus, notamment sur le maintien de la production pendant un certain temps.</p>
 
 </sp>
 
-<sp who="Plusieurs députés du groupe UMP." ana="interruption"  >
-  <speaker>Plusieurs députés du groupe UMP.</speaker>
+<sp who="Plusieurs députés du groupe UMP" ana="interruption"  >
+  <speaker>Plusieurs députés du groupe UMP</speaker>
   <p> Zéro !</p>
 
 </sp>
 
-<sp who="M. Arnaud Montebourg," ana="intervention"  >
-  <speaker>M. Arnaud Montebourg,, ministre.</speaker>
+<sp who="Arnaud Montebourg" ana="intervention"  >
+  <speaker>Arnaud Montebourg, ministre.</speaker>
   <p>Le Gouvernement a reçu hier les dirigeants de Goodyear, notamment à mon ministère. Nous leur avons dit que nous souhaitions que Goodyear remette son poids dans la balance pour trouver une solution qui permette aussi à Amiens-Nord d'échapper à l'application d'un plan social. Nous préférons le plan de départs volontaires et la reprise par Titan, et nous avons repris contact avec ce dernier, de manière que les points de vue puissent évoluer encore. J'adresse un message à tout le monde : il est possible d'éviter le pire demain. (Applaudissements sur de nombreux bancs du groupe SRC et sur plusieurs bancs du groupe écologiste. – « Baratin ! » sur les bancs du groupe UMP.)</p>
 </sp>
 </div>
@@ -406,8 +406,8 @@
 <div>
 <head>Restructuration de la Banque de France</head>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à Mme Carole Delga, pour le groupe socialiste, républicain et citoyen.</p>
 
 </sp>
@@ -419,8 +419,8 @@
 
 </sp>
 
-<sp who="Un député du groupe UMP." ana="interruption"  >
-  <speaker>Un député du groupe UMP.</speaker>
+<sp who="Un député du groupe UMP" ana="interruption"  >
+  <speaker>Un député du groupe UMP</speaker>
   <p> Eh oui !</p>
 
 </sp>
@@ -433,27 +433,27 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à M. le ministre délégué chargé de l'économie sociale et solidaire et de la consommation.</p>
 
 </sp>
 
-<sp who="M. Benoît Hamon," ana="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_9">
-  <speaker>M. Benoît Hamon,, ministre délégué chargé de l'économie sociale et solidaire et de la consommation.</speaker>
+<sp who="Benoît Hamon" ana="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_9">
+  <speaker>Benoît Hamon, ministre délégué chargé de l'économie sociale et solidaire et de la consommation.</speaker>
   <p>Madame la députée, je vais au préalable vous demander d'excuser mon collègue Pierre Moscovici, retenu au Palais de l'Élysée. (Exclamations sur les bancs du groupe UMP.)</p>
 <p>Les priorités du Gouvernement consistent, vous le savez, à moderniser l'action publique tout en combinant celle-ci avec la nécessité de l'adapter aux besoins et de maintenir une haute qualité de service public. C'est notamment le cas de la Banque de France, une autorité indépendante mais à laquelle l'État a délégué la gestion de dossiers de surendettement, dont vous avez rappelé qu'ils étaient nombreux – autour de 200 000 cette année. Le nombre de dossiers susceptibles d'être gérés pourra encore croître demain dès lors que, sous l'autorité du Président de la République et du Premier ministre, nous mettrons en œuvre le Registre national du crédit. (Exclamations sur les bancs du groupe UMP.)</p>
 
 </sp>
 
-<sp who="De nombreux députés du groupe UMP." ana="interruption"  >
-  <speaker>De nombreux députés du groupe UMP.</speaker>
+<sp who="De nombreux députés du groupe UMP" ana="interruption"  >
+  <speaker>De nombreux députés du groupe UMP</speaker>
   <p>Allô ! Allô !</p>
 
 </sp>
 
-<sp who="M. Benoît Hamon," ana="intervention"  >
-  <speaker>M. Benoît Hamon,, ministre délégué.</speaker>
+<sp who="Benoît Hamon" ana="intervention"  >
+  <speaker>Benoît Hamon, ministre délégué.</speaker>
   <p>Ces défis ont poussé la Banque de France à engager une réflexion sur son organisation. Ainsi, le gouverneur Noyer a présenté, lors du comité central d'entreprise du 21 septembre dernier, un plan de réorganisation qui fait aujourd'hui l'objet d'une consultation.</p>
 <p>En tant qu'actionnaire, l'État est particulièrement attentif à deux principes.</p>
 <p>Tout d'abord, le principe du maintien d'une couverture géographique robuste, notamment par la présence d'au moins une succursale de la Banque de France dans chaque département. Le Gouvernement est attentif à ce que cette règle prenne en compte, comme vous l'avez demandé, la réalité du terrain afin que l'accueil des surendettés soit possible au plus près, dans les succursales et les bureaux d'accueil. (« Allô ! Allô ! » sur les bancs du groupe UMP.) C'est pourquoi il est important que plusieurs implantations continuent à exister là où les conditions géographiques ou économiques le justifient.</p>
@@ -461,8 +461,8 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à M. François de Mazières, pour le groupe de l'Union pour un mouvement populaire</p>
 
 </sp>
@@ -488,8 +488,8 @@
 
 </sp>
 
-<sp who="De nombreux députés du groupe SRC." ana="interruption"  >
-  <speaker>De nombreux députés du groupe SRC.</speaker>
+<sp who="De nombreux députés du groupe SRC" ana="interruption"  >
+  <speaker>De nombreux députés du groupe SRC</speaker>
   <p> Oui !</p>
 
 </sp>
@@ -500,8 +500,8 @@
 
 </sp>
 
-<sp who="De nombreux députés du groupe SRC." ana="interruption"  >
-  <speaker>De nombreux députés du groupe SRC.</speaker>
+<sp who="De nombreux députés du groupe SRC" ana="interruption"  >
+  <speaker>De nombreux députés du groupe SRC</speaker>
   <p> Non !</p>
 
 </sp>
@@ -512,14 +512,14 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à Mme la garde des sceaux, ministre de la justice. (Exclamations sur les bancs du groupe UMP.)</p>
 
 </sp>
 
-<sp who="Mme Christiane Taubira," ana="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_11">
-  <speaker>Mme Christiane Taubira,, garde des sceaux, ministre de la justice.</speaker>
+<sp who="Christiane Taubira" ana="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_11">
+  <speaker>Christiane Taubira, garde des sceaux, ministre de la justice.</speaker>
   <p>Monsieur de Mazières, le Premier ministre s'est très clairement exprimé il y a quelques semaines à propos de la PMA. (Exclamations sur les bancs du groupe UMP.) J'ai constaté que vous et vos collègues n'entendez pas, ne lisez pas, et que, par conséquent, vous me demandez peut-être un exploit au-dessus de mes forces.</p>
 
 </sp>
@@ -530,8 +530,8 @@
 
 </sp>
 
-<sp who="Mme Christiane Taubira," ana="intervention"  >
-  <speaker>Mme Christiane Taubira,, garde des sceaux.</speaker>
+<sp who="Christiane Taubira" ana="intervention"  >
+  <speaker>Christiane Taubira, garde des sceaux.</speaker>
   <p>J'ai d'ailleurs noté dans votre tribune, monsieur de Mazières, que j'avais été hissée au rang d'éminente juriste huit mois après avoir été ignorante de toute question relative au droit. Je trouve que c'est un bel encouragement pour les étudiants en droit dans ce pays ! (Applaudissements sur les bancs des groupes SRC, écologiste, RRDP et GDR.)</p>
 <p>Je vais donc répéter que le chef du Gouvernement s'est très clairement exprimé sur le sujet. Nous débattons, depuis hier, de la loi qui ouvre le mariage et l'adoption aux couples de même sexe, donc du code civil, et nous allons poursuivre nos travaux pendant deux semaines, week-ends compris, vous le savez. Mais j'ai compris qu'il faut répéter sans cesse, et je m'y contrains donc. (Exclamations sur les bancs du groupe UMP.)</p>
 
@@ -543,32 +543,32 @@
 
 </sp>
 
-<sp who="Mme Christiane Taubira," ana="intervention"  >
-  <speaker>Mme Christiane Taubira,, garde des sceaux.</speaker>
+<sp who="Christiane Taubira" ana="intervention"  >
+  <speaker>Christiane Taubira, garde des sceaux.</speaker>
   <p>S'agissant de la fraternité, monsieur de Mazières, le Gouvernement en donne la preuve au quotidien.</p>
 
 </sp>
 
-<sp who="Plusieurs députés du groupe UMP." ana="interruption"  >
-  <speaker>Plusieurs députés du groupe UMP.</speaker>
+<sp who="Plusieurs députés du groupe UMP" ana="interruption"  >
+  <speaker>Plusieurs députés du groupe UMP</speaker>
   <p> Oui ou non ?</p>
 
 </sp>
 
-<sp who="Mme Christiane Taubira," ana="intervention"  >
-  <speaker>Mme Christiane Taubira,, garde des sceaux.</speaker>
+<sp who="Christiane Taubira" ana="intervention"  >
+  <speaker>Christiane Taubira, garde des sceaux.</speaker>
   <p>Je vous invite à vous intéresser aux travaux, au cours desquels le Gouvernement s'exprima très longuement. (Vives exclamations sur les bancs du groupe UMP.) Ce texte est passé en commission des lois ; il fait son parcours au Parlement ; la loi qui en sortira sera issue d'un travail parlementaire ; par conséquent, c'est bien la voix du Parlement qui en sera sortie.</p>
 
 </sp>
 
-<sp who="Plusieurs députés du groupe UMP." ana="interruption"  >
-  <speaker>Plusieurs députés du groupe UMP.</speaker>
+<sp who="Plusieurs députés du groupe UMP" ana="interruption"  >
+  <speaker>Plusieurs députés du groupe UMP</speaker>
   <p> Oui ou non ?</p>
 
 </sp>
 
-<sp who="Mme Christiane Taubira," ana="intervention"  >
-  <speaker>Mme Christiane Taubira,, garde des sceaux.</speaker>
+<sp who="Christiane Taubira" ana="intervention"  >
+  <speaker>Christiane Taubira, garde des sceaux.</speaker>
   <p>Quant aux maires de France, ils sont républicains. Ils appliqueront le droit. (Applaudissements sur les bancs du groupe SRC. – Protestations sur les bancs du groupe UMP.)</p>
 </sp>
 </div>
@@ -577,8 +577,8 @@
 <div>
 <head>Situation de la pêche française</head>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à M. Gwendal Rouillard, pour le groupe socialiste, républicain et citoyen.</p>
 
 </sp>
@@ -589,8 +589,8 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> Venez-en à votre question, monsieur le député.</p>
 
 </sp>
@@ -615,8 +615,8 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à M. le ministre délégué chargé des transports, de la mer et de la pêche.</p>
 
 </sp>
@@ -635,8 +635,8 @@
 <div>
 <head>Sécurité des pilules contraceptives</head>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à Mme Bérengère Poletti, pour le groupe de l'Union pour un mouvement populaire.</p>
 
 </sp>
@@ -652,14 +652,14 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à Mme la ministre des affaires sociales et de la santé.</p>
 
 </sp>
 
-<sp who="Mme Marisol Touraine," ana="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_15">
-  <speaker>Mme Marisol Touraine,, ministre des affaires sociales et de la santé.</speaker>
+<sp who="Marisol Touraine" ana="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_15">
+  <speaker>Marisol Touraine, ministre des affaires sociales et de la santé.</speaker>
   <p>Madame la députée, la contraception est l'un des grands acquis des dernières décennies. Il faut être attentif, en cette période, à ne pas lever la suspicion sur la contraception, sur l'ensemble des pilules. Ma responsabilité, comme celle du Gouvernement, est de faire que les femmes soient assurées de pouvoir compter sur la bonne prescription de contraception au bon moment de leur vie.</p>
 <p>C'est pourquoi, pour éviter toute inquiétude exagérée et tout mouvement de panique, j'ai mis en place un centre avec un numéro d'appel gratuit que les femmes peuvent appeler – elles sont d'ailleurs très nombreuses à le faire – pour recevoir une information objective et transparente concernant leur situation.</p>
 <p>Les femmes qui prennent une pilule de troisième ou de quatrième génération ne doivent pas interrompre brutalement leur traitement ; elles doivent consulter un médecin et déterminer avec lui la manière de poursuivre leur contraception.</p>
@@ -673,8 +673,8 @@
 
 </sp>
 
-<sp who="Mme Marisol Touraine," ana="intervention"  >
-  <speaker>Mme Marisol Touraine,, ministre.</speaker>
+<sp who="Marisol Touraine" ana="intervention"  >
+  <speaker>Marisol Touraine, ministre.</speaker>
   <p>C'est parce que cette pilule a été prescrite en dehors de son autorisation de mise sur le marché que l'Agence nationale de sécurité du médicament a pris la décision de suspendre cette AMM pour trois mois. Les femmes qui prennent actuellement une pilule Diane 35 doivent pouvoir prendre un rendez-vous avec leur professionnel de santé pour faire évoluer leur contraception.</p>
 <p>Comme vous, madame la députée, je suis attentive à ce que les femmes soient assurées dans la contraception à laquelle elles ont droit. (Applaudissements sur les bancs du groupe SRC.)</p>
 </sp>
@@ -684,8 +684,8 @@
 <div>
 <head>Loi bancaire</head>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à Mme Marie Récalde, pour le groupe socialiste, républicain et citoyen.</p>
 
 </sp>
@@ -703,8 +703,8 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à M. le ministre délégué chargé de l'économie sociale et solidaire et de la consommation (« Ah ! » sur les bancs du groupe UMP.)</p>
 
 </sp>
@@ -715,8 +715,8 @@
 
 </sp>
 
-<sp who="M. Benoît Hamon," ana="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_17">
-  <speaker>M. Benoît Hamon,, ministre délégué chargé de l'économie sociale et solidaire et de la consommation.</speaker>
+<sp who="Benoît Hamon" ana="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_17">
+  <speaker>Benoît Hamon, ministre délégué chargé de l'économie sociale et solidaire et de la consommation.</speaker>
   <p>Monsieur le président, madame la députée, mesdames et messieurs les députés, avec la réforme bancaire, la France sera la première en Europe à mettre en place une réforme complète touchant la structure des banques.</p>
 <p>Cette réforme, c'est la réponse de la gauche et des socialistes à la crise financière de 2008. (Applaudissements sur les bancs du groupe SRC. – Exclamations sur les bancs du groupe UMP.) Le projet de loi protège les dépôts des épargnants, s'attaque aux activités spéculatives des banques et instaure un contrôle préventif des risques au sein des banques et du système financier dans son ensemble.</p>
 <p>Mais ce n'est pas tout. Le Gouvernement a tenu à ce que le projet de loi contienne des mesures de protection des consommateurs qui soient conséquentes. Quelques exemples : elles concernent bien sûr les commissions d'intervention, ces frais que chacun d'entre nous connaît ou a bien connu et qui peuvent très rapidement se multiplier ; le droit au compte et à des services bancaires de base pour les populations les plus fragiles ; la simplification des procédures de gestion du surendettement ; l'assurance emprunteur afin de renforcer l'information et la concurrence au bénéfice des Français ; l'égalité entre les femmes et les hommes en matière de tarifs et de prestations d'assurance.</p>
@@ -729,8 +729,8 @@
 <div>
 <head>Réforme des rythmes scolaires</head>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à M. Alain Marty, pour le groupe de l'Union pour un mouvement populaire.</p>
 
 </sp>
@@ -759,14 +759,14 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à M. le ministre de l'éducation nationale.</p>
 
 </sp>
 
-<sp who="M. Vincent Peillon," ana="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_19">
-  <speaker>M. Vincent Peillon,, ministre de l'éducation nationale.</speaker>
+<sp who="Vincent Peillon" ana="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_19">
+  <speaker>Vincent Peillon, ministre de l'éducation nationale.</speaker>
   <p>Monsieur le député, la concertation, vous le savez, a duré plusieurs mois.</p>
 
 </sp>
@@ -777,14 +777,14 @@
 
 </sp>
 
-<sp who="Plusieurs députés du groupe UMP." ana="interruption"  >
-  <speaker>Plusieurs députés du groupe UMP.</speaker>
+<sp who="Plusieurs députés du groupe UMP" ana="interruption"  >
+  <speaker>Plusieurs députés du groupe UMP</speaker>
   <p> Zéro !</p>
 
 </sp>
 
-<sp who="M. Vincent Peillon," ana="intervention"  >
-  <speaker>M. Vincent Peillon,, ministre.</speaker>
+<sp who="Vincent Peillon" ana="intervention"  >
+  <speaker>Vincent Peillon, ministre.</speaker>
   <p>Vous y avez participé (Exclamations sur les bancs du groupe UMP) et vous devez le dire et l'assumer devant les Français avec courage, et avec un peu de respect pour eux.</p>
 <p>Il y a d'abord eu la consultation nationale menée par mon prédécesseur, puis la grande concertation nationale...</p>
 
@@ -796,8 +796,8 @@
 
 </sp>
 
-<sp who="M. Vincent Peillon," ana="intervention"  >
-  <speaker>M. Vincent Peillon,, ministre. </speaker>
+<sp who="Vincent Peillon" ana="intervention"  >
+  <speaker>Vincent Peillon, ministre. </speaker>
   <p>#8230;qui a été ouverte par le Premier ministre et conclue par le Président de la République – un an de concertation. Vous avez présenté un certain nombre de demandes qui étaient légitimes : la première, comme vous le faites élégamment dans cette assemblée, concernait l'argent pour les collectivités locales. Un fonds, doté de 250 millions d'euros et qui prend en compte la différence entre communes riches et pauvres, a donc été créé. (« Zéro ! » sur de nombreux bancs des groupes UMP et UDI.)</p>
 <p>Une deuxième demande portait sur l'assouplissement des taux d'encadrement, en passant d'un taux de 10 à 14 pour les enfants de moins de six ans et de 14 à 18 pour les plus de six ans. Elle a été acceptée.</p>
 <p>Les enseignants ont demandé des modifications concernant l'organisation de leur service. Une négociation a eu lieu, saluée par les enseignants, sur les 108 heures supplémentaires.</p>
@@ -810,8 +810,8 @@
 
 </sp>
 
-<sp who="M. Vincent Peillon," ana="intervention"  >
-  <speaker>M. Vincent Peillon,, ministre.</speaker>
+<sp who="Vincent Peillon" ana="intervention"  >
+  <speaker>Vincent Peillon, ministre.</speaker>
   <p>La commission des normes du ministère de l'intérieur, au sein de laquelle les élus locaux sont représentés, a approuvé la semaine dernière par huit voix contre deux notre principe d'organisation.</p>
 <p>Si c'est vraiment l'intérêt des enfants qui vous guide (Vives exclamations sur les bancs du groupe UMP), si vous partagez la nécessité de revenir sur cette exception française délétère, nous entrons maintenant dans la phase de concertation sur le terrain qui va durer plusieurs mois et exige l'implication de tous. Cela suppose d'abord de dire la vérité. Faites un effort pour connaître et diffuser la réforme ! C'est aussi votre mission de législateur que de penser à la loi, c'est-à-dire à l'intérêt général, et non pas seulement de représenter des intérêts particuliers. (Protestations sur les bancs du groupe UMP.)</p>
 </sp>
@@ -821,8 +821,8 @@
 <div>
 <head>Défiscalisation outre-mer</head>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à M. Bruno Nestor Azerot, pour le groupe de la Gauche démocrate et républicaine.</p>
 
 </sp>
@@ -837,14 +837,14 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à M. le ministre des outre-mer.</p>
 
 </sp>
 
-<sp who="M. Victorin Lurel," ana="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_21">
-  <speaker>M. Victorin Lurel,, ministre des outre-mer.</speaker>
+<sp who="Victorin Lurel" ana="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_21">
+  <speaker>Victorin Lurel, ministre des outre-mer.</speaker>
   <p>Je commence, monsieur le député, par vous rassurer : les outre-mer auront les moyens nécessaires à leur développement.</p>
 <p>La décision du Conseil constitutionnel ne remet pas en cause le principe du plafonnement différencié pour le dispositif incitatif aux investissements outre-mer, autrement dit la défiscalisation outre-mer, mais elle en entame très sérieusement l'efficacité, en remettant en cause la part proportionnelle, égale à 4 % du revenu imposable. Le Gouvernement en a pris acte. Je tiens à rassurer sur un autre point : les dossiers déposés avant le 31 décembre 2012, qui représentent un volume important, ne sont pas affectés.</p>
 <p>Il y a là un vrai problème, je le reconnais, pour les dossiers qui seront déposés au titre de cette année, en particulier pour les dossiers dits de plein droit. Sitôt la décision rendue, le Premier ministre en a pris acte et a décidé que les outre-mer ne bénéficieront pas d'un euro de moins. Le Président de la République a confirmé cet arbitrage dans ses vœux aux outre-mer, le 3 janvier dernier. Pour être très clair, s'agissant du logement social, à la suite de l'arbitrage rendu par M. le Premier ministre, les porteurs de projets ont été invités à déposer ceux-ci en termes identiques, conformes, si je puis dire, aux conditions antérieures. Toute décision éventuelle de financement des investissements par la défiscalisation sera intégralement compensée.</p>
@@ -856,8 +856,8 @@
 <div>
 <head>Financement des retraites</head>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à M. Dominique Tian, pour le groupe de l'Union pour un mouvement populaire.</p>
 
 </sp>
@@ -885,14 +885,14 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à Mme la ministre des affaires sociales et de la santé.</p>
 
 </sp>
 
-<sp who="Mme Marisol Touraine," ana="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_23">
-  <speaker>Mme Marisol Touraine,, ministre des affaires sociales et de la santé.</speaker>
+<sp who="Marisol Touraine" ana="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_23">
+  <speaker>Marisol Touraine, ministre des affaires sociales et de la santé.</speaker>
   <p>Effectivement, monsieur le député, le Conseil d'orientation des retraites a rendu deux rapports qui montrent, d'une part, que l'équilibre financier d'ici à 2020, contrairement à ce que vous aviez affirmé et assuré lors de la réforme de 2010, ne sera pas atteint (Applaudissements sur les bancs du groupe SRC. – Exclamations sur les bancs du groupe UMP), ce qui nous amènera à prendre un certain nombre de décisions, et, d'autre part, que la solidarité doit être revue pour que la situation de certains salariés soit améliorée. On peut parler, par exemple, de la situation des femmes, dont nous savons qu'elles touchent une retraite inférieure de 40 % en moyenne à celle des hommes, ce qui appelle aussi un certain nombre de mesures.</p>
 <p>De leur côté, les partenaires sociaux ont engagé une discussion qui les amènera, de manière souveraine puisque le Gouvernement n'a pas à interférer avec leur négociation, à prendre les mesures utiles et nécessaires pour garantir dans la durée ces régimes complémentaires.</p>
 <p>Pour ce qui le concerne, le Gouvernement va engager une concertation. (« Ah ! » sur les bancs du groupe UMP.) Je tiens à vous le dire, monsieur le député : pour nous, la retraite par répartition est un acquis qu'il faut sauvegarder (Même mouvement), et la notion de solidarité doit rester le socle de notre système de retraite. C'est la raison pour laquelle nous avons voulu que la justice soit au rendez-vous, en donnant à celles et ceux qui ont accompli l'intégralité de leur durée de travail et de cotisation la possibilité de partir à la retraite dès l'âge de soixante ans. Le Gouvernement va avancer avec responsabilité et justice là où vous avez échoué, puisque vous avez, vous, su concilier l'injustice de vos mesures avec l'irresponsabilité financière. (Exclamations sur les bancs du groupe UMP.) Ce n'est pas la voie que nous choisissons. (Applaudissements sur les bancs du groupe SRC.)</p>
@@ -903,8 +903,8 @@
 <div>
 <head>Contraception</head>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à Mme Marie-Françoise Clergeau, pour le groupe socialiste, républicain et citoyen.</p>
 
 </sp>
@@ -923,14 +923,14 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à Mme la ministre des affaires sociales et de la santé.</p>
 
 </sp>
 
-<sp who="Mme Marisol Touraine, " ana="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_25">
-  <speaker>Mme Marisol Touraine, ,ministre des affaires sociales et de la santé.</speaker>
+<sp who="Marisol Touraine " ana="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_25">
+  <speaker>Marisol Touraine ,ministre des affaires sociales et de la santé.</speaker>
   <p>Madame la députée, vous avez profondément raison de souligner le fait que la contraception a constitué une avancée remarquable et formidable pour l'ensemble des femmes et des couples. Il est donc absolument nécessaire de garantir à toutes les femmes un accès à une juste contraception, à la pilule qui leur convient. Il faut en effet qu'elles puissent choisir leur pilule dans les meilleures conditions de sécurité.</p>
 <p>Je n'ai pas attendu pour prendre un certain nombre de décisions qui s'imposaient. Dès septembre dernier, j'ai annoncé le déremboursement des pilules de troisième et quatrième générations. Dans le même temps, j'ai informé l'ensemble des professionnels de santé concernés qu'il s'agissait de prescrire en seconde intention, et non pas systématiquement, ces pilules. Comme j'ai eu l'occasion de le dire, j'ai saisi l'Agence européenne des médicaments de cette question, afin qu'elle puisse revoir les conditions de mise sur le marché des pilules de troisième et quatrième générations. Je me réjouis qu'elle se soit saisie rapidement de la demande du gouvernement français.</p>
 <p>Vous avez raison, madame la députée : au-delà de ces mesures, il nous faut garantir durablement la sécurité des femmes. Cela passe par une information pertinente et transparente, et par un renforcement des vigilances. Dans cette perspective, la Haute autorité de santé remettra à la fin du mois de mars des recommandations pour que la contraception soit adaptée aux femmes. Elle définira les conditions dans lesquelles les différents modes de contraception peuvent être prescrits. J'ai demandé que des propositions soient faites pour améliorer la vigilance dans le cadre de l'Agence de sécurité du médicament, puisque nous devons – à l'évidence – garantir la sécurité à l'ensemble des femmes. (Applaudissements sur les bancs du groupe SRC.)</p>
@@ -941,8 +941,8 @@
 <div>
 <head>Dette sociale des entreprises outre-mer</head>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à M. Ary Chalus, pour le groupe radical, républicain, démocrate et progressiste.</p>
 
 </sp>
@@ -957,14 +957,14 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à Mme la ministre des affaires sociales et de la santé.</p>
 
 </sp>
 
-<sp who="Mme Marisol Touraine, " ana="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_27">
-  <speaker>Mme Marisol Touraine, ,ministre des affaires sociales et de la santé.</speaker>
+<sp who="Marisol Touraine " ana="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_27">
+  <speaker>Marisol Touraine ,ministre des affaires sociales et de la santé.</speaker>
   <p>Monsieur le député, le Gouvernement ne méconnaît bien évidemment pas les difficultés économiques de l'outre-mer. Pour autant, comme vous l'avez d'ailleurs souligné vous-même, la régularité du paiement des cotisations sociales dues par les entreprises doit demeurer la règle. Il en va de l'avenir de notre protection sociale, et de notre capacité à assurer son financement à long terme. C'est la raison pour laquelle nous ne pouvons pas remettre en question ce financement. Le fait est qu'un certain nombre de mesures généralisées – moratoires ou apurements – ont déjà été prises par le passé, et n'ont pas donné les résultats attendus. Le bilan des mesures exceptionnelles prises en 2009 montre bien que les entreprises, en tablant sur des moratoires successifs, ne se mettent pas en situation de répondre à leurs obligations. La politique suivie a ainsi encouragé des comportements attentistes.</p>
 <p>C'est la raison pour laquelle il ne paraît pas souhaitable, ni sur le plan financier, ni sur le plan social, ni même sur le plan économique, de mettre en œuvre un nouveau dispositif généralisé. Nous devons appréhender la situation des entreprises au cas par cas, afin de tenir compte du contexte local. Le Gouvernement travaille donc en relation avec l'ACOSS et les caisses générales de sécurité sociale, pour leur donner les moyens d'action nécessaires. Il s'agit d'enclencher une spirale vertueuse permettant aux entreprises de respecter leurs obligations sociales tout en tenant compte de la réalité économique à laquelle elles sont actuellement confrontées. (Applaudissements sur les bancs du groupe SRC.)</p>
 </sp>
@@ -974,8 +974,8 @@
 <div>
 <head>Conseil national de la montagne</head>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à M. Martial Saddier, pour le groupe de l'Union pour un mouvement populaire.</p>
 
 </sp>
@@ -991,14 +991,14 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à Mme la ministre de l'égalité des territoires et du logement.</p>
 
 </sp>
 
-<sp who="Mme Cécile Duflot," ana="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_29">
-  <speaker>Mme Cécile Duflot,, ministre de l'égalité des territoires et du logement.</speaker>
+<sp who="Cécile Duflot" ana="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_29">
+  <speaker>Cécile Duflot, ministre de l'égalité des territoires et du logement.</speaker>
   <p>Monsieur le député, votre question est importante et vous avez raison d'alerter le Gouvernement, comme vous l'avez déjà fait avec délicatesse. Nous devons en effet renommer le CNM, et nous allons le faire avant le printemps.</p>
 <p>Vous avez raison de dire que nous devons traiter ces questions en amont. Aux sujets que vous avez évoqués, je voudrais ajouter, à la suite du rapport constitué par MM. les sénateurs Fichet et Morel, la question de la santé et de la présence médicale dans les zones de montagne. Dans l'esprit du Gouvernement, respecter l'égalité des territoires, c'est respecter leur diversité : aussi la question de la politique des zones de montagne est-elle décisive en cette période.</p>
 
@@ -1010,15 +1010,15 @@
 
 </sp>
 
-<sp who="Mme Cécile Duflot, " ana="interruption"  >
-  <speaker>Mme Cécile Duflot, ,ministre de l'égalité des territoires et du logement.</speaker>
+<sp who="Cécile Duflot " ana="interruption"  >
+  <speaker>Cécile Duflot ,ministre de l'égalité des territoires et du logement.</speaker>
   <p>Ce sujet, auquel j'ai déjà eu l'occasion de réagir dans le cadre de la préparation du prochain projet de loi, englobe des problèmes qui concernent tout particulièrement les territoires de montagne : le logement des saisonniers ou la question des unités touristiques nouvelles, sujets qui nécessitent une prise en compte particulière de la spécificité des zones de montagne, à laquelle les élus locaux sont les plus susceptibles d'apporter des réponses pertinentes.</p>
 <p>Vous pouvez donc compter sur le Gouvernement pour nommer un nouveau CNM et pour associer celui-ci à ses réflexions. (Applaudissements sur les bancs des groupes SRC et écologiste.)</p>
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> Nous avons terminé les questions au Gouvernement.</p>
 </sp>
 </div>
@@ -1027,15 +1027,15 @@
 <div>
 <head>Suspension et reprise de la séance</head>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La séance est suspendue.</p>
 <p>(La séance, suspendue à seize heures cinq, est reprise à seize heures vingt-cinq.)</p>
 
 </sp>
 
-<sp who="M. le président. " ana="régulation"  >
-  <speaker>M. le président. </speaker>
+<sp who="le président " ana="régulation"  >
+  <speaker>le président </speaker>
   <p>La séance est reprise.</p>
 <p></p>
 </sp>
@@ -1047,8 +1047,8 @@
 <p>Suite de la discussion d'un projet de loi</p>
 <p></p>
 
-<sp who="M. le président. " ana="régulation"  >
-  <speaker>M. le président. </speaker>
+<sp who="le président " ana="régulation"  >
+  <speaker>le président </speaker>
   <p>L'ordre du jour appelle la suite de la discussion du projet de loi ouvrant le mariage aux couples de personnes de même sexe (n°<sup>s </sup>344, 628, 581)</p>
 <p></p>
 </sp>
@@ -1058,8 +1058,8 @@
 <div>
 <head>Discussion générale (suite)</head>
 
-<sp who="M. le président. " ana="régulation"  >
-  <speaker>M. le président. </speaker>
+<sp who="le président " ana="régulation"  >
+  <speaker>le président </speaker>
   <p>Hier soir, l'Assemblée a commencé d'entendre les orateurs inscrits dans la discussion générale.</p>
 <p>La parole est à M. Bernard Accoyer.</p>
 
@@ -1157,8 +1157,8 @@
 
 </sp>
 
-<sp who="Un député du groupe UMP." ana="interruption"  >
-  <speaker>Un député du groupe UMP.</speaker>
+<sp who="Un député du groupe UMP" ana="interruption"  >
+  <speaker>Un député du groupe UMP</speaker>
   <p> C'est affligeant !</p>
 
 </sp>
@@ -1252,8 +1252,8 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> Il faut conclure, cher collègue.</p>
 
 </sp>
@@ -1276,8 +1276,8 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> S'il vous plaît, mes chers collègues, laissez l'orateur conclure !</p>
 
 </sp>
@@ -1300,8 +1300,8 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> Il faut conclure, monsieur l'orateur !</p>
 
 </sp>
@@ -1373,16 +1373,16 @@
 <div>
 <head>Motion référendaire</head>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> En application de l'article 122 du règlement, j'ai reçu de M. Christian Jacob et de cinquante-neuf de ses collègues une motion tendant à proposer de soumettre au référendum le projet en discussion.</p>
 <p>Je vais procéder à l'appel nominal des signataires dans l'ordre figurant sur la liste présentée à l'appui de la motion.</p>
 <p>(Il est procédé à l'appel nominal des signataires de la motion.)</p>
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> Acte est donné de la présence effective en séance des signataires de la motion.</p>
 <p>La parole est à M. Laurent Wauquiez, pour la présenter.</p>
 
@@ -1467,8 +1467,8 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> N'en rajoutez pas, monsieur Jacob, c'est suffisamment compliqué comme cela !</p>
 
 </sp>
@@ -1525,8 +1525,8 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> Vous aurez l'occasion de répondre ! Laissez parler l'orateur !</p>
 
 </sp>
@@ -1537,8 +1537,8 @@
 
 </sp>
 
-<sp who="M. le président. " ana="régulation"  >
-  <speaker>M. le président. </speaker>
+<sp who="le président " ana="régulation"  >
+  <speaker>le président </speaker>
   <p>Les orateurs des différents groupes pourront prendre la parole lors de l'explication de vote sur cette motion. Veuillez écouter l'orateur.</p>
 
 </sp>
@@ -1824,14 +1824,14 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à Mme la ministre déléguée chargée de la famille.</p>
 
 </sp>
 
-<sp who="Mme Dominique Bertinotti, " ana="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_32">
-  <speaker>Mme Dominique Bertinotti, ,ministre déléguée chargée de la famille.</speaker>
+<sp who="Dominique Bertinotti " ana="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_32">
+  <speaker>Dominique Bertinotti ,ministre déléguée chargée de la famille.</speaker>
   <p>Monsieur le président, mesdames et messieurs les députés, ce n'est pas une ministre terrorisée qui vous répond et je n'ai pas le sentiment que Mme Taubira le soit, non plus que les députés sur les bancs de la majorité. (Applaudissements sur les bancs du groupe SRC.)</p>
 <p>Les questions soulevées par M. Wauquiez ont au moins eu le mérite de faire émerger un consensus formidable : je n'ai jamais vu un tel hymne d'amour pour les homosexuels ! (Exclamations sur les bancs du groupe UMP.)</p>
 
@@ -1843,8 +1843,8 @@
 
 </sp>
 
-<sp who="Mme Dominique Bertinotti, " ana="intervention"  >
-  <speaker>Mme Dominique Bertinotti, ,ministre déléguée.</speaker>
+<sp who="Dominique Bertinotti " ana="intervention"  >
+  <speaker>Dominique Bertinotti ,ministre déléguée.</speaker>
   <p>Vous les aimez tellement que vous voulez pour eux un contrat d'union civile. Or le contrat d'union civile est une proposition de loi de 1992, présentée par Jean-Pierre Michel et Jean-Michel Belorgey. Il vous faut vingt ans pour y arriver. Nous allons beaucoup plus vite que vous, en effet ! (Applaudissements sur les bancs du groupe SRC.)</p>
 <p>Venons-en au référendum. Vous appelez à la tolérance mais la première des tolérances serait de respecter les 18 millions de voix qui se sont portées sur François Hollande le 6 mai, de respecter les millions de voix qui ont permis d'élire cette majorité. C'est cela aussi, le respect du peuple !</p>
 
@@ -1856,8 +1856,8 @@
 
 </sp>
 
-<sp who="Mme Dominique Bertinotti, " ana="intervention"  >
-  <speaker>Mme Dominique Bertinotti, ,ministre déléguée.</speaker>
+<sp who="Dominique Bertinotti " ana="intervention"  >
+  <speaker>Dominique Bertinotti ,ministre déléguée.</speaker>
   <p>C'est aussi le respect non pas d'une promesse, comme M. Bernard Accoyer l'a dit, mais d'un engagement, le trente-et-unième, qui faisait partie des soixante engagements de François Hollande, et je tiens à vous en rappeler le contenu : l'ouverture du mariage et de l'adoption aux couples de même sexe. Ce projet de la loi ne porte que sur l'ouverture du mariage et de l'adoption aux couples de même sexe, ne vous en déplaise. (Applaudissements sur les bancs du groupe SRC. – Exclamations sur les bancs du groupe UMP.)</p>
 
 </sp>
@@ -1868,14 +1868,14 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> Veuillez écouter Mme la ministre, s'il vous plaît.</p>
 
 </sp>
 
-<sp who="Mme Dominique Bertinotti, " ana="intervention"  >
-  <speaker>Mme Dominique Bertinotti, ,ministre déléguée.</speaker>
+<sp who="Dominique Bertinotti " ana="intervention"  >
+  <speaker>Dominique Bertinotti ,ministre déléguée.</speaker>
   <p>Le champ de l'article 11 de notre Constitution ne nous permet pas de soumettre ce type de question au référendum. Vous pouvez très bien parler d'argutie juridique, MM. Guy Carcassonne et Didier Maus apprécieront.</p>
 <p>Il n'en reste pas moins vrai que si vous aviez voulu que le référendum puisse porter sur ce type de question, vous seriez allés jusqu'au bout de la révision constitutionnelle de 2008 qui instituait un référendum d'initiative populaire, en prenant des mesures pour que la loi organique soit votée, et cette discussion n'aurait pas eu lieu.</p>
 <p>On voit bien de quelle façon vous cherchez à éluder le débat.</p>
@@ -1890,8 +1890,8 @@
 
 </sp>
 
-<sp who="Mme Dominique Bertinotti, " ana="intervention"  >
-  <speaker>Mme Dominique Bertinotti, ,ministre déléguée.</speaker>
+<sp who="Dominique Bertinotti " ana="intervention"  >
+  <speaker>Dominique Bertinotti ,ministre déléguée.</speaker>
   <p>Se retrouvent en revanche exclus du nouveau champ d'application le droit pénal, l'entrée et le séjour des étrangers en France, les libertés publiques, les prérogatives de police, la politique étrangère, la défense, la justice et le droit civil.</p>
 
 </sp>
@@ -1902,20 +1902,20 @@
 
 </sp>
 
-<sp who="Mme Dominique Bertinotti, " ana="intervention"  >
-  <speaker>Mme Dominique Bertinotti, ,ministre déléguée.</speaker>
+<sp who="Dominique Bertinotti " ana="intervention"  >
+  <speaker>Dominique Bertinotti ,ministre déléguée.</speaker>
   <p>Les deux motions que vous avez présentées hier ne sont, comme celle d'aujourd'hui, qu'un prétexte pour essayer d'enliser le débat sans le porter sur le contenu même du texte dont je répète qu'il ne concerne que l'ouverture du mariage et de l'adoption aux couples de même sexe. (Applaudissements sur les bancs des groupes SRC, GDR et écologiste.)</p>
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à Mme Christiane Taubira, garde des sceaux, ministre de la justice.</p>
 
 </sp>
 
-<sp who="Mme Christiane Taubira, " ana="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_33">
-  <speaker>Mme Christiane Taubira, ,garde des sceaux, ministre de la justice.</speaker>
+<sp who="Christiane Taubira " ana="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_33">
+  <speaker>Christiane Taubira ,garde des sceaux, ministre de la justice.</speaker>
   <p>Mme la ministre chargée de la famille vient de répondre aux questions d'ordre constitutionnel mais vous connaissez déjà parfaitement tout cela. Vous vous réclamez volontiers d'un courant de pensée politique qui a considéré le référendum comme un instrument de recours au peuple, mais en en définissant précisément le champ d'application. Je ne m'appesantirai pas sur la question.</p>
 <p>Vous connaissez aussi la tradition philosophique du droit français qui relève de Rousseau, avec le recours à la souveraineté populaire, mais aussi de Montesquieu, avec la démocratie représentative. Vous savez parfaitement que, dans l'histoire du droit et dans l'histoire des grandes politiques publiques, cette double filiation philosophique a toujours été respectée.</p>
 <p>Je m'arrêterai très brièvement sur les propos de M. Wauquiez et le réquisitoire qu'il a essayé de dresser contre moi y compris ad hominem, en m'attribuant des propos que je n'ai jamais tenus. Tout cela n'est pas très important et se reproduira sans doute fréquemment ces deux prochaines semaines. Je n'y répondrai pas forcément.</p>
@@ -1930,14 +1930,14 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> S'il vous plaît, M. Wauquiez a posé des questions, écoutez au moins les réponses !</p>
 
 </sp>
 
-<sp who="Mme Christiane Taubira, " ana="intervention"  >
-  <speaker>Mme Christiane Taubira, ,garde des sceaux.</speaker>
+<sp who="Christiane Taubira " ana="intervention"  >
+  <speaker>Christiane Taubira ,garde des sceaux.</speaker>
   <p>Vous le savez très bien, monsieur Wauquiez, l'arrêt de la Cour de cassation va exactement dans le même sens. J'y reviens pour éclairer la représentation nationale et les Français.</p>
 <p>Chaque année, 450 000 actes d'état civil sont enregistrés à l'étranger. Ils sont enregistrés dans nos consulats. Lorsqu'un consul a un doute sur l'enregistrement d'un acte, il le signale au ministère des affaires étrangères, qui en avertit le parquet de Nantes.</p>
 
@@ -1949,8 +1949,8 @@
 
 </sp>
 
-<sp who="Mme Christiane Taubira, " ana="intervention"  >
-  <speaker>Mme Christiane Taubira, ,garde des sceaux.</speaker>
+<sp who="Christiane Taubira " ana="intervention"  >
+  <speaker>Christiane Taubira ,garde des sceaux.</speaker>
   <p>Je comprends parfaitement que cela vous dérange profondément que je clarifie la situation.</p>
 <p>Reprenons : le consulat fait saisir le parquet et le parquet examine les cas. Sous le dernier quinquennat, entre 2008 et 2011, quarante-quatre cas ont été signalés au parquet parce que le consul soupçonnait une gestation pour autrui. Le doute a été confirmé pour 38 d'entre eux par décision du procureur de la République. Rendons hommage à la vigilance de nos consulats, qui repèrent ces cas de gestation pour autrui, les signalent et permettent ainsi au parquet d'accomplir son travail.</p>
 <p>Pour l'année 2012, les chiffres sortis en décembre font état de douze dossiers. Lorsque les contentieux sont différents, les décisions de justice sont différentes, mais les actes administratifs, fondés sur le droit, doivent être égaux et identiques dans toutes nos juridictions. Dans certaines juridictions, les greffes des tribunaux d'instance délivrent le certificat de nationalité française, qui n'est pas à attribuer puisque ces enfants sont Français du fait de leur filiation paternelle.</p>
@@ -1963,8 +1963,8 @@
 
 </sp>
 
-<sp who="Mme Christiane Taubira, " ana="intervention"  >
-  <speaker>Mme Christiane Taubira, ,garde des sceaux.</speaker>
+<sp who="Christiane Taubira " ana="intervention"  >
+  <speaker>Christiane Taubira ,garde des sceaux.</speaker>
   <p>Non, monsieur Wauquiez, ce n'en est pas une, quoi que vous disiez !</p>
 <p>Par cette circulaire, nous demandons aux greffiers que, sur la base du document d'état civil probant, ils délivrent le certificat national de nationalité française.</p>
 <p>Si dans deux semaines vous voulez nous reposer la question, par respect pour le Parlement, nous vous répondrons à nouveau.</p>
@@ -1978,28 +1978,28 @@
 
 </sp>
 
-<sp who="Mme Christiane Taubira, " ana="intervention"  >
-  <speaker>Mme Christiane Taubira, ,garde des sceaux.</speaker>
+<sp who="Christiane Taubira " ana="intervention"  >
+  <speaker>Christiane Taubira ,garde des sceaux.</speaker>
   <p>Posons des mots sur des sentiments et des comportements. Je maintiens mes propos : oui, il est hypocrite de faire semblant de ne pas voir ces familles homoparentales et ces milliers d'enfants qui sont exposés à un regard social réprobateur (Vifs applaudissements sur les bancs du groupe SRC.)</p>
 <p>Vous nous parlez des effets psychologiques sur les enfants, mais ces effets sont d'abord le fait du regard social, des discriminations, du rejet, du refus d'une citoyenneté ! (Les députés des groupes SRC, GDR et écologiste se lèvent et applaudissent).</p>
 <p>Alors, oui, nous le refusons. Je suis désolée de vous déplaire si, par hasard, il vous est arrivé de penser que je vous traitais d'hypocrites.</p>
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> Rasseyez-vous, mesdames et messieurs les députés.</p>
 
 </sp>
 
-<sp who="Mme Christiane Taubira, " ana="intervention"  >
-  <speaker>Mme Christiane Taubira, ,garde des sceaux.</speaker>
+<sp who="Christiane Taubira " ana="intervention"  >
+  <speaker>Christiane Taubira ,garde des sceaux.</speaker>
   <p>Vous nous parlez de l'intime mais, monsieur Wauquiez, en ce domaine, nous nous faisons un devoir de réfréner nos élans, nos sympathies, nos aversions, parce que nous statuons en droit. Il s'agit ici de droits et de libertés. (Applaudissements sur les bancs des groupes SRC, GDR et écologiste.)</p>
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à M. le président de la commission des lois constitutionnelles, de la législation et de l'administration générale de la République.</p>
 
 </sp>
@@ -2010,8 +2010,8 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> S'il vous plaît, un peu de calme !</p>
 
 </sp>
@@ -2022,8 +2022,8 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> Monsieur Jacob, je vous donnerai la parole quand M. Urvoas aura fini. (Exclamations et claquements de pupitres sur les bancs du groupe UMP. – M. Christian Jacob persiste à demander la parole.) L'orateur seul a la parole, monsieur Jacob, et vous le savez très bien. Vous l'aurez ensuite. (Nouvelles exclamations sur les bancs du groupe UMP.)</p>
 
 </sp>
@@ -2034,8 +2034,8 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> Monsieur Jacob, nous sommes dans le cadre des explications de vote. Il n'y a pas de rappel au règlement ni de suspension de séance une fois qu'un orateur a pris la parole.</p>
 <p>Veuillez poursuivre, monsieur le président de la commission !</p>
 
@@ -2125,8 +2125,8 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> Dans les explications de vote, la parole est à M. Bernard Roman, pour le groupe SRC.</p>
 
 </sp>
@@ -2141,8 +2141,8 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> Il faut conclure, monsieur Roman.</p>
 
 </sp>
@@ -2154,8 +2154,8 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à M. Jean-Frédéric Poisson, pour le groupe UMP.</p>
 
 </sp>
@@ -2171,8 +2171,8 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> Il faudrait conclure, monsieur Poisson !</p>
 
 </sp>
@@ -2185,8 +2185,8 @@
 
 </sp>
 
-<sp who="M. le président. " ana="régulation"  >
-  <speaker>M. le président. </speaker>
+<sp who="le président " ana="régulation"  >
+  <speaker>le président </speaker>
   <p>La parole est à M. Jean-Christophe Fromantin, pour le groupe Union des démocrates et indépendants.</p>
 
 </sp>
@@ -2198,15 +2198,15 @@
 
 </sp>
 
-<sp who="M. le président. " ana="régulation"  >
-  <speaker>M. le président. </speaker>
+<sp who="le président " ana="régulation"  >
+  <speaker>le président </speaker>
   <p>Sur la motion référendaire, je suis saisi par les groupes SRC et UMP d'une demande de scrutin public.</p>
 <p>Le scrutin est annoncé dans l'enceinte de l'Assemblée nationale.</p>
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à M. Noël Mamère.</p>
 
 </sp>
@@ -2219,8 +2219,8 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à M. Alain Tourret.</p>
 
 </sp>
@@ -2234,8 +2234,8 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à Mme Marie-George Buffet.</p>
 
 </sp>
@@ -2249,15 +2249,15 @@
 
 </sp>
 
-<sp who="M. le président. " ana="régulation"  >
-  <speaker>M. le président. </speaker>
+<sp who="le président " ana="régulation"  >
+  <speaker>le président </speaker>
   <p>Je mets aux voix la motion référendaire.</p>
 <p>(Il est procédé au scrutin.)</p>
 
 </sp>
 
-<sp who="M. le président. " ana="régulation"  >
-  <speaker>M. le président. </speaker>
+<sp who="le président " ana="régulation"  >
+  <speaker>le président </speaker>
   <p>Voici le résultat du scrutin sur la motion référendaire :</p>
 <p>Nombre de votants   483</p>
 <p>Nombre de suffrages exprimés   482</p>
@@ -2270,15 +2270,15 @@
 <div>
 <head>Suspension et reprise de la séance</head>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La séance est suspendue.</p>
 <p>(La séance, suspendue à dix-sept heures cinquante-cinq, est reprise à dix-huit heures dix.)</p>
 
 </sp>
 
-<sp who="M. le président. " ana="régulation"  >
-  <speaker>M. le président. </speaker>
+<sp who="le président " ana="régulation"  >
+  <speaker>le président </speaker>
   <p>La séance est reprise.</p>
 <p></p>
 </sp>
@@ -2288,8 +2288,8 @@
 <div>
 <head>Rappels au règlement</head>
 
-<sp who="M. le président. " ana="régulation"  >
-  <speaker>M. le président. </speaker>
+<sp who="le président " ana="régulation"  >
+  <speaker>le président </speaker>
   <p>La parole est à M. Christian Jacob, pour un rappel au règlement.</p>
 
 </sp>
@@ -2329,8 +2329,8 @@
 
 </sp>
 
-<sp who="M. le président. " ana="régulation"  >
-  <speaker>M. le président. </speaker>
+<sp who="le président " ana="régulation"  >
+  <speaker>le président </speaker>
   <p>La parole est à M. Alain Marty, pour un rappel au règlement.</p>
 
 </sp>
@@ -2341,8 +2341,8 @@
 
 </sp>
 
-<sp who="M. le président. " ana="régulation"  >
-  <speaker>M. le président. </speaker>
+<sp who="le président " ana="régulation"  >
+  <speaker>le président </speaker>
   <p>Très bien.</p>
 <p>La parole est à M. Claude Goasguen, pour un rappel au règlement.</p>
 
@@ -2369,8 +2369,8 @@
 
 </sp>
 
-<sp who="M. le président. " ana="régulation"  >
-  <speaker>M. le président. </speaker>
+<sp who="le président " ana="régulation"  >
+  <speaker>le président </speaker>
   <p>La parole est à M. Olivier Dussopt, pour un rappel au règlement.</p>
 
 </sp>
@@ -2420,8 +2420,8 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à M. Xavier Breton, pour un rappel au règlement.</p>
 
 </sp>
@@ -2438,8 +2438,8 @@
 
 </sp>
 
-<sp who="M. le président. " ana="régulation"  >
-  <speaker>M. le président. </speaker>
+<sp who="le président " ana="régulation"  >
+  <speaker>le président </speaker>
   <p>La parole est à M. Jean-Yves Le Bouillonnec, pour un rappel au règlement.</p>
 
 </sp>
@@ -2495,8 +2495,8 @@
 
 </sp>
 
-<sp who="M. le président. " ana="régulation"  >
-  <speaker>M. le président. </speaker>
+<sp who="le président " ana="régulation"  >
+  <speaker>le président </speaker>
   <p>La parole est à M. Laurent Wauquiez, pour un rappel au règlement.</p>
 
 </sp>
@@ -2535,8 +2535,8 @@
 
 </sp>
 
-<sp who="M. le président. " ana="régulation"  >
-  <speaker>M. le président. </speaker>
+<sp who="le président " ana="régulation"  >
+  <speaker>le président </speaker>
   <p>La parole est à M. Alain Claeys, pour un rappel au règlement.</p>
 
 </sp>
@@ -2671,8 +2671,8 @@
 
 </sp>
 
-<sp who="Plusieurs députés du groupe UMP." ana="interruption"  >
-  <speaker>Plusieurs députés du groupe UMP.</speaker>
+<sp who="Plusieurs députés du groupe UMP" ana="interruption"  >
+  <speaker>Plusieurs députés du groupe UMP</speaker>
   <p> Trois jours avant !</p>
 
 </sp>
@@ -2683,8 +2683,8 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à M. Philippe Gosselin.</p>
 
 </sp>
@@ -2733,8 +2733,8 @@
 
 </sp>
 
-<sp who="Un député du groupe SRC." ana="interruption"  >
-  <speaker>Un député du groupe SRC.</speaker>
+<sp who="Un député du groupe SRC" ana="interruption"  >
+  <speaker>Un député du groupe SRC</speaker>
   <p> Honte à vous !</p>
 
 </sp>
@@ -2745,8 +2745,8 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à M. Patrick Bloche, pour un dernier rappel au règlement – sinon, ce serait un détournement de la procédure.</p>
 
 </sp>
@@ -2820,8 +2820,8 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> J'ai laissé les dix rappels au règlement avoir lieu car je souhaite réellement que nous puissions poursuivre ce débat qui honore l'Assemblée.</p>
 
 </sp>
@@ -2832,8 +2832,8 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> À voir le travail accompli en commission, les interventions de la majorité et de l'opposition, celles qui ont lieu ici depuis hier, que ce soient celles du Gouvernement ou celles des députés, de la majorité comme de l'opposition, ce débat nous honore. Même s'il y a de l'ambiance : mais qui souhaiterait une démocratie aseptisée ? Des arguments sont échangés, des réponses seront apportées. Nous avons encore toute la discussion générale pour avancer dans les échanges d'arguments entre les uns et les autres.</p>
 <p></p>
 </sp>
@@ -2843,8 +2843,8 @@
 <div>
 <head>Discussion générale (suite)</head>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> Voilà pourquoi je donne à présent la parole, dans la discussion générale, à M. Daniel Fasquelle.</p>
 
 </sp>
@@ -2887,8 +2887,8 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> Attention, s'il vous plaît !</p>
 
 </sp>
@@ -2924,8 +2924,8 @@
 
 </sp>
 
-<sp who="Plusieurs députés du groupe UMP." ana="interruption"  >
-  <speaker>Plusieurs députés du groupe UMP.</speaker>
+<sp who="Plusieurs députés du groupe UMP" ana="interruption"  >
+  <speaker>Plusieurs députés du groupe UMP</speaker>
   <p> Et voilà !</p>
 
 </sp>
@@ -2976,8 +2976,8 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à M. Bruno Nestor Azerot.</p>
 
 </sp>
@@ -3100,8 +3100,8 @@
 
 </sp>
 
-<sp who="Plusieurs députés du groupe SRC." ana="interruption"  >
-  <speaker>Plusieurs députés du groupe SRC.</speaker>
+<sp who="Plusieurs députés du groupe SRC" ana="interruption"  >
+  <speaker>Plusieurs députés du groupe SRC</speaker>
   <p> Cela n'a rien à voir !</p>
 
 </sp>
@@ -3132,8 +3132,8 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à M. Patrick Bloche.</p>
 
 </sp>
@@ -3170,8 +3170,8 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à M. Franck Riester.</p>
 
 </sp>
@@ -3222,8 +3222,8 @@
 
 </sp>
 
-<sp who="Plusieurs députés du groupe SRC." ana="interruption"  >
-  <speaker>Plusieurs députés du groupe SRC.</speaker>
+<sp who="Plusieurs députés du groupe SRC" ana="interruption"  >
+  <speaker>Plusieurs députés du groupe SRC</speaker>
   <p> Très bien !</p>
 
 </sp>
@@ -3306,8 +3306,8 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à M. Yves Jégo.</p>
 
 </sp>
@@ -3359,8 +3359,8 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à M. Olivier Dussopt.</p>
 
 </sp>
@@ -3401,8 +3401,8 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à M. Jean-François Copé.</p>
 
 </sp>
@@ -3621,8 +3621,8 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à Mme Annick Lepetit.</p>
 
 </sp>
@@ -3790,8 +3790,8 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à M. François Fillon.</p>
 
 </sp>
@@ -3981,8 +3981,8 @@
 
 </sp>
 
-<sp who="Un député du groupe UMP." ana="interruption"  >
-  <speaker>Un député du groupe UMP.</speaker>
+<sp who="Un député du groupe UMP" ana="interruption"  >
+  <speaker>Un député du groupe UMP</speaker>
   <p> C'est évident !</p>
 
 </sp>
@@ -4036,8 +4036,8 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à Mme Chaynesse Khirouni.</p>
 
 </sp>
@@ -4113,8 +4113,8 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à Mme Nathalie Kosciusko-Morizet.</p>
 
 </sp>
@@ -4129,8 +4129,8 @@
 
 </sp>
 
-<sp who="Plusieurs députés du groupe SRC." ana="interruption"  >
-  <speaker>Plusieurs députés du groupe SRC.</speaker>
+<sp who="Plusieurs députés du groupe SRC" ana="interruption"  >
+  <speaker>Plusieurs députés du groupe SRC</speaker>
   <p> Discrimination !</p>
 
 </sp>
@@ -4184,8 +4184,8 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> La parole est à Mme Marie-Anne Chapdelaine.</p>
 
 </sp>
@@ -4233,8 +4233,8 @@
 
 </sp>
 
-<sp who="M. le Président." ana="interruption"  >
-  <speaker>M. le Président.</speaker>
+<sp who="le Président" ana="interruption"  >
+  <speaker>le Président</speaker>
   <p> La suite de la discussion est renvoyée à la prochaine séance.</p>
 <p></p>
 </sp>
@@ -4245,8 +4245,8 @@
 <head>Fait personnel</head>
 <p></p>
 
-<sp who="M. le président. " ana="régulation"  >
-  <speaker>M. le président. </speaker>
+<sp who="le président " ana="régulation"  >
+  <speaker>le président </speaker>
   <p>Monsieur Alain Marty, tout à l'heure, vous avez demandé la parole sur le fondement de l'article 58, alinéa 4, du Règlement pour un fait personnel.</p>
 <p>Vous avez la parole.</p>
 
@@ -4261,8 +4261,8 @@
 
 </sp>
 
-<sp who="M. le président." ana="régulation"  >
-  <speaker>M. le président.</speaker>
+<sp who="le président" ana="régulation"  >
+  <speaker>le président</speaker>
   <p> Je transmettrai votre intervention.</p>
 <p></p>
 </sp>
@@ -4272,8 +4272,8 @@
 <div>
 <head>Ordre du jour de la prochaine séance</head>
 
-<sp who="M. le président. " ana="régulation"  >
-  <speaker>M. le président. </speaker>
+<sp who="le président " ana="régulation"  >
+  <speaker>le président </speaker>
   <p>Prochaine séance, ce soir, à vingt et une heures quarante-cinq :</p>
 <p>Suite de la discussion du projet de loi ouvrant le mariage aux couples de personnes de même sexe.</p>
 <p>La séance est levée.</p>
