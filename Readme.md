@@ -51,6 +51,19 @@ Ce graphique a été réalisé avec un résultat de cooccurrences de
 [TXM](http://textometrie.ens-lyon.fr/) et la bibliothèque ggplot2 de
 R.
 
+On peut aussi parser le XML avec le script tei_to_gexf.py (fichier
+généré par le `make` dans files/gexf/) et faire un [graph des
+interruptions](interruptions.png).
+
+Plus un député interrompt un autre (pour le féliciter ou le
+contredire : « Bravo », « C'est faux » etc...) plus son nœud apparaît
+en gros. L'arête grossi en fonction du nombre d'interruption qui ont
+lieu entre les deux protagonistes. Ce diagramme pose encore des
+problèmes : on n'y voit pas Christianne Taubira. Cela dit, on voit
+déjà qu'Hervé Mariton et Philippe Gosselin ont été particulièrement
+virulents, et notament contre Erwann Binet qui n'a lui que peu
+interrompu les autres.
+
 Référence
 =========
 
