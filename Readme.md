@@ -53,7 +53,9 @@ R.
 
 On peut aussi parser le XML avec le script tei_to_gexf.py (fichier
 généré par le `make` dans files/gexf/) et faire un [graph des
-interruptions](interruptions.png).
+interruptions](interruptions.png) :
+
+![interruptions](interruptions.png)
 
 Plus un député interrompt un autre (pour le féliciter ou le
 contredire : « Bravo », « C'est faux » etc...) plus son nœud apparaît
