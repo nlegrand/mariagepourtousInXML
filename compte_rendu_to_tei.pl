@@ -36,6 +36,12 @@ sub clean_entities {
     $$string =~ s/&#8211;/–/g;
 }
 
+sub tag_interruption {
+    my $string = shift @_;
+    $$string =~ s/\((?:Vives |Nouvelles ){0,1}(«.*?»|Applaudissements|Mêmes mouvements|Exclamations|Protestations|Les députés|Sourires|Rires|Murmures)(.*?)\)/<mpt:interruption type="$1" text="$1$2"\/>/g;
+#    $$string =~ s/\((Applaudissements)(.*?)\)/<mpt:interruption type="$1" text="$1$2"\/>/g;
+}
+
 sub print_body {
     my ($aspfilename, $deputes_id, $official_id) = @_;
     my $div_state = "main";	#main, subpart, subsubpart
@@ -60,16 +66,33 @@ sub print_body {
 	    }
 	    my $intervention = encode("utf8", $3) ;
 	    my $intervenant_id = "";
+	    my $genre = "";
+	    my $intervention_type = "";
+	    my $intervention_id = "";
+	    my $political_group = "";
+	    my $vote = "";
 	    if (m!<a href="http://www.assemblee-nationale.fr/14/tribun/fiches_id/([0-9]+).asp" target="_top">!) {
 		$intervenant_id = $1;
 
 		if ($deputes_id->{$intervenant_id}{'nom'}) {
 		    $intervenant = encode("utf8", $deputes_id->{$intervenant_id}{'nom'});
 		}
+		if ($deputes_id->{$intervenant_id}{'sexe'}) {
+		    if ($deputes_id->{$intervenant_id}{'sexe'} eq 'H') {
+			$genre="genre=\"homme\"";
+		    } elsif ($deputes_id->{$intervenant_id}{'sexe'} eq 'F') {
+			$genre="genre=\"femme\"";
+		    }
+		}
+	    } elsif ($intervenant =~ /Taubira/i) {
+		$genre="genre=\"femme\"";
+		$political_group = "politicalgroup=\"GVT\"";
+		$intervenant = "Christiane Taubira"
+	    } elsif ($intervenant =~ /Bertinotti/i) {
+		$genre="genre=\"femme\"";
+		$political_group = "politicalgroup=\"GVT\"";
+		$intervenant = "Dominique Bertinotti"
 	    }
-	    my $intervention_type = "";
-	    my $intervention_id = "";
-	    my $political_group = "";
 	    if ($intervenant =~ /président/) {
 		$intervention_type = "régulation";
 	    } elsif (m!<a name="(INTER_(?:MINISTRE_ADT_|ADT_){0,1}[0-9]+)"></a>!) {
@@ -83,43 +106,62 @@ sub print_body {
 	    }
 	    if ($intervention_type && $intervenant_id) {
 		if ($deputes_id->{$intervenant_id}{'groupe'}) {
-		    $political_group = "n=\""
+		    $political_group = "politicalgroup=\""
 			. encode("utf8", $deputes_id->{$intervenant_id}{'groupe'})
+			. "\"";
+		    $vote = "vote=\""
+			. encode("utf8", $deputes_id->{$intervenant_id}{'vote'})
 			. "\"";
 		}
 	    }
 	    clean_entities(\$intervenant);
 	    clean_entities(\$intervention);
 	    if ($sp_state eq "open") {
+		print "\n</mpt:metadata>\n";
 		print "\n</sp>\n";
 	    } else {
 		$sp_state = "open";
 	    }
 	    $intervenant =~ s/(?:M\.|Mme) //;
 	    $intervenant =~ s/[\.,]//g;
-	    print "\n<sp who=\"$intervenant\" ana=\"$intervention_type\" $political_group $intervention_id>\n";
+	    &tag_interruption(\$intervention);
+	    my $who = $intervenant;
+	    $who =~ s/ /_/g;
+	    print "\n<sp who=\"$who\">\n";
 	    print "  <speaker>$intervenant$titre</speaker>\n";
+	    print "\n<mpt:metadata auteur=\"$who\" typedintervention=\"$intervention_type\" $political_group $intervention_id $vote $genre>\n";
 	    print "  <p>$intervention</p>\n";
 	} elsif (m!^<p>(.*?)</p>!) {
 	    my $para = encode("utf-8", $1) ;
 	    clean_entities(\$para);
+	    &tag_interruption(\$para);
 	    print "<p>$para</p>\n";
 	}
 
 	if (m!<h2 class="(.*?)">(.*?)</h2>!) {
 	    if ($sp_state eq "open") {
+		print "</mpt:metadata>";
 		print "</sp>\n";
 		$sp_state = "closed";
 	    }
 	    my $div_level = $1 ;
 	    my $div_head = encode("utf8", $2) ;
 	    clean_entities(\$div_head) ;
-	    if ($div_state eq "subpart" or $div_state eq "subsubpart") {
+	    if ($div_state eq "subpart" and $div_level eq "titre1") {
 		print "</div>\n";
+	    } elsif ($div_state eq "subsubpart" and $div_level eq "titre1") {
+		print "</div>\n</div>\n";
+	    } elsif ($div_state eq "subsubpart"
+		     and ($div_level eq "titre3" or $div_level eq "titre2")) {
+		print "</div>\n";
+	    }  
+	    if ($div_state eq "main" and $div_level eq "titre3") {
+		print "<div>\n"; # XXX empty div, generated to follow the logic check 2013125
 	    }
 	    if ($div_level eq "titre1") {
 		$div_state = "subpart";
-	    } elsif ($div_level eq "titre3") {
+	    } elsif ($div_level eq "titre3"
+		or $div_level eq "titre2") {
 		$div_state = "subsubpart";
 	    }
 	    print "\n\n<div>\n";
@@ -132,12 +174,13 @@ sub print_body {
 	}
     }
     if ($sp_state eq "open") {
+	print "</mpt:metadata>\n";
 	print "</sp>\n";
     }
     if ($div_state eq "subpart") {
 	print "</div>\n";
     } elsif ($div_state eq "subsubpart") {
-	print "</div>\n</div>\n";
+	print "</div>\n</div><\n";
     }
     close $aspfh;
     print "</body>\n";
@@ -170,7 +213,7 @@ sub print_body {
 
       print <<"TEIHEADER";
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:mpt="http://mpt.ethelred.fr/ns/0.0/">
    <teiHeader>
       <fileDesc>
          <titleStmt>
