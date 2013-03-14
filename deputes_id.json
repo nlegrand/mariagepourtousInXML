@@ -1,2294 +1,3440 @@
 {
     "1001": {
         "groupe": "UMP", 
-        "nom": "Marc-Philippe Daubresse"
+        "nom": "Marc-Philippe Daubresse", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "1012": {
         "groupe": "UMP", 
-        "nom": "Charles de La Verpilli\u00e8re"
+        "nom": "Charles de La Verpilli\u00e8re", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "1020": {
         "groupe": "UMP", 
-        "nom": "Bernard Debr\u00e9"
+        "nom": "Bernard Debr\u00e9", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "1029": {
         "groupe": "UMP", 
-        "nom": "Bernard Deflesselles"
+        "nom": "Bernard Deflesselles", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "1031": {
         "groupe": "UMP", 
-        "nom": "Lucien Degauchy"
+        "nom": "Lucien Degauchy", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "1032": {
         "groupe": "SRC", 
-        "nom": "Pascal Deguilhem"
+        "nom": "Pascal Deguilhem", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "1116": {
         "groupe": "SRC", 
-        "nom": "Michel Destot"
+        "nom": "Michel Destot", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "1124": {
         "groupe": "UMP", 
-        "nom": "Patrick Devedjian"
+        "nom": "Patrick Devedjian", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "1141": {
         "groupe": "GDR", 
-        "nom": "Marc Dolez"
+        "nom": "Marc Dolez", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "1152": {
         "groupe": "UMP", 
-        "nom": "Dominique Dord"
+        "nom": "Dominique Dord", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "1155": {
         "groupe": "SRC", 
-        "nom": "Ren\u00e9 Dosi\u00e8re"
+        "nom": "Ren\u00e9 Dosi\u00e8re", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "1182": {
         "groupe": "SRC", 
-        "nom": "Jean-Pierre Dufau"
+        "nom": "Jean-Pierre Dufau", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "1193": {
         "groupe": "SRC", 
-        "nom": "William Dumas"
+        "nom": "William Dumas", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "1198": {
         "groupe": "SRC", 
-        "nom": "Laurence Dumont"
+        "nom": "Laurence Dumont", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "1199": {
         "groupe": "SRC", 
-        "nom": "Jean-Louis Dumont"
+        "nom": "Jean-Louis Dumont", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "1206": {
         "groupe": "NI", 
-        "nom": "Nicolas Dupont-Aignan"
+        "nom": "Nicolas Dupont-Aignan", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "1208": {
         "groupe": "SRC", 
-        "nom": "Jean-Paul Dupr\u00e9"
+        "nom": "Jean-Paul Dupr\u00e9", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "1214": {
         "groupe": "SRC", 
-        "nom": "Yves Durand"
+        "nom": "Yves Durand", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "1226": {
         "groupe": "SRC", 
-        "nom": "Philippe Duron"
+        "nom": "Philippe Duron", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "1243": {
         "groupe": "SRC", 
-        "nom": "Christian Eckert"
+        "nom": "Christian Eckert", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "1252": {
         "groupe": "SRC", 
-        "nom": "Henri Emmanuelli"
+        "nom": "Henri Emmanuelli", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "1263": {
         "groupe": "UMP", 
-        "nom": "Christian Estrosi"
+        "nom": "Christian Estrosi", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "1310": {
         "groupe": "UMP", 
-        "nom": "Fran\u00e7ois Fillon"
+        "nom": "Fran\u00e7ois Fillon", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "1353": {
         "groupe": "SRC", 
-        "nom": "Michel Fran\u00e7aix"
+        "nom": "Michel Fran\u00e7aix", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "1362": {
         "groupe": "SRC", 
-        "nom": "Christian Franqueville"
+        "nom": "Christian Franqueville", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "1364": {
         "groupe": "GDR", 
-        "nom": "Jacqueline Fraysse"
+        "nom": "Jacqueline Fraysse", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "1373": {
         "groupe": "UDI", 
-        "nom": "\u00c9douard Fritch"
+        "nom": "\u00c9douard Fritch", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "1379": {
         "groupe": "UMP", 
-        "nom": "Yves Fromion"
+        "nom": "Yves Fromion", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "1401": {
         "groupe": "SRC", 
-        "nom": "Yann Galut"
+        "nom": "Yann Galut", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "1445": {
         "groupe": "UMP", 
-        "nom": "Herv\u00e9 Gaymard"
+        "nom": "Herv\u00e9 Gaymard", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "1459": {
         "groupe": "UMP", 
-        "nom": "Bernard G\u00e9rard"
+        "nom": "Bernard G\u00e9rard", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "1466": {
         "groupe": "UMP", 
-        "nom": "Alain Gest"
+        "nom": "Alain Gest", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "1477": {
         "groupe": "UMP", 
-        "nom": "Georges Ginesta"
+        "nom": "Georges Ginesta", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "1483": {
         "groupe": "UMP", 
-        "nom": "Jean-Pierre Giran"
+        "nom": "Jean-Pierre Giran", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "1496": {
         "groupe": "SRC", 
-        "nom": "Jean Glavany"
+        "nom": "Jean Glavany", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "1498": {
         "groupe": "UMP", 
-        "nom": "Claude Goasguen"
+        "nom": "Claude Goasguen", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "1521": {
         "groupe": "UMP", 
-        "nom": "Philippe Goujon"
+        "nom": "Philippe Goujon", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "1567": {
         "groupe": "SRC", 
-        "nom": "J\u00e9r\u00f4me Guedj"
+        "nom": "J\u00e9r\u00f4me Guedj", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "1574": {
         "groupe": "UMP", 
-        "nom": "Jean-Claude Guibal"
+        "nom": "Jean-Claude Guibal", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "1579": {
         "groupe": "SRC", 
-        "nom": "\u00c9lisabeth Guigou"
+        "nom": "\u00c9lisabeth Guigou", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "1585": {
         "groupe": "UMP", 
-        "nom": "Jean-Jacques Guillet"
+        "nom": "Jean-Jacques Guillet", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "1592": {
         "groupe": "SRC", 
-        "nom": "David Habib"
+        "nom": "David Habib", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "1630": {
         "groupe": "UMP", 
-        "nom": "Michel Herbillon"
+        "nom": "Michel Herbillon", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "1661": {
         "groupe": "UMP", 
-        "nom": "Philippe Houillon"
+        "nom": "Philippe Houillon", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "1689": {
         "groupe": "SRC", 
-        "nom": "Fran\u00e7oise Imbert"
+        "nom": "Fran\u00e7oise Imbert", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "1695": {
         "groupe": "UMP", 
-        "nom": "Christian Jacob"
+        "nom": "Christian Jacob", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "1699": {
         "groupe": "UMP", 
-        "nom": "Denis Jacquat"
+        "nom": "Denis Jacquat", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "1710": {
         "groupe": "SRC", 
-        "nom": "Serge Janquin"
+        "nom": "Serge Janquin", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "1748": {
         "groupe": "SRC", 
-        "nom": "Armand Jung"
+        "nom": "Armand Jung", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "1761": {
         "groupe": "UMP", 
-        "nom": "Christian Kert"
+        "nom": "Christian Kert", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "1770": {
         "groupe": "UMP", 
-        "nom": "Jacques Kossowski"
+        "nom": "Jacques Kossowski", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "1778": {
         "groupe": "UMP", 
-        "nom": "Patrick Labaune"
+        "nom": "Patrick Labaune", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "1789": {
         "groupe": "SRC", 
-        "nom": "Conchita Lacuey"
+        "nom": "Conchita Lacuey", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "1790": {
         "groupe": "UMP", 
-        "nom": "Marc Laffineur"
+        "nom": "Marc Laffineur", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "1809": {
         "groupe": "SRC", 
-        "nom": "J\u00e9r\u00f4me Lambert"
+        "nom": "J\u00e9r\u00f4me Lambert", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "1838": {
         "groupe": "NI", 
-        "nom": "Jean Lassalle"
+        "nom": "Jean Lassalle", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "1844": {
         "groupe": "SRC", 
-        "nom": "Jean Launay"
+        "nom": "Jean Launay", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "1857": {
         "groupe": "UMP", 
-        "nom": "Thierry Lazaro"
+        "nom": "Thierry Lazaro", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "1866": {
         "groupe": "SRC", 
-        "nom": "Gilbert Le Bris"
+        "nom": "Gilbert Le Bris", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "1871": {
         "groupe": "SRC", 
-        "nom": "Jean-Yves Le D\u00e9aut"
+        "nom": "Jean-Yves Le D\u00e9aut", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "1874": {
         "groupe": "UMP", 
-        "nom": "Marc Le Fur"
+        "nom": "Marc Le Fur", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "1880": {
         "groupe": "SRC", 
-        "nom": "Jean-Marie Le Guen"
+        "nom": "Jean-Marie Le Guen", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "1886": {
         "groupe": "SRC", 
-        "nom": "Bruno Le Roux"
+        "nom": "Bruno Le Roux", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "1911": {
         "groupe": "SRC", 
-        "nom": "Michel Lefait"
+        "nom": "Michel Lefait", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "1931": {
         "groupe": "UMP", 
-        "nom": "Pierre Lellouche"
+        "nom": "Pierre Lellouche", 
+        "sexe": "H", 
+        "vote": "abstention"
     }, 
     "1936": {
         "groupe": "SRC", 
-        "nom": "Patrick Lemasle"
+        "nom": "Patrick Lemasle", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "1946": {
         "groupe": "UMP", 
-        "nom": "Jean Leonetti"
+        "nom": "Jean Leonetti", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "1954": {
         "groupe": "UMP", 
-        "nom": "Pierre Lequiller"
+        "nom": "Pierre Lequiller", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "1960": {
         "groupe": "UDI", 
-        "nom": "Maurice Leroy"
+        "nom": "Maurice Leroy", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "1963": {
         "groupe": "SRC", 
-        "nom": "Michel Lesage"
+        "nom": "Michel Lesage", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "1977": {
         "groupe": "SRC", 
-        "nom": "Michel Liebgott"
+        "nom": "Michel Liebgott", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "1979": {
         "groupe": "SRC", 
-        "nom": "Martine Ligni\u00e8res-Cassou"
+        "nom": "Martine Ligni\u00e8res-Cassou", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "1991": {
         "groupe": "SRC", 
-        "nom": "Fran\u00e7ois Loncle"
+        "nom": "Fran\u00e7ois Loncle", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "2011": {
         "groupe": "UMP", 
-        "nom": "Lionnel Luca"
+        "nom": "Lionnel Luca", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "2045": {
         "groupe": "ECOLO", 
-        "nom": "No\u00ebl Mam\u00e8re"
+        "nom": "No\u00ebl Mam\u00e8re", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "2051": {
         "groupe": "SRC", 
-        "nom": "Thierry Mandon"
+        "nom": "Thierry Mandon", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "2073": {
         "groupe": "UMP", 
-        "nom": "Thierry Mariani"
+        "nom": "Thierry Mariani", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "2075": {
         "groupe": "GDR", 
-        "nom": "Alfred Marie-Jeanne"
+        "nom": "Alfred Marie-Jeanne", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "2083": {
         "groupe": "UMP", 
-        "nom": "Herv\u00e9 Mariton"
+        "nom": "Herv\u00e9 Mariton", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "2084": {
         "groupe": "UMP", 
-        "nom": "Alain Marleix"
+        "nom": "Alain Marleix", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "2086": {
         "groupe": "UMP", 
-        "nom": "Franck Marlin"
+        "nom": "Franck Marlin", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "2089": {
         "groupe": "UMP", 
-        "nom": "Alain Marsaud"
+        "nom": "Alain Marsaud", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "2098": {
         "groupe": "UMP", 
-        "nom": "Philippe Armand Martin"
+        "nom": "Philippe Armand Martin", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "2099": {
         "groupe": "UMP", 
-        "nom": "Patrice Martin-Lalande"
+        "nom": "Patrice Martin-Lalande", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "2124": {
         "groupe": "UMP", 
-        "nom": "Jean-Claude Mathis"
+        "nom": "Jean-Claude Mathis", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "216574": {
         "groupe": "UDI", 
-        "nom": "Francis Hillmeyer"
+        "nom": "Francis Hillmeyer", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "2191": {
         "groupe": "UMP", 
-        "nom": "Jean-Claude Mignon"
+        "nom": "Jean-Claude Mignon", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "2229": {
         "groupe": "UMP", 
-        "nom": "Pierre Morange"
+        "nom": "Pierre Morange", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "2236": {
         "groupe": "UDI", 
-        "nom": "Herv\u00e9 Morin"
+        "nom": "Herv\u00e9 Morin", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "223837": {
         "groupe": "UMP", 
-        "nom": "Bernard Brochand"
+        "nom": "Bernard Brochand", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "2250": {
         "groupe": "UMP", 
-        "nom": "Alain Moyne-Bressand"
+        "nom": "Alain Moyne-Bressand", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "2257": {
         "groupe": "UMP", 
-        "nom": "Jacques Myard"
+        "nom": "Jacques Myard", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "2265": {
         "groupe": "SRC", 
-        "nom": "Philippe Nauche"
+        "nom": "Philippe Nauche", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "2277": {
         "groupe": "UMP", 
-        "nom": "Yves Nicolin"
+        "nom": "Yves Nicolin", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "2295": {
         "groupe": "UMP", 
-        "nom": "Patrick Ollier"
+        "nom": "Patrick Ollier", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "230": {
         "groupe": "UMP", 
-        "nom": "Bernard Accoyer"
+        "nom": "Bernard Accoyer", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "230329": {
         "groupe": "UMP", 
-        "nom": "Jean-Fran\u00e7ois Lamour"
+        "nom": "Jean-Fran\u00e7ois Lamour", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "2317": {
         "groupe": "SRC", 
-        "nom": "Michel Pajon"
+        "nom": "Michel Pajon", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "2338": {
         "groupe": "SRC", 
-        "nom": "Christian Paul"
+        "nom": "Christian Paul", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "2343": {
         "groupe": "SRC", 
-        "nom": "Germinal Peiro"
+        "nom": "Germinal Peiro", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "2345": {
         "groupe": "UMP", 
-        "nom": "Jacques P\u00e9lissard"
+        "nom": "Jacques P\u00e9lissard", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "2365": {
         "groupe": "SRC", 
-        "nom": "Jean-Claude Perez"
+        "nom": "Jean-Claude Perez", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "2374": {
         "groupe": "SRC", 
-        "nom": "Genevi\u00e8ve Gaillard"
+        "nom": "Genevi\u00e8ve Gaillard", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "2377": {
         "groupe": "UMP", 
-        "nom": "Bernard Perrut"
+        "nom": "Bernard Perrut", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "243": {
         "groupe": "UMP", 
-        "nom": "Yves Albarello"
+        "nom": "Yves Albarello", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "2430": {
         "groupe": "SRC", 
-        "nom": "Philippe Plisson"
+        "nom": "Philippe Plisson", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "2492": {
         "groupe": "UMP", 
-        "nom": "Didier Quentin"
+        "nom": "Didier Quentin", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "2503": {
         "groupe": "SRC", 
-        "nom": "Dominique Raimbourg"
+        "nom": "Dominique Raimbourg", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "2529": {
         "groupe": "UMP", 
-        "nom": "Jean-Luc Reitzer"
+        "nom": "Jean-Luc Reitzer", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "2549": {
         "groupe": "SRC", 
-        "nom": "Marie-Line Reynaud"
+        "nom": "Marie-Line Reynaud", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "259": {
         "groupe": "UMP", 
-        "nom": "Nicole Ameline"
+        "nom": "Nicole Ameline", 
+        "sexe": "F", 
+        "vote": "abstention"
     }, 
     "2597": {
         "groupe": "UDI", 
-        "nom": "Fran\u00e7ois Rochebloine"
+        "nom": "Fran\u00e7ois Rochebloine", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "2600": {
         "groupe": "SRC", 
-        "nom": "Alain Rodet"
+        "nom": "Alain Rodet", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "2603": {
         "groupe": "SRC", 
-        "nom": "Marcel Rogemont"
+        "nom": "Marcel Rogemont", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "2611": {
         "groupe": "SRC", 
-        "nom": "Bernard Roman"
+        "nom": "Bernard Roman", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "2631": {
         "groupe": "SRC", 
-        "nom": "Ren\u00e9 Rouquet"
+        "nom": "Ren\u00e9 Rouquet", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "2664": {
         "groupe": "UMP", 
-        "nom": "Paul Salen"
+        "nom": "Paul Salen", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "2667": {
         "groupe": "UDI", 
-        "nom": "Rudy Salles"
+        "nom": "Rudy Salles", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "266774": {
         "groupe": "UMP", 
-        "nom": "Laurent Furst"
+        "nom": "Laurent Furst", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "266776": {
         "groupe": "UMP", 
-        "nom": "Fr\u00e9d\u00e9ric Reiss"
+        "nom": "Fr\u00e9d\u00e9ric Reiss", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "266788": {
         "groupe": "UMP", 
-        "nom": "Pierre Morel-A-L'Huissier"
+        "nom": "Pierre Morel-A-L'Huissier", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "266797": {
         "groupe": "UMP", 
-        "nom": "Philippe Gosselin"
+        "nom": "Philippe Gosselin", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "266863": {
         "groupe": "SRC", 
-        "nom": "Jean-Pierre Fougerat"
+        "nom": "Jean-Pierre Fougerat", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "267013": {
         "groupe": "UMP", 
-        "nom": "Michel Sordi"
+        "nom": "Michel Sordi", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267042": {
         "groupe": "UDI", 
-        "nom": "Yannick Favennec"
+        "nom": "Yannick Favennec", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267057": {
         "groupe": "UMP", 
-        "nom": "C\u00e9leste Lett"
+        "nom": "C\u00e9leste Lett", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267075": {
         "groupe": "UMP", 
-        "nom": "\u00c9tienne Blanc"
+        "nom": "\u00c9tienne Blanc", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267080": {
         "groupe": "UMP", 
-        "nom": "Xavier Bertrand"
+        "nom": "Xavier Bertrand", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267091": {
         "groupe": "SRC", 
-        "nom": "Fr\u00e9d\u00e9rique Massat"
+        "nom": "Fr\u00e9d\u00e9rique Massat", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "267148": {
         "groupe": "UMP", 
-        "nom": "Franck Gilard"
+        "nom": "Franck Gilard", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267151": {
         "groupe": "UMP", 
-        "nom": "Jean-Pierre Gorges"
+        "nom": "Jean-Pierre Gorges", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267165": {
         "groupe": "UMP", 
-        "nom": "Luc Chatel"
+        "nom": "Luc Chatel", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267178": {
         "groupe": "UMP", 
-        "nom": "Nicolas Dhuicq"
+        "nom": "Nicolas Dhuicq", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267188": {
         "groupe": "SRC", 
-        "nom": "Martine Carrillon-Couvreur"
+        "nom": "Martine Carrillon-Couvreur", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "267200": {
         "groupe": "UMP", 
-        "nom": "S\u00e9bastien Huyghe"
+        "nom": "S\u00e9bastien Huyghe", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267204": {
         "groupe": "UMP", 
-        "nom": "Jean-Marie Sermier"
+        "nom": "Jean-Marie Sermier", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267227": {
         "groupe": "UMP", 
-        "nom": "Arlette Grosskost"
+        "nom": "Arlette Grosskost", 
+        "sexe": "F", 
+        "vote": "contre"
     }, 
     "267233": {
         "groupe": "SRC", 
-        "nom": "Christophe Bouillon"
+        "nom": "Christophe Bouillon", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "267241": {
         "groupe": "UDI", 
-        "nom": "St\u00e9phane Demilly"
+        "nom": "St\u00e9phane Demilly", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267246": {
         "groupe": "UMP", 
-        "nom": "Michel Heinrich"
+        "nom": "Michel Heinrich", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267260": {
         "groupe": "UMP", 
-        "nom": "B\u00e9reng\u00e8re Poletti"
+        "nom": "B\u00e9reng\u00e8re Poletti", 
+        "sexe": "F", 
+        "vote": "contre"
     }, 
     "267266": {
         "groupe": "UMP", 
-        "nom": "Yves Censi"
+        "nom": "Yves Censi", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267278": {
         "groupe": "SRC", 
-        "nom": "Philippe Martin"
+        "nom": "Philippe Martin", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "267285": {
         "groupe": "UMP", 
-        "nom": "Laurent Wauquiez"
+        "nom": "Laurent Wauquiez", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267289": {
         "groupe": "UMP", 
-        "nom": "Jean-Pierre Door"
+        "nom": "Jean-Pierre Door", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267306": {
         "groupe": "GDR", 
-        "nom": "Andr\u00e9 Chassaigne"
+        "nom": "Andr\u00e9 Chassaigne", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "267317": {
         "groupe": "UMP", 
-        "nom": "Dominique Le M\u00e8ner"
+        "nom": "Dominique Le M\u00e8ner", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267327": {
         "groupe": "UMP", 
-        "nom": "Damien Meslot"
+        "nom": "Damien Meslot", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267330": {
         "groupe": "UDI", 
-        "nom": "Michel Zumkeller"
+        "nom": "Michel Zumkeller", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267336": {
         "groupe": "RRDP", 
-        "nom": "Jo\u00ebl Giraud"
+        "nom": "Jo\u00ebl Giraud", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "267355": {
         "groupe": "UMP", 
-        "nom": "Antoine Herth"
+        "nom": "Antoine Herth", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267358": {
         "groupe": "UMP", 
-        "nom": "Jean-Louis Christ"
+        "nom": "Jean-Louis Christ", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267378": {
         "groupe": "UMP", 
-        "nom": "Genevi\u00e8ve Levy"
+        "nom": "Genevi\u00e8ve Levy", 
+        "sexe": "F", 
+        "vote": "contre"
     }, 
     "267407": {
         "groupe": "RRDP", 
-        "nom": "Paul Giacobbi"
+        "nom": "Paul Giacobbi", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "267429": {
         "groupe": "UMP", 
-        "nom": "Dino Cinieri"
+        "nom": "Dino Cinieri", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267433": {
         "groupe": "UDI", 
-        "nom": "Gilles Bourdouleix"
+        "nom": "Gilles Bourdouleix", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267450": {
         "groupe": "UMP", 
-        "nom": "R\u00e9mi Delatte"
+        "nom": "R\u00e9mi Delatte", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267457": {
         "groupe": "UMP", 
-        "nom": "\u00c9lie Aboud"
+        "nom": "\u00c9lie Aboud", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267459": {
         "groupe": "UMP", 
-        "nom": "Claude Greff"
+        "nom": "Claude Greff", 
+        "sexe": "F", 
+        "vote": "contre"
     }, 
     "267469": {
         "groupe": "UDI", 
-        "nom": "Michel Piron"
+        "nom": "Michel Piron", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267479": {
         "groupe": "SRC", 
-        "nom": "Kl\u00e9ber Mesquida"
+        "nom": "Kl\u00e9ber Mesquida", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "267492": {
         "groupe": "GDR", 
-        "nom": "Jean-Jacques Candelier"
+        "nom": "Jean-Jacques Candelier", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "267499": {
         "groupe": "UMP", 
-        "nom": "Christophe Guilloteau"
+        "nom": "Christophe Guilloteau", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "2675": {
         "groupe": "UDI", 
-        "nom": "Andr\u00e9 Santini"
+        "nom": "Andr\u00e9 Santini", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267506": {
         "groupe": "UMP", 
-        "nom": "Philippe Vitel"
+        "nom": "Philippe Vitel", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267512": {
         "groupe": "UMP", 
-        "nom": "Alain Marc"
+        "nom": "Alain Marc", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267527": {
         "groupe": "UMP", 
-        "nom": "Martial Saddier"
+        "nom": "Martial Saddier", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267532": {
         "groupe": "UMP", 
-        "nom": "Marc Francina"
+        "nom": "Marc Francina", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267534": {
         "groupe": "SRC", 
-        "nom": "Luce Pane"
+        "nom": "Luce Pane", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "267551": {
         "groupe": "UMP", 
-        "nom": "Jacques Lamblin"
+        "nom": "Jacques Lamblin", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267556": {
         "groupe": "UMP", 
-        "nom": "Alain Marty"
+        "nom": "Alain Marty", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267576": {
         "groupe": "UMP", 
-        "nom": "Marcel Bonnot"
+        "nom": "Marcel Bonnot", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267585": {
         "groupe": "UDI", 
-        "nom": "Francis Vercamer"
+        "nom": "Francis Vercamer", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267591": {
         "groupe": "UMP", 
-        "nom": "Georges Fenech"
+        "nom": "Georges Fenech", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267598": {
         "groupe": "UMP", 
-        "nom": "Josette Pons"
+        "nom": "Josette Pons", 
+        "sexe": "F", 
+        "vote": "contre"
     }, 
     "267605": {
         "groupe": "UMP", 
-        "nom": "Val\u00e9rie Pecresse"
+        "nom": "Val\u00e9rie Pecresse", 
+        "sexe": "F", 
+        "vote": "contre"
     }, 
     "267623": {
         "groupe": "SRC", 
-        "nom": "Carlos Da Silva"
+        "nom": "Carlos Da Silva", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "267628": {
         "groupe": "UMP", 
-        "nom": "Nathalie Kosciusko-Morizet"
+        "nom": "Nathalie Kosciusko-Morizet", 
+        "sexe": "F", 
+        "vote": "abstention"
     }, 
     "267673": {
         "groupe": "UDI", 
-        "nom": "Philippe Folliot"
+        "nom": "Philippe Folliot", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267680": {
         "groupe": "UMP", 
-        "nom": "Charles-Ange Ginesy"
+        "nom": "Charles-Ange Ginesy", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267689": {
         "groupe": "UMP", 
-        "nom": "Camille de Rocca Serra"
+        "nom": "Camille de Rocca Serra", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267695": {
         "groupe": "SRC", 
-        "nom": "Patricia Adam"
+        "nom": "Patricia Adam", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "267706": {
         "groupe": "SRC", 
-        "nom": "Nathalie App\u00e9r\u00e9"
+        "nom": "Nathalie App\u00e9r\u00e9", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "267728": {
         "groupe": "UMP", 
-        "nom": "Christophe Priou"
+        "nom": "Christophe Priou", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267735": {
         "groupe": "UMP", 
-        "nom": "Claude de Ganay"
+        "nom": "Claude de Ganay", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267743": {
         "groupe": "UMP", 
-        "nom": "\u00c9douard Courtial"
+        "nom": "\u00c9douard Courtial", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267762": {
         "groupe": "UMP", 
-        "nom": "Jean-Pierre Decool"
+        "nom": "Jean-Pierre Decool", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267765": {
         "groupe": "UDI", 
-        "nom": "Fran\u00e7ois-Xavier Villain"
+        "nom": "Fran\u00e7ois-Xavier Villain", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267775": {
         "groupe": "UMP", 
-        "nom": "Philippe Cochet"
+        "nom": "Philippe Cochet", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267785": {
         "groupe": "UMP", 
-        "nom": "Guillaume Larriv\u00e9"
+        "nom": "Guillaume Larriv\u00e9", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267794": {
         "groupe": "UMP", 
-        "nom": "Mich\u00e8le Tabarot"
+        "nom": "Mich\u00e8le Tabarot", 
+        "sexe": "F", 
+        "vote": "contre"
     }, 
     "267797": {
         "groupe": "UMP", 
-        "nom": "Catherine Vautrin"
+        "nom": "Catherine Vautrin", 
+        "sexe": "F", 
+        "vote": "contre"
     }, 
     "267801": {
         "groupe": "UDI", 
-        "nom": "Yves J\u00e9go"
+        "nom": "Yves J\u00e9go", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267813": {
         "groupe": "UMP", 
-        "nom": "Guy Geoffroy"
+        "nom": "Guy Geoffroy", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267822": {
         "groupe": "UMP", 
-        "nom": "Jacques Alain B\u00e9nisti"
+        "nom": "Jacques Alain B\u00e9nisti", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267835": {
         "groupe": "SRC", 
-        "nom": "Jean-Yves Le Bouillonnec"
+        "nom": "Jean-Yves Le Bouillonnec", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "267886": {
         "groupe": "UMP", 
-        "nom": "Axel Poniatowski"
+        "nom": "Axel Poniatowski", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267895": {
         "groupe": "UMP", 
-        "nom": "J\u00e9r\u00f4me Chartier"
+        "nom": "J\u00e9r\u00f4me Chartier", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "267918": {
         "groupe": "SRC", 
-        "nom": "Th\u00e9r\u00e8se Guilbert"
+        "nom": "Th\u00e9r\u00e8se Guilbert", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "267923": {
         "groupe": "SRC", 
-        "nom": "Guy Delcourt"
+        "nom": "Guy Delcourt", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "267954": {
         "groupe": "SRC", 
-        "nom": "Dani\u00e8le Hoffman-Rispal"
+        "nom": "Dani\u00e8le Hoffman-Rispal", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "267965": {
         "groupe": "SRC", 
-        "nom": "Annick Lepetit"
+        "nom": "Annick Lepetit", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "268019": {
         "groupe": "UDI", 
-        "nom": "Jean-Christophe Lagarde"
+        "nom": "Jean-Christophe Lagarde", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "268039": {
         "groupe": "SRC", 
-        "nom": "\u00c9ric Jalton"
+        "nom": "\u00c9ric Jalton", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "268042": {
         "groupe": "SRC", 
-        "nom": "Gabrielle Louis-Carabin"
+        "nom": "Gabrielle Louis-Carabin", 
+        "sexe": "F", 
+        "vote": "contre"
     }, 
     "268051": {
         "groupe": "UMP", 
-        "nom": "Serge Grouard"
+        "nom": "Serge Grouard", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "2685": {
         "groupe": "SRC", 
-        "nom": "Odile Saugues"
+        "nom": "Odile Saugues", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "2690": {
         "groupe": "UDI", 
-        "nom": "Fran\u00e7ois Sauvadet"
+        "nom": "Fran\u00e7ois Sauvadet", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "2693": {
         "groupe": "SRC", 
-        "nom": "Gilbert Sauvan"
+        "nom": "Gilbert Sauvan", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "2700": {
         "groupe": "UMP", 
-        "nom": "Fran\u00e7ois Scellier"
+        "nom": "Fran\u00e7ois Scellier", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "2707": {
         "groupe": "UMP", 
-        "nom": "Andr\u00e9 Schneider"
+        "nom": "Andr\u00e9 Schneider", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "271": {
         "groupe": "SRC", 
-        "nom": "Sylvie Andrieux"
+        "nom": "Sylvie Andrieux", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "2713": {
         "groupe": "RRDP", 
-        "nom": "Roger-G\u00e9rard Schwartzenberg"
+        "nom": "Roger-G\u00e9rard Schwartzenberg", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "2775": {
         "groupe": "UMP", 
-        "nom": "Alain Suguenot"
+        "nom": "Alain Suguenot", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "2792": {
         "groupe": "UMP", 
-        "nom": "Jean-Charles Taugourdeau"
+        "nom": "Jean-Charles Taugourdeau", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "2796": {
         "groupe": "UMP", 
-        "nom": "Guy Teissier"
+        "nom": "Guy Teissier", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "2799": {
         "groupe": "SRC", 
-        "nom": "Pascal Terrasse"
+        "nom": "Pascal Terrasse", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "2800": {
         "groupe": "SRC", 
-        "nom": "G\u00e9rard Terrier"
+        "nom": "G\u00e9rard Terrier", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "2801": {
         "groupe": "UMP", 
-        "nom": "Michel Terrot"
+        "nom": "Michel Terrot", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "2815": {
         "groupe": "UMP", 
-        "nom": "Dominique Tian"
+        "nom": "Dominique Tian", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "2828": {
         "groupe": "RRDP", 
-        "nom": "Alain Tourret"
+        "nom": "Alain Tourret", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "2859": {
         "groupe": "SRC", 
-        "nom": "Daniel Vaillant"
+        "nom": "Daniel Vaillant", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "2876": {
         "groupe": "UMP", 
-        "nom": "Fran\u00e7ois Vannson"
+        "nom": "Fran\u00e7ois Vannson", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "2883": {
         "groupe": "SRC", 
-        "nom": "Michel Vauzelle"
+        "nom": "Michel Vauzelle", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "2895": {
         "groupe": "SRC", 
-        "nom": "Michel Vergnier"
+        "nom": "Michel Vergnier", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "2907": {
         "groupe": "UMP", 
-        "nom": "Jean-S\u00e9bastien Vialatte"
+        "nom": "Jean-S\u00e9bastien Vialatte", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "2936": {
         "groupe": "UMP", 
-        "nom": "Michel Voisin"
+        "nom": "Michel Voisin", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "295": {
         "groupe": "GDR", 
-        "nom": "Fran\u00e7ois Asensi"
+        "nom": "Fran\u00e7ois Asensi", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "2952": {
         "groupe": "UMP", 
-        "nom": "Jean-Luc Warsmann"
+        "nom": "Jean-Luc Warsmann", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "2960": {
         "groupe": "UMP", 
-        "nom": "\u00c9ric Woerth"
+        "nom": "\u00c9ric Woerth", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "2971": {
         "groupe": "UMP", 
-        "nom": "Marie-Jo Zimmermann"
+        "nom": "Marie-Jo Zimmermann", 
+        "sexe": "F", 
+        "vote": "contre"
     }, 
     "304016": {
         "groupe": "SRC", 
-        "nom": "Sandrine Hurel"
+        "nom": "Sandrine Hurel", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "309643": {
         "groupe": "NI", 
-        "nom": "V\u00e9ronique Besse"
+        "nom": "V\u00e9ronique Besse", 
+        "sexe": "F", 
+        "vote": "contre"
     }, 
     "314": {
         "groupe": "UMP", 
-        "nom": "Olivier Audibert Troin"
+        "nom": "Olivier Audibert Troin", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "330008": {
         "groupe": "UMP", 
-        "nom": "Xavier Breton"
+        "nom": "Xavier Breton", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "330118": {
         "groupe": "SRC", 
-        "nom": "Guy Chambefort"
+        "nom": "Guy Chambefort", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "330130": {
         "groupe": "SRC", 
-        "nom": "Bernard Lesterlin"
+        "nom": "Bernard Lesterlin", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "330240": {
         "groupe": "UMP", 
-        "nom": "\u00c9ric Ciotti"
+        "nom": "\u00c9ric Ciotti", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "330357": {
         "groupe": "SRC", 
-        "nom": "Olivier Dussopt"
+        "nom": "Olivier Dussopt", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "330546": {
         "groupe": "SRC", 
-        "nom": "Marie-Lou Marcel"
+        "nom": "Marie-Lou Marcel", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "330613": {
         "groupe": "SRC", 
-        "nom": "Henri Jibrayel"
+        "nom": "Henri Jibrayel", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "330684": {
         "groupe": "UMP", 
-        "nom": "Val\u00e9rie Boyer"
+        "nom": "Val\u00e9rie Boyer", 
+        "sexe": "F", 
+        "vote": "contre"
     }, 
     "330788": {
         "groupe": "UMP", 
-        "nom": "Bernard Reyn\u00e8s"
+        "nom": "Bernard Reyn\u00e8s", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "330981": {
         "groupe": "SRC", 
-        "nom": "Martine Pinville"
+        "nom": "Martine Pinville", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "331014": {
         "groupe": "SRC", 
-        "nom": "Catherine Qu\u00e9r\u00e9"
+        "nom": "Catherine Qu\u00e9r\u00e9", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "331146": {
         "groupe": "UMP", 
-        "nom": "Sauveur Gandolfi-Scheit"
+        "nom": "Sauveur Gandolfi-Scheit", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "331282": {
         "groupe": "SRC", 
-        "nom": "Corinne Erhel"
+        "nom": "Corinne Erhel", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "331442": {
         "groupe": "UDI", 
-        "nom": "Franck Reynier"
+        "nom": "Franck Reynier", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "331481": {
         "groupe": "UMP", 
-        "nom": "Bruno Le Maire"
+        "nom": "Bruno Le Maire", 
+        "sexe": "H", 
+        "vote": "abstention"
     }, 
     "331567": {
         "groupe": "UMP", 
-        "nom": "Laure de La Raudi\u00e8re"
+        "nom": "Laure de La Raudi\u00e8re", 
+        "sexe": "F", 
+        "vote": "contre"
     }, 
     "331582": {
         "groupe": "UDI", 
-        "nom": "Philippe Vigier"
+        "nom": "Philippe Vigier", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "331594": {
         "groupe": "SRC", 
-        "nom": "Jean-Jacques Urvoas"
+        "nom": "Jean-Jacques Urvoas", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "331658": {
         "groupe": "SRC", 
-        "nom": "Annick Le Loch"
+        "nom": "Annick Le Loch", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "331753": {
         "groupe": "SRC", 
-        "nom": "Catherine Lemorton"
+        "nom": "Catherine Lemorton", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "331807": {
         "groupe": "SRC", 
-        "nom": "Martine Martinel"
+        "nom": "Martine Martinel", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "331835": {
         "groupe": "SRC", 
-        "nom": "Monique Iborra"
+        "nom": "Monique Iborra", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "331973": {
         "groupe": "SRC", 
-        "nom": "Pascale Got"
+        "nom": "Pascale Got", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "331990": {
         "groupe": "SRC", 
-        "nom": "Alain Rousset"
+        "nom": "Alain Rousset", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "332015": {
         "groupe": "SRC", 
-        "nom": "Martine Faure"
+        "nom": "Martine Faure", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "332206": {
         "groupe": "SRC", 
-        "nom": "Jean-Ren\u00e9 Marsac"
+        "nom": "Jean-Ren\u00e9 Marsac", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "332228": {
         "groupe": "UDI", 
-        "nom": "Thierry Benoit"
+        "nom": "Thierry Benoit", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "332305": {
         "groupe": "SRC", 
-        "nom": "Jean-Patrick Gille"
+        "nom": "Jean-Patrick Gille", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "332384": {
         "groupe": "SRC", 
-        "nom": "Michel Issindou"
+        "nom": "Michel Issindou", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "332523": {
         "groupe": "UMP", 
-        "nom": "Marie-Christine Dalloz"
+        "nom": "Marie-Christine Dalloz", 
+        "sexe": "F", 
+        "vote": "contre"
     }, 
     "332614": {
         "groupe": "SRC", 
-        "nom": "R\u00e9gis Juanico"
+        "nom": "R\u00e9gis Juanico", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "332636": {
         "groupe": "SRC", 
-        "nom": "Jean-Louis Gagnaire"
+        "nom": "Jean-Louis Gagnaire", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "332747": {
         "groupe": "ECOLO", 
-        "nom": "Fran\u00e7ois de Rugy"
+        "nom": "Fran\u00e7ois de Rugy", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "332796": {
         "groupe": "SRC", 
-        "nom": "Michel M\u00e9nard"
+        "nom": "Michel M\u00e9nard", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "332843": {
         "groupe": "SRC", 
-        "nom": "Marie-Odile Bouill\u00e9"
+        "nom": "Marie-Odile Bouill\u00e9", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "332886": {
         "groupe": "UMP", 
-        "nom": "Olivier Carr\u00e9"
+        "nom": "Olivier Carr\u00e9", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "332950": {
         "groupe": "RRDP", 
-        "nom": "Dominique Orliac"
+        "nom": "Dominique Orliac", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "333043": {
         "groupe": "SRC", 
-        "nom": "Marc Goua"
+        "nom": "Marc Goua", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "333134": {
         "groupe": "UMP", 
-        "nom": "Gu\u00e9nha\u00ebl Huet"
+        "nom": "Gu\u00e9nha\u00ebl Huet", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "333224": {
         "groupe": "UMP", 
-        "nom": "Benoist Apparu"
+        "nom": "Benoist Apparu", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "333335": {
         "groupe": "SRC", 
-        "nom": "Herv\u00e9 F\u00e9ron"
+        "nom": "Herv\u00e9 F\u00e9ron", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "333421": {
         "groupe": "UDI", 
-        "nom": "Bertrand Pancher"
+        "nom": "Bertrand Pancher", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "333818": {
         "groupe": "SRC", 
-        "nom": "Christian Hutin"
+        "nom": "Christian Hutin", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "334": {
         "groupe": "SRC", 
-        "nom": "Jean-Paul Bacquet"
+        "nom": "Jean-Paul Bacquet", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "334116": {
         "groupe": "SRC", 
-        "nom": "Jacqueline Maquet"
+        "nom": "Jacqueline Maquet", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "334149": {
         "groupe": "UMP", 
-        "nom": "Daniel Fasquelle"
+        "nom": "Daniel Fasquelle", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "334654": {
         "groupe": "UMP", 
-        "nom": "\u00c9ric Straumann"
+        "nom": "\u00c9ric Straumann", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "334755": {
         "groupe": "SRC", 
-        "nom": "Pierre-Alain Muet"
+        "nom": "Pierre-Alain Muet", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "334768": {
         "groupe": "SRC", 
-        "nom": "Jean-Louis Touraine"
+        "nom": "Jean-Louis Touraine", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "334811": {
         "groupe": "SRC", 
-        "nom": "Pascale Crozon"
+        "nom": "Pascale Crozon", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "334843": {
         "groupe": "UMP", 
-        "nom": "Patrice Verch\u00e8re"
+        "nom": "Patrice Verch\u00e8re", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "334906": {
         "groupe": "UMP", 
-        "nom": "Philippe Meunier"
+        "nom": "Philippe Meunier", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "334951": {
         "groupe": "SRC", 
-        "nom": "Jean-Michel Villaum\u00e9"
+        "nom": "Jean-Michel Villaum\u00e9", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "335017": {
         "groupe": "SRC", 
-        "nom": "Christophe Sirugue"
+        "nom": "Christophe Sirugue", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "335054": {
         "groupe": "SRC", 
-        "nom": "Marietta Karamanli"
+        "nom": "Marietta Karamanli", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "335159": {
         "groupe": "UMP", 
-        "nom": "Lionel Tardy"
+        "nom": "Lionel Tardy", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "335319": {
         "groupe": "SRC", 
-        "nom": "Sandrine Mazetier"
+        "nom": "Sandrine Mazetier", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "335567": {
         "groupe": "UMP", 
-        "nom": "Fran\u00e7oise Gu\u00e9got"
+        "nom": "Fran\u00e7oise Gu\u00e9got", 
+        "sexe": "F", 
+        "vote": "contre"
     }, 
     "335758": {
         "groupe": "UMP", 
-        "nom": "Franck Riester"
+        "nom": "Franck Riester", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "336015": {
         "groupe": "SRC", 
-        "nom": "Jean Grellier"
+        "nom": "Jean Grellier", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "336112": {
         "groupe": "SRC", 
-        "nom": "Jacques Valax"
+        "nom": "Jacques Valax", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "336316": {
         "groupe": "UMP", 
-        "nom": "Jean-Claude Bouchet"
+        "nom": "Jean-Claude Bouchet", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "336421": {
         "groupe": "SRC", 
-        "nom": "Catherine Coutelle"
+        "nom": "Catherine Coutelle", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "336439": {
         "groupe": "SRC", 
-        "nom": "Jean-Michel Cl\u00e9ment"
+        "nom": "Jean-Michel Cl\u00e9ment", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "336576": {
         "groupe": "UMP", 
-        "nom": "Marie-Louise Fort"
+        "nom": "Marie-Louise Fort", 
+        "sexe": "F", 
+        "vote": "contre"
     }, 
     "336971": {
         "groupe": "SRC", 
-        "nom": "Daniel Goldberg"
+        "nom": "Daniel Goldberg", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "337483": {
         "groupe": "SRC", 
-        "nom": "Serge Letchimy"
+        "nom": "Serge Letchimy", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "337504": {
         "groupe": "SRC", 
-        "nom": "Chantal Berthelot"
+        "nom": "Chantal Berthelot", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "337550": {
         "groupe": "SRC", 
-        "nom": "Patrick Lebreton"
+        "nom": "Patrick Lebreton", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "337568": {
         "groupe": "SRC", 
-        "nom": "Jean-Claude Fruteau"
+        "nom": "Jean-Claude Fruteau", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "337633": {
         "groupe": "RRDP", 
-        "nom": "Annick Girardin"
+        "nom": "Annick Girardin", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "339": {
         "groupe": "SRC", 
-        "nom": "Dominique Baert"
+        "nom": "Dominique Baert", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "340432": {
         "groupe": "SRC", 
-        "nom": "Alain Faur\u00e9"
+        "nom": "Alain Faur\u00e9", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "340755": {
         "groupe": "GDR", 
-        "nom": "Gaby Charroux"
+        "nom": "Gaby Charroux", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "341246": {
         "groupe": "SRC", 
-        "nom": "Viviane Le Dissez"
+        "nom": "Viviane Le Dissez", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "341339": {
         "groupe": "SRC", 
-        "nom": "Colette Langlade"
+        "nom": "Colette Langlade", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "341981": {
         "groupe": "SRC", 
-        "nom": "Marie R\u00e9calde"
+        "nom": "Marie R\u00e9calde", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "342332": {
         "groupe": "SRC", 
-        "nom": "Jean-Marie Beffara"
+        "nom": "Jean-Marie Beffara", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "342415": {
         "groupe": "SRC", 
-        "nom": "Marie-No\u00eblle Battistel"
+        "nom": "Marie-No\u00eblle Battistel", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "342539": {
         "groupe": "SRC", 
-        "nom": "Florence Delaunay"
+        "nom": "Florence Delaunay", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "342935": {
         "groupe": "UMP", 
-        "nom": "Marianne Dubois"
+        "nom": "Marianne Dubois", 
+        "sexe": "F", 
+        "vote": "contre"
     }, 
     "342997": {
         "groupe": "SRC", 
-        "nom": "Jean-Claude Gouget"
+        "nom": "Jean-Claude Gouget", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "343493": {
         "groupe": "SRC", 
-        "nom": "Gwendal Rouillard"
+        "nom": "Gwendal Rouillard", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "343623": {
         "groupe": "UMP", 
-        "nom": "Anne Grommerch"
+        "nom": "Anne Grommerch", 
+        "sexe": "F", 
+        "vote": "contre"
     }, 
     "344114": {
         "groupe": "SRC", 
-        "nom": "Jean-Jacques Cottel"
+        "nom": "Jean-Jacques Cottel", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "344242": {
         "groupe": "SRC", 
-        "nom": "Philippe Kemel"
+        "nom": "Philippe Kemel", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "344492": {
         "groupe": "UMP", 
-        "nom": "Fernand Sir\u00e9"
+        "nom": "Fernand Sir\u00e9", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "344776": {
         "groupe": "UMP", 
-        "nom": "Dominique Nachury"
+        "nom": "Dominique Nachury", 
+        "sexe": "F", 
+        "vote": "contre"
     }, 
     "345619": {
         "groupe": "UMP", 
-        "nom": "Edouard Philippe"
+        "nom": "Edouard Philippe", 
+        "sexe": "H", 
+        "vote": "abstention"
     }, 
     "345897": {
         "groupe": "UDI", 
-        "nom": "Arnaud Richard"
+        "nom": "Arnaud Richard", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "345937": {
         "groupe": "UMP", 
-        "nom": "Jean-Fr\u00e9d\u00e9ric Poisson"
+        "nom": "Jean-Fr\u00e9d\u00e9ric Poisson", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "345994": {
         "groupe": "SRC", 
-        "nom": "Jean-Luc Drapeau"
+        "nom": "Jean-Luc Drapeau", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "346": {
         "groupe": "UMP", 
-        "nom": "Patrick Balkany"
+        "nom": "Patrick Balkany", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "346170": {
         "groupe": "RRDP", 
-        "nom": "Jacques Moignard"
+        "nom": "Jacques Moignard", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "346876": {
         "groupe": "UMP", 
-        "nom": "Thierry Sol\u00e8re"
+        "nom": "Thierry Sol\u00e8re", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "356": {
         "groupe": "SRC", 
-        "nom": "G\u00e9rard Bapt"
+        "nom": "G\u00e9rard Bapt", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "369": {
         "groupe": "UMP", 
-        "nom": "Fran\u00e7ois Baroin"
+        "nom": "Fran\u00e7ois Baroin", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "381": {
         "groupe": "SRC", 
-        "nom": "Claude Bartolone"
+        "nom": "Claude Bartolone", 
+        "sexe": "H", 
+        "vote": "non-votant"
     }, 
     "394": {
         "groupe": "SRC", 
-        "nom": "Christian Bataille"
+        "nom": "Christian Bataille", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "405480": {
         "groupe": "SRC", 
-        "nom": "Fran\u00e7ois Pupponi"
+        "nom": "Fran\u00e7ois Pupponi", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "417099": {
         "groupe": "UMP", 
-        "nom": "Arnaud Robinet"
+        "nom": "Arnaud Robinet", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "422119": {
         "groupe": "UMP", 
-        "nom": "David Douillet"
+        "nom": "David Douillet", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "441": {
         "groupe": "GDR", 
-        "nom": "Huguette Bello"
+        "nom": "Huguette Bello", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "508": {
         "groupe": "SRC", 
-        "nom": "Gis\u00e8le Bi\u00e9mouret"
+        "nom": "Gis\u00e8le Bi\u00e9mouret", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "536": {
         "groupe": "SRC", 
-        "nom": "Jean-Pierre Blazy"
+        "nom": "Jean-Pierre Blazy", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "543": {
         "groupe": "SRC", 
-        "nom": "Patrick Bloche"
+        "nom": "Patrick Bloche", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "551": {
         "groupe": "GDR", 
-        "nom": "Alain Bocquet"
+        "nom": "Alain Bocquet", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "560": {
         "groupe": "SRC", 
-        "nom": "Daniel Boisserie"
+        "nom": "Daniel Boisserie", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "563": {
         "groupe": "NI", 
-        "nom": "Jacques Bompard"
+        "nom": "Jacques Bompard", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "588": {
         "groupe": "UDI", 
-        "nom": "Jean-Louis Borloo"
+        "nom": "Jean-Louis Borloo", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "605036": {
         "groupe": "UMP", 
-        "nom": "Damien Abad"
+        "nom": "Damien Abad", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "605069": {
         "groupe": "SRC", 
-        "nom": "Jean-Louis Bricout"
+        "nom": "Jean-Louis Bricout", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "605076": {
         "groupe": "SRC", 
-        "nom": "Marie-Fran\u00e7oise Bechtel"
+        "nom": "Marie-Fran\u00e7oise Bechtel", 
+        "sexe": "F", 
+        "vote": "abstention"
     }, 
     "605084": {
         "groupe": "RRDP", 
-        "nom": "Jacques Krabal"
+        "nom": "Jacques Krabal", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "605131": {
         "groupe": "SRC", 
-        "nom": "Christophe Castaner"
+        "nom": "Christophe Castaner", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "605143": {
         "groupe": "SRC", 
-        "nom": "Karine Berger"
+        "nom": "Karine Berger", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "605261": {
         "groupe": "SRC", 
-        "nom": "Sabine Buis"
+        "nom": "Sabine Buis", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "605278": {
         "groupe": "SRC", 
-        "nom": "Christophe L\u00e9onard"
+        "nom": "Christophe L\u00e9onard", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "605349": {
         "groupe": "SRC", 
-        "nom": "Marie-H\u00e9l\u00e8ne Fabre"
+        "nom": "Marie-H\u00e9l\u00e8ne Fabre", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "605426": {
         "groupe": "SRC", 
-        "nom": "Patrick Mennucci"
+        "nom": "Patrick Mennucci", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "605518": {
         "groupe": "ECOLO", 
-        "nom": "Fran\u00e7ois-Michel Lambert"
+        "nom": "Fran\u00e7ois-Michel Lambert", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "605557": {
         "groupe": "SRC", 
-        "nom": "Jean-David Ciot"
+        "nom": "Jean-David Ciot", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "605606": {
         "groupe": "SRC", 
-        "nom": "Clotilde Valter"
+        "nom": "Clotilde Valter", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "605625": {
         "groupe": "ECOLO", 
-        "nom": "Isabelle Attard"
+        "nom": "Isabelle Attard", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "605643": {
         "groupe": "SRC", 
-        "nom": "Alain Calmette"
+        "nom": "Alain Calmette", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "605694": {
         "groupe": "RRDP", 
-        "nom": "Olivier Falorni"
+        "nom": "Olivier Falorni", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "605703": {
         "groupe": "SRC", 
-        "nom": "Suzanne Tallard"
+        "nom": "Suzanne Tallard", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "605745": {
         "groupe": "GDR", 
-        "nom": "Nicolas Sansu"
+        "nom": "Nicolas Sansu", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "605758": {
         "groupe": "SRC", 
-        "nom": "Sophie Dessus"
+        "nom": "Sophie Dessus", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "605782": {
         "groupe": "UMP", 
-        "nom": "Laurent Marcangeli"
+        "nom": "Laurent Marcangeli", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "605804": {
         "groupe": "SRC", 
-        "nom": "Laurent Grandguillaume"
+        "nom": "Laurent Grandguillaume", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "605830": {
         "groupe": "SRC", 
-        "nom": "Kheira Bouziane"
+        "nom": "Kheira Bouziane", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "605888": {
         "groupe": "SRC", 
-        "nom": "Annie Le Houerou"
+        "nom": "Annie Le Houerou", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "605922": {
         "groupe": "ECOLO", 
-        "nom": "Brigitte Allain"
+        "nom": "Brigitte Allain", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "605952": {
         "groupe": "SRC", 
-        "nom": "Barbara Romagnan"
+        "nom": "Barbara Romagnan", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "605963": {
         "groupe": "ECOLO", 
-        "nom": "\u00c9ric Alauzet"
+        "nom": "\u00c9ric Alauzet", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "605991": {
         "groupe": "UMP", 
-        "nom": "Annie Genevard"
+        "nom": "Annie Genevard", 
+        "sexe": "F", 
+        "vote": "contre"
     }, 
     "606030": {
         "groupe": "SRC", 
-        "nom": "Nathalie Nieson"
+        "nom": "Nathalie Nieson", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "606040": {
         "groupe": "SRC", 
-        "nom": "Jean-Louis Destans"
+        "nom": "Jean-Louis Destans", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "606098": {
         "groupe": "UMP", 
-        "nom": "Olivier Marleix"
+        "nom": "Olivier Marleix", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "606149": {
         "groupe": "SRC", 
-        "nom": "Jean-Luc Bleunven"
+        "nom": "Jean-Luc Bleunven", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "606161": {
         "groupe": "SRC", 
-        "nom": "Chantal Guittet"
+        "nom": "Chantal Guittet", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "606171": {
         "groupe": "SRC", 
-        "nom": "Richard Ferrand"
+        "nom": "Richard Ferrand", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "606202": {
         "groupe": "SRC", 
-        "nom": "Fran\u00e7oise Dumas"
+        "nom": "Fran\u00e7oise Dumas", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "606212": {
         "groupe": "NI", 
-        "nom": "Gilbert Collard"
+        "nom": "Gilbert Collard", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "606225": {
         "groupe": "SRC", 
-        "nom": "Patrice Prat"
+        "nom": "Patrice Prat", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "606230": {
         "groupe": "SRC", 
-        "nom": "Fabrice Verdier"
+        "nom": "Fabrice Verdier", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "606258": {
         "groupe": "ECOLO", 
-        "nom": "Christophe Cavard"
+        "nom": "Christophe Cavard", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "606299": {
         "groupe": "UMP", 
-        "nom": "Jean-Luc Moudenc"
+        "nom": "Jean-Luc Moudenc", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "606351": {
         "groupe": "SRC", 
-        "nom": "Carole Delga"
+        "nom": "Carole Delga", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "606363": {
         "groupe": "SRC", 
-        "nom": "Christophe Borgel"
+        "nom": "Christophe Borgel", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "606375": {
         "groupe": "SRC", 
-        "nom": "\u00c9milienne Poumirol"
+        "nom": "\u00c9milienne Poumirol", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "606412": {
         "groupe": "SRC", 
-        "nom": "Sandrine Doucet"
+        "nom": "Sandrine Doucet", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "606478": {
         "groupe": "UMP", 
-        "nom": "Yves Foulon"
+        "nom": "Yves Foulon", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "606495": {
         "groupe": "SRC", 
-        "nom": "Gilles Savary"
+        "nom": "Gilles Savary", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "606507": {
         "groupe": "SRC", 
-        "nom": "Florent Boudi\u00e9"
+        "nom": "Florent Boudi\u00e9", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "606545": {
         "groupe": "ECOLO", 
-        "nom": "Jean-Louis Roumegas"
+        "nom": "Jean-Louis Roumegas", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "606555": {
         "groupe": "SRC", 
-        "nom": "Anne-Yvonne Le Dain"
+        "nom": "Anne-Yvonne Le Dain", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "606573": {
         "groupe": "SRC", 
-        "nom": "Fanny Dombre Coste"
+        "nom": "Fanny Dombre Coste", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "606586": {
         "groupe": "SRC", 
-        "nom": "Fr\u00e9d\u00e9ric Roig"
+        "nom": "Fr\u00e9d\u00e9ric Roig", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "606623": {
         "groupe": "SRC", 
-        "nom": "S\u00e9bastien Denaja"
+        "nom": "S\u00e9bastien Denaja", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "606631": {
         "groupe": "SRC", 
-        "nom": "Christian Assaf"
+        "nom": "Christian Assaf", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "606639": {
         "groupe": "SRC", 
-        "nom": "Patrick Vignal"
+        "nom": "Patrick Vignal", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "606665": {
         "groupe": "SRC", 
-        "nom": "Marie-Anne Chapdelaine"
+        "nom": "Marie-Anne Chapdelaine", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "606675": {
         "groupe": "SRC", 
-        "nom": "Fran\u00e7ois Andr\u00e9"
+        "nom": "Fran\u00e7ois Andr\u00e9", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "606693": {
         "groupe": "UMP", 
-        "nom": "Isabelle Le Callennec"
+        "nom": "Isabelle Le Callennec", 
+        "sexe": "F", 
+        "vote": "contre"
     }, 
     "606712": {
         "groupe": "UMP", 
-        "nom": "Gilles Lurton"
+        "nom": "Gilles Lurton", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "606745": {
         "groupe": "SRC", 
-        "nom": "Isabelle Bruneau"
+        "nom": "Isabelle Bruneau", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "606793": {
         "groupe": "SRC", 
-        "nom": "Laurent Baumel"
+        "nom": "Laurent Baumel", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "606888": {
         "groupe": "UMP", 
-        "nom": "Jean-Pierre Barbier"
+        "nom": "Jean-Pierre Barbier", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "606899": {
         "groupe": "SRC", 
-        "nom": "Erwann Binet"
+        "nom": "Erwann Binet", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "606910": {
         "groupe": "ECOLO", 
-        "nom": "Mich\u00e8le Bonneton"
+        "nom": "Mich\u00e8le Bonneton", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "606924": {
         "groupe": "SRC", 
-        "nom": "Jo\u00eblle Huillier"
+        "nom": "Jo\u00eblle Huillier", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "606991": {
         "groupe": "SRC", 
-        "nom": "Denys Robiliard"
+        "nom": "Denys Robiliard", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "607090": {
         "groupe": "UMP", 
-        "nom": "Jean-Pierre Vigier"
+        "nom": "Jean-Pierre Vigier", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "607155": {
         "groupe": "SRC", 
-        "nom": "Yves Daniel"
+        "nom": "Yves Daniel", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "607187": {
         "groupe": "SRC", 
-        "nom": "Monique Rabin"
+        "nom": "Monique Rabin", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "607193": {
         "groupe": "SRC", 
-        "nom": "Sophie Errante"
+        "nom": "Sophie Errante", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "607256": {
         "groupe": "SRC", 
-        "nom": "Val\u00e9rie Corre"
+        "nom": "Val\u00e9rie Corre", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "607283": {
         "groupe": "SRC", 
-        "nom": "Lucette Lousteau"
+        "nom": "Lucette Lousteau", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "607287": {
         "groupe": "SRC", 
-        "nom": "Matthias Fekl"
+        "nom": "Matthias Fekl", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "607310": {
         "groupe": "SRC", 
-        "nom": "Luc Belot"
+        "nom": "Luc Belot", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "607369": {
         "groupe": "SRC", 
-        "nom": "Serge Bardy"
+        "nom": "Serge Bardy", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "607395": {
         "groupe": "SRC", 
-        "nom": "St\u00e9phane Travert"
+        "nom": "St\u00e9phane Travert", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "607489": {
         "groupe": "UMP", 
-        "nom": "Guillaume Chevrollier"
+        "nom": "Guillaume Chevrollier", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "607509": {
         "groupe": "SRC", 
-        "nom": "Chaynesse Khirouni"
+        "nom": "Chaynesse Khirouni", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "607553": {
         "groupe": "SRC", 
-        "nom": "Dominique Potier"
+        "nom": "Dominique Potier", 
+        "sexe": "H", 
+        "vote": "abstension"
     }, 
     "607595": {
         "groupe": "SRC", 
-        "nom": "Herv\u00e9 Pellois"
+        "nom": "Herv\u00e9 Pellois", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "607603": {
         "groupe": "UMP", 
-        "nom": "Philippe Le Ray"
+        "nom": "Philippe Le Ray", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "607606": {
         "groupe": "SRC", 
-        "nom": "Jean-Pierre Le Roch"
+        "nom": "Jean-Pierre Le Roch", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "607619": {
         "groupe": "ECOLO", 
-        "nom": "Paul Molac"
+        "nom": "Paul Molac", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "607632": {
         "groupe": "SRC", 
-        "nom": "Philippe Nogu\u00e8s"
+        "nom": "Philippe Nogu\u00e8s", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "607691": {
         "groupe": "SRC", 
-        "nom": "Laurent Kalinowski"
+        "nom": "Laurent Kalinowski", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "607699": {
         "groupe": "SRC", 
-        "nom": "Paola Zanetti"
+        "nom": "Paola Zanetti", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "607761": {
         "groupe": "SRC", 
-        "nom": "Audrey Linkenheld"
+        "nom": "Audrey Linkenheld", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "607769": {
         "groupe": "SRC", 
-        "nom": "R\u00e9mi Pauvros"
+        "nom": "R\u00e9mi Pauvros", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "607846": {
         "groupe": "UMP", 
-        "nom": "G\u00e9rald Darmanin"
+        "nom": "G\u00e9rald Darmanin", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "607892": {
         "groupe": "SRC", 
-        "nom": "Jean-Pierre Allossery"
+        "nom": "Jean-Pierre Allossery", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "607919": {
         "groupe": "SRC", 
-        "nom": "Anne-Lise Dufour-Tonini"
+        "nom": "Anne-Lise Dufour-Tonini", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "608011": {
         "groupe": "SRC", 
-        "nom": "Joaquim Pueyo"
+        "nom": "Joaquim Pueyo", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "608016": {
         "groupe": "UMP", 
-        "nom": "V\u00e9ronique Louwagie"
+        "nom": "V\u00e9ronique Louwagie", 
+        "sexe": "F", 
+        "vote": "contre"
     }, 
     "608038": {
         "groupe": "SRC", 
-        "nom": "Yves Goasdoue"
+        "nom": "Yves Goasdoue", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "608083": {
         "groupe": "SRC", 
-        "nom": "Brigitte Bourguignon"
+        "nom": "Brigitte Bourguignon", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "608098": {
         "groupe": "SRC", 
-        "nom": "Yann Capet"
+        "nom": "Yann Capet", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "608120": {
         "groupe": "RRDP", 
-        "nom": "St\u00e9phane Saint-Andr\u00e9"
+        "nom": "St\u00e9phane Saint-Andr\u00e9", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "608158": {
         "groupe": "SRC", 
-        "nom": "Nicolas Bays"
+        "nom": "Nicolas Bays", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "608172": {
         "groupe": "SRC", 
-        "nom": "Christine Pires Beaune"
+        "nom": "Christine Pires Beaune", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "608186": {
         "groupe": "ECOLO", 
-        "nom": "Danielle Auroi"
+        "nom": "Danielle Auroi", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "608235": {
         "groupe": "SRC", 
-        "nom": "Nathalie Chabanne"
+        "nom": "Nathalie Chabanne", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "608264": {
         "groupe": "SRC", 
-        "nom": "Colette Capdevielle"
+        "nom": "Colette Capdevielle", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "608276": {
         "groupe": "SRC", 
-        "nom": "Sylviane Alaux"
+        "nom": "Sylviane Alaux", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "608292": {
         "groupe": "RRDP", 
-        "nom": "Jeanine Dubi\u00e9"
+        "nom": "Jeanine Dubi\u00e9", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "608310": {
         "groupe": "SRC", 
-        "nom": "Jacques Cresta"
+        "nom": "Jacques Cresta", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "608328": {
         "groupe": "SRC", 
-        "nom": "S\u00e9gol\u00e8ne Neuville"
+        "nom": "S\u00e9gol\u00e8ne Neuville", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "608348": {
         "groupe": "SRC", 
-        "nom": "Pierre Aylagas"
+        "nom": "Pierre Aylagas", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "608363": {
         "groupe": "SRC", 
-        "nom": "Philippe Bies"
+        "nom": "Philippe Bies", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "608380": {
         "groupe": "UMP", 
-        "nom": "Sophie Rohfritsch"
+        "nom": "Sophie Rohfritsch", 
+        "sexe": "F", 
+        "vote": "contre"
     }, 
     "608416": {
         "groupe": "UMP", 
-        "nom": "Patrick Hetzel"
+        "nom": "Patrick Hetzel", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "608434": {
         "groupe": "UMP", 
-        "nom": "Claude Sturni"
+        "nom": "Claude Sturni", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "608495": {
         "groupe": "RRDP", 
-        "nom": "Thierry Braillard"
+        "nom": "Thierry Braillard", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "608574": {
         "groupe": "SRC", 
-        "nom": "H\u00e9l\u00e8ne Geoffroy"
+        "nom": "H\u00e9l\u00e8ne Geoffroy", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "608641": {
         "groupe": "SRC", 
-        "nom": "Yves Blein"
+        "nom": "Yves Blein", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "608662": {
         "groupe": "UMP", 
-        "nom": "Alain Chr\u00e9tien"
+        "nom": "Alain Chr\u00e9tien", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "608672": {
         "groupe": "SRC", 
-        "nom": "Thomas Th\u00e9venoud"
+        "nom": "Thomas Th\u00e9venoud", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "608684": {
         "groupe": "SRC", 
-        "nom": "Edith Gueugneau"
+        "nom": "Edith Gueugneau", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "608686": {
         "groupe": "SRC", 
-        "nom": "Philippe Baumel"
+        "nom": "Philippe Baumel", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "608695": {
         "groupe": "SRC", 
-        "nom": "C\u00e9cile Untermaier"
+        "nom": "C\u00e9cile Untermaier", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "608718": {
         "groupe": "SRC", 
-        "nom": "Fran\u00e7oise Dubois"
+        "nom": "Fran\u00e7oise Dubois", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "608741": {
         "groupe": "SRC", 
-        "nom": "Sylvie Tolmont"
+        "nom": "Sylvie Tolmont", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "608778": {
         "groupe": "SRC", 
-        "nom": "B\u00e9atrice Santais"
+        "nom": "B\u00e9atrice Santais", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "608785": {
         "groupe": "SRC", 
-        "nom": "Bernadette Laclais"
+        "nom": "Bernadette Laclais", 
+        "sexe": "F", 
+        "vote": "contre"
     }, 
     "608826": {
         "groupe": "UMP", 
-        "nom": "Virginie Duby-Muller"
+        "nom": "Virginie Duby-Muller", 
+        "sexe": "F", 
+        "vote": "contre"
     }, 
     "608851": {
         "groupe": "UMP", 
-        "nom": "Sophie Dion"
+        "nom": "Sophie Dion", 
+        "sexe": "F", 
+        "vote": "contre"
     }, 
     "608920": {
         "groupe": "SRC", 
-        "nom": "Seybah Dagoma"
+        "nom": "Seybah Dagoma", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "609016": {
         "groupe": "ECOLO", 
-        "nom": "Denis Baupin"
+        "nom": "Denis Baupin", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "609042": {
         "groupe": "SRC", 
-        "nom": "Pascal Cherki"
+        "nom": "Pascal Cherki", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "609205": {
         "groupe": "SRC", 
-        "nom": "Catherine Troallic"
+        "nom": "Catherine Troallic", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "609218": {
         "groupe": "SRC", 
-        "nom": "Estelle Grelier"
+        "nom": "Estelle Grelier", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "609222": {
         "groupe": "SRC", 
-        "nom": "Dominique Chauvel"
+        "nom": "Dominique Chauvel", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "609245": {
         "groupe": "UMP", 
-        "nom": "Val\u00e9rie Lacroute"
+        "nom": "Val\u00e9rie Lacroute", 
+        "sexe": "F", 
+        "vote": "contre"
     }, 
     "609292": {
         "groupe": "SRC", 
-        "nom": "Eduardo Rihan Cypel"
+        "nom": "Eduardo Rihan Cypel", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "609314": {
         "groupe": "SRC", 
-        "nom": "Emeric Br\u00e9hier"
+        "nom": "Emeric Br\u00e9hier", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "609332": {
         "groupe": "SRC", 
-        "nom": "Olivier Faure"
+        "nom": "Olivier Faure", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "609345": {
         "groupe": "UMP", 
-        "nom": "Fran\u00e7ois de Mazi\u00e8res"
+        "nom": "Fran\u00e7ois de Mazi\u00e8res", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "609365": {
         "groupe": "UMP", 
-        "nom": "Henri Guaino"
+        "nom": "Henri Guaino", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "609435": {
         "groupe": "SRC", 
-        "nom": "Fran\u00e7oise Descamps-Crosnier"
+        "nom": "Fran\u00e7oise Descamps-Crosnier", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "609442": {
         "groupe": "UMP", 
-        "nom": "Jean-Marie Tetart"
+        "nom": "Jean-Marie Tetart", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "609465": {
         "groupe": "SRC", 
-        "nom": "Jean-Philippe Mall\u00e9"
+        "nom": "Jean-Philippe Mall\u00e9", 
+        "sexe": "H", 
+        "vote": "abstention"
     }, 
     "609513": {
         "groupe": "SRC", 
-        "nom": "Pascale Boistard"
+        "nom": "Pascale Boistard", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "609520": {
         "groupe": "ECOLO", 
-        "nom": "Barbara Pompili"
+        "nom": "Barbara Pompili", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "609535": {
         "groupe": "SRC", 
-        "nom": "Jean-Claude Buisine"
+        "nom": "Jean-Claude Buisine", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "609578": {
         "groupe": "SRC", 
-        "nom": "Linda Gourjade"
+        "nom": "Linda Gourjade", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "609590": {
         "groupe": "SRC", 
-        "nom": "Val\u00e9rie Rabault"
+        "nom": "Val\u00e9rie Rabault", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "609691": {
         "groupe": "SRC", 
-        "nom": "Mich\u00e8le Fournier-Armand"
+        "nom": "Mich\u00e8le Fournier-Armand", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "609709": {
         "groupe": "NI", 
-        "nom": "Marion Mar\u00e9chal-Le Pen"
+        "nom": "Marion Mar\u00e9chal-Le Pen", 
+        "sexe": "", 
+        "vote": "contre"
     }, 
     "609726": {
         "groupe": "UMP", 
-        "nom": "Julien Aubert"
+        "nom": "Julien Aubert", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "609740": {
         "groupe": "UMP", 
-        "nom": "Alain Leboeuf"
+        "nom": "Alain Leboeuf", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "609743": {
         "groupe": "SRC", 
-        "nom": "Sylviane Bulteau"
+        "nom": "Sylviane Bulteau", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "609764": {
         "groupe": "NI", 
-        "nom": "Yannick Moreau"
+        "nom": "Yannick Moreau", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "609775": {
         "groupe": "SRC", 
-        "nom": "Hugues Fourage"
+        "nom": "Hugues Fourage", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "609816": {
         "groupe": "ECOLO", 
-        "nom": "V\u00e9ronique Massonneau"
+        "nom": "V\u00e9ronique Massonneau", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "609845": {
         "groupe": "SRC", 
-        "nom": "Catherine Beaubatie"
+        "nom": "Catherine Beaubatie", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "609963": {
         "groupe": "SRC", 
-        "nom": "Michel Pouzol"
+        "nom": "Michel Pouzol", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "609983": {
         "groupe": "SRC", 
-        "nom": "Maud Olivier"
+        "nom": "Maud Olivier", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "610002": {
         "groupe": "ECOLO", 
-        "nom": "Eva Sas"
+        "nom": "Eva Sas", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "610045": {
         "groupe": "SRC", 
-        "nom": "Malek Boutih"
+        "nom": "Malek Boutih", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "610066": {
         "groupe": "SRC", 
-        "nom": "Alexis Bachelay"
+        "nom": "Alexis Bachelay", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "610075": {
         "groupe": "SRC", 
-        "nom": "S\u00e9bastien Pietrasanta"
+        "nom": "S\u00e9bastien Pietrasanta", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "610125": {
         "groupe": "UDI", 
-        "nom": "Jean-Christophe Fromantin"
+        "nom": "Jean-Christophe Fromantin", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "610195": {
         "groupe": "SRC", 
-        "nom": "Julie Sommaruga"
+        "nom": "Julie Sommaruga", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "610203": {
         "groupe": "SRC", 
-        "nom": "Jean-Marc Germain"
+        "nom": "Jean-Marc Germain", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "610245": {
         "groupe": "SRC", 
-        "nom": "Mathieu Hanotin"
+        "nom": "Mathieu Hanotin", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "610291": {
         "groupe": "SRC", 
-        "nom": "Razzy Hammadi"
+        "nom": "Razzy Hammadi", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "610313": {
         "groupe": "SRC", 
-        "nom": "Elisabeth Pochon"
+        "nom": "Elisabeth Pochon", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "610354": {
         "groupe": "SRC", 
-        "nom": "Pascal Popelin"
+        "nom": "Pascal Popelin", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "610427": {
         "groupe": "ECOLO", 
-        "nom": "Laurence Abeille"
+        "nom": "Laurence Abeille", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "610481": {
         "groupe": "SRC", 
-        "nom": "Jean-Luc Laurent"
+        "nom": "Jean-Luc Laurent", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "610521": {
         "groupe": "RRDP", 
-        "nom": "Jean-No\u00ebl Carpentier"
+        "nom": "Jean-No\u00ebl Carpentier", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "610529": {
         "groupe": "SRC", 
-        "nom": "G\u00e9rard Sebaoun"
+        "nom": "G\u00e9rard Sebaoun", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "610539": {
         "groupe": "SRC", 
-        "nom": "Philippe Doucet"
+        "nom": "Philippe Doucet", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "610594": {
         "groupe": "SRC", 
-        "nom": "Dominique Lefebvre"
+        "nom": "Dominique Lefebvre", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "610615": {
         "groupe": "RRDP", 
-        "nom": "Ary Chalus"
+        "nom": "Ary Chalus", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "610634": {
         "groupe": "GDR", 
-        "nom": "Bruno Nestor Azerot"
+        "nom": "Bruno Nestor Az\u00e9rot", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "610654": {
         "groupe": "GDR", 
-        "nom": "Jean-Philippe Nilor"
+        "nom": "Jean-Philippe Nilor", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "610667": {
         "groupe": "GDR", 
-        "nom": "Gabriel Serville"
+        "nom": "Gabriel Serville", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "610681": {
         "groupe": "SRC", 
-        "nom": "Ericka Bareigts"
+        "nom": "Ericka Bareigts", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "610701": {
         "groupe": "SRC", 
-        "nom": "Jean Jacques Vlody"
+        "nom": "Jean Jacques Vlody", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "610729": {
         "groupe": "SRC", 
-        "nom": "Monique Orph\u00e9"
+        "nom": "Monique Orph\u00e9", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "610733": {
         "groupe": "RRDP", 
-        "nom": "Thierry Robert"
+        "nom": "Thierry Robert", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "610752": {
         "groupe": "SRC", 
-        "nom": "Boinali Said"
+        "nom": "Boinali Said", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "610758": {
         "groupe": "SRC", 
-        "nom": "Ibrahim Aboubacar"
+        "nom": "Ibrahim Aboubacar", 
+        "sexe": "H", 
+        "vote": "abstention"
     }, 
     "610770": {
         "groupe": "UDI", 
-        "nom": "Sonia Lagarde"
+        "nom": "Sonia Lagarde", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "610775": {
         "groupe": "UDI", 
-        "nom": "Philippe Gomes"
+        "nom": "Philippe Gomès", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "610804": {
         "groupe": "UDI", 
-        "nom": "Jonas Tahuaitu"
+        "nom": "Jonas Tahuaitu", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "610820": {
         "groupe": "UDI", 
-        "nom": "Jean-Paul Tuaiva"
+        "nom": "Jean-Paul Tuaiva", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "610830": {
         "groupe": "UMP", 
-        "nom": "Daniel Gibbes"
+        "nom": "Daniel Gibbes", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "610860": {
         "groupe": "ECOLO", 
-        "nom": "Sergio Coronado"
+        "nom": "Sergio Coronado", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "610873": {
         "groupe": "SRC", 
-        "nom": "Axelle Lemaire"
+        "nom": "Axelle Lemaire", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "610891": {
         "groupe": "SRC", 
-        "nom": "Philip Cordery"
+        "nom": "Philip Cordery", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "610905": {
         "groupe": "SRC", 
-        "nom": "Arnaud Leroy"
+        "nom": "Arnaud Leroy", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "610924": {
         "groupe": "UMP", 
-        "nom": "Claudine Schmid"
+        "nom": "Claudine Schmid", 
+        "sexe": "F", 
+        "vote": "contre"
     }, 
     "610936": {
         "groupe": "SRC", 
-        "nom": "Pierre-Yves Le Borgn'"
+        "nom": "Pierre-Yves Le Borgn'", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "610968": {
         "groupe": "SRC", 
-        "nom": "Pouria Amirshahi"
+        "nom": "Pouria Amirshahi", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "642682": {
         "groupe": "SRC", 
-        "nom": "Avi Assouly"
+        "nom": "Avi Assouly", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "642684": {
         "groupe": "SRC", 
-        "nom": "Jean-Pierre Maggi"
+        "nom": "Jean-Pierre Maggi", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "642724": {
         "groupe": "SRC", 
-        "nom": "Fr\u00e9d\u00e9ric Barbier"
+        "nom": "Fr\u00e9d\u00e9ric Barbier", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "642739": {
         "groupe": "SRC", 
-        "nom": "Gwenegan Bui"
+        "nom": "Gwenegan Bui", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "642743": {
         "groupe": "SRC", 
-        "nom": "Vincent Feltesse"
+        "nom": "Vincent Feltesse", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "642788": {
         "groupe": "SRC", 
-        "nom": "Olivier V\u00e9ran"
+        "nom": "Olivier V\u00e9ran", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "642836": {
         "groupe": "SRC", 
-        "nom": "Genevi\u00e8ve Gosselin"
+        "nom": "Genevi\u00e8ve Gosselin", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "642844": {
         "groupe": "SRC", 
-        "nom": "Sylvie Pichot"
+        "nom": "Sylvie Pichot", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "642940": {
         "groupe": "SRC", 
-        "nom": "Fan\u00e9lie Carrey-Conte"
+        "nom": "Fan\u00e9lie Carrey-Conte", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "642984": {
         "groupe": "SRC", 
-        "nom": "Pierre L\u00e9autey"
+        "nom": "Pierre L\u00e9autey", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "642987": {
         "groupe": "SRC", 
-        "nom": "Guillaume Bachelay"
+        "nom": "Guillaume Bachelay", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "643145": {
         "groupe": "SRC", 
-        "nom": "H\u00e9l\u00e8ne Vainqueur-Christophe"
+        "nom": "H\u00e9l\u00e8ne Vainqueur-Christophe", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "667": {
         "groupe": "UMP", 
-        "nom": "Philippe Briand"
+        "nom": "Philippe Briand", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "672": {
         "groupe": "SRC", 
-        "nom": "Jean-Jacques Bridey"
+        "nom": "Jean-Jacques Bridey", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "680": {
         "groupe": "SRC", 
-        "nom": "Fran\u00e7ois Brottes"
+        "nom": "Fran\u00e7ois Brottes", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "687214": {
         "groupe": "UMP", 
-        "nom": "Sylvain Berrios"
+        "nom": "Sylvain Berrios", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "689": {
         "groupe": "GDR", 
-        "nom": "Marie-George Buffet"
+        "nom": "Marie-George Buffet", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "695": {
         "groupe": "SRC", 
-        "nom": "Vincent Burroni"
+        "nom": "Vincent Burroni", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "696": {
         "groupe": "UMP", 
-        "nom": "Dominique Bussereau"
+        "nom": "Dominique Bussereau", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "719": {
         "groupe": "SRC", 
-        "nom": "Jean-Christophe Cambad\u00e9lis"
+        "nom": "Jean-Christophe Cambad\u00e9lis", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "735": {
         "groupe": "SRC", 
-        "nom": "Christophe Caresche"
+        "nom": "Christophe Caresche", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "746": {
         "groupe": "UMP", 
-        "nom": "Gilles Carrez"
+        "nom": "Gilles Carrez", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "754": {
         "groupe": "GDR", 
-        "nom": "Patrice Carvalho"
+        "nom": "Patrice Carvalho", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "765": {
         "groupe": "SRC", 
-        "nom": "Laurent Cathala"
+        "nom": "Laurent Cathala", 
+        "sexe": "H", 
+        "vote": "abstention"
     }, 
     "770": {
         "groupe": "SRC", 
-        "nom": "Jean-Yves Caullet"
+        "nom": "Jean-Yves Caullet", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "810": {
         "groupe": "SRC", 
-        "nom": "Jean-Paul Chanteguet"
+        "nom": "Jean-Paul Chanteguet", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "815": {
         "groupe": "RRDP", 
-        "nom": "G\u00e9rard Charasse"
+        "nom": "G\u00e9rard Charasse", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "840": {
         "groupe": "SRC", 
-        "nom": "Guy-Michel Chauveau"
+        "nom": "Guy-Michel Chauveau", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "856": {
         "groupe": "UMP", 
-        "nom": "G\u00e9rard Cherpion"
+        "nom": "G\u00e9rard Cherpion", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "872": {
         "groupe": "SRC", 
-        "nom": "Alain Claeys"
+        "nom": "Alain Claeys", 
+        "sexe": "H", 
+        "vote": "pour"
     }, 
     "877": {
         "groupe": "SRC", 
-        "nom": "Marie-Fran\u00e7oise Clergeau"
+        "nom": "Marie-Fran\u00e7oise Clergeau", 
+        "sexe": "F", 
+        "vote": "pour"
     }, 
     "917": {
         "groupe": "UMP", 
-        "nom": "Jean-Fran\u00e7ois Cop\u00e9"
+        "nom": "Jean-Fran\u00e7ois Cop\u00e9", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "923": {
         "groupe": "UMP", 
-        "nom": "Fran\u00e7ois Cornut-Gentille"
+        "nom": "Fran\u00e7ois Cornut-Gentille", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "942": {
         "groupe": "UDI", 
-        "nom": "Charles de Courson"
+        "nom": "Charles de Courson", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "951": {
         "groupe": "UMP", 
-        "nom": "Jean-Michel Couve"
+        "nom": "Jean-Michel Couve", 
+        "sexe": "H", 
+        "vote": "contre"
     }, 
     "998": {
         "groupe": "UMP", 
-        "nom": "Olivier Dassault"
+        "nom": "Olivier Dassault", 
+        "sexe": "H", 
+        "vote": "contre"
     }
 }
