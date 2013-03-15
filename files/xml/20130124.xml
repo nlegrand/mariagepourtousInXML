@@ -59,7 +59,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="other" subject="other">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p> La parole est à« Hervé Mariton, pour un rappel au règlement j'imagine ? <mpt:interruption type="« Ah ! »" text="« Ah ! » sur les bancs du groupe SRC."/></p>
 
 </mpt:metadata>
@@ -69,7 +69,7 @@
 <sp who="Hervé_Mariton">
   <speaker>Hervé Mariton</speaker>
 
-<mpt:metadata auteur="Hervé_Mariton" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130124.asp#INTER_0" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
+<mpt:metadata auteur="Hervé_Mariton" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130124.asp#INTER_0" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Je vous félicite pour votre prescience, monsieur le président !</p>
 <p>Avant d'aborder des discussions bien sûr politiques mais également techniques relatives aux dispositions de l'article <w>1<hi rend="sup">er</hi></w>, mon rappel au règlement vise justement à ce que nos débats soient pleinement éclairés sur ce que nous votons et sur les conséquences qui en découlent. Je fais allusion aux échanges que nous avons eu hier des échanges sur l'enjeu de la gestation pour autrui. Certes, le Gouvernement nous a alors rassurés lorsque des ministres ont dit ici, mais aussi à l'extérieur – Manuel Valls, en particulier –, qu'ils étaient opposés à la GPA. Mais, la nuit portant conseil, j'ai pu constater, en étudiant les déclarations de Mme Vallaud-Belkacem que sur son site elle s'exprimait en faveur de la gestation pour autrui. Or cette personnalité importante, ministre de la République, porte-parole du Gouvernement, n'est pas la seule dans ce cas. M. Vidalies, ministre des relations avec le Parlement, ce qui n'est pas rien, se déclare lui aussi pour la gestation pour autrui, de même que Mme Filippetti, ministre de la culture.</p>
 
@@ -80,7 +80,7 @@
 <sp who="Jacques_Myard">
   <speaker>Jacques Myard</speaker>
 
-<mpt:metadata auteur="Jacques_Myard" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
+<mpt:metadata auteur="Jacques_Myard" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Cela s'appelle la cohérence gouvernementale !</p>
 
 </mpt:metadata>
@@ -90,7 +90,7 @@
 <sp who="Hervé_Mariton">
   <speaker>Hervé Mariton</speaker>
 
-<mpt:metadata auteur="Hervé_Mariton" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
+<mpt:metadata auteur="Hervé_Mariton" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Si vous le souhaitez, madame la garde des sceaux, madame la ministre chargée de la famille, je peux vous transmettre tous éléments d'information à ce sujet.</p>
 
 </mpt:metadata>
@@ -100,7 +100,7 @@
 <sp who="Christiane_Taubira">
   <speaker>Christiane Taubira,garde des sceaux, ministre de la justice.</speaker>
 
-<mpt:metadata auteur="Christiane_Taubira" interventiontype="interruption" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="other" subject="other">
+<mpt:metadata auteur="Christiane_Taubira" interventiontype="interruption" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Non, je ne le souhaite pas.</p>
 
 </mpt:metadata>
@@ -110,7 +110,7 @@
 <sp who="Hervé_Mariton">
   <speaker>Hervé Mariton</speaker>
 
-<mpt:metadata auteur="Hervé_Mariton" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
+<mpt:metadata auteur="Hervé_Mariton" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Je n'ai pas eu le temps de vérifier plus avant, mais il se peut que d'autres ministres, au-delà de ces trois membres éminents du Gouvernement, se soient également déclarés pour.</p>
 <p>Lorsque le Gouvernement nous dit qu'il est contre la gestation pour autrui, laquelle nous paraît pourtant risquer d'être la conséquence de l'article <w>1<hi rend="sup">er</hi></w> dont nous démarrons l'examen, nous aimerions donc pouvoir le croire, mais telle n'est pas clairement pas la position de sa totalité : est-ce un quart ? La moitié ? les deux ministres qui sont au banc ? le Premier ministre pourrait venir s'exprimer sur ce sujet. Il serait important en effet que le Gouvernement nous redise sa position afin que notre assemblée puisse délibérer en étant éclairée des conséquences possibles de ce que la majorité souhaite voter.</p>
 
@@ -121,7 +121,7 @@
 <sp who="Jean-Patrick_Gille">
   <speaker>Jean-Patrick Gille</speaker>
 
-<mpt:metadata auteur="Jean-Patrick_Gille" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
+<mpt:metadata auteur="Jean-Patrick_Gille" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
   <p> Hors sujet !</p>
 
 </mpt:metadata>
@@ -131,7 +131,7 @@
 <sp who="Hervé_Mariton">
   <speaker>Hervé Mariton</speaker>
 
-<mpt:metadata auteur="Hervé_Mariton" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
+<mpt:metadata auteur="Hervé_Mariton" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Tous les ministres, manifestement, n'ont pas la même position.</p>
 <p>Mesdames les ministres, j'aimerais au moins que vous nous précisiez quelle est la part au sein du Gouvernement de ceux qui sont pour la GPA et de ceux qui sont contre, outre les trois ministres que j'ai cités. Mais vraiment, monsieur le président, vous pourriez convier le Premier ministre pour qu'il vienne préciser la position du Gouvernement. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe UMP."/></p>
 
@@ -142,7 +142,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="other" subject="other">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p> La parole est à M. Marc Le Fur, pour un rappel au règlement.</p>
 
 </mpt:metadata>
@@ -152,7 +152,7 @@
 <sp who="Jean-Patrick_Gille">
   <speaker>Jean-Patrick Gille</speaker>
 
-<mpt:metadata auteur="Jean-Patrick_Gille" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
+<mpt:metadata auteur="Jean-Patrick_Gille" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
   <p> Fondé sur quel article ?</p>
 
 </mpt:metadata>
@@ -162,7 +162,7 @@
 <sp who="Marc_Le_Fur">
   <speaker>Marc Le Fur</speaker>
 
-<mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130124.asp#INTER_1" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
+<mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130124.asp#INTER_1" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Un élément majeur avait déjà été apporté au débat avant-hier par M. Mariton, je veux parler de la fameuse circulaire à laquelle il a fait allusion. Et voilà que l'on constate qu'un certain nombre de membres du Gouvernement adhèrent au principe de la gestation pour autrui ! Or, il faut savoir que, dans le même temps, un certain nombre de gens s'élèvent, eux, contre la GPA. Si nous avons, nous, tout de suite manifesté on ne peut plus nettement notre opposition à cette circulaire, sans que l'on n'ait entendu personne sur les bancs de la gauche...</p>
 
 </mpt:metadata>
@@ -172,7 +172,7 @@
 <sp who="Élisabeth_Guigou">
   <speaker>Élisabeth Guigou</speaker>
 
-<mpt:metadata auteur="Élisabeth_Guigou" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="female" politicalgender="SRC_female" wing="left" winggender="left_female" debat="other" subject="other">
+<mpt:metadata auteur="Élisabeth_Guigou" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="female" politicalgender="SRC_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p> Si, moi !</p>
 
 </mpt:metadata>
@@ -182,7 +182,7 @@
 <sp who="Marc_Le_Fur">
   <speaker>Marc Le Fur</speaker>
 
-<mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
+<mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Je sais votre détermination, ma chère collègue, et je vous en sais gré.</p>
 <p>...il est intéressant de savoir que « Ni putes ni soumises », association militante bien connue,...</p>
 
@@ -193,7 +193,7 @@
 <sp who="Jean-Pierre_Dufau">
   <speaker>Jean-Pierre Dufau</speaker>
 
-<mpt:metadata auteur="Jean-Pierre_Dufau" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
+<mpt:metadata auteur="Jean-Pierre_Dufau" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
   <p> Elle ne représente pas le Gouvernement !</p>
 
 </mpt:metadata>
@@ -203,7 +203,7 @@
 <sp who="Marc_Le_Fur">
   <speaker>Marc Le Fur</speaker>
 
-<mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
+<mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> ...a également clairement demandé le retrait de la circulaire. Cela veut bien dire que la demande de retrait va au-delà des bancs de l'UMP.</p>
 <p>Je souhaite que le Gouvernement dise très clairement si, conformément aux principes qu'il prétend défendre, il maintient oui ou non cette circulaire. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC."/></p>
 
@@ -214,7 +214,7 @@
 <sp who="Corinne_Narassiguin">
   <speaker>Corinne Narassiguin</speaker>
 
-<mpt:metadata auteur="Corinne_Narassiguin" interventiontype="interruption"        debat="other" subject="other">
+<mpt:metadata auteur="Corinne_Narassiguin" interventiontype="interruption"        debat="mpt" subject="mpt">
   <p> On n'est pas aux questions d'actualité, monsieur Le Fur !</p>
 
 </mpt:metadata>
@@ -224,7 +224,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="other" subject="other">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p> Mes chers collègues, nous verrons si le Gouvernement souhaite répondre aux questions vous avez posées, mais je veux tout de même apporter une précision après l'intervention de M. Marc Le Fur : chacun peut visionner, comme je l'ai fait, l'enregistrement de l'audition de la commission des lois au cours de laquelle Mme la garde des sceaux a précisé le contenu de cette circulaire une dizaine de jours avant sa sortie. Et non seulement les députés étaient nombreux à assister à cette réunion, mais celle-ci était également ouverte à la presse.</p>
 
 </mpt:metadata>
@@ -234,7 +234,7 @@
 <sp who="Bernard_Roman">
   <speaker>Bernard Roman</speaker>
 
-<mpt:metadata auteur="Bernard_Roman" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
+<mpt:metadata auteur="Bernard_Roman" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
   <p> Eh oui !</p>
 
 </mpt:metadata>
@@ -244,7 +244,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="other" subject="other">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p> Il est vrai que j'ai pourtant pu entendre, concernant cette même circulaire, de nombreuses réactions de surprise dans cet hémicycle. Je tiens donc à répéter, parce qu'il est aussi de ma responsabilité de mettre en avant le travail qui a été fait par les députés, que vous pouvez, monsieur Le Fur, consulter cet enregistrement.</p>
 
 </mpt:metadata>
@@ -254,7 +254,7 @@
 <sp who="Hervé_Mariton">
   <speaker>Hervé Mariton</speaker>
 
-<mpt:metadata auteur="Hervé_Mariton" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
+<mpt:metadata auteur="Hervé_Mariton" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> et M. Philippe Gosselin. La garde des sceaux n'a pas indiqué de calendrier !</p>
 
 </mpt:metadata>
@@ -264,7 +264,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="other" subject="other">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p> Mes chers collègues, visionnez l'enregistrement. Mme la garde des sceaux a précisé : « Dans les jours qui viennent.» <mpt:interruption type="Exclamations" text="Exclamations sur de nombreux bancs du groupe UMP."/></p>
 
 </mpt:metadata>
@@ -274,7 +274,7 @@
 <sp who="Philippe_Gosselin">
   <speaker>Philippe Gosselin</speaker>
 
-<mpt:metadata auteur="Philippe_Gosselin" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
+<mpt:metadata auteur="Philippe_Gosselin" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Y aura-t-il retrait ?</p>
 
 </mpt:metadata>
@@ -284,7 +284,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="other" subject="other">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p> Il était bon, me semble-t-il, en raison de la place prise par la GPA au début de nos travaux, de remettre les choses à leur place : consultez l'enregistrement, des éléments très précis ont été apportés sur cette question ;</p>
 
 </mpt:metadata>
@@ -294,7 +294,7 @@
 <sp who="Hervé_Mariton">
   <speaker>Hervé Mariton</speaker>
 
-<mpt:metadata auteur="Hervé_Mariton" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
+<mpt:metadata auteur="Hervé_Mariton" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Non, rien de précis !</p>
 <p></p>
 <p></p>
@@ -2261,7 +2261,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="other" subject="other">
   <p> À la demande du groupe UMP, la séance est suspendue.</p>
 <p>(La séance, suspendue à dix heures quinze, est reprise à dix heures vingt.)</p>
 
@@ -2272,7 +2272,7 @@
 <sp who="le_président_">
   <speaker>le président </speaker>
 
-<mpt:metadata auteur="le_président_" interventiontype="régulation"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="le_président_" interventiontype="régulation"        debat="other" subject="other">
   <p>La séance est reprise.</p>
 <p>La parole est à M. Philippe Vitel.</p>
 
@@ -3810,7 +3810,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="other" subject="other">
   <p> La séance est suspendue.</p>
 <p>(La séance, suspendue à dix heures cinquante, est reprise à dix heures cinquante-cinq.)</p>
 
@@ -3821,7 +3821,7 @@
 <sp who="le_président_">
   <speaker>le président </speaker>
 
-<mpt:metadata auteur="le_président_" interventiontype="régulation"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="le_président_" interventiontype="régulation"        debat="other" subject="other">
   <p>La séance est reprise.</p>
 </mpt:metadata></sp>
 </div>
@@ -7912,7 +7912,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="other" subject="other">
   <p> La séance est suspendue.</p>
 <p>(La séance, suspendue à douze heures vingt-sept, est reprise à douze heures vingt-huit.)</p>
 
@@ -7923,7 +7923,7 @@
 <sp who="le_président_">
   <speaker>le président </speaker>
 
-<mpt:metadata auteur="le_président_" interventiontype="régulation"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="le_président_" interventiontype="régulation"        debat="other" subject="other">
   <p>La séance est reprise.</p>
 </mpt:metadata></sp>
 </div>
@@ -9065,7 +9065,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="other" subject="other">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p> La parole est à M. Hervé Mariton, pour fait personnel.</p>
 
 </mpt:metadata>
@@ -9075,7 +9075,7 @@
 <sp who="Hervé_Mariton">
   <speaker>Hervé Mariton</speaker>
 
-<mpt:metadata auteur="Hervé_Mariton" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130124.asp#INTER_82" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
+<mpt:metadata auteur="Hervé_Mariton" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130124.asp#INTER_82" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Il y a deux mises en cause, et je ne voudrais pas priver notre collègue Olivier Dussopt de la possibilité de répondre. Pour ce qui me concerne, j'ai été mis en cause pour des propos que j'aurais tenus lors des débats sur le PACS.</p>
 <p>Puis-je rappeler qu'en 1997, le suffrage universel, dans sa souveraineté et son injustice, m'avait privé d'être député ? <mpt:interruption type="Sourires" text="Sourires."/></p>
 
@@ -9086,7 +9086,7 @@
 <sp who="Bernard_Roman">
   <speaker>Bernard Roman</speaker>
 
-<mpt:metadata auteur="Bernard_Roman" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
+<mpt:metadata auteur="Bernard_Roman" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
   <p> C'est pour cela que le projet est passé !</p>
 
 </mpt:metadata>
@@ -9096,7 +9096,7 @@
 <sp who="Hervé_Mariton">
   <speaker>Hervé Mariton</speaker>
 
-<mpt:metadata auteur="Hervé_Mariton" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
+<mpt:metadata auteur="Hervé_Mariton" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Cela est arrivé à beaucoup de personnes très honorables ici, chers collègues.</p>
 <p>Puis-je rappeler aussi que nos collègues ne peuvent déduire de notre position <w>aujourd'hui</w> ce qu'était notre position vis-à-vis du PACS ? Vous ne pouvez fonder une argumentation sur des comportements indignes que nous serions supposés avoir eus à l'occasion de débats sur le PACS. Vous ignorez ce qu'était notre position. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC."/></p>
 
@@ -9107,7 +9107,7 @@
 <sp who="Jean-Marc_Germain">
   <speaker>Jean-Marc Germain</speaker>
 
-<mpt:metadata auteur="Jean-Marc_Germain" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
+<mpt:metadata auteur="Jean-Marc_Germain" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
   <p> Vous n'étiez pas député, mais vous siégiez au conseil général !</p>
 
 </mpt:metadata>
@@ -9117,7 +9117,7 @@
 <sp who="Hervé_Mariton">
   <speaker>Hervé Mariton</speaker>
 
-<mpt:metadata auteur="Hervé_Mariton" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
+<mpt:metadata auteur="Hervé_Mariton" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Acceptez aussi que l'intensité de nos expressions dépende de la fonction que l'on occupe. Je n'étais pas député et mon activité professionnelle faisait que je n'étais pas aussi engagé dans le débat public que je le suis <w>aujourd'hui</w>. Je serais bien curieux de vous voir trouver quelque expression publique que ce soit venant de moi à l'époque. Reconnaissons humblement que nous ne pouvons être engagés de la même façon sur tous les sujets et à tout moment. Je ne crois pas m'être exprimé alors d'une quelconque manière sur ce sujet. Peut-être ai-je eu tort et devrais-je me le reprocher ? Il se trouve que j'exerçais alors un mandat local et que j'avais un boulot. Sans doute ai-je eu le tort de ne pas m'être davantage investi et exprimé sur le PACS.</p>
 
 </mpt:metadata>
@@ -9127,7 +9127,7 @@
 <sp who="le_président_">
   <speaker>le président </speaker>
 
-<mpt:metadata auteur="le_président_" interventiontype="régulation"        debat="other" subject="other">
+<mpt:metadata auteur="le_président_" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p>La parole est à M. Olivier Dussopt, pour fait personnel.</p>
 
 </mpt:metadata>
@@ -9137,7 +9137,7 @@
 <sp who="Olivier_Dussopt">
   <speaker>Olivier Dussopt</speaker>
 
-<mpt:metadata auteur="Olivier_Dussopt" interventiontype="intervention" politicalgroup="SRC" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130124.asp#INTER_83" vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
+<mpt:metadata auteur="Olivier_Dussopt" interventiontype="intervention" politicalgroup="SRC" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130124.asp#INTER_83" vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
   <p> Une fois n'est pas coutume, je suis d'accord avec vous, monsieur Mariton. Vous n'étiez pas député en 1998-1999 : vous étiez vice-président de la région Rhône-Alpes, présidée par Charles Millon. Je me rappelle de la séance du 6 avril 1998, lorsque M. Gollnisch vous a fait subir trois tours d'élection, au point que vous avez fini par dire, pour obtenir ses voix, que le Front National était un parti tout à fait acceptable. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe SRC. – Exclamations sur les bancs du groupe UMP."/> Je tiens à votre disposition le compte rendu de cette séance.</p>
 <p>S'agissant de la mise en cause dont j'ai fait l'objet, il faut rappeler le contexte. Un certain nombre de députés UMP, membres de la commission spéciale chargée d'examiner le projet de loi relatif à la bioéthique, avaient déposé des amendements sur le dépistage prénatal. Certains prévoyaient par exemple de délier le médecin de l'obligation d'information ; d'autres visaient à imposer aux femmes porteuses d'un embryon trisomique de rencontrer une famille élevant des enfants en situation de handicap. La ministre UMP de l'époque, Nora Berra, s'y était opposée fermement, déclarant qu'ils étaient de nature à influencer les femmes, à les priver de leur libre arbitre et à les dissuader de recourir à une IVG ou une interruption médicale de grossesse.</p>
 <p>À ce moment-là du débat, j'ai eu une phrase maladroite. Remarquant que 96 % de ces femmes ayant recours à une IMG, j'ai dit qu'à titre personnel, je m'interrogeais sur les 4 % restants. J'ai ajouté par la suite, en réponse à vos propos, qu'il ne fallait pas me faire dire ce que je n'avais pas dit, et notamment que ces enfants étaient en trop : l'article du Point que vous avez transmis à M. Roman, monsieur Mariton, et le compte rendu de la réunion en témoignent. J'ai eu aussi l'occasion de dire que je m'interrogeais sur les motivations personnelles et respectables qui pouvaient amener les familles à faire un tel choix.</p>
@@ -9151,7 +9151,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="other" subject="other">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p> La parole est à M. Philippe Gosselin.</p>
 
 </mpt:metadata>
@@ -9161,7 +9161,7 @@
 <sp who="Philippe_Gosselin">
   <speaker>Philippe Gosselin</speaker>
 
-<mpt:metadata auteur="Philippe_Gosselin" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130124.asp#INTER_84" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
+<mpt:metadata auteur="Philippe_Gosselin" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130124.asp#INTER_84" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> J'étais effectivement intervenu immédiatement après notre collègue Olivier Dussopt, dont l'intervention avait été suivie d'un silence un peu gêné. Il n'a pas osé aller jusque-là, avons-nous pensé. Pour ma part, j'ai déclaré : « Je regrette que M. Dussopt ait tenu des propos à caractère eugéniste », et j'ai ajouté, partageant la gêne de mes collègues : « mais ils ont sans doute dépassé sa pensée. » J'espère en effet qu'ils ont dépassé sa pensée...</p>
 
 </mpt:metadata>
@@ -9171,7 +9171,7 @@
 <sp who="Plusieurs_députés_du_groupe_SRC">
   <speaker>Plusieurs députés du groupe SRC</speaker>
 
-<mpt:metadata auteur="Plusieurs_députés_du_groupe_SRC" interventiontype="interruption"        debat="other" subject="other">
+<mpt:metadata auteur="Plusieurs_députés_du_groupe_SRC" interventiontype="interruption"        debat="mpt" subject="mpt">
   <p> Il vient de le dire !</p>
 
 </mpt:metadata>
@@ -9181,7 +9181,7 @@
 <sp who="Philippe_Gosselin">
   <speaker>Philippe Gosselin</speaker>
 
-<mpt:metadata auteur="Philippe_Gosselin" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
+<mpt:metadata auteur="Philippe_Gosselin" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Je ne polémique pas, je raconte ce qui s'est passé, puisque j'y étais. J'avais en effet ajouté à la suite des explications de notre collègue un « Dont acte » gêné, considérant que le débat, pour mois, était clos. J'estime en effet qu'il est clos...</p>
 
 </mpt:metadata>
@@ -9191,7 +9191,7 @@
 <sp who="Henri_Jibrayel">
   <speaker>Henri Jibrayel</speaker>
 
-<mpt:metadata auteur="Henri_Jibrayel" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
+<mpt:metadata auteur="Henri_Jibrayel" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
   <p> Bravo !</p>
 
 </mpt:metadata>
@@ -9201,7 +9201,7 @@
 <sp who="Philippe_Gosselin">
   <speaker>Philippe Gosselin</speaker>
 
-<mpt:metadata auteur="Philippe_Gosselin" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
+<mpt:metadata auteur="Philippe_Gosselin" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> ...quand bien même ses propos avaient créé une gêne terrible, qui marque encore les esprits <w>aujourd'hui</w>.</p>
 
 </mpt:metadata>
@@ -9211,7 +9211,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="other" subject="other">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p> Merci pour votre témoignage, monsieur Gosselin. Les paroles de M. Dussopt ont été très claires, et chacun a pu se faire un avis ; l'incident est donc clos.</p>
 <p></p>
 </mpt:metadata></sp>
@@ -9224,7 +9224,7 @@
 <sp who="le_président_">
   <speaker>le président </speaker>
 
-<mpt:metadata auteur="le_président_" interventiontype="régulation"        debat="other" subject="other">
+<mpt:metadata auteur="le_président_" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p>Prochaine séance, cet après-midi, à quinze heures :</p>
 <p>Suite de la discussion du projet de loi ouvrant le mariage aux couples de personnes de même sexe.</p>
 <p>La séance est levée.</p>

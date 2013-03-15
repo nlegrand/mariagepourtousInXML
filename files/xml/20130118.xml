@@ -72,7 +72,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="qag">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="mpt">
   <p> La parole est à M. Christian Jacob.</p>
 
 </mpt:metadata>
@@ -82,7 +82,7 @@
 <sp who="Christian_Jacob">
   <speaker>Christian Jacob</speaker>
 
-<mpt:metadata auteur="Christian_Jacob" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130118.asp#INTER_0" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Christian_Jacob" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130118.asp#INTER_0" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> Monsieur le président, ma question s'adresse à M. le Premier ministre.</p>
 <p>Inexorablement, le chômage augmente dans notre pays, les usines ferment...</p>
 
@@ -93,7 +93,7 @@
 <sp who="Henri_Jibrayel">
   <speaker>Henri Jibrayel</speaker>
 
-<mpt:metadata auteur="Henri_Jibrayel" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Henri_Jibrayel" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="qag" subject="mpt">
   <p> Grâce à vous !</p>
 
 </mpt:metadata>
@@ -103,7 +103,7 @@
 <sp who="Christian_Jacob">
   <speaker>Christian Jacob</speaker>
 
-<mpt:metadata auteur="Christian_Jacob" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Christian_Jacob" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> La semaine dernière encore, nous avons appris qu'une usine Goodyear – 1 200 emplois – risquait de fermer à Amiens.</p>
 <p>L'heure est grave, monsieur le Premier ministre, et vous avez choisi de gouverner par diversion. Mais les Français ne sont pas dupes : ils ne comprennent pas votre obstination à maintenir, dans un tel contexte, l'examen du projet sur l'extension du mariage et de l'adoption aux couples homosexuels. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe UMP. – Exclamations sur les bancs du groupe SRC."/></p>
 <p>Renvoyer, qui plus est, la discussion sur la procréation médicalement assistée à un texte ultérieur, dans un mois, est une véritable imposture, monsieur le Premier ministre : vous n'avez pas le courage d'assumer vos choix.</p>
@@ -116,7 +116,7 @@
 <sp who="Plusieurs_députés_du_groupe_SRC">
   <speaker>Plusieurs députés du groupe SRC</speaker>
 
-<mpt:metadata auteur="Plusieurs_députés_du_groupe_SRC" interventiontype="interruption"        debat="qag" subject="qag">
+<mpt:metadata auteur="Plusieurs_députés_du_groupe_SRC" interventiontype="interruption"        debat="qag" subject="mpt">
   <p> Menteur !</p>
 
 </mpt:metadata>
@@ -126,7 +126,7 @@
 <sp who="Christian_Jacob">
   <speaker>Christian Jacob</speaker>
 
-<mpt:metadata auteur="Christian_Jacob" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Christian_Jacob" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> C'est un véritable mépris pour elle, un affront. Je vous prends à témoin, monsieur le président : nous allons débattre sur ce texte sans avoir l'avis du comité national d'éthique. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe UMP. – Exclamations sur les bancs du groupe SRC."/></p>
 <p>Ma question est donc simple, monsieur le Premier ministre. Vous avez peur du peuple...</p>
 
@@ -137,7 +137,7 @@
 <sp who="Patrick_Balkany">
   <speaker>Patrick Balkany</speaker>
 
-<mpt:metadata auteur="Patrick_Balkany" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Patrick_Balkany" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> Absolument !</p>
 
 </mpt:metadata>
@@ -147,7 +147,7 @@
 <sp who="Christian_Jacob">
   <speaker>Christian Jacob</speaker>
 
-<mpt:metadata auteur="Christian_Jacob" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Christian_Jacob" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> ...parce que vous n'osez pas le consulter par référendum. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC."/> Vous n'avez pas non plus le courage d'assumer vos choix, notamment sur la procréation médicalement assistée. Je vous demande donc de reporter l'examen de ce texte tant que nous n'aurons pas reçu l'avis du comité national d'éthique. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes UMP et UDI."/></p>
 
 </mpt:metadata>
@@ -157,7 +157,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="qag">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="mpt">
   <p> La parole est à Mme la ministre déléguée chargée de la famille. <mpt:interruption type="Protestations" text="Protestations et huées sur les bancs du groupe UMP."/></p>
 <p>Allons, mes chers collègues ! C'est le Gouvernement qui choisit le ministre chargé de répondre, vous le savez fort bien.</p>
 
@@ -168,7 +168,7 @@
 <sp who="Dominique_Bertinotti">
   <speaker>Dominique Bertinotti, ministre déléguée chargée de la famille.</speaker>
 
-<mpt:metadata auteur="Dominique_Bertinotti" interventiontype="intervention" politicalgroup="GVT" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130118.asp#INTER_1"  gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Dominique_Bertinotti" interventiontype="intervention" politicalgroup="GVT" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130118.asp#INTER_1"  gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="mpt">
   <p>Monsieur le député, avant de parler de peur du peuple, je commencerai par vous rappeler que le peuple a besoin d'être respecté dans les urnes, et que les urnes ont parlé par deux fois <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC, écologiste et RRDP"/> : la première à l'occasion de l'élection présidentielle en donnant à François Hollande la possibilité de tenir les soixante engagements qu'il a présentés devant l'ensemble des Français <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe UMP"/> ; la seconde lors des élections législatives, qui ont confirmé son choix. Et il est bon qu'un Président de la République tienne ses engagements !</p>
 <p>Ensuite, la loi que nous allons discuter, je l'espère, en toute sérénité –vous pourrez en tout cas compter sur le Gouvernement et l'ensemble des députés de la majorité pour qu'il en soit ainsi –, porte sur le mariage et l'adoption ouverts aux couples de même sexe. Je ne vois pas l'intérêt d'introduire de la confusion dans le débat <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe UMP"/> en jouant sur des thèmes qui ne seront pas abordés, en jouant sur les peurs...</p>
 
@@ -179,7 +179,7 @@
 <sp who="Philippe_Meunier">
   <speaker>Philippe Meunier</speaker>
 
-<mpt:metadata auteur="Philippe_Meunier" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Philippe_Meunier" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> Vous avez peur du peuple !</p>
 
 </mpt:metadata>
@@ -189,7 +189,7 @@
 <sp who="Dominique_Bertinotti">
   <speaker>Dominique Bertinotti, ministre déléguée.</speaker>
 
-<mpt:metadata auteur="Dominique_Bertinotti" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Dominique_Bertinotti" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="mpt">
   <p>...pour inquiéter nos concitoyens. Et puisque vous êtes si préoccupés par la crise, ne cherchez pas à alourdir un climat anxiogène sur lequel vous essayez de prospérer. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe UMP."/></p>
 <p>Enfin, les réformes de société ne sont pas incompatibles avec les réformes sociales. Sinon, en pleine reconstruction, après guerre, comment expliquer que le général de Gaulle ait pris l'initiative d'accorder le droit de vote aux femmes <mpt:interruption type="Protestations" text="Protestations sur les bancs du groupe UMP"/>, comment expliquer qu'en 1974, en plein choc pétrolier, Simone Veil ait fait preuve du courage que l'on sait ? <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe SRC. – Exclamations sur les bancs du groupe UMP."/></p>
 </mpt:metadata></sp>
@@ -202,7 +202,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="qag">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="mpt">
   <p> La parole est à M. Erwann Binet, pour le groupe socialiste, républicain et citoyen. <mpt:interruption type="Les députés" text="Les députés des groupes SRC et écologiste se lèvent et applaudissent."/></p>
 
 </mpt:metadata>
@@ -212,7 +212,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="qag">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="mpt">
   <p> Allons ! Écoutons notre collègue !</p>
 
 </mpt:metadata>
@@ -222,7 +222,7 @@
 <sp who="Erwann_Binet">
   <speaker>Erwann Binet</speaker>
 
-<mpt:metadata auteur="Erwann_Binet" interventiontype="intervention" politicalgroup="SRC" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130118.asp#INTER_2" vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Erwann_Binet" interventiontype="intervention" politicalgroup="SRC" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130118.asp#INTER_2" vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="qag" subject="mpt">
   <p> Monsieur le Premier ministre, à l'approche de ce moment historique qui va enfin permettre à tous les couples de bénéficier des mêmes droits...</p>
 
 </mpt:metadata>
@@ -232,7 +232,7 @@
 <sp who="Philippe_Meunier">
   <speaker>Philippe Meunier</speaker>
 
-<mpt:metadata auteur="Philippe_Meunier" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Philippe_Meunier" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> Et les droits des enfants ?</p>
 
 </mpt:metadata>
@@ -242,7 +242,7 @@
 <sp who="Erwann_Binet">
   <speaker>Erwann Binet</speaker>
 
-<mpt:metadata auteur="Erwann_Binet" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Erwann_Binet" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="qag" subject="mpt">
   <p> ...et donc de la même protection par la loi, quelle que soit leur orientation sexuelle, il est important de rappeler les dizaines d'années de combat qui ont mené à cette dernière marche pour l'égalité de tous les couples et de toutes les familles.</p>
 <p>Il y eut d'abord un premier pas avec les débats sur le statut des homosexuels, qui aboutit en 1982 à la dépénalisation totale de l'homosexualité, engagement de campagne du candidat François Mitterrand. Plus tard, en 1998, lors des débats précédant l'adoption du PACS, la droite avait exprimé une opposition frontale à la reconnaissance des couples homosexuels.</p>
 <p>En 2012, pour la première fois, François Hollande, candidat à l'élection présidentielle, promet l'ouverture du mariage et de l'adoption à tous les couples. <w>Aujourd'hui</w>, la volonté politique du Gouvernement et de la majorité parlementaire est d'apporter sécurité juridique et protection à toutes les familles, à toutes les formes de famille.</p>
@@ -255,7 +255,7 @@
 <sp who="Valérie_Boyer">
   <speaker>Valérie Boyer</speaker>
 
-<mpt:metadata auteur="Valérie_Boyer" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="female" politicalgender="UMP_female" wing="right" winggender="right_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Valérie_Boyer" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="female" politicalgender="UMP_female" wing="right" winggender="right_female" debat="qag" subject="mpt">
   <p> Oh !</p>
 
 </mpt:metadata>
@@ -265,7 +265,7 @@
 <sp who="Erwann_Binet">
   <speaker>Erwann Binet</speaker>
 
-<mpt:metadata auteur="Erwann_Binet" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Erwann_Binet" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="qag" subject="mpt">
   <p> Monsieur le Premier ministre, pouvez-vous nous éclairer sur les conséquences du projet de loi ouvrant le mariage aux couples de personnes de même sexe pour les familles homoparentales ? Pouvez-vous également nous indiquer les mesures que le Gouvernement envisage de mettre en œuvre pour lutter contre l'intolérance et les discriminations dont font encore l'objet certains de nos concitoyens, du fait de leur orientation sexuelle ? <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC, écologiste et GDR."/></p>
 
 </mpt:metadata>
@@ -275,7 +275,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="qag">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="mpt">
   <p> La parole est à M. le Premier ministre.</p>
 
 </mpt:metadata>
@@ -285,7 +285,7 @@
 <sp who="Jean-Marc_Ayrault_">
   <speaker>Jean-Marc Ayrault ,Premier ministre.</speaker>
 
-<mpt:metadata auteur="Jean-Marc_Ayrault_" interventiontype="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130118.asp#INTER_3"      debat="qag" subject="qag">
+<mpt:metadata auteur="Jean-Marc_Ayrault_" interventiontype="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130118.asp#INTER_3"      debat="qag" subject="mpt">
   <p>Monsieur le député Erwann Binet,...</p>
 
 </mpt:metadata>
@@ -295,7 +295,7 @@
 <sp who="Michel_Herbillon">
   <speaker>Michel Herbillon</speaker>
 
-<mpt:metadata auteur="Michel_Herbillon" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Michel_Herbillon" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> Pourquoi n'avoir pas répondu à M. Jacob ? <mpt:interruption type="« Mépris ! »" text="« Mépris ! » sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
@@ -305,7 +305,7 @@
 <sp who="Jean-Marc_Ayrault_">
   <speaker>Jean-Marc Ayrault ,Premier ministre.</speaker>
 
-<mpt:metadata auteur="Jean-Marc_Ayrault_" interventiontype="interruption"        debat="qag" subject="qag">
+<mpt:metadata auteur="Jean-Marc_Ayrault_" interventiontype="intervention"        debat="qag" subject="mpt">
   <p>...vous avez, à mon sens, très bien exposé, et en des termes simples, ce à quoi l'Assemblée nationale est invitée cet après-midi, c'est-à-dire à une nouvelle avancée vers plus d'égalité et de droits pour tous les Français. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC, écologiste et GDR."/></p>
 <p>Oui, le mariage pour tous était en effet un engagement du Président de la République, précisément la proposition n° 31 de son programme électoral. Cette proposition a donné lieu à un large débat dans la société...</p>
 
@@ -316,7 +316,7 @@
 <sp who="Plusieurs_députés_du_groupe_UMP">
   <speaker>Plusieurs députés du groupe UMP</speaker>
 
-<mpt:metadata auteur="Plusieurs_députés_du_groupe_UMP" interventiontype="interruption"        debat="qag" subject="qag">
+<mpt:metadata auteur="Plusieurs_députés_du_groupe_UMP" interventiontype="interruption"        debat="qag" subject="mpt">
   <p> C'est faux !</p>
 
 </mpt:metadata>
@@ -326,7 +326,7 @@
 <sp who="Philippe_Meunier">
   <speaker>Philippe Meunier</speaker>
 
-<mpt:metadata auteur="Philippe_Meunier" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Philippe_Meunier" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> Menteur !</p>
 
 </mpt:metadata>
@@ -336,8 +336,8 @@
 <sp who="Jean-Marc_Ayrault">
   <speaker>Jean-Marc Ayrault, Premier ministre. ...</speaker>
 
-<mpt:metadata auteur="Jean-Marc_Ayrault" interventiontype="interruption"        debat="qag" subject="qag">
-  <p>u cours duquel des opinions contraires se sont exprimées. Nous sommes dans une République où les questions de cette nature provoquent légitimement une discussion et un débat. Mais nous sommes aussi dans une République où le suffrage universel donne mandat aux députés pour trancher et décider. C'est ce que vous allez faire à partir de cet après-midi, et je sais, mesdames et messieurs les députés, que vous le ferez avec la dignité et la sérénité qui conviennent.</p>
+<mpt:metadata auteur="Jean-Marc_Ayrault" interventiontype="intervention"        debat="qag" subject="mpt">
+  <p>Au cours duquel des opinions contraires se sont exprimées. Nous sommes dans une République où les questions de cette nature provoquent légitimement une discussion et un débat. Mais nous sommes aussi dans une République où le suffrage universel donne mandat aux députés pour trancher et décider. C'est ce que vous allez faire à partir de cet après-midi, et je sais, mesdames et messieurs les députés, que vous le ferez avec la dignité et la sérénité qui conviennent.</p>
 <p>Quand on considère notre histoire, on s'aperçoit qu'à chaque fois que nous avons fait progresser l'égalité dans notre pays...</p>
 
 </mpt:metadata>
@@ -347,7 +347,7 @@
 <sp who="Philippe_Meunier">
   <speaker>Philippe Meunier</speaker>
 
-<mpt:metadata auteur="Philippe_Meunier" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Philippe_Meunier" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> Ce n'est pas un progrès !</p>
 
 </mpt:metadata>
@@ -357,7 +357,7 @@
 <sp who="Jean-Marc_Ayrault">
   <speaker>Jean-Marc Ayrault, Premier ministre. </speaker>
 
-<mpt:metadata auteur="Jean-Marc_Ayrault" interventiontype="interruption"        debat="qag" subject="qag">
+<mpt:metadata auteur="Jean-Marc_Ayrault" interventiontype="intervention"        debat="qag" subject="mpt">
   <p>#8230;nous avons provoqué des résistances, des craintes ou des inquiétudes. Pourquoi pas ? Elles ont bien le droit de s'exprimer ! Mais, une fois que ces lois ont été votées, elles ont été considérées, bien au-delà de ceux qui les avaient votées, comme une vraie avancée, partagée par toutes et tous, et comme un acquis de la société française. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC, écologiste et GDR."/></p>
 
 </mpt:metadata>
@@ -367,7 +367,7 @@
 <sp who="Jean-Luc_Reitzer">
   <speaker>Jean-Luc Reitzer</speaker>
 
-<mpt:metadata auteur="Jean-Luc_Reitzer" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Jean-Luc_Reitzer" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> Vous n'êtes pas les seuls !</p>
 
 </mpt:metadata>
@@ -377,7 +377,7 @@
 <sp who="Jean-Marc_Ayrault">
   <speaker>Jean-Marc Ayrault, Premier ministre.</speaker>
 
-<mpt:metadata auteur="Jean-Marc_Ayrault" interventiontype="interruption"        debat="qag" subject="qag">
+<mpt:metadata auteur="Jean-Marc_Ayrault" interventiontype="intervention"        debat="qag" subject="mpt">
   <p>Il en va de même avec le projet de loi sur le mariage pour tous qui, en définitive, prend en compte l'évolution de la famille. Ce sont des dizaines de milliers de personnes qui vivent <w>aujourd'hui</w> au sein de couples ou de familles homoparentales : des milliers de parents et d'enfants. Par ce projet de loi, que le Gouvernement a adopté et vous soumet, vous allez pouvoir renforcer les droits des parents et ceux des enfants !</p>
 
 </mpt:metadata>
@@ -387,7 +387,7 @@
 <sp who="Jacques_Myard">
   <speaker>Jacques Myard</speaker>
 
-<mpt:metadata auteur="Jacques_Myard" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Jacques_Myard" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> C'est faux !</p>
 
 </mpt:metadata>
@@ -397,7 +397,7 @@
 <sp who="Jean-Marc_Ayrault">
   <speaker>Jean-Marc Ayrault, Premier ministre.</speaker>
 
-<mpt:metadata auteur="Jean-Marc_Ayrault" interventiontype="interruption"        debat="qag" subject="qag">
+<mpt:metadata auteur="Jean-Marc_Ayrault" interventiontype="intervention"        debat="qag" subject="mpt">
   <p>Nous n'allons pas affaiblir l'institution du mariage, mais l'élargir et la renforcer ! <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe SRC."/></p>
 <p>Je voudrais, pour finir, m'adresser à Mmes et MM les députés de l'opposition.</p>
 
@@ -408,7 +408,7 @@
 <sp who="Julien_Aubert">
   <speaker>Julien Aubert</speaker>
 
-<mpt:metadata auteur="Julien_Aubert" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Julien_Aubert" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> Alors regardez-nous !</p>
 
 </mpt:metadata>
@@ -418,7 +418,7 @@
 <sp who="Plusieurs_députés_du_groupe_UMP">
   <speaker>Plusieurs députés du groupe UMP</speaker>
 
-<mpt:metadata auteur="Plusieurs_députés_du_groupe_UMP" interventiontype="interruption"        debat="qag" subject="qag">
+<mpt:metadata auteur="Plusieurs_députés_du_groupe_UMP" interventiontype="interruption"        debat="qag" subject="mpt">
   <p> Oui ! Regardez-nous !</p>
 
 </mpt:metadata>
@@ -428,7 +428,7 @@
 <sp who="Jean-Marc_Ayrault">
   <speaker>Jean-Marc Ayrault, Premier ministre.</speaker>
 
-<mpt:metadata auteur="Jean-Marc_Ayrault" interventiontype="interruption"        debat="qag" subject="qag">
+<mpt:metadata auteur="Jean-Marc_Ayrault" interventiontype="intervention"        debat="qag" subject="mpt">
   <p>Vous avez parfaitement le droit d'être en désaccord avec nous. Mais rappelez-vous le débat que nous avons eu, ici même, il y a quinze ans, au sujet du PACS. Cela n'a pas été facile et des interrogations similaires ont été posées. Eh bien, mesdames et messieurs les députés de l'opposition, combien d'entre vous m'ont dit, quelques années après avoir voté contre ce texte,...</p>
 
 </mpt:metadata>
@@ -438,7 +438,7 @@
 <sp who="Christian_Jacob">
   <speaker>Christian Jacob</speaker>
 
-<mpt:metadata auteur="Christian_Jacob" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Christian_Jacob" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> À vous, on ne dit rien !</p>
 
 </mpt:metadata>
@@ -448,7 +448,7 @@
 <sp who="Jean-Marc_Ayrault">
   <speaker>Jean-Marc Ayrault, Premier ministre. </speaker>
 
-<mpt:metadata auteur="Jean-Marc_Ayrault" interventiontype="interruption"        debat="qag" subject="qag">
+<mpt:metadata auteur="Jean-Marc_Ayrault" interventiontype="intervention"        debat="qag" subject="mpt">
   <p>#8230;qu'ils le considéraient finalement comme une avancée et que nous avions eu raison de le faire voter ?</p>
 <p>Mesdames et messieurs les députés de l'opposition, je prends le pari que demain, beaucoup d'entre vous viendront me dire : « Oui, c'est une avancée, et vous avez bien fait ! ». <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC, écologiste et GDR."/></p>
 <p>Je fais pleinement confiance à la majorité et je suis certain que, même au-delà de ses rangs, à la fin du débat, une large majorité de parlementaires adoptera cette réforme, qui garantit l'égalité entre les hommes et les femmes, mais aussi les droits des homosexuels. La société française et la République française pourront en être fières ! <mpt:interruption type="Les députés" text="Les députés des groupes SRC et écologiste se lèvent et applaudissent."/></p>
@@ -545,7 +545,7 @@
 
 <mpt:metadata auteur="Patrice_Carvalho" interventiontype="intervention" politicalgroup="GDR" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130118.asp#INTER_6" vote="contre" gender="male" politicalgender="GDR_male" wing="left" winggender="left_male" debat="qag" subject="qag">
   <p> Monsieur le Premier ministre, je me réjouis tout d'abord que la cour d'appel de Paris ait décidé de suspendre le plan de restructuration chez PSA.</p>
-<p>Mais, après Peugeot, c'est au tour de Renault de tailler dans ses effectifs à hauteur de 7 500 postes, soit 17 % du total des salariés.</p>
+<p>Mais, après Peugeot, c'est au tour de Renault de tailler dans ses effectifs à hauteur de 7 500 postes, soit 17 % du total desinterruption salariés.</p>
 
 </mpt:metadata>
 
@@ -748,7 +748,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="qag">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="mpt">
   <p> La parole est à Mme Françoise Guégot, pour le groupe de l'Union pour un mouvement populaire.</p>
 
 </mpt:metadata>
@@ -758,7 +758,7 @@
 <sp who="Françoise_Guégot">
   <speaker>Françoise Guégot</speaker>
 
-<mpt:metadata auteur="Françoise_Guégot" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130118.asp#INTER_12" vote="contre" gender="female" politicalgender="UMP_female" wing="right" winggender="right_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Françoise_Guégot" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130118.asp#INTER_12" vote="contre" gender="female" politicalgender="UMP_female" wing="right" winggender="right_female" debat="qag" subject="mpt">
   <p> Monsieur le président, mes chers collègues, permettez-moi tout d'abord de dire que nous ne pouvons accepter l'outrance insultante de la réponse du ministre de l'éducation nationale à notre collègue Christian Estrosi. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe UMP. – Protestations sur les bancs du groupe SRC."/></p>
 
 </mpt:metadata>
@@ -768,7 +768,7 @@
 <sp who="Laurence_Dumont">
   <speaker>Laurence Dumont</speaker>
 
-<mpt:metadata auteur="Laurence_Dumont" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="female" politicalgender="SRC_female" wing="left" winggender="left_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Laurence_Dumont" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="female" politicalgender="SRC_female" wing="left" winggender="left_female" debat="qag" subject="mpt">
   <p> Quel est votre bilan sur l'école ?</p>
 
 </mpt:metadata>
@@ -778,7 +778,7 @@
 <sp who="Françoise_Guégot">
   <speaker>Françoise Guégot</speaker>
 
-<mpt:metadata auteur="Françoise_Guégot" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="female" politicalgender="UMP_female" wing="right" winggender="right_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Françoise_Guégot" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="female" politicalgender="UMP_female" wing="right" winggender="right_female" debat="qag" subject="mpt">
   <p> Ma question s'adresse à M. le Premier ministre.</p>
 <p>L'actualité parlementaire, monsieur le Premier ministre, mobilise toutes les attentions sur votre projet de loi relatif au mariage pour tous. C'est, sans aucun doute, une bonne technique pour faire passer sous silence les attaques que prépare une nouvelle fois votre gouvernement contre la famille. <mpt:interruption type="Protestations" text="Protestations sur quelques bancs du groupe SRC."/> Vous avez, en effet, missionné le président du Haut conseil de la famille pour raboter les prestations familiales.</p>
 <p>Vos intentions sont d'autant plus inquiétantes que vous êtes déjà passé aux actes dans le projet de loi de finances pour 2013, en baissant le plafond du quotient familial et en augmentant les prélèvements sur les emplois familiaux.</p>
@@ -790,7 +790,7 @@
 <sp who="Serge_Janquin">
   <speaker>Serge Janquin</speaker>
 
-<mpt:metadata auteur="Serge_Janquin" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Serge_Janquin" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="qag" subject="mpt">
   <p> C'est faux !</p>
 
 </mpt:metadata>
@@ -800,7 +800,7 @@
 <sp who="Françoise_Guégot">
   <speaker>Françoise Guégot</speaker>
 
-<mpt:metadata auteur="Françoise_Guégot" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="female" politicalgender="UMP_female" wing="right" winggender="right_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Françoise_Guégot" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="female" politicalgender="UMP_female" wing="right" winggender="right_female" debat="qag" subject="mpt">
   <p> Vous avez, il est vrai, revalorisé le RSA, mais pour ainsi dire oublié le SMIC.</p>
 <p>Vous voulez <w>aujourd'hui</w> revoir les conditions de ressources pour l'attribution des prestations familiales et leur mode de revalorisation. C'est une certitude : votre politique consiste à assommer ces familles qui travaillent.</p>
 
@@ -811,7 +811,7 @@
 <sp who="Alain_Marsaud">
   <speaker>Alain Marsaud</speaker>
 
-<mpt:metadata auteur="Alain_Marsaud" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Alain_Marsaud" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> Eh oui !</p>
 
 </mpt:metadata>
@@ -821,7 +821,7 @@
 <sp who="Christian_Jacob">
   <speaker>Christian Jacob</speaker>
 
-<mpt:metadata auteur="Christian_Jacob" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Christian_Jacob" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> Très bien !</p>
 
 </mpt:metadata>
@@ -831,7 +831,7 @@
 <sp who="Françoise_Guégot">
   <speaker>Françoise Guégot</speaker>
 
-<mpt:metadata auteur="Françoise_Guégot" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="female" politicalgender="UMP_female" wing="right" winggender="right_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Françoise_Guégot" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="female" politicalgender="UMP_female" wing="right" winggender="right_female" debat="qag" subject="mpt">
   <p> Votre majorité se gargarise du principe d'égalité pour ouvrir le mariage aux personnes de même sexe,...</p>
 
 </mpt:metadata>
@@ -841,7 +841,7 @@
 <sp who="Un_député_du_groupe_SRC">
   <speaker>Un député du groupe SRC</speaker>
 
-<mpt:metadata auteur="Un_député_du_groupe_SRC" interventiontype="interruption"        debat="qag" subject="qag">
+<mpt:metadata auteur="Un_député_du_groupe_SRC" interventiontype="interruption"        debat="qag" subject="mpt">
   <p> Que c'est laborieux !</p>
 
 </mpt:metadata>
@@ -851,7 +851,7 @@
 <sp who="Françoise_Guégot">
   <speaker>Françoise Guégot</speaker>
 
-<mpt:metadata auteur="Françoise_Guégot" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="female" politicalgender="UMP_female" wing="right" winggender="right_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Françoise_Guégot" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="female" politicalgender="UMP_female" wing="right" winggender="right_female" debat="qag" subject="mpt">
   <p> ...mais elle est prête à revenir sur le principe d'universalité de la politique familiale. Vous prétendez défendre la famille, alors que vous allez une fois encore affaiblir le revenu de celles des classes moyennes.</p>
 
 </mpt:metadata>
@@ -861,7 +861,7 @@
 <sp who="Laurence_Dumont">
   <speaker>Laurence Dumont</speaker>
 
-<mpt:metadata auteur="Laurence_Dumont" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="female" politicalgender="SRC_female" wing="left" winggender="left_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Laurence_Dumont" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="female" politicalgender="SRC_female" wing="left" winggender="left_female" debat="qag" subject="mpt">
   <p> Et votre bilan ?</p>
 
 </mpt:metadata>
@@ -871,7 +871,7 @@
 <sp who="Françoise_Guégot">
   <speaker>Françoise Guégot</speaker>
 
-<mpt:metadata auteur="Françoise_Guégot" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="female" politicalgender="UMP_female" wing="right" winggender="right_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Françoise_Guégot" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="female" politicalgender="UMP_female" wing="right" winggender="right_female" debat="qag" subject="mpt">
   <p> Monsieur le Premier ministre, ma question est simple : quand cesserez-vous enfin cette entreprise de démolition programmée de la famille, pilier de notre société ? <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
@@ -881,7 +881,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="qag">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="mpt">
   <p> La parole est à Mme la ministre déléguée chargée de la famille.</p>
 
 </mpt:metadata>
@@ -891,7 +891,7 @@
 <sp who="Dominique_Bertinotti">
   <speaker>Dominique Bertinotti, ministre déléguée chargée de la famille.</speaker>
 
-<mpt:metadata auteur="Dominique_Bertinotti" interventiontype="intervention" politicalgroup="GVT" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130118.asp#INTER_13"  gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Dominique_Bertinotti" interventiontype="intervention" politicalgroup="GVT" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130118.asp#INTER_13"  gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="mpt">
   <p>Madame la députée, ce n'est, que je sache, pas nous mais bien vous qui avez, pendant cinq ans, stigmatisé les familles <mpt:interruption type="Protestations" text="Protestations sur les bancs du groupe UMP"/> en allant même jusqu'à suspendre le versement des allocations <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe SRC"/>,...</p>
 
 </mpt:metadata>
@@ -901,7 +901,7 @@
 <sp who="Claude_Greff">
   <speaker>Claude Greff</speaker>
 
-<mpt:metadata auteur="Claude_Greff" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="female" politicalgender="UMP_female" wing="right" winggender="right_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Claude_Greff" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="female" politicalgender="UMP_female" wing="right" winggender="right_female" debat="qag" subject="mpt">
   <p> Mais non !</p>
 
 </mpt:metadata>
@@ -911,7 +911,7 @@
 <sp who="Dominique_Bertinotti">
   <speaker>Dominique Bertinotti, ministre déléguée.</speaker>
 
-<mpt:metadata auteur="Dominique_Bertinotti" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Dominique_Bertinotti" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="mpt">
   <p>...comme si cette mesure était une façon de répondre aux difficultés d'éducation que peuvent éprouver certaines familles !</p>
 
 </mpt:metadata>
@@ -921,7 +921,7 @@
 <sp who="Claude_Goasguen">
   <speaker>Claude Goasguen</speaker>
 
-<mpt:metadata auteur="Claude_Goasguen" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Claude_Goasguen" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> N'importe quoi !</p>
 
 </mpt:metadata>
@@ -931,7 +931,7 @@
 <sp who="Bernard_Deflesselles">
   <speaker>Bernard Deflesselles</speaker>
 
-<mpt:metadata auteur="Bernard_Deflesselles" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Bernard_Deflesselles" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> Répondez à la question !</p>
 
 </mpt:metadata>
@@ -941,7 +941,7 @@
 <sp who="Dominique_Bertinotti">
   <speaker>Dominique Bertinotti, ministre déléguée.</speaker>
 
-<mpt:metadata auteur="Dominique_Bertinotti" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Dominique_Bertinotti" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="mpt">
   <p>Oui, nous avons un regard complètement différent sur la famille.</p>
 
 </mpt:metadata>
@@ -951,7 +951,7 @@
 <sp who="Anne_Grommerch">
   <speaker>Anne Grommerch</speaker>
 
-<mpt:metadata auteur="Anne_Grommerch" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="female" politicalgender="UMP_female" wing="right" winggender="right_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Anne_Grommerch" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="female" politicalgender="UMP_female" wing="right" winggender="right_female" debat="qag" subject="mpt">
   <p> Nous sommes bien d'accord !</p>
 
 </mpt:metadata>
@@ -961,7 +961,7 @@
 <sp who="Dominique_Bertinotti">
   <speaker>Dominique Bertinotti, ministre déléguée.</speaker>
 
-<mpt:metadata auteur="Dominique_Bertinotti" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Dominique_Bertinotti" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="mpt">
   <p>Il s'agit de les aider dans leur fonction de parentalité et, suite à la conférence sociale qui s'est tenue contre la pauvreté, de les soutenir. En effet, notre vocation est aussi d'aider toutes ces familles monoparentales, en particulier les plus modestes, à bien éduquer leurs enfants, à leur donner accès aussi bien à une alimentation saine qu'à la santé, alors que vous comptez parmi vous des maires qui ont refusé à certains de ces enfants l'accès à la cantine scolaire. <mpt:interruption type="Protestations" text="Protestations sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
@@ -971,7 +971,7 @@
 <sp who="Catherine_Vautrin">
   <speaker>Catherine Vautrin</speaker>
 
-<mpt:metadata auteur="Catherine_Vautrin" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="female" politicalgender="UMP_female" wing="right" winggender="right_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Catherine_Vautrin" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="female" politicalgender="UMP_female" wing="right" winggender="right_female" debat="qag" subject="mpt">
   <p> C'est honteux de dire cela !</p>
 
 </mpt:metadata>
@@ -981,7 +981,7 @@
 <sp who="Dominique_Bertinotti">
   <speaker>Dominique Bertinotti, ministre déléguée.</speaker>
 
-<mpt:metadata auteur="Dominique_Bertinotti" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Dominique_Bertinotti" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="mpt">
   <p>Oui, nous avons une politique familiale totalement différente <mpt:interruption type="Mêmes mouvements" text="Mêmes mouvements"/>, et le fait que le Haut Conseil de la famille soit mandaté pour réfléchir sur la valeur du principe redistributif dans notre politique familiale est une très bonne chose. Vous le verrez à ses conclusions pertinentes.</p>
 <p>Enfin, j'étais récemment à Berlin, où l'on regarde avec beaucoup d'intérêt la politique familiale que nous menons.</p>
 
@@ -992,7 +992,7 @@
 <sp who="François_Scellier">
   <speaker>François Scellier</speaker>
 
-<mpt:metadata auteur="François_Scellier" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="François_Scellier" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> N'importe quoi !</p>
 
 </mpt:metadata>
@@ -1002,7 +1002,7 @@
 <sp who="Dominique_Bertinotti">
   <speaker>Dominique Bertinotti, ministre déléguée.</speaker>
 
-<mpt:metadata auteur="Dominique_Bertinotti" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Dominique_Bertinotti" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="mpt">
   <p>On nous l'envie ! J'irai même jusqu'à dire qu'on nous demande des conseils ! Nous sommes fiers de conduire cette politique familiale ! <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe SRC."/></p>
 
 </mpt:metadata>
@@ -1012,7 +1012,7 @@
 <sp who="Olivier_Dassault">
   <speaker>Olivier Dassault</speaker>
 
-<mpt:metadata auteur="Olivier_Dassault" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Olivier_Dassault" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> et M. Lucien Degauchy. Zéro !</p>
 </mpt:metadata></sp>
 </div>

@@ -86,7 +86,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="qag">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="mpt">
   <p> La parole est à M. Jean-Christophe Fromantin.</p>
 
 </mpt:metadata>
@@ -96,7 +96,7 @@
 <sp who="Jean-Christophe_Fromantin">
   <speaker>Jean-Christophe Fromantin</speaker>
 
-<mpt:metadata auteur="Jean-Christophe_Fromantin" interventiontype="intervention" politicalgroup="UDI" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_0" vote="contre" gender="male" politicalgender="UDI_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Jean-Christophe_Fromantin" interventiontype="intervention" politicalgroup="UDI" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_0" vote="contre" gender="male" politicalgender="UDI_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> Ma question s'adresse au ministre qui voudra bien me répondre, compte tenu des positions diverses dans le gouvernement sur la PMA et la GPA. <mpt:interruption type="« Très bien ! »" text="« Très bien ! » sur plusieurs bancs des groupes UDI et UMP."/></p>
 <p>Si, au sein de notre groupe, nous avons des positions différentes sur le mariage et l'adoption, nos attentes sont néanmoins extrêmement fortes sur la PMA et la GPA.</p>
 <p>Or, depuis quelques jours, nous assistons à une cacophonie extraordinaire. La ministre chargée de la famille, la ministre de la santé ou le porte-parole du Gouvernement sont pour la GPA, la position du ministre de l'intérieur est plus nuancée car il craint la GPA, la garde des sceaux est très mal à l'aise et attend une position sur le code de la santé publique, le chef du gouvernement répond qu'il faut attendre la position du comité consultatif national d'éthique, qui, du coup, s'est autosaisi de ce dossier qui gravite au-dessus de nos débats. Enfin, le président du groupe socialiste à l'Assemblée nationale, nous dit « Moi je considère qu'il s'agit d'un engagement du président de la République. Il en a parlé pendant la campagne électorale et je m'en suis assuré auprès de lui ».</p>
@@ -110,7 +110,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="qag">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="mpt">
   <p> La parole est à M. le ministre délégué chargé des relations avec le Parlement. (Vives protestations sur les bancs des groupes UMP et UDI. – Applaudissements sur plusieurs bancs du groupe SRC.)</p>
 
 </mpt:metadata>
@@ -120,7 +120,7 @@
 <sp who="Alain_Vidalies_">
   <speaker>Alain Vidalies ,ministre délégué chargé des relations avec le Parlement.</speaker>
 
-<mpt:metadata auteur="Alain_Vidalies_" interventiontype="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_1"      debat="qag" subject="qag">
+<mpt:metadata auteur="Alain_Vidalies_" interventiontype="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_1"      debat="qag" subject="mpt">
   <p>Monsieur le député, il faut distinguer la réponse du Gouvernement sur la GPA et celle sur la PMA, même si vous avez abordé les deux sujets.</p>
 <p>Sur la GPA, sa position est très précise, le Gouvernement est hostile à la GPA, il ne propose rien sur le sujet, ni dans ce texte ni dans un autre texte à venir. Cela ne peut pas être plus clair et plus simple.</p>
 <p>Sur la PMA, j'ai répondu au nom du Premier ministre que le Gouvernement avait décidé de ne traiter de cette question qu'avec l'ensemble des questions qui seront abordées dans un projet de loi sur la famille que nous déposerons à la fin de l'année après avoir pris connaissance de l'avis du conseil national d'éthique.</p>
@@ -132,7 +132,7 @@
 <sp who="François_Rochebloine">
   <speaker>François Rochebloine</speaker>
 
-<mpt:metadata auteur="François_Rochebloine" interventiontype="interruption" politicalgroup="UDI"  vote="contre" gender="male" politicalgender="UDI_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="François_Rochebloine" interventiontype="interruption" politicalgroup="UDI"  vote="contre" gender="male" politicalgender="UDI_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> Ce n'est pas ce qu'il a dit dimanche.</p>
 
 </mpt:metadata>
@@ -142,7 +142,7 @@
 <sp who="Alain_Vidalies_">
   <speaker>Alain Vidalies ,ministre délégué.</speaker>
 
-<mpt:metadata auteur="Alain_Vidalies_" interventiontype="intervention"        debat="qag" subject="qag">
+<mpt:metadata auteur="Alain_Vidalies_" interventiontype="intervention"        debat="qag" subject="mpt">
   <p>Vous avez cru déceler des positions différentes du Gouvernement <mpt:interruption type="Exclamations" text="Exclamations sur de nombreux bancs des groupes UMP et UDI, plusieurs députés du groupe UMP applaudissant"/>, notamment dans la déclaration du Premier ministre.</p>
 <p>Dimanche matin, et je défie quiconque de prétendre que les propos que je vais tenir ne sont pas ceux du compte rendu, Mme Bertinotti a expliqué qu'on ne traiterait de la PMA que dans la loi sur la famille à la fin de l'année.</p>
 <p>Ensuite, vous vous êtes emparés d'une dépêche précisant que Mme Bertinotti ne pouvait dire cela parce qu'il fallait attendre l'avis du conseil national d'éthique.</p>
@@ -156,7 +156,7 @@
 <sp who="Pierre_Lellouche">
   <speaker>Pierre Lellouche</speaker>
 
-<mpt:metadata auteur="Pierre_Lellouche" interventiontype="interruption" politicalgroup="UMP"  vote="abstention" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Pierre_Lellouche" interventiontype="interruption" politicalgroup="UMP"  vote="abstention" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> Ça rame !</p>
 
 </mpt:metadata>
@@ -166,7 +166,7 @@
 <sp who="Alain_Vidalies_">
   <speaker>Alain Vidalies ,ministre délégué.</speaker>
 
-<mpt:metadata auteur="Alain_Vidalies_" interventiontype="intervention"        debat="qag" subject="qag">
+<mpt:metadata auteur="Alain_Vidalies_" interventiontype="intervention"        debat="qag" subject="mpt">
   <p>Je sais bien que cela vous gêne mais telle est la réalité de la position du Gouvernement. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe SRC. – Rires et exclamations sur les bancs des groupes UMP et UDI."/></p>
 </mpt:metadata></sp>
 </div>
@@ -178,7 +178,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="qag">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="mpt">
   <p> La parole est à Mme Véronique Massonneau, pour le groupe écologiste.</p>
 
 </mpt:metadata>
@@ -188,7 +188,7 @@
 <sp who="Véronique_Massonneau">
   <speaker>Véronique Massonneau</speaker>
 
-<mpt:metadata auteur="Véronique_Massonneau" interventiontype="intervention" politicalgroup="ECOLO" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_2" vote="pour" gender="female" politicalgender="ECOLO_female" wing="left" winggender="left_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Véronique_Massonneau" interventiontype="intervention" politicalgroup="ECOLO" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_2" vote="pour" gender="female" politicalgender="ECOLO_female" wing="left" winggender="left_female" debat="qag" subject="mpt">
   <p> Monsieur le Premier ministre, l'Assemblée nationale examine depuis une semaine un texte historique : le projet de loi ouvrant le mariage aux couples de personnes de même sexe. Je peux vous affirmer, et je pense pouvoir y associer l'ensemble des députés de la majorité, que nous sommes fiers de voter ce texte.</p>
 <p>J'en profite d'ailleurs pour remercier Mme Taubira et Mme Bertinotti pour leur disponibilité et leur travail monumental. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes écologiste, SRC, RRDP et GDR."/></p>
 <p>Cette loi sera une grande avancée sociétale, une grande avancée pour l'égalité des droits. Et, dans ce schéma d'égalité des droits, nous devons inscrire la procréation médicalement assistée. Car oui, chers collègues de l'opposition, nous sommes obsédés par l'égalité ! <mpt:interruption type="Exclamations" text="Exclamations sur plusieurs bancs des groupes UMP et UDI."/></p>
@@ -203,7 +203,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="qag">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="mpt">
   <p> La parole est à Mme la ministre déléguée chargée de la famille. <mpt:interruption type="« Ah ! »" text="« Ah ! » sur les bancs des groupes UMP et UDI."/></p>
 
 </mpt:metadata>
@@ -213,7 +213,7 @@
 <sp who="Dominique_Bertinotti">
   <speaker>Dominique Bertinotti,ministre déléguée chargée de la famille.</speaker>
 
-<mpt:metadata auteur="Dominique_Bertinotti" interventiontype="intervention" politicalgroup="GVT" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_3"  gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Dominique_Bertinotti" interventiontype="intervention" politicalgroup="GVT" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_3"  gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="mpt">
   <p>Madame la députée, je vous remercie infiniment de votre question et des éléments qu'elle comporte. Vous avez raison de rappeler que la procréation médicalement assistée est le produit d'une histoire déjà ancienne. C'est en 1973 qu'ont été créés les CECOS, en 1982 qu'a eu lieu la première fécondation in vitro, en 1994 que les premières lois bioéthiques ont défini l'assistance médicale à la procréation : « pratiques cliniques et biologiques permettant la conception in vitro, le transfert d'embryons et l'insémination artificielle, ainsi que toute technique d'effet équivalent permettant la procréation en dehors du processus naturel ».</p>
 <p>Depuis plusieurs années, environ 1 500 enfants naissent chaque année en France par insémination artificielle. On ne peut donc pas dire que l'on découvre ce qui ressort de la procréation médicalement assistée.</p>
 
@@ -224,7 +224,7 @@
 <sp who="Un_député_du_groupe_UMP">
   <speaker>Un député du groupe UMP</speaker>
 
-<mpt:metadata auteur="Un_député_du_groupe_UMP" interventiontype="interruption"        debat="qag" subject="qag">
+<mpt:metadata auteur="Un_député_du_groupe_UMP" interventiontype="interruption"        debat="qag" subject="mpt">
   <p> La réponse !</p>
 
 </mpt:metadata>
@@ -234,7 +234,7 @@
 <sp who="Dominique_Bertinotti">
   <speaker>Dominique Bertinotti,ministre déléguée.</speaker>
 
-<mpt:metadata auteur="Dominique_Bertinotti" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Dominique_Bertinotti" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="mpt">
   <p>Pour répondre à votre question <mpt:interruption type="« Ah ! »" text="« Ah ! » sur les bancs des groupes UMP et UDI"/> et compléter ce qu'Alain Vidalies vient de dire et de confirmer une énième fois, la loi « Famille » sera présentée à la représentation nationale avant la fin de l'année, la procédure du comité national d'éthique et celle des états généraux n'étant pas incompatibles avec ce calendrier. La question de la PMA sera abordée dans le cadre de cette loi, qui s'adressera indifféremment aux familles hétérosexuelles et homosexuelles. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs des groupes UMP et UDI."/> Et je vous rassure : la majorité et le Gouvernement sont solides et solidaires ! <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC et écologiste."/></p>
 </mpt:metadata></sp>
 </div>
@@ -478,7 +478,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="qag">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="mpt">
   <p> La parole est à M. Xavier Breton, pour le groupe de l'Union pour un mouvement populaire .</p>
 
 </mpt:metadata>
@@ -488,7 +488,7 @@
 <sp who="Xavier_Breton">
   <speaker>Xavier Breton</speaker>
 
-<mpt:metadata auteur="Xavier_Breton" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_8" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Xavier_Breton" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_8" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> Avant toute chose, je précise à l'attention de M. Moscovici que ce n'est pas nous qui dénigrons notre pays, mais vous qui l'abaissez inexorablement avec votre politique. <mpt:interruption type="Applaudissements" text="Applaudissements sur certains bancs du groupe UMP. – Protestations sur quelques bancs du groupe SRC."/></p>
 <p>Ma question, à laquelle j'associe mon collègue, François de Mazières, s'adresse à monsieur le Premier ministre.</p>
 <p>Notre assemblée examine votre projet de loi sur le mariage et l'adoption par les couples de personnes de même sexe. Or, avec ce texte, vous êtes en train de diviser les Français.</p>
@@ -510,7 +510,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="qag">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="mpt">
   <p> La parole est à Mme Christiane Taubira, garde des sceaux, ministre de la justice. (Vifs applaudissements et acclamations sur les bancs des groupes SRC, écologiste et RRDP. De nombreux députés de ces groupes se lèvent pour applaudir.- Applaudissements sur les bancs du groupe GDR.)</p>
 
 </mpt:metadata>
@@ -520,7 +520,7 @@
 <sp who="Christiane_Taubira">
   <speaker>Christiane Taubira,garde des sceaux, ministre de la justice.</speaker>
 
-<mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_9"  gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_9"  gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="mpt">
   <p>Monsieur le député, je dois saluer votre exploit, celui d'être parvenu en deux minutes à faire exactement ce que vous faites depuis six jours : une intervention hors sujet par rapport au projet de loi. <mpt:interruption type="Protestations" text="Protestations sur les bancs du groupe UMP."/></p>
 <p>Vous avez abordé une nouvelle fois les questions de la PMA et de la GPA ; par contre, il y manquait le clonage – il faudra en prendre l'habitude. </p>
 <p>Peut-être pourrais-je vous inviter à regarder ce qui se passe actuellement au Royaume-Uni : c'est <w>aujourd'hui</w> que les conservateurs, vos amis politiques, délibèrent sur le même sujet. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe SRC. – Protestations sur les bancs du groupe UMP."/></p>
@@ -7981,7 +7981,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="other" subject="other">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p> M. Le Fur, vous avez demandé la parole en application de l'article 58, alinéa 4, du règlement pour un fait personnel.</p>
 <p>Vous avez la parole.</p>
 
@@ -7992,7 +7992,7 @@
 <sp who="Marc_Le_Fur">
   <speaker>Marc Le Fur</speaker>
 
-<mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_48" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
+<mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_48" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Je vous remercie, monsieur le président. Et je remercie aussi le président Le Roux d'être revenu après plusieurs heures d'absence. Je lui en sais gré. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC."/></p>
 
 </mpt:metadata>
@@ -8002,7 +8002,7 @@
 <sp who="Plusieurs_députés_du_groupe_SRC">
   <speaker>Plusieurs députés du groupe SRC</speaker>
 
-<mpt:metadata auteur="Plusieurs_députés_du_groupe_SRC" interventiontype="interruption"        debat="other" subject="other">
+<mpt:metadata auteur="Plusieurs_députés_du_groupe_SRC" interventiontype="interruption"        debat="mpt" subject="mpt">
   <p> Quelle élégance !</p>
 
 </mpt:metadata>
@@ -8012,7 +8012,7 @@
 <sp who="Marc_Le_Fur">
   <speaker>Marc Le Fur</speaker>
 
-<mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
+<mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Le président Le Roux m'a attaqué tout à l'heure. Ce n'est pas surprenant que je sois, comme d'autres, la cible de M. Le Roux puisque, depuis un certain nombre d'heures, inlassablement, nous demandons la transparence sur l'avis du Conseil d'État en particulier et nous avons bien compris que cela gênait.</p>
 <p>Un tweet a été diffusé – pas par moi, par d'autres – concernant le comportement d'un de nos collègues, coupable d'un péché très véniel au demeurant : on le voit en photo jouer au sudoku ou au scrabble, quelque chose de ce genre. Il se trouve que le tweet m'est parvenu et, je m'en excuse, je l'ai diffusé à quelques amis. Je m'en excuse parce que le tweet identifiait à tort le joueur comme étant Guillaume Bachelay alors qu'il s'agissait de Thomas Thévenoud. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC."/> Que Guillaume Bachelay reçoive mes excuses. (Guillaume Bachelay et Thomas Thevenoud se lèvent pour faire apprécier leur différence de chevelure.)</p>
 
@@ -8023,7 +8023,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="other" subject="other">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p> La parole est à M. Bruno Le Roux.</p>
 
 </mpt:metadata>
@@ -8033,7 +8033,7 @@
 <sp who="Bruno_Le_Roux">
   <speaker>Bruno Le Roux</speaker>
 
-<mpt:metadata auteur="Bruno_Le_Roux" interventiontype="intervention" politicalgroup="SRC" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_49" vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
+<mpt:metadata auteur="Bruno_Le_Roux" interventiontype="intervention" politicalgroup="SRC" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_49" vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
   <p> Cela montre bien toutes les confusions.</p>
 <p>Monsieur Le Fur, si la responsabilité d'un président est d'organiser son groupe, force est de constater, avec les écarts dans les votes que nous connaissons depuis cinq jours, que le nôtre est mieux organisé que le vôtre dans le taux de mobilisation de ses députés. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe SRC."/> J'invite donc M. Jacob, s'il le souhaite, à passer un peu moins de temps dans l'hémicycle et à mieux organiser les choses à l'extérieur. Mais je n'ai aucun conseil supplémentaire à vous donner.</p>
 <p>Pour le reste, vous faites amende honorable sur la mise en cause d'un député, je m'en réjouis. Compte tenu de ce que vous venez de décrire, vous devez savoir qu'il ne convient pas de jeter l'opprobre sur des députés qui travaillent ici sur la TVA, dans le cadre d'une mission de l'Assemblée nationale. Il nous arrive à tous de devoir faire d'autres travaux en séance, ou de lire des journaux, comme je vous ai déjà vu le faire, monsieur Le Fur. Je vous ai même vu faire autre chose : parler depuis maintenant cinq jours d'un texte de loi qui n'existe pas. Cela ne peut-il pas vous être reproché aussi ? <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC et écologiste."/></p>
@@ -8046,7 +8046,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="other" subject="other">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p> En application de l'article 58, alinéa 4 du règlement, M. Hervé Mariton a demandé la parole pour un fait personnel. Vous avez la parole, cher collègue.</p>
 
 </mpt:metadata>
@@ -8056,7 +8056,7 @@
 <sp who="Hervé_Mariton">
   <speaker>Hervé Mariton</speaker>
 
-<mpt:metadata auteur="Hervé_Mariton" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_50" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
+<mpt:metadata auteur="Hervé_Mariton" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_50" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Je ferai tout d'abord respectueusement observer au président Le Roux qu'en début de séance cet après-midi, nous étions majoritaires. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC."/> Il a fallu un très laborieux rappel au règlement de M. Dussopt pour permettre de rameuter les troupes et qu'enfin, vos rangs se renforcent.</p>
 
 </mpt:metadata>
@@ -8066,7 +8066,7 @@
 <sp who="Bruno_Le_Roux">
   <speaker>Bruno Le Roux</speaker>
 
-<mpt:metadata auteur="Bruno_Le_Roux" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
+<mpt:metadata auteur="Bruno_Le_Roux" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
   <p> Quelle bonne organisation !</p>
 
 </mpt:metadata>
@@ -8076,7 +8076,7 @@
 <sp who="Hervé_Mariton">
   <speaker>Hervé Mariton</speaker>
 
-<mpt:metadata auteur="Hervé_Mariton" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
+<mpt:metadata auteur="Hervé_Mariton" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Le fait personnel que je veux évoquer est intervenu lorsque je démontrais que votre future loi est inapplicable dans les mairies de la République. Je disais qu'elle est une insulte aux couples de personnes de même sexe auxquels les maires diront demain que l'autorité parentale s'applique aux père et mère. J'ajoutais que votre texte est mal ficelé.</p>
 
 </mpt:metadata>
@@ -8086,7 +8086,7 @@
 <sp who="Claude_Goasguen">
   <speaker>Claude Goasguen</speaker>
 
-<mpt:metadata auteur="Claude_Goasguen" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
+<mpt:metadata auteur="Claude_Goasguen" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> C'est vrai. Il faut corriger.</p>
 
 </mpt:metadata>
@@ -8096,7 +8096,7 @@
 <sp who="Hervé_Mariton">
   <speaker>Hervé Mariton</speaker>
 
-<mpt:metadata auteur="Hervé_Mariton" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
+<mpt:metadata auteur="Hervé_Mariton" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Le Gouvernement en est réduit à dire que les maires devront interpréter, comme si chacun d'entre nous, dans sa mairie, interprétait librement le code civil !</p>
 <p>Le collègue socialiste qui est intervenu – je crois qu'il s'agit de M. Thévenoud mais je n'en suis pas certain ; on semble néanmoins me confirmer que c'était bien lui – n'a pas eu d'autre argument à m'opposer que « le problème de Mariton, c'est la couleur de ses pull-overs ». Si le groupe socialiste n'a pas d'autre orateur à proposer qu'un député dont le seul argument, pour justifier de sa lecture du code civil, tient aux vêtements de l'opposition, il est bien mal embarqué. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC."/> Ce n'est pas grave. </p>
 <p>En revanche, si la loi de la République est aussi mal ficelée que l'article 371-1, et probablement d'autres dispositions encore, nos concitoyens ont du souci à se faire. <mpt:interruption type="Applaudissements" text="Applaudissements sur plusieurs bancs du groupe UMP."/></p>

@@ -498,7 +498,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="qag">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="mpt">
   <p> La parole est à M. Bernard Roman, pour le groupe socialiste, républicain et citoyen.</p>
 
 </mpt:metadata>
@@ -508,7 +508,7 @@
 <sp who="Bernard_Roman">
   <speaker>Bernard Roman</speaker>
 
-<mpt:metadata auteur="Bernard_Roman" interventiontype="intervention" politicalgroup="SRC" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130144.asp#INTER_10" vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Bernard_Roman" interventiontype="intervention" politicalgroup="SRC" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130144.asp#INTER_10" vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="qag" subject="mpt">
   <p> Monsieur le Premier ministre, nous allons voter cet après-midi en faveur du droit au mariage et à l'adoption pour les couples de même sexe. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC, écologiste et RRDP et sur plusieurs bancs du groupe GDR. – Exclamations sur les bancs du groupe UMP."/></p>
 <p>Nous arrivons au terme d'un long débat : 120 heures d'auditions, deux jours de travaux en commission, onze jours, dix nuits et 110 heures en séance, avec une mobilisation importante sur tous nos bancs.</p>
 <p>Ce beau débat,...</p>
@@ -520,7 +520,7 @@
 <sp who="Jacques_Alain_Bénisti">
   <speaker>Jacques Alain Bénisti</speaker>
 
-<mpt:metadata auteur="Jacques_Alain_Bénisti" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Jacques_Alain_Bénisti" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> Quelle douleur !</p>
 
 </mpt:metadata>
@@ -530,7 +530,7 @@
 <sp who="Bernard_Roman">
   <speaker>Bernard Roman</speaker>
 
-<mpt:metadata auteur="Bernard_Roman" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Bernard_Roman" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="qag" subject="mpt">
   <p> ...nous en devons une bonne part à la manière dont le président de l'Assemblée nationale a conduit nos travaux <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC, écologiste, RRDP et GDR"/>, mais aussi à nos ministres, Christiane Taubira <mpt:interruption type="Mêmes mouvements" text="Mêmes mouvements. – De nombreux députés de ces groupes se lèvent pour applaudir"/>, Dominique Bertinotti et Alain Vidalies, ainsi qu'à nos rapporteurs, Erwann Binet et Marie-Françoise Clergeau. Qu'ils en soient ici remerciés ! <mpt:interruption type="Mêmes mouvements" text="Mêmes mouvements."/></p>
 <p>L'opinion a évolué durant ce débat. <w>Aujourd'hui</w>, une majorité de Français soutiennent cette avancée. Cette réforme renforce la famille comme une valeur structurante de notre société, comme un rempart contre les égoïsmes. <mpt:interruption type="Rires" text="Rires sur les bancs du groupe UMP."/></p>
 
@@ -541,7 +541,7 @@
 <sp who="Céleste_Lett">
   <speaker>Céleste Lett</speaker>
 
-<mpt:metadata auteur="Céleste_Lett" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Céleste_Lett" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> Ça fait mal aux oreilles d'entendre ça !</p>
 
 </mpt:metadata>
@@ -551,7 +551,7 @@
 <sp who="Bernard_Roman">
   <speaker>Bernard Roman</speaker>
 
-<mpt:metadata auteur="Bernard_Roman" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Bernard_Roman" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="qag" subject="mpt">
   <p> Mais cette réforme est surtout un acte d'égalité, l'aboutissement d'un long combat contre les discriminations fondées sur l'orientation sexuelle.</p>
 <p>L'homosexualité n'est plus un délit dans notre pays seulement depuis 1982, elle n'est plus une maladie mentale seulement depuis 1992. Désormais, elle sera reconnue non plus pour ce qu'elle n'est pas, mais pour ce qu'elle est, une sexualité autre, mais normale, qui justifie l'égalité juridique et qui autorise à fonder un foyer et une famille, au nom du droit au bonheur et du désir de transmettre. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC, écologiste, RRDP et GDR."/></p>
 
@@ -562,7 +562,7 @@
 <sp who="Un_député_du_groupe_UMP">
   <speaker>Un député du groupe UMP</speaker>
 
-<mpt:metadata auteur="Un_député_du_groupe_UMP" interventiontype="interruption"        debat="qag" subject="qag">
+<mpt:metadata auteur="Un_député_du_groupe_UMP" interventiontype="interruption"        debat="qag" subject="mpt">
   <p> Et les enfants ?</p>
 
 </mpt:metadata>
@@ -572,7 +572,7 @@
 <sp who="Bernard_Roman">
   <speaker>Bernard Roman</speaker>
 
-<mpt:metadata auteur="Bernard_Roman" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Bernard_Roman" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="qag" subject="mpt">
   <p> C'est le devoir du Parlement de garantir l'égalité. C'est aussi son honneur. <mpt:interruption type="« Stop ! »" text="« Stop ! » sur de nombreux bancs UMP."/></p>
 <p>Je voulais, monsieur le Premier ministre, vous dire l'immense fierté du groupe socialiste d'y avoir contribué. <mpt:interruption type="Applaudissements" text="Applaudissements prolongés sur les bancs des groupes SRC, écologiste, RRDP et GDR, dont de nombreux membres se lèvent. – « Référendum ! Référendum ! » sur les bancs du groupe UMP."/></p>
 
@@ -583,7 +583,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="qag">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="mpt">
   <p> La parole est à M. le Premier ministre.</p>
 
 </mpt:metadata>
@@ -593,7 +593,7 @@
 <sp who="Jean-Marc_Ayrault">
   <speaker>Jean-Marc Ayrault, Premier ministre.</speaker>
 
-<mpt:metadata auteur="Jean-Marc_Ayrault" interventiontype="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130144.asp#INTER_11"      debat="qag" subject="qag">
+<mpt:metadata auteur="Jean-Marc_Ayrault" interventiontype="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130144.asp#INTER_11"      debat="qag" subject="mpt">
   <p>Oui, le vote par l'Assemblée nationale, dans quelques instants, après cette séance de questions au Gouvernement, du projet de loi ouvrant le droit au mariage pour tous et à l'adoption vient conclure, après deux semaines de débat, un grand débat parlementaire dont vous pouvez effectivement être fiers, mesdames et messieurs les députés.</p>
 <p>Le Parlement a rempli son rôle avec éclat. Il est au cœur de notre démocratie, et ce débat, vous le savez, a suscité un intérêt exceptionnel chez nos concitoyens.</p>
 <p>Vous avez pris le temps de défendre vos points de vue, vous avez pris le temps d'essayer de vous convaincre et, parfois, c'était difficile, je le sais. Mais les Français ont pris le temps d'écouter vos arguments. Et, comme vous, je le dis, le Gouvernement est fier de cette réforme (Vives exclamations sur les bancs du groupe UMP), parce que cette réforme, mesdames et messieurs les députés, s'inscrit dans une longue lignée de réformes républicaines pour l'égalité et contre les discriminations. <mpt:interruption type="« Référendum ! Référendum ! »" text="« Référendum ! Référendum ! » sur les bancs du groupe UMP."/></p>

@@ -72,7 +72,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="qag">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="mpt">
   <p> La parole est à M. Jean-François Copé. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
@@ -82,7 +82,7 @@
 <sp who="Jean-François_Copé">
   <speaker>Jean-François Copé</speaker>
 
-<mpt:metadata auteur="Jean-François_Copé" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_0" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Jean-François_Copé" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_0" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> Ma question s'adresse à M. le Premier ministre.</p>
 <p>Monsieur le Premier ministre, les masques sont en train de tomber. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC."/></p>
 <p>Vous avez refusé d'ouvrir un grand débat national sur votre projet de loi qui bouleverse le cadre juridique du mariage, de l'adoption et de la filiation, vous avez méprisé tous ceux qui vous invitaient à la sagesse, les 800 000 Français qui ont manifesté (Nouvelles exclamations sur les bancs du groupe SRC), les plus hautes autorités civiles, morales et religieuses, auditionnées dans des conditions lamentables, vous privez le peuple français d'un référendum sur cette question fondamentale,...</p>
@@ -94,7 +94,7 @@
 <sp who="Jean_Glavany">
   <speaker>Jean Glavany</speaker>
 
-<mpt:metadata auteur="Jean_Glavany" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Jean_Glavany" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="qag" subject="mpt">
   <p> Pitre !</p>
 
 </mpt:metadata>
@@ -104,7 +104,7 @@
 <sp who="Jean-François_Copé">
   <speaker>Jean-François Copé</speaker>
 
-<mpt:metadata auteur="Jean-François_Copé" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Jean-François_Copé" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> ...et maintenant vous allez jusqu'à l'excès de pouvoir en court-circuitant la représentation nationale.</p>
 <p>Notre excellent collègue Daniel Fasquelle (Nouvelles exclamations sur les bancs du groupe SRC) a en effet levé le lièvre en révélant une circulaire d'application immédiate prise vendredi dernier en catimini par votre garde des sceaux. Cette circulaire a des conséquences indirectes majeures sur le droit de la famille et même le droit de la nationalité, sans passer par la loi. En plein débat sur votre projet de loi, c'est une provocation inacceptable. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe UMP."/></p>
 <p>Cette circulaire a pour conséquence de reconnaître en droit français la validité de la gestation pour autrui réalisée à l'étranger.</p>
@@ -116,7 +116,7 @@
 <sp who="De_nombreux_députés_du_groupe_SRC">
   <speaker>De nombreux députés du groupe SRC</speaker>
 
-<mpt:metadata auteur="De_nombreux_députés_du_groupe_SRC" interventiontype="interruption"        debat="qag" subject="qag">
+<mpt:metadata auteur="De_nombreux_députés_du_groupe_SRC" interventiontype="interruption"        debat="qag" subject="mpt">
   <p> Non !</p>
 
 </mpt:metadata>
@@ -126,7 +126,7 @@
 <sp who="De_nombreux_députés_du_groupe_UMP">
   <speaker>De nombreux députés du groupe UMP</speaker>
 
-<mpt:metadata auteur="De_nombreux_députés_du_groupe_UMP" interventiontype="interruption"        debat="qag" subject="qag">
+<mpt:metadata auteur="De_nombreux_députés_du_groupe_UMP" interventiontype="interruption"        debat="qag" subject="mpt">
   <p> Si !</p>
 
 </mpt:metadata>
@@ -136,7 +136,7 @@
 <sp who="Jean-François_Copé">
   <speaker>Jean-François Copé</speaker>
 
-<mpt:metadata auteur="Jean-François_Copé" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Jean-François_Copé" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> Ce faisant, vous encouragez directement le recours à des méthodes illégales dans notre pays, des méthodes qui portent atteinte à la dignité humaine.</p>
 <p>De quoi s'agit-il ? Il s'agit de payer une femme démunie pour qu'elle porte l'enfant d'un autre. L'enfant devient un objet qui s'achète, privé du droit de connaître sa mère, et la femme est exploitée dans une forme d'esclavage moderne, comme le dénonce si justement Sylviane Agacinski.</p>
 <p>Quelle société voulez-vous pour les générations à venir, monsieur le Premier ministre ?</p>
@@ -150,7 +150,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="qag">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="mpt">
   <p> La parole est à Mme la garde des sceaux, ministre de la justice. (Vives protestations et huées sur les bancs du groupe UMP. – Applaudissements sur les bancs des groupes SRC, écologiste et RRDP, les députés socialistes se levant.)</p>
 <p>Mes chers collègues, écoutez la réponse...</p>
 
@@ -161,7 +161,7 @@
 <sp who="Christiane_Taubira">
   <speaker>Christiane Taubira, garde des sceaux, ministre de la justice.</speaker>
 
-<mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_1"  gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_1"  gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="mpt">
   <p>Je vous rappelle, monsieur le député, que parmi les principes d'ordre public du droit français se trouve le principe d'indisponibilité du corps humain,...</p>
 
 </mpt:metadata>
@@ -171,7 +171,7 @@
 <sp who="Philippe_Gosselin">
   <speaker>Philippe Gosselin</speaker>
 
-<mpt:metadata auteur="Philippe_Gosselin" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Philippe_Gosselin" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> Vous le trahissez !</p>
 
 </mpt:metadata>
@@ -181,7 +181,7 @@
 <sp who="Christiane_Taubira">
   <speaker>Christiane Taubira, garde des sceaux.</speaker>
 
-<mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="mpt">
   <p>...qui est inscrit à l'article 16 du code civil. Le Gouvernement s'est déjà prononcé sur ce point et vous me fournissez l'occasion de réaffirmer formellement ici qu'il est absolument opposé à la gestation pour autrui et n'ouvrira pas un tel droit. <mpt:interruption type="Exclamations" text="Exclamations sur de nombreux bancs des groupes UMP et UDI. – Applaudissements sur de nombreux bancs du groupe SRC."/></p>
 
 </mpt:metadata>
@@ -191,7 +191,7 @@
 <sp who="Philippe_Gosselin">
   <speaker>Philippe Gosselin</speaker>
 
-<mpt:metadata auteur="Philippe_Gosselin" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Philippe_Gosselin" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> La circulaire dit le contraire !</p>
 
 </mpt:metadata>
@@ -201,7 +201,7 @@
 <sp who="Christiane_Taubira">
   <speaker>Christiane Taubira, garde des sceaux.</speaker>
 
-<mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="mpt">
   <p>La Cour de cassation, par trois arrêts datant d'avril 2011, a confirmé ce principe d'indisponibilité du corps humain, le Président de la République l'a réaffirmé, de même que le Premier ministre.</p>
 
 </mpt:metadata>
@@ -211,7 +211,7 @@
 <sp who="De_nombreux_députés_des_groupes_UMP_et_UDI">
   <speaker>De nombreux députés des groupes UMP et UDI</speaker>
 
-<mpt:metadata auteur="De_nombreux_députés_des_groupes_UMP_et_UDI" interventiontype="interruption"        debat="qag" subject="qag">
+<mpt:metadata auteur="De_nombreux_députés_des_groupes_UMP_et_UDI" interventiontype="interruption"        debat="qag" subject="mpt">
   <p> Pourquoi la circulaire ?</p>
 
 </mpt:metadata>
@@ -221,7 +221,7 @@
 <sp who="Christiane_Taubira">
   <speaker>Christiane Taubira, garde des sceaux.</speaker>
 
-<mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="mpt">
   <p>J'ai moi-même indiqué le 16 janvier devant la commission des lois que nous ne tolérerions pas la moindre éraflure à ce principe d'indisponibilité du corps humain.</p>
 
 </mpt:metadata>
@@ -231,7 +231,7 @@
 <sp who="De_nombreux_députés_des_groupes_UMP_et_UDI_">
   <speaker>De nombreux députés des groupes UMP et UDI </speaker>
 
-<mpt:metadata auteur="De_nombreux_députés_des_groupes_UMP_et_UDI_" interventiontype="interruption"        debat="qag" subject="qag">
+<mpt:metadata auteur="De_nombreux_députés_des_groupes_UMP_et_UDI_" interventiontype="interruption"        debat="qag" subject="mpt">
   <p>Et la circulaire ?</p>
 
 </mpt:metadata>
@@ -241,7 +241,7 @@
 <sp who="Christiane_Taubira">
   <speaker>Christiane Taubira, garde des sceaux.</speaker>
 
-<mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="mpt">
   <p>Les enfants concernés par la circulaire étaient au nombre de onze en 2012, de quarante-quatre entre 2008 et 2011. Cette circulaire porte, non pas sur l'état-civil, mais sur le constat de nationalité. <mpt:interruption type="« Non ! »" text="« Non ! » sur de nombreux bancs des groupes UMP et UDI."/> La filiation de ces enfants est établie par document probant. Les juridictions délivrant le certificat de nationalité française dans certains cas et non dans d'autres, j'ai demandé aux greffiers en chef, étant donné que ce certificat de nationalité française est dû (Vives protestations sur de nombreux bancs des groupes UMP et UDI), de veiller à ce que, conformément à votre souci de l'intérêt supérieur des enfants (Nouvelles protestations sur les bancs des groupes UMP et UDI), dans une République qui veille à l'égalité, la justice traite les enfants de la même façon sur l'ensemble du territoire et leur délivre ce certificat de nationalité. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC, écologiste, RRDP et GDR, les députés des groupes SRC et écologiste se levant. – Huées sur les bancs des groupes UMP et UDI."/></p>
 
 </mpt:metadata>
@@ -251,7 +251,7 @@
 <sp who="De_nombreux_députés_du_groupe_UMP">
   <speaker>De nombreux députés du groupe UMP</speaker>
 
-<mpt:metadata auteur="De_nombreux_députés_du_groupe_UMP" interventiontype="interruption"        debat="qag" subject="qag">
+<mpt:metadata auteur="De_nombreux_députés_du_groupe_UMP" interventiontype="interruption"        debat="qag" subject="mpt">
   <p> Démission ! Démission !</p>
 
 </mpt:metadata>
@@ -261,7 +261,7 @@
 <sp who="Plusieurs_députés_du_groupe_SRC">
   <speaker>Plusieurs députés du groupe SRC</speaker>
 
-<mpt:metadata auteur="Plusieurs_députés_du_groupe_SRC" interventiontype="interruption"        debat="qag" subject="qag">
+<mpt:metadata auteur="Plusieurs_députés_du_groupe_SRC" interventiontype="interruption"        debat="qag" subject="mpt">
   <p> Voyous !</p>
 
 </mpt:metadata>
@@ -271,7 +271,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="qag">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="mpt">
   <p> Soyez conscients, mes chers collègues, de l'image que nous donnons. Vous avez eu la réponse à votre question.</p>
 
 </mpt:metadata>
@@ -281,7 +281,7 @@
 <sp who="Yves_Fromion">
   <speaker>Yves Fromion</speaker>
 
-<mpt:metadata auteur="Yves_Fromion" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Yves_Fromion" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> C'est de l'hypocrisie, c'est scandaleux !</p>
 </mpt:metadata></sp>
 </div>
@@ -363,7 +363,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="qag">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="mpt">
   <p> La parole est à M. Jean-Christophe Fromantin, pour le groupe Union des démocrates et indépendants.</p>
 
 </mpt:metadata>
@@ -373,7 +373,7 @@
 <sp who="Jean-Christophe_Fromantin">
   <speaker>Jean-Christophe Fromantin</speaker>
 
-<mpt:metadata auteur="Jean-Christophe_Fromantin" interventiontype="intervention" politicalgroup="UDI" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_4" vote="contre" gender="male" politicalgender="UDI_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Jean-Christophe_Fromantin" interventiontype="intervention" politicalgroup="UDI" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_4" vote="contre" gender="male" politicalgender="UDI_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> Monsieur le Premier ministre, le groupe UDI souhaite revenir sur la circulaire Taubira, qui vient d'être évoquée, afin de vous offrir l'opportunité de clarifier vos positions.</p>
 <p>Le premier point qui nous a surpris et choqués, c'est que la loi française relative aux mères porteuses et à la GPA n'est nulle part rappelée dans cette circulaire. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes UDI et UMP."/> Le sujet est d'autant plus sensible que nous sommes en pleine discussion sur le mariage et l'adoption pour les couples homosexuels.</p>
 <p>Le second point, qui s'inscrit également dans le cadre de ce projet sur le mariage pour tous – dont nous avons discuté hier pendant plusieurs heures dans une relative sérénité –, c'est que les questions essentielles qui sous-tendent nos débats sont celles de l'adoption, de la PMA et de la GPA. Nous avons donc besoin d'une clarification de votre part.</p>
@@ -386,7 +386,7 @@
 <sp who="Michel_Ménard">
   <speaker>Michel Ménard</speaker>
 
-<mpt:metadata auteur="Michel_Ménard" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Michel_Ménard" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="qag" subject="mpt">
   <p> Vous êtes de mauvaise foi !</p>
 
 </mpt:metadata>
@@ -396,7 +396,7 @@
 <sp who="Jean-Christophe_Fromantin">
   <speaker>Jean-Christophe Fromantin</speaker>
 
-<mpt:metadata auteur="Jean-Christophe_Fromantin" interventiontype="intervention" politicalgroup="UDI"  vote="contre" gender="male" politicalgender="UDI_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Jean-Christophe_Fromantin" interventiontype="intervention" politicalgroup="UDI"  vote="contre" gender="male" politicalgender="UDI_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> Celle-ci est en effet un signal très clair adressé aux familles qui souhaitent recourir à ce type de méthodes, car elle les encourage à se rendre à l'étranger pour avoir recours à la gestation pour autrui.</p>
 <p>Monsieur le Premier ministre, nous avons besoin de cette double précision. Nous vous demandons expressément de nous l'apporter personnellement et solennellement dans cet hémicycle, cet après-midi. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes UDI et UMP."/></p>
 
@@ -407,7 +407,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="qag">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="mpt">
   <p> La parole est à Mme la garde des sceaux, ministre de la justice. (Vives protestations sur les bancs des groupes UMP et UDI.)</p>
 <p>Mes chers collègues, c'est le Gouvernement qui désigne le ministre chargé de répondre à vos questions.</p>
 <p>Vous avez la parole, madame la garde des sceaux. <mpt:interruption type="« Démission ! Démission ! »" text="« Démission ! Démission ! » sur plusieurs bancs du groupe UMP."/></p>
@@ -419,7 +419,7 @@
 <sp who="Christiane_Taubira">
   <speaker>Christiane Taubira,garde des sceaux, ministre de la justice.</speaker>
 
-<mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_5"  gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_5"  gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="mpt">
   <p>Monsieur le député, il me faudra faire quelques efforts pour m'habituer à la nécessité de répéter constamment les mêmes réponses aux mêmes questions. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
@@ -429,7 +429,7 @@
 <sp who="Plusieurs_députés_des_groupes_UMP_et_UDI">
   <speaker>Plusieurs députés des groupes UMP et UDI</speaker>
 
-<mpt:metadata auteur="Plusieurs_députés_des_groupes_UMP_et_UDI" interventiontype="interruption"        debat="qag" subject="qag">
+<mpt:metadata auteur="Plusieurs_députés_des_groupes_UMP_et_UDI" interventiontype="interruption"        debat="qag" subject="mpt">
   <p> Référendum !</p>
 
 </mpt:metadata>
@@ -439,7 +439,7 @@
 <sp who="Christiane_Taubira">
   <speaker>Christiane Taubira,garde des sceaux.</speaker>
 
-<mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="mpt">
   <p>Mais cela permet au moins de démontrer la constance du Gouvernement et la rectitude de ses positions.</p>
 <p>Je rappelle simplement que la circulaire s'adresse aux greffiers en chef et qu'elle concerne un acte administratif. <mpt:interruption type="« Non ! »" text="« Non ! » sur les bancs des groupes UMP et UDI."/></p>
 
@@ -450,7 +450,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="qag">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="mpt">
   <p> Mes chers collègues, écoutez la réponse de Mme la ministre, s'il vous plaît !</p>
 
 </mpt:metadata>
@@ -460,7 +460,7 @@
 <sp who="Christiane_Taubira">
   <speaker>Christiane Taubira,garde des sceaux.</speaker>
 
-<mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="mpt">
   <p>Il ne s'agit pas d'un acte judiciaire. Cet acte administratif est fondé sur des documents établis sur la base du droit. Aussi suis-je étonnée que des législateurs, dont d'anciens ministres, familiers de la hiérarchie des normes, accoutumés à nos dispositifs juridiques et judiciaires, y compris de contestation, organisent délibérément l'amalgame, la confusion et le désarroi. Cela ne marchera pas souvent ! Cela ne marchera pas longtemps ! <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC et écologiste. – « Répondez à la question ! » sur les bancs des groupes UMP et UDI."/></p>
 <p>Je me suis exprimée sur cette circulaire le 16 janvier : vous vous réveillez bien tard ! <mpt:interruption type="Exclamations" text="Exclamations prolongées sur les bancs du groupe UMP."/> Ceux qui étaient présents ont pu entendre très clairement la position du Gouvernement,...</p>
 
@@ -471,7 +471,7 @@
 <sp who="Philippe_Gosselin">
   <speaker>Philippe Gosselin</speaker>
 
-<mpt:metadata auteur="Philippe_Gosselin" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Philippe_Gosselin" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> Non !</p>
 
 </mpt:metadata>
@@ -481,7 +481,7 @@
 <sp who="Christiane_Taubira">
   <speaker>Christiane Taubira,garde des sceaux.</speaker>
 
-<mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="mpt">
   <p>...au sujet de l'amendement qu'il a rejeté. Quant à ceux qui étaient absents, ils savent que la splendeur de votre maison consiste à retenir tous les propos qui y ont été prononcés.</p>
 
 </mpt:metadata>
@@ -491,7 +491,7 @@
 <sp who="Bernard_Roman">
   <speaker>Bernard Roman</speaker>
 
-<mpt:metadata auteur="Bernard_Roman" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Bernard_Roman" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="qag" subject="mpt">
   <p> Nous avons le procès-verbal !</p>
 
 </mpt:metadata>
@@ -501,7 +501,7 @@
 <sp who="Christiane_Taubira">
   <speaker>Christiane Taubira,garde des sceaux.</speaker>
 
-<mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="mpt">
   <p>Le Gouvernement reste opposé à la GPA. Nous vous le répéterons aussi souvent que nécessaire. Cette circulaire concerne onze enfants pour l'année 2012. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC, écologiste, GDR et RRDP. – Protestations sur les bancs des groupes UMP et UDI."/></p>
 </mpt:metadata></sp>
 </div>
