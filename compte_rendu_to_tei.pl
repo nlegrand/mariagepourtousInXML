@@ -39,6 +39,8 @@ sub clean_entities {
 sub tag_interruption {
     my $string = shift @_;
     $$string =~ s/\((?:Vives |Nouvelles ){0,1}(«.*?»|Applaudissements|Mêmes mouvements|Exclamations|Protestations|Les députés|Sourires|Rires|Murmures)(.*?)\)/<mpt:interruption type="$1" text="$1$2"\/>/g;
+    $$string =~ s/([\w0-9]+)<sup>(.*?)<\/sup>/<w>$1<hi rend="sup">$2<\/hi><\/w>/g;
+    $$string =~ s/(aujourd'hui)/<w>$1<\/w>/ig;
 #    $$string =~ s/\((Applaudissements)(.*?)\)/<mpt:interruption type="$1" text="$1$2"\/>/g;
 }
 
@@ -79,18 +81,18 @@ sub print_body {
 		}
 		if ($deputes_id->{$intervenant_id}{'sexe'}) {
 		    if ($deputes_id->{$intervenant_id}{'sexe'} eq 'H') {
-			$genre="genre=\"homme\"";
+			$genre="homme";
 		    } elsif ($deputes_id->{$intervenant_id}{'sexe'} eq 'F') {
-			$genre="genre=\"femme\"";
+			$genre="femme";
 		    }
 		}
 	    } elsif ($intervenant =~ /Taubira/i) {
-		$genre="genre=\"femme\"";
-		$political_group = "politicalgroup=\"GVT\"";
+		$genre="femme";
+		$political_group = "GVT";
 		$intervenant = "Christiane Taubira"
 	    } elsif ($intervenant =~ /Bertinotti/i) {
-		$genre="genre=\"femme\"";
-		$political_group = "politicalgroup=\"GVT\"";
+		$genre="femme";
+		$political_group = "GVT";
 		$intervenant = "Dominique Bertinotti"
 	    }
 	    if ($intervenant =~ /président/) {
@@ -106,9 +108,8 @@ sub print_body {
 	    }
 	    if ($intervention_type && $intervenant_id) {
 		if ($deputes_id->{$intervenant_id}{'groupe'}) {
-		    $political_group = "politicalgroup=\""
-			. encode("utf8", $deputes_id->{$intervenant_id}{'groupe'})
-			. "\"";
+		    $political_group =
+			encode("utf8", $deputes_id->{$intervenant_id}{'groupe'}) ;
 		    $vote = "vote=\""
 			. encode("utf8", $deputes_id->{$intervenant_id}{'vote'})
 			. "\"";
@@ -129,7 +130,23 @@ sub print_body {
 	    $who =~ s/ /_/g;
 	    print "\n<sp who=\"$who\">\n";
 	    print "  <speaker>$intervenant$titre</speaker>\n";
-	    print "\n<mpt:metadata auteur=\"$who\" typedintervention=\"$intervention_type\" $political_group $intervention_id $vote $genre>\n";
+	    my $att_political = "";
+	    my $att_gender = "";
+	    my $att_political_gender = "";
+	    if ($political_group) {
+		$att_political = "politicalgroup=\"$political_group\"";
+	    }
+	    if ($genre) {
+		$att_gender = "gender=\"$genre\"";
+	    }
+	    if ($genre && $political_group) {
+		$att_political_gender = "politicalgender=\""
+		    . $political_group
+		    . "_"
+		    . $genre
+		    . "\"";
+	    }
+	    print "\n<mpt:metadata auteur=\"$who\" typedintervention=\"$intervention_type\" $att_political $intervention_id $vote $att_gender $att_political_gender>\n";
 	    print "  <p>$intervention</p>\n";
 	} elsif (m!^<p>(.*?)</p>!) {
 	    my $para = encode("utf-8", $1) ;
