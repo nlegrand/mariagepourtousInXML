@@ -44,6 +44,9 @@ $(XMLDIR)%.xml: $(HTMLDIR)%.asp compte_rendu_to_tei.pl
 $(TXTDIR)%.txt: $(XMLDIR)%.xml
 	xsltproc xmltei_to_plaintext.xsl $< > $@
 
+warning:
+	@echo This makefile should not be used anymore unless you know what you do
+
 all: $(CRANMPT:%=$(XMLDIR)%.xml) $(TXTDIR)tout.txt $(GEXFDIR)/mpt.gexf
 
 $(TXTDIR)tout.txt: $(CRANMPT:%=$(TXTDIR)%.txt)
