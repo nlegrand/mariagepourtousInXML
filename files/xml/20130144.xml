@@ -2353,11 +2353,14 @@
 </mpt:metadata>
 
 </sp>
+</div>
 
+<div>
+<head>Coprésidence paritaire</head>
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="other" subject="other">
   <p> L'ordre du jour appelle les explications de vote et le vote par scrutin public sur la proposition de résolution tendant à modifier le règlement de l'Assemblée nationale afin d'instaurer la faculté pour les groupes politiques de se doter d'une coprésidence paritaire (<w>n<hi rend="sup">os</hi></w> 484, 651).</p>
 <p></p>
 </mpt:metadata></sp>
@@ -2370,7 +2373,7 @@
 <sp who="le_président_">
   <speaker>le président </speaker>
 
-<mpt:metadata auteur="le_président_" interventiontype="régulation"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="le_président_" interventiontype="régulation"        debat="other" subject="other">
   <p>Dans les explications de vote, la parole est à Mme Barbara Pompili pour le groupe Écologiste.</p>
 
 </mpt:metadata>
@@ -2380,7 +2383,7 @@
 <sp who="Barbara_Pompili">
   <speaker>Barbara Pompili</speaker>
 
-<mpt:metadata auteur="Barbara_Pompili" interventiontype="intervention" politicalgroup="ECOLO" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130144.asp#INTER_40" vote="pour" gender="female" politicalgender="ECOLO_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Barbara_Pompili" interventiontype="intervention" politicalgroup="ECOLO" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130144.asp#INTER_40" vote="pour" gender="female" politicalgender="ECOLO_female" wing="left" winggender="left_female" debat="other" subject="other">
   <p> Monsieur le Président, monsieur le ministre délégué chargé des relations avec le Parlement, mes chers collègues, il est difficile, après un moment aussi fort, de passer à la suite. <mpt:interruption type="Murmures" text="Murmures sur les bancs du groupe UMP."/> Nous allons tout de même continuer à parler d'égalité.</p>
 <p>J'ai l'honneur – car c'en est réellement un – de vous appeler à voter la proposition de résolution déposée par l'ensemble des députés écologistes, qui vise à adapter le règlement de l'Assemblée à deux impératifs qui nous sont chers : la collégialité dans l'animation des groupes politiques et la parité.</p>
 <p>Reconnaissons-le, ce texte n'a pas la portée du texte précédent, nos travées dégarnies en sont la preuve. Nous nous apprêtons pourtant à modifier un document qui a souvent été brandi ces derniers jours. De quoi s'agit-il, et pourquoi voulons-nous donc changer le texte de ce petit livre violet devenu familier aux internautes qui ont suivi nos débats ?</p>
@@ -2395,7 +2398,7 @@
 <sp who="Régis_Juanico">
   <speaker>Régis Juanico</speaker>
 
-<mpt:metadata auteur="Régis_Juanico" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Régis_Juanico" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p> Des noms !</p>
 
 </mpt:metadata>
@@ -2405,7 +2408,7 @@
 <sp who="Barbara_Pompili">
   <speaker>Barbara Pompili</speaker>
 
-<mpt:metadata auteur="Barbara_Pompili" interventiontype="intervention" politicalgroup="ECOLO"  vote="pour" gender="female" politicalgender="ECOLO_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Barbara_Pompili" interventiontype="intervention" politicalgroup="ECOLO"  vote="pour" gender="female" politicalgender="ECOLO_female" wing="left" winggender="left_female" debat="other" subject="other">
   <p> Eh bien j'engage M. Jean-Christophe Lagarde – qui n'est pas présent – à discuter avec Mme Sonia Lagarde – la seule femme députée de son groupe – non pour régler une question de ménage, comme il dit, mais pour prendre un peu en compte son avis, qu'elle a courageusement exprimé au cours de nos débats, et en fonction duquel elle soutient ce texte. Mme Lagarde a en effet bien compris que c'est avec de petites avancées qu'on facilitera progressivement, pour les femmes et pour les personnes jeunes, l'accès à de réelles responsabilités politiques.</p>
 <p>Nos débats en commission puis dans l'hémicycle nous ont permis de répondre aux objections légitimes qui avaient pu naître ici ou là : faire de cette ambition de la collégialité et de la parité assurées une règle conforme à notre règlement, sans la rendre unique et obligatoire pour tous, bref, inscrire l'innovation dans notre fonctionnement. C'est cela que nous allons faire <w>aujourd'hui</w>.</p>
 <p>Cette volonté de changer concrètement les règles de la vie politique se traduit dans de nombreuses décisions mises en œuvre par la majorité présidentielle : composition paritaire du Gouvernement, efforts de transparence sur les revenus et les moyens de fonctionnement des élus, réforme de la réserve parlementaire, désormais équitable et bientôt transparente.</p>
@@ -2421,7 +2424,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="other" subject="other">
   <p> La parole est à Mme Dominique Orliac, pour le groupe Radical, républicain, démocrate et progressiste.</p>
 
 </mpt:metadata>
@@ -2431,7 +2434,7 @@
 <sp who="Dominique_Orliac">
   <speaker>Dominique Orliac</speaker>
 
-<mpt:metadata auteur="Dominique_Orliac" interventiontype="intervention" politicalgroup="RRDP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130144.asp#INTER_41" vote="pour" gender="female" politicalgender="RRDP_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Dominique_Orliac" interventiontype="intervention" politicalgroup="RRDP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130144.asp#INTER_41" vote="pour" gender="female" politicalgender="RRDP_female" wing="left" winggender="left_female" debat="other" subject="other">
   <p> Monsieur le président, monsieur le ministre, madame la rapporteure, mes chers collègues, proposer la modification du règlement de notre assemblée n'est jamais une démarche anodine. S'il en était besoin, l'importance du règlement s'est rappelée à nous au cours des débats qui ont eu lieu dans l'hémicycle ces quinze derniers jours. Brandi lorsqu'il s'agit de revenir au bon déroulement des débats, utilisé pour savoir avec précision quelles sont les prérogatives de l'un ou l'autre des organes qui animent notre assemblée, examiné après chaque modification par le Conseil constitutionnel pour en apprécier la conformité avec la Constitution, le règlement est évidemment la pièce essentielle sur laquelle reposent l'organisation et le fonctionnement de notre institution.</p>
 <p>Cette pièce doit cependant évoluer, comme elle peut contribuer à faire évoluer les autres textes qui régissent nos institutions. Les groupes parlementaires ont pour la première fois été reconnus et institutionnalisés dans notre règlement en 1910, alors qu'il s'agissait de régler le problème crucial de la composition des commissions permanentes. Les groupes parlementaires ne se doteront d'un statut constitutionnel qu'en 1946, pour le perdre en 1958, et le retrouver un demi-siècle plus tard, à la faveur de la réforme constitutionnelle de 2008.</p>
 <p>Les groupes parlementaires sont la condition sine qua non de la représentation démocratique qui incombe aux assemblées parlementaires. Ils permettent, par le regroupement qu'ils opèrent des élus partageant la même sensibilité, de rendre plausible l'adoption ou le rejet d'un texte avant que le scrutin ait lieu. Ce qui est un gage de transparence dans l'acte de représentation et l'assurance d'une efficacité accrue dans l'action publique.</p>
@@ -2446,7 +2449,7 @@
 <sp who="Lionel_Tardy">
   <speaker>Lionel Tardy</speaker>
 
-<mpt:metadata auteur="Lionel_Tardy" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Lionel_Tardy" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p> Ce n'est pas le rôle du règlement de servir de soupape !</p>
 
 </mpt:metadata>
@@ -2456,7 +2459,7 @@
 <sp who="Dominique_Orliac">
   <speaker>Dominique Orliac</speaker>
 
-<mpt:metadata auteur="Dominique_Orliac" interventiontype="intervention" politicalgroup="RRDP"  vote="pour" gender="female" politicalgender="RRDP_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Dominique_Orliac" interventiontype="intervention" politicalgroup="RRDP"  vote="pour" gender="female" politicalgender="RRDP_female" wing="left" winggender="left_female" debat="other" subject="other">
   <p> ...et permettre d'éviter la scission d'un groupe en installant à sa tête deux coprésidents qui partageraient ainsi les responsabilités qui leurs échoient. Si elle avait trouvé à s'appliquer il y a quelques mois, le groupe UMP aurait peut-être échappé à la constitution du groupe RUMP.</p>
 <p>Pour cette raison, et dans la continuité de ce qu'avait déclaré notre collègue Alain Tourret en commission des lois, le groupe RRDP ne s'opposera pas à l'adoption de cette résolution, même s'il doute fortement de son applicabilité.</p>
 <p>L'expérience menée par le groupe écologiste est intéressante, je le répète, mais l'empirisme a des limites, surtout dans cette enceinte : si une modification du règlement peut aider le groupe écologiste à mieux fonctionner, sans nuire à l'organisation des autres, alors pourquoi pas ?</p>
@@ -2468,7 +2471,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="other" subject="other">
   <p> La parole est à M. Marc Dolez, pour le groupe de la gauche démocrate et républicaine.</p>
 
 </mpt:metadata>
@@ -2478,7 +2481,7 @@
 <sp who="Marc_Dolez">
   <speaker>Marc Dolez</speaker>
 
-<mpt:metadata auteur="Marc_Dolez" interventiontype="intervention" politicalgroup="GDR" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130144.asp#INTER_42" vote="pour" gender="male" politicalgender="GDR_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Marc_Dolez" interventiontype="intervention" politicalgroup="GDR" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130144.asp#INTER_42" vote="pour" gender="male" politicalgender="GDR_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p> Monsieur le président, monsieur le ministre, chers collègues, notre groupe est engagé depuis longtemps dans le combat pour l'égalité réelle entre les hommes et les femmes. Il comprend donc l'esprit de ce texte, qui propose d'offrir aux groupes qui le souhaitent la possibilité de se doter d'une coprésidence constituée d'un homme et d'une femme. Si nous comprenons aussi le souhait des auteurs de la proposition de faire reconnaître pleinement la coprésidence de leur groupe, nous estimons cependant qu'il n'est ni nécessaire, ni opportun, de modifier le règlement de notre assemblée.</p>
 
 </mpt:metadata>
@@ -2488,7 +2491,7 @@
 <sp who="Lionel_Tardy">
   <speaker>Lionel Tardy</speaker>
 
-<mpt:metadata auteur="Lionel_Tardy" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Lionel_Tardy" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p> et M. Philippe Cochet. Bravo !</p>
 
 </mpt:metadata>
@@ -2498,7 +2501,7 @@
 <sp who="Marc_Dolez">
   <speaker>Marc Dolez</speaker>
 
-<mpt:metadata auteur="Marc_Dolez" interventiontype="intervention" politicalgroup="GDR"  vote="pour" gender="male" politicalgender="GDR_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Marc_Dolez" interventiontype="intervention" politicalgroup="GDR"  vote="pour" gender="male" politicalgender="GDR_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p> Les exemples qui ont été avancés, celui du Bundestag et celui du Parlement européen, sont probants à cet égard, puisque les coprésidences n'y sont pas nécessairement paritaires et ne résultent pas d'une modification du règlement de ces assemblées, mais d'une convention.</p>
 <p>Nous considérons également, comme l'a excellemment démontré le président de la commission des lois, qu'il n'appartient pas au règlement de l'Assemblée nationale de régir le fonctionnement interne des groupes, prolongements des partis politiques, dont l'indépendance et la liberté sont garantis par la Constitution. Nous craignons enfin que, dans la pratique, la coprésidence d'un groupe ne constitue immanquablement une source de dysfonctionnement, des droits spécifiques et des prérogatives étant accordés aux présidents de groupes.</p>
 <p>Le texte propose, certes, de présumer l'accord entre les deux coprésidents et de privilégier le règlement politique d'éventuels différends, l'accord conjoint n'étant requis que pour l'adhésion, l'apparentement ou la radiation du groupe. Il n'en est pas moins probable que des désaccords entre coprésidents auraient des conséquences directes sur le fonctionnement de l'Assemblée nationale.</p>
@@ -2511,7 +2514,7 @@
 <sp who="Nicolas_Sansu">
   <speaker>Nicolas Sansu</speaker>
 
-<mpt:metadata auteur="Nicolas_Sansu" interventiontype="interruption" politicalgroup="GDR"  vote="pour" gender="male" politicalgender="GDR_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Nicolas_Sansu" interventiontype="interruption" politicalgroup="GDR"  vote="pour" gender="male" politicalgender="GDR_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p> Très bien !</p>
 
 </mpt:metadata>
@@ -2521,7 +2524,7 @@
 <sp who="Franck_Gilard">
   <speaker>Franck Gilard</speaker>
 
-<mpt:metadata auteur="Franck_Gilard" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Franck_Gilard" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p> C'est très dur !</p>
 
 </mpt:metadata>
@@ -2531,7 +2534,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="other" subject="other">
   <p> Le scrutin est annoncé dans l'enceinte de l'Assemblée nationale.</p>
 <p>La parole est à M. Dominique Raimbourg pour le groupe socialiste, républicain et citoyen.</p>
 
@@ -2542,7 +2545,7 @@
 <sp who="Dominique_Raimbourg">
   <speaker>Dominique Raimbourg</speaker>
 
-<mpt:metadata auteur="Dominique_Raimbourg" interventiontype="intervention" politicalgroup="SRC" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130144.asp#INTER_43" vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Dominique_Raimbourg" interventiontype="intervention" politicalgroup="SRC" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130144.asp#INTER_43" vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p> Monsieur le président, mes chers collègues, après avoir un peu hésité, le groupe SRC va finalement voter pour cette proposition de résolution.</p>
 <p>Si nous avons hésité, c'est parce que nous nourrissions plusieurs craintes. La première était que cette proposition, par le poids idéologique que représente le thème de la parité, ne s'impose avec force à tous. La deuxième crainte était évidemment celle de l'excès de réglementation. La troisième, c'était de voir, comme l'a dit notre collègue Marc Dolez, l'Assemblée nationale imposer sa loi aux groupes politiques. La quatrième crainte, enfin, nous était plus personnelle. Les groupes politiques sont des appareils fragiles, qui comptent une majorité, une minorité et des sensibilités différentes, et nous avons craint, pendant un moment, qu'une présidence collégiale ne nous amène à une cohabitation entre un courant majoritaire et un courant minoritaire.</p>
 <p>Puis, la réflexion aidant, nous avons abouti à d'autres considérations. Nous avons d'abord remarqué que ce texte constitue une avancée incontestable en matière de parité – et nous avons bien besoin de ce type d'avancées. Il constitue également une avancée en matière de direction collégiale. Or, dans une <w>V<hi rend="sup">e</hi></w> République où le Président de la République a tendance à concentrer beaucoup de pouvoir entre ses mains, c'est une bonne chose d'expérimenter des modes de direction collégiaux. L'examen du texte nous a démontré, enfin, que celui-ci n'avait pas de caractère obligatoire, qu'il s'agissait d'une résolution et qu'il exprimait seulement un souhait, celui de nous voir avancer, en donnant à chaque groupe politique la possibilité de faire, ou non, un pas en avant, et même de le différer dans le temps.</p>
@@ -2555,7 +2558,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="other" subject="other">
   <p> La parole est à M. Lionel Tardy, pour le groupe de l'Union pour un mouvement populaire.</p>
 
 </mpt:metadata>
@@ -2565,7 +2568,7 @@
 <sp who="Lionel_Tardy">
   <speaker>Lionel Tardy</speaker>
 
-<mpt:metadata auteur="Lionel_Tardy" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130144.asp#INTER_44" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Lionel_Tardy" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130144.asp#INTER_44" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p> Monsieur le président, vous m'excuserez de ne pas monter à la tribune, mais franchement, ce texte n'en vaut pas la peine. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC."/></p>
 <p>La proposition de résolution sur laquelle nous sommes appelés à nous prononcer cet après-midi vise à modifier le règlement de l'Assemblée nationale, afin de permettre aux groupes politiques de se doter d'une coprésidence. C'est un texte d'affichage, qui est mal ficelé juridiquement, mais qui offre une belle exposition médiatique, puisqu'il paraît promouvoir la parité.</p>
 
@@ -2576,7 +2579,7 @@
 <sp who="Henri_Jibrayel">
   <speaker>Henri Jibrayel</speaker>
 
-<mpt:metadata auteur="Henri_Jibrayel" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Henri_Jibrayel" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p> Vous n'avez aucun respect pour la République !</p>
 
 </mpt:metadata>
@@ -2586,7 +2589,7 @@
 <sp who="Lionel_Tardy">
   <speaker>Lionel Tardy</speaker>
 
-<mpt:metadata auteur="Lionel_Tardy" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Lionel_Tardy" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p> Il n'y a là rien d'étonnant, venant du groupe écologiste, qui s'est fait une spécialité de ce genre de proposition. Ce texte, le premier du groupe écologiste examiné à l'Assemblée nationale, donne une bonne idée des priorités de ce groupe, alors que nous sommes en pleine crise économique.</p>
 
 </mpt:metadata>
@@ -2596,7 +2599,7 @@
 <sp who="Michel_Vergnier">
   <speaker>Michel Vergnier</speaker>
 
-<mpt:metadata auteur="Michel_Vergnier" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Michel_Vergnier" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p> Goujat !</p>
 
 </mpt:metadata>
@@ -2606,7 +2609,7 @@
 <sp who="Lionel_Tardy">
   <speaker>Lionel Tardy</speaker>
 
-<mpt:metadata auteur="Lionel_Tardy" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Lionel_Tardy" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p> Ce qui nous a surpris, sur les bancs de l'opposition, c'est la position du groupe socialiste.</p>
 
 </mpt:metadata>
@@ -2616,7 +2619,7 @@
 <sp who="Chaynesse_Khirouni">
   <speaker>Chaynesse Khirouni</speaker>
 
-<mpt:metadata auteur="Chaynesse_Khirouni" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="female" politicalgender="SRC_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Chaynesse_Khirouni" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="female" politicalgender="SRC_female" wing="left" winggender="left_female" debat="other" subject="other">
   <p> Regardez le nombre de femmes sur vos bancs !</p>
 
 </mpt:metadata>
@@ -2626,7 +2629,7 @@
 <sp who="Lionel_Tardy">
   <speaker>Lionel Tardy</speaker>
 
-<mpt:metadata auteur="Lionel_Tardy" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Lionel_Tardy" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p> Après avoir rejeté ce texte en commission sans la moindre hésitation, il annonce finalement en séance, par une volte-face inattendue, qu'il votera ce texte. Chercher la cohérence dans ce vote est sans doute inutile, car il n'y en a pas.</p>
 <p>Le vote de ce texte est seulement le résultat d'une négociation de couloir et de la stratégie du donnant-donnant : le groupe majoritaire a baissé pavillon face à un allié turbulent, pour mieux retoquer, dans la même journée, le texte relatif à l'application du principe de précaution aux ondes électromagnétiques, ce dont nous nous félicitons du reste, tant ce texte était, lui aussi, mal ficelé.</p>
 
@@ -2637,7 +2640,7 @@
 <sp who="Henri_Jibrayel">
   <speaker>Henri Jibrayel</speaker>
 
-<mpt:metadata auteur="Henri_Jibrayel" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Henri_Jibrayel" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p> Provocateur !</p>
 
 </mpt:metadata>
@@ -2647,7 +2650,7 @@
 <sp who="Lionel_Tardy">
   <speaker>Lionel Tardy</speaker>
 
-<mpt:metadata auteur="Lionel_Tardy" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Lionel_Tardy" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p> Depuis le début de cette législature, on se demande s'il y a un pilote dans l'avion. Avec ce texte, une fois encore, force est de constater que non.</p>
 <p>Mes chers collègues, la proposition de résolution qui est <w>aujourd'hui</w> soumise au vote est un texte bancal, très probablement non conforme à la Constitution, et qui n'était pas nécessaire : c'est le sens de l'argumentation, remarquablement développée en séance par le président de la commission des lois lui-même, et à laquelle le groupe UMP adhère totalement.</p>
 <p>Ce texte est certes rempli de bons sentiments et vise un objectif, la parité, que nous partageons,...</p>
@@ -2659,7 +2662,7 @@
 <sp who="Barbara_Pompili">
   <speaker>Barbara Pompili</speaker>
 
-<mpt:metadata auteur="Barbara_Pompili" interventiontype="interruption" politicalgroup="ECOLO"  vote="pour" gender="female" politicalgender="ECOLO_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Barbara_Pompili" interventiontype="interruption" politicalgroup="ECOLO"  vote="pour" gender="female" politicalgender="ECOLO_female" wing="left" winggender="left_female" debat="other" subject="other">
   <p> On en a la preuve en regardant vos bancs !</p>
 
 </mpt:metadata>
@@ -2669,7 +2672,7 @@
 <sp who="Lionel_Tardy">
   <speaker>Lionel Tardy</speaker>
 
-<mpt:metadata auteur="Lionel_Tardy" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Lionel_Tardy" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p> ...mais il est techniquement inopérant, et c'est finalement ne pas rendre service à la cause que l'on prétend faire avancer, que de présenter un texte aussi mal ficelé.</p>
 <p>Le groupe UMP votera donc contre ce texte d'affichage, essentiellement destiné à permettre à un groupe minoritaire de soigner son image. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe UMP."/></p>
 
@@ -2680,7 +2683,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="other" subject="other">
   <p> La parole est à Mme Sonia Lagarde, pour le groupe de l'Union des démocrates et indépendants.</p>
 
 </mpt:metadata>
@@ -2690,7 +2693,7 @@
 <sp who="Sonia_Lagarde">
   <speaker>Sonia Lagarde</speaker>
 
-<mpt:metadata auteur="Sonia_Lagarde" interventiontype="intervention" politicalgroup="UDI" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130144.asp#INTER_45" vote="pour" gender="female" politicalgender="UDI_female" wing="right" winggender="right_female" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Sonia_Lagarde" interventiontype="intervention" politicalgroup="UDI" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130144.asp#INTER_45" vote="pour" gender="female" politicalgender="UDI_female" wing="right" winggender="right_female" debat="other" subject="other">
   <p> Monsieur le président, monsieur le ministre, chers collègues, si certains ne veulent pas monter à la tribune, pour ma part, j'y monte avec beaucoup de conviction, croyez-moi. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes écologiste et SRC."/></p>
 <p>Il y a deux manières de lire le projet de résolution qui est <w>aujourd'hui</w> soumis au vote de notre assemblée. Derrière les apparences, celles d'une simple modification technique du règlement de notre Assemblée, c'est une question de fond qui se pose, celle de la parité, c'est-à-dire de la place des femmes dans le fonctionnement de notre institution parlementaire et, plus largement, de la place qui leur est faite dans la République.</p>
 <p>Ce qui est en jeu <w>aujourd'hui</w>, c'est de permettre aux groupes politiques constitués au sein de notre assemblée de se doter, à rebours des usages en vigueur, d'une coprésidence paritaire. Mais cette réforme renvoie en réalité à un débat de plus grande ampleur, celui de savoir s'il faut se contenter de proclamer l'égalité entre les hommes et les femmes, puis d'attendre patiemment l'avènement de la parité, ou s'il faut mobiliser toute la force de la loi pour hâter notre marche vers la complète réalisation de cet objectif.</p>
@@ -2702,7 +2705,7 @@
 <sp who="Laurence_Dumont">
   <speaker>Laurence Dumont</speaker>
 
-<mpt:metadata auteur="Laurence_Dumont" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="female" politicalgender="SRC_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Laurence_Dumont" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="female" politicalgender="SRC_female" wing="left" winggender="left_female" debat="other" subject="other">
   <p> Combien y a-t-il de femmes à l'UDI ?</p>
 
 </mpt:metadata>
@@ -2712,7 +2715,7 @@
 <sp who="Sonia_Lagarde">
   <speaker>Sonia Lagarde</speaker>
 
-<mpt:metadata auteur="Sonia_Lagarde" interventiontype="intervention" politicalgroup="UDI"  vote="pour" gender="female" politicalgender="UDI_female" wing="right" winggender="right_female" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Sonia_Lagarde" interventiontype="intervention" politicalgroup="UDI"  vote="pour" gender="female" politicalgender="UDI_female" wing="right" winggender="right_female" debat="other" subject="other">
   <p> À la question que je pose, le constituant a déjà répondu par deux fois, en 1999 et en 2008, lorsqu'il a inscrit dans notre loi fondamentale que « la loi favorise l'égal accès des femmes et des hommes aux mandats électoraux et aux fonctions électives, ainsi qu'aux responsabilités professionnelles et sociales ».</p>
 <p>Depuis 1999, les gouvernements et les majorités qui se sont succédé, quoique de sensibilités politiques différentes, ont poursuivi la mise en œuvre de dispositifs contraignants, destinés à permettre aux femmes de jouer enfin tout leur rôle, non seulement dans notre vie politique, mais aussi, plus récemment, dans les conseils d'administration des grandes entreprises et dans la haute fonction publique.</p>
 <p>Ce texte, qui s'inscrit dans leur sillage, a les défauts de ses qualités. Sa principale qualité, c'est qu'en faisant de la coprésidence paritaire une possibilité, il privilégie la souplesse et renvoie la question de la parité à la responsabilité de chaque groupe politique. Mais on sait, malheureusement, de quel côté penche la balance de certaines formations politiques, lorsque la parité relève d'un simple choix.</p>
@@ -2725,7 +2728,7 @@
 <sp who="Alain_Suguenot">
   <speaker>Alain Suguenot</speaker>
 
-<mpt:metadata auteur="Alain_Suguenot" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Alain_Suguenot" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p> On a fait le mariage !</p>
 
 </mpt:metadata>
@@ -2735,7 +2738,7 @@
 <sp who="Sonia_Lagarde">
   <speaker>Sonia Lagarde</speaker>
 
-<mpt:metadata auteur="Sonia_Lagarde" interventiontype="intervention" politicalgroup="UDI"  vote="pour" gender="female" politicalgender="UDI_female" wing="right" winggender="right_female" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Sonia_Lagarde" interventiontype="intervention" politicalgroup="UDI"  vote="pour" gender="female" politicalgender="UDI_female" wing="right" winggender="right_female" debat="other" subject="other">
   <p> En avons-nous fait assez, alors qu'il manque plus de cent femmes sur nos bancs pour que la représentation nationale soit réellement paritaire ? Le constat s'impose à nous de manière flagrante : en dépit d'avancées chèrement acquises, dont certaines ont été déterminantes, la stricte parité, l'égalité entre les femmes et les hommes, reste encore <w>aujourd'hui</w> à conquérir. Nous ne sommes que 26 % de femmes dans cet hémicycle, et la situation est encore pire au Sénat, puisqu'on ne compte que 22 % de sénatrices.</p>
 <p>Comme je l'ai déjà souligné dans une précédente intervention, ces chiffres attestent à la fois de la lente progression de la parité à l'Assemblée nationale – au rythme où nous allons, la parité ne serait effective que dans quinze ans –, mais surtout du travail qu'il nous reste à accomplir pour faire évoluer les mentalités.</p>
 <p>Cela étant dit, le groupe UDI regrette que cette proposition de résolution vise à régler un problème interne au groupe écologiste, comme nous l'a expliqué tout à l'heure Barbara Pompili.</p>
@@ -2747,7 +2750,7 @@
 <sp who="Jean-Luc_Reitzer">
   <speaker>Jean-Luc Reitzer</speaker>
 
-<mpt:metadata auteur="Jean-Luc_Reitzer" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Jean-Luc_Reitzer" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p> Eh oui !</p>
 
 </mpt:metadata>
@@ -2757,7 +2760,7 @@
 <sp who="Sonia_Lagarde">
   <speaker>Sonia Lagarde</speaker>
 
-<mpt:metadata auteur="Sonia_Lagarde" interventiontype="intervention" politicalgroup="UDI"  vote="pour" gender="female" politicalgender="UDI_female" wing="right" winggender="right_female" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Sonia_Lagarde" interventiontype="intervention" politicalgroup="UDI"  vote="pour" gender="female" politicalgender="UDI_female" wing="right" winggender="right_female" debat="other" subject="other">
   <p> C'est pour cette raison qu'une grande majorité de notre groupe ne participera pas au vote. Quant à moi, j'ai déjà eu l'occasion de m'exprimer ici sur ce sujet, et c'est avec une profonde conviction que je voterai en faveur de cette proposition de résolution, à la fois en tant que députée de la nation et en tant que femme qui ne renonce pas. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC, écologiste et sur quelques bancs du groupe UDI."/></p>
 
 </mpt:metadata>
@@ -2767,7 +2770,7 @@
 <sp who="Chaynesse_Khirouni">
   <speaker>Chaynesse Khirouni</speaker>
 
-<mpt:metadata auteur="Chaynesse_Khirouni" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="female" politicalgender="SRC_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Chaynesse_Khirouni" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="female" politicalgender="SRC_female" wing="left" winggender="left_female" debat="other" subject="other">
   <p> Bravo !</p>
 </mpt:metadata></sp>
 </div>
@@ -2779,7 +2782,7 @@
 <sp who="le_président_">
   <speaker>le président </speaker>
 
-<mpt:metadata auteur="le_président_" interventiontype="régulation"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="le_président_" interventiontype="régulation"        debat="other" subject="other">
   <p>Je vais maintenant mettre aux voix la proposition de résolution.</p>
 <p>(Il est procédé au scrutin.)</p>
 
@@ -2790,7 +2793,7 @@
 <sp who="le_président_">
   <speaker>le président </speaker>
 
-<mpt:metadata auteur="le_président_" interventiontype="régulation"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="le_président_" interventiontype="régulation"        debat="other" subject="other">
   <p>Voici le résultat du scrutin :</p>
 <p>Nombre de votants   388</p>
 <p>Nombre de suffrages exprimés   368</p>
@@ -2805,7 +2808,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="other" subject="other">
   <p> La séance est suspendue.</p>
 <p>(La séance, suspendue à dix-sept heures trente, est reprise à dix-sept heures trente-cinq.)</p>
 
@@ -2816,7 +2819,7 @@
 <sp who="le_président_">
   <speaker>le président </speaker>
 
-<mpt:metadata auteur="le_président_" interventiontype="régulation"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="le_président_" interventiontype="régulation"        debat="other" subject="other">
   <p>La séance est reprise.</p>
 <p></p>
 <p></p>
@@ -2828,7 +2831,7 @@
 <sp who="le_président_">
   <speaker>le président </speaker>
 
-<mpt:metadata auteur="le_président_" interventiontype="régulation"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="le_président_" interventiontype="régulation"        debat="other" subject="other">
   <p>L'ordre du jour appelle le dépôt du rapport annuel de la Cour des comptes.</p>
 <p>Je souhaite, en votre nom à tous, la bienvenue au Premier président de la Cour des comptes.</p>
 <p>Vous le savez, monsieur le Premier président, le contrôle et l'évaluation occupent une importance croissante dans nos activités. Les députés se sont particulièrement investis dans le suivi de l'exécution des lois de finances et de financement de la sécurité sociale.</p>
@@ -2840,7 +2843,7 @@
 <sp who="Dominique_Baert">
   <speaker>Dominique Baert</speaker>
 
-<mpt:metadata auteur="Dominique_Baert" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Dominique_Baert" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p> C'est vrai !</p>
 
 </mpt:metadata>
@@ -2850,7 +2853,7 @@
 <sp who="le_président_">
   <speaker>le président </speaker>
 
-<mpt:metadata auteur="le_président_" interventiontype="régulation"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="le_président_" interventiontype="régulation"        debat="other" subject="other">
   <p>Dans ces domaines, l'institution que vous présidez assiste le Parlement, selon les termes mêmes de la Constitution, et les commissions des finances et des affaires sociales, mais aussi le Comité d'évaluation et de contrôle, ne peuvent que se féliciter de travailler aussi régulièrement avec la Cour.</p>
 <p>Cette collaboration prend cette année une dimension particulière puisque désormais les comptes de l'Assemblée nationale seront certifiés par la Cour des comptes.</p>
 <p>Je me réjouis tout particulièrement de cette réforme décisive qui illustre une nouvelle fois, s'il en était besoin, notre souci constant de garantir la transparence de notre fonctionnement, et qui ouvre une nouvelle étape dans les relations privilégiées qu'entretiennent nos deux institutions.</p>
@@ -2866,7 +2869,7 @@
 <sp who="Didier_Migaud_">
   <speaker>Didier Migaud ,Premier président de la Cour des comptes. </speaker>
 
-<mpt:metadata auteur="Didier_Migaud_" interventiontype="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130144.asp#INTER_47"      debat="mpt" subject="mpt">
+<mpt:metadata auteur="Didier_Migaud_" interventiontype="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130144.asp#INTER_47"      debat="other" subject="other">
   <p>onsieur le président, j'ai l'honneur de vous présenter le rapport public annuel de la Cour des comptes, en application de l'article L. 143-6 du code des juridictions financières.</p>
 <p>Monsieur le président, monsieur le président de la commission des finances, monsieur le rapporteur général, mesdames et messieurs les députés, c'est pour moi un plaisir – et toujours un moment d'émotion – de présenter le rapport public annuel de la Cour des comptes à la représentation nationale.</p>
 <p>Ce rituel a des racines anciennes dans l'histoire du Parlement et de la Cour : il a été instauré en 1832. Il prend <w>aujourd'hui</w> un sens renouvelé, car les évolutions récentes ont considérablement rapproché la Cour du Parlement, afin de lui permettre de l'assister dans le contrôle de l'action administrative, de l'exécution du budget de l'État, dans l'appréciation de la situation et des perspectives des finances publiques, dans l'amélioration de la qualité des comptes publics à travers ses missions de certification et bien sûr, dans l'évaluation des politiques publiques.</p>
@@ -2888,7 +2891,7 @@
 <sp who="Lionel_Tardy">
   <speaker>Lionel Tardy</speaker>
 
-<mpt:metadata auteur="Lionel_Tardy" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Lionel_Tardy" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p> Nous n'avons pas cessé de le dire !</p>
 
 </mpt:metadata>
@@ -2898,7 +2901,7 @@
 <sp who="Didier_Migaud_">
   <speaker>Didier Migaud ,Premier président de la Cour des comptes. </speaker>
 
-<mpt:metadata auteur="Didier_Migaud_" interventiontype="interruption"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="Didier_Migaud_" interventiontype="interruption"        debat="other" subject="other">
   <p>ne hypothèse de croissance de 0,8 % apparaissait déjà optimiste au moment du débat budgétaire. Elle est désormais supérieure d'au moins un demi point de PIB à la plupart des prévisions économiques les plus récentes, qu'elles viennent du FMI, de la Commission européenne, de l'OCDE ou des instituts de conjoncture.</p>
 <p>L'atteinte d'un objectif de déficit effectif peut soulever des difficultés importantes dans un contexte de stagnation économique prolongée. L'effet récessif des mesures de redressement, lorsqu'elles s'accumulent et sont mises en œuvre simultanément dans plusieurs États à la fois, ne peut être négligé.</p>
 <p>Cela ne signifie pas que le déficit effectif et son évolution soient sans importance, car ils contribuent à l'accroissement de la dette, mais il doit également y avoir place, dans l'analyse, pour un raisonnement complémentaire, que privilégient d'ailleurs le nouveau traité européen et la loi organique du 17 décembre 2012.</p>
@@ -2916,7 +2919,7 @@
 <sp who="Lionel_Tardy">
   <speaker>Lionel Tardy</speaker>
 
-<mpt:metadata auteur="Lionel_Tardy" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Lionel_Tardy" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p> Et oui !</p>
 
 </mpt:metadata>
@@ -2926,7 +2929,7 @@
 <sp who="Didier_Migaud_">
   <speaker>Didier Migaud ,Premier président de la Cour des comptes. </speaker>
 
-<mpt:metadata auteur="Didier_Migaud_" interventiontype="interruption"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="Didier_Migaud_" interventiontype="interruption"        debat="other" subject="other">
   <p>oncernant les recettes, la Cour estime que le Gouvernement a retenu des hypothèses d'élasticité du produit des impôts à la croissance trop favorables. La Cour avait déjà fait un constat identique en 2012. Si des hypothèses plus prudentes étaient retenues, les recettes publiques pourraient être, par exemple, inférieures de près de cinq milliards d'euros aux prévisions actuelles.</p>
 <p>Par ailleurs, les dernières lois financières ont introduit de très nombreuses mesures fiscales nouvelles : la Cour en a répertorié soixante-dix ayant chacune un impact sur l'exercice 2013 supérieur à cent millions d'euros. La multiplicité de ces mesures rend l'évaluation de leur produit d'ensemble fragile, le rendement de chacune d'entre elles étant susceptible d'influencer celui d'autres. En outre, il en résulte une complexification et une instabilité accrue de notre système fiscal qui peut être préjudiciable aux entreprises et aux investisseurs.</p>
 <p>L'augmentation des dépenses de l'État votée pour 2013 est de 1,2 milliard d'euros par rapport aux dépenses exécutées en 2012. Cet objectif apparaît moins ambitieux qu'en 2012, où les dépenses avaient été réduites de 2,1 milliards d'euros par rapport à l'exécution de l'année précédente. Encore le respect de cet objectif pour 2013 suppose-t-il de réaliser effectivement les économies nécessaires pour contenir la croissance tendancielle des dépenses.</p>
@@ -2939,7 +2942,7 @@
 <sp who="Jean-François_Lamour">
   <speaker>Jean-François Lamour</speaker>
 
-<mpt:metadata auteur="Jean-François_Lamour" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Jean-François_Lamour" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p> et Mme Véronique Louwagie. Très bien !</p>
 
 </mpt:metadata>
@@ -2949,7 +2952,7 @@
 <sp who="Gilles_Carrez">
   <speaker>Gilles Carrez, président de la commission des finances, de l'économie générale et du contrôle budgétaire.</speaker>
 
-<mpt:metadata auteur="Gilles_Carrez" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Gilles_Carrez" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p>Le Premier président a raison !</p>
 
 </mpt:metadata>
@@ -2959,7 +2962,7 @@
 <sp who="Didier_Migaud">
   <speaker>Didier Migaud, Premier président de la Cour des comptes.</speaker>
 
-<mpt:metadata auteur="Didier_Migaud" interventiontype="interruption"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="Didier_Migaud" interventiontype="interruption"        debat="other" subject="other">
   <p>Au-delà des finances de l'État, les dépenses d'assurance maladie et de retraites devraient augmenter à un rythme un peu plus rapide qu'en 2012.</p>
 
 </mpt:metadata>
@@ -2969,7 +2972,7 @@
 <sp who="Jean-François_Lamour">
   <speaker>Jean-François Lamour</speaker>
 
-<mpt:metadata auteur="Jean-François_Lamour" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Jean-François_Lamour" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p> C'est mal parti !</p>
 
 </mpt:metadata>
@@ -2979,7 +2982,7 @@
 <sp who="Didier_Migaud">
   <speaker>Didier Migaud, Premier président de la Cour des comptes.</speaker>
 
-<mpt:metadata auteur="Didier_Migaud" interventiontype="interruption"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="Didier_Migaud" interventiontype="interruption"        debat="other" subject="other">
   <p>Si le Gouvernement affiche une croissance de l'ensemble des dépenses de toutes les administrations publiques au même niveau qu'en 2012, ce résultat repose sur des hypothèses favorables quant à l'évolution des dépenses les moins directement sous le contrôle de l'État – assurance chômage, collectivités territoriales, opérateurs divers –, ce qui constitue un élément de fragilité de la prévision d'ensemble. Ainsi, la loi de finances table sur une hausse des dépenses d'indemnisation des chômeurs limitée à 1,6 %, alors que, de son côté, l'UNEDIC estime <w>aujourd'hui</w> cette augmentation à 8,3 %, soit 2 milliards d'euros supplémentaires.</p>
 
 </mpt:metadata>
@@ -2989,7 +2992,7 @@
 <sp who="Charles_de_Courson">
   <speaker>Charles de Courson</speaker>
 
-<mpt:metadata auteur="Charles_de_Courson" interventiontype="interruption" politicalgroup="UDI"  vote="contre" gender="male" politicalgender="UDI_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Charles_de_Courson" interventiontype="interruption" politicalgroup="UDI"  vote="contre" gender="male" politicalgender="UDI_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p> Il y a un léger décalage !</p>
 
 </mpt:metadata>
@@ -2999,7 +3002,7 @@
 <sp who="Didier_Migaud">
   <speaker>Didier Migaud, Premier président de la Cour des comptes.</speaker>
 
-<mpt:metadata auteur="Didier_Migaud" interventiontype="interruption"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="Didier_Migaud" interventiontype="interruption"        debat="other" subject="other">
   <p>Au total, si la poursuite en 2013 du freinage des dépenses publiques engagé en 2011 ne paraît pas <w>aujourd'hui</w> hors d'atteinte, cet effort appellera tout au long de l'année une stricte vigilance et nécessitera de nouvelles et importantes économies en cours d'exécution.</p>
 <p>Le second message de la Cour sur les finances publiques, que je tiens à souligner de nouveau, est la nécessité de faire porter désormais l'intégralité de l'effort de redressement sur la seule maîtrise des dépenses jusqu'au retour à l'équilibre.</p>
 <p>Certes, un ralentissement sans précédent des dépenses publiques s'est produit en 2011, puis en 2012. Mais, au cours des trois années, le levier des recettes a été utilisé massivement, au point de représenter plus de 75 % de l'effort. Ce choix s'écarte de la recommandation constante de la Cour de donner une priorité claire aux mesures axées sur les dépenses. Dès lors, la priorité absolue ne peut qu'être d'amplifier les efforts de maîtrise des dépenses déjà engagés dans l'ensemble des administrations publiques. Le Gouvernement prévoit un tel rééquilibrage au-delà de 2013, qui se traduira par un ralentissement encore plus marqué des dépenses publiques. Toutefois, il n'a pas encore précisé les mesures qui permettront de réaliser cet effort exigeant, même pour une partie de celui programmé en 2013.</p>
@@ -3012,7 +3015,7 @@
 <sp who="René_Dosière">
   <speaker>René Dosière</speaker>
 
-<mpt:metadata auteur="René_Dosière" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="René_Dosière" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p> Hélas !</p>
 
 </mpt:metadata>
@@ -3022,7 +3025,7 @@
 <sp who="Didier_Migaud">
   <speaker>Didier Migaud, Premier président de la Cour des comptes.</speaker>
 
-<mpt:metadata auteur="Didier_Migaud" interventiontype="interruption"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="Didier_Migaud" interventiontype="interruption"        debat="other" subject="other">
   <p>Le rapport entend convaincre les citoyens comme les pouvoirs publics qu'il est possible de faire mieux avec moins, et que les économies sont parfaitement compatibles avec l'amélioration de la qualité des services publics.</p>
 
 </mpt:metadata>
@@ -3032,7 +3035,7 @@
 <sp who="René_Dosière">
   <speaker>René Dosière</speaker>
 
-<mpt:metadata auteur="René_Dosière" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="René_Dosière" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p> C'est juste !</p>
 
 </mpt:metadata>
@@ -3042,7 +3045,7 @@
 <sp who="Didier_Migaud">
   <speaker>Didier Migaud, Premier président de la Cour des comptes.</speaker>
 
-<mpt:metadata auteur="Didier_Migaud" interventiontype="interruption"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="Didier_Migaud" interventiontype="interruption"        debat="other" subject="other">
   <p>C'est pourquoi la démarche de revue des politiques publiques, qu'elle s'appelle RGPP ou MAP, doit viser conjointement les économies et l'amélioration de la qualité. À défaut, le Gouvernement serait conduit, pour respecter ses engagements de maîtrise des dépenses, à appliquer des coups de rabot indifférenciés sur les catégories de dépenses.</p>
 <p>De son côté, la Cour met en avant des pistes d'économies importantes. Je prendrai trois exemples tirés du rapport, mais je pourrais en citer d'autres.</p>
 <p>Un premier exemple est le dispositif d'aide aux buralistes. Depuis 2004, l'État consacre à cette profession des aides importantes, de plus de 300 millions d'euros par an. Il s'agissait à l'origine de compenser la baisse du chiffre d'affaires attendue en raison de l'augmentation des prix du tabac. Cette baisse ne s'est pas produite : sauf dans des cas très minoritaires, la rémunération moyenne des buralistes a progressé fortement et les aides ont entraîné des effets d'aubaine massifs. La Cour appelle donc à une remise en cause rapide et complète des interventions de l'État, en ne laissant subsister que celles qui sont effectivement indispensables, ciblées sur les débitants en difficulté ou contribuant à la modernisation du réseau.</p>
@@ -3056,7 +3059,7 @@
 <sp who="Claude_Goasguen">
   <speaker>Claude Goasguen</speaker>
 
-<mpt:metadata auteur="Claude_Goasguen" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Claude_Goasguen" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p> C'est bien !</p>
 
 </mpt:metadata>
@@ -3066,7 +3069,7 @@
 <sp who="Didier_Migaud">
   <speaker>Didier Migaud, Premier président de la Cour des comptes.</speaker>
 
-<mpt:metadata auteur="Didier_Migaud" interventiontype="interruption"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="Didier_Migaud" interventiontype="interruption"        debat="other" subject="other">
   <p>Si l'effort est à notre portée et si des gisements importants d'économies existent, la maîtrise de la dépense publique ne produira des effets à la hauteur des enjeux que si la contrainte est équitablement partagée entre tous les acteurs de cette dépense.</p>
 <p>La pleine participation du secteur local aux efforts de maîtrise de la dépense trouve sa justification dans la croissance soutenue des dépenses publiques locales au cours de la dernière décennie. En euros constants et hors transferts de compétences, elles ont augmenté entre 2002 et 2011 de 16 milliards d'euros pour le bloc communal, de 13 milliards d'euros pour les départements et de 7 milliards d'euros pour les régions.</p>
 
@@ -3077,7 +3080,7 @@
 <sp who="René_Dosière">
   <speaker>René Dosière</speaker>
 
-<mpt:metadata auteur="René_Dosière" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="René_Dosière" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p> Toujours plus !</p>
 
 </mpt:metadata>
@@ -3087,7 +3090,7 @@
 <sp who="Didier_Migaud">
   <speaker>Didier Migaud, Premier président de la Cour des comptes.</speaker>
 
-<mpt:metadata auteur="Didier_Migaud" interventiontype="interruption"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="Didier_Migaud" interventiontype="interruption"        debat="other" subject="other">
   <p>La Cour considère que des marges de manœuvre importantes existent dans les communes et les intercommunalités. Une attention particulière doit entourer les projets d'investissement touristiques, sportifs et culturels. L'exemple du complexe Cap Découverte, ouvert en 2007 à Carmaux, dans le Tarn, en est l'illustration. Reposant sur une ambition irréaliste – 660 000 entrées payantes prévues à comparer aux 73 200 entrées réalisées en 2012 –, le site connaît un déficit important et non soutenable pour les collectivités concernées, ce qui pose la question de son avenir.</p>
 <p>Il convient de tenir compte, dans l'effort demandé aux collectivités, des situations particulières de certaines catégories d'entre elles. Ainsi, le chapitre du rapport qui examine la situation financière des départements montre que ceux-ci connaissent généralement une situation difficile, en raison du faible dynamisme de leurs recettes et de dépenses accrues dans le champ social.</p>
 
@@ -3098,7 +3101,7 @@
 <sp who="Henri_Emmanuelli">
   <speaker>Henri Emmanuelli</speaker>
 
-<mpt:metadata auteur="Henri_Emmanuelli" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Henri_Emmanuelli" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p> Ces dépenses sont obligatoires !</p>
 
 </mpt:metadata>
@@ -3108,7 +3111,7 @@
 <sp who="Didier_Migaud">
   <speaker>Didier Migaud, Premier président de la Cour des comptes.</speaker>
 
-<mpt:metadata auteur="Didier_Migaud" interventiontype="interruption"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="Didier_Migaud" interventiontype="interruption"        debat="other" subject="other">
   <p>Toutefois, les situations sont différentes d'un département à l'autre, ce qui appelle un renforcement de la péréquation, c'est-à-dire la redistribution des ressources entre collectivités.</p>
 
 </mpt:metadata>
@@ -3118,7 +3121,7 @@
 <sp who="Christian_Eckert">
   <speaker>Christian Eckert, rapporteur général de la commission des finances, de l'économie générale et du contrôle budgétaire.</speaker>
 
-<mpt:metadata auteur="Christian_Eckert" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Christian_Eckert" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p>Très bien !</p>
 
 </mpt:metadata>
@@ -3128,7 +3131,7 @@
 <sp who="Didier_Migaud">
   <speaker>Didier Migaud, Premier président de la Cour des comptes.</speaker>
 
-<mpt:metadata auteur="Didier_Migaud" interventiontype="interruption"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="Didier_Migaud" interventiontype="interruption"        debat="other" subject="other">
   <p>L'effort doit également concerner les opérateurs, c'est-à-dire les établissements de statuts divers dont le contrôle est assuré par l'État. Là aussi, d'importantes marges de progrès existent. Le cas du Centre national d'enseignement à distance illustre la situation d'un établissement qui n'a ni anticipé ni réussi à suivre la transformation profonde des modes d'enseignement qu'entraîne le développement des formations en ligne. Le CNED doit rapidement adopter une stratégie à la fois modernisatrice et réaliste, disposer de moyens humains adaptés et mieux les gérer. L'exemple de l'Office national de l'eau et des milieux aquatiques, créé en 2007, révèle une accumulation de missions mal assurées et des déficiences graves dans l'organisation et la gestion.</p>
 <p>Les efforts doivent aussi concerner les administrations de sécurité sociale, afin de maîtriser les dépenses sociales. Le rapport fournit plusieurs illustrations des marges de progrès existantes, qu'il s'agisse du pilotage et des outils de la lutte contre la maladie d'Alzheimer, notamment en termes de prise en charge de certains médicaments à l'efficacité incertaine, de la prévention des accidents du travail ou des téléservices publics de santé, en particulier le dossier médical personnalisé. Une meilleure gestion permettrait d'obtenir à la fois de bien meilleurs résultats en matière de santé et d'importantes économies pour les régimes sociaux.</p>
 <p>Enfin, les impératifs de bonne gestion doivent concerner aussi les entreprises publiques. Les contrôles de ces entreprises par la Cour mettent en évidence des pistes d'amélioration de leur gestion. Ainsi, la Cour met en garde le groupe EDF contre les risques qu'entraîne l'accumulation d'avantages salariaux.</p>
@@ -3140,7 +3143,7 @@
 <sp who="Dominique_Tian">
   <speaker>Dominique Tian</speaker>
 
-<mpt:metadata auteur="Dominique_Tian" interventiontype="interruption" politicalgroup="UMP"  vote="pour" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Dominique_Tian" interventiontype="interruption" politicalgroup="UMP"  vote="pour" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p> Ah !</p>
 
 </mpt:metadata>
@@ -3150,7 +3153,7 @@
 <sp who="Didier_Migaud">
   <speaker>Didier Migaud, Premier président de la Cour des comptes.</speaker>
 
-<mpt:metadata auteur="Didier_Migaud" interventiontype="interruption"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="Didier_Migaud" interventiontype="interruption"        debat="other" subject="other">
   <p>Elle propose que le bénéfice du tarif agents – la fourniture d'électricité à très bas prix pour les agents – soit plafonné et que ses modalités d'évaluation soient conformes aux règles de droit commun applicables aux avantages en nature en matière fiscale et en matière sociale. Elle recommande également que les rémunérations des cadres dirigeants tiennent mieux compte de leur performance individuelle et collective.</p>
 <p>L'examen par la Cour de la réforme de l'Audiovisuel extérieur de la France montre une évolution chaotique et une dérive financière, alors qu'un dispositif plus cohérent, lisible et efficient était attendu de la fusion de France 24, Radio France International, TV5 Monde et Monte-Carlo Doualiya. Au contraire, cette fusion inachevée a entraîné d'importants surcoûts. Il importe de définir une stratégie réaliste par rapport aux contraintes des finances publiques, et de mettre en œuvre les mutualisations attendues en surmontant les blocages.</p>
 <p>Le rapport prend aussi l'exemple des dépenses de communication de la SNCF. Il révèle des infractions aux règles de la commande publique et certaines opérations dispendieuses. Quelques illustrations figurent dans le rapport.</p>
@@ -3171,7 +3174,7 @@
 <sp who="Charles_de_Courson">
   <speaker>Charles de Courson</speaker>
 
-<mpt:metadata auteur="Charles_de_Courson" interventiontype="interruption" politicalgroup="UDI"  vote="contre" gender="male" politicalgender="UDI_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Charles_de_Courson" interventiontype="interruption" politicalgroup="UDI"  vote="contre" gender="male" politicalgender="UDI_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p> Ah !</p>
 
 </mpt:metadata>
@@ -3181,7 +3184,7 @@
 <sp who="Didier_Migaud">
   <speaker>Didier Migaud, Premier président de la Cour des comptes.</speaker>
 
-<mpt:metadata auteur="Didier_Migaud" interventiontype="interruption"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="Didier_Migaud" interventiontype="interruption"        debat="other" subject="other">
   <p>...à la suite du plan de soutien au secteur, de la situation du Centre des monuments nationaux ou de la lutte contre le surendettement des particuliers. C'est pourquoi, dans cette circonstance, la Cour insiste. Ces recommandations sont identifiées par un onglet orange.</p>
 <p>Enfin, vous trouverez six exemples de dérives persistantes, qui conduisent la Cour à alerter les citoyens et les décideurs.</p>
 
@@ -3192,7 +3195,7 @@
 <sp who="René_Dosière">
   <speaker>René Dosière</speaker>
 
-<mpt:metadata auteur="René_Dosière" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="René_Dosière" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p> Ce sont les « feux rouges » !</p>
 
 </mpt:metadata>
@@ -3202,7 +3205,7 @@
 <sp who="Didier_Migaud">
   <speaker>Didier Migaud, Premier président de la Cour des comptes.</speaker>
 
-<mpt:metadata auteur="Didier_Migaud" interventiontype="interruption"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="Didier_Migaud" interventiontype="interruption"        debat="other" subject="other">
   <p>J'ai déjà évoqué certains de ces sujets, comme le CNED ou l'Audiovisuel extérieur de la France. Je pourrais également citer la Caisse des congés spectacles. Sur chacun de ces sujets identifiés en rouge, la Cour alertera les citoyens et les décideurs publics aussi longtemps que nécessaire.</p>
 <p>Avant de conclure, je souhaiterais livrer un dernier message et inviter les pouvoirs publics, à ne pas craindre de dépasser les intérêts particuliers pour faire prévaloir l'intérêt général.</p>
 
@@ -3213,7 +3216,7 @@
 <sp who="René_Dosière">
   <speaker>René Dosière</speaker>
 
-<mpt:metadata auteur="René_Dosière" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="René_Dosière" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p> Très bien !</p>
 
 </mpt:metadata>
@@ -3223,7 +3226,7 @@
 <sp who="Didier_Migaud">
   <speaker>Didier Migaud</speaker>
 
-<mpt:metadata auteur="Didier_Migaud" interventiontype="interruption"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="Didier_Migaud" interventiontype="interruption"        debat="other" subject="other">
   <p>, Premier président de la Cour des comptes. C'est à ce prix que les réformes nécessaires peuvent être mises en place dans certains secteurs : j'ai déjà évoqué les buralistes. Le rapport fournit également l'exemple de l'action sociale de la direction générale de l'aviation civile, dont le budget important dépasse de 63 % les crédits votés par le Parlement. Cet exemple complète d'autres constats très critiques qu'a formulés récemment la Cour sur la gestion de cette direction et celle des contrôleurs aériens.</p>
 <p>Enfin, le rapport livre deux exemples territoriaux de situations dans lesquelles l'intérêt général a été perdu de vue : la gestion cloisonnée de deux stations d'épuration contiguës dans l'Essonne, celle d'Évry et celle de Corbeil-Essonnes, ainsi que l'abattoir public de Basse-Terre en Guadeloupe, sujet de carences répétées.</p>
 <p>L'effort de maîtrise des dépenses que notre pays s'est engagé à réaliser suppose, par son ampleur, un changement culturel important. Un euro de dépense publique doit être considéré par chacun comme une denrée précieuse. Aucun acteur ne doit se considérer par principe dispensé du nécessaire questionnement sur l'utilité, la pertinence, le juste ciblage et l'efficience de la dépense publique dont il a la charge. Il s'agit de faire en sorte que l'effort soit largement réparti et porte sur les dépenses les moins utiles. C'est à cette condition que l'effort programmé pourra être réalisé sans exiger de sacrifices importants ou arbitraires. Cet effort est possible, c'est la conviction de la Cour ; il suppose la mobilisation de tous.</p>
@@ -3237,7 +3240,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="other" subject="other">
   <p> La parole est à M. le président de la commission des finances, de l'économie générale et du contrôle budgétaire.</p>
 
 </mpt:metadata>
@@ -3247,7 +3250,7 @@
 <sp who="Gilles_Carrez">
   <speaker>Gilles Carrez,président de la commission des finances, de l'économie générale et du contrôle budgétaire.</speaker>
 
-<mpt:metadata auteur="Gilles_Carrez" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130144.asp#INTER_48" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Gilles_Carrez" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130144.asp#INTER_48" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p>Monsieur le président, monsieur le ministre, monsieur le Premier président de la Cour des comptes, monsieur le rapporteur général, mes chers collègues, la loi organique sur les lois de finances de 2001 – la LOLF – a profondément modernisé nos finances publiques en engageant le Parlement dans l'évaluation des politiques publiques, vous l'indiquiez, monsieur le Premier président, dans votre propos liminaire.</p>
 <p>En 2008, nous avons procédé à une réforme constitutionnelle d'une grande importance qui a consacré ce rôle d'évaluation du Parlement et a confié à la Cour des comptes une mission d'assistance du Parlement et du Gouvernement dans la fonction d'évaluation. La coopération entre la Cour des comptes et le Parlement se concrétise dans les relations que les commissions des finances et des affaires sociales en particulier et du Comité d'évaluation et de contrôle des politiques publiques entretiennent avec les magistrats de la Cour des comptes. Ce travail en commun, la commission des finances le vit tout au long de l'année. En 2012, la Cour nous a adressé trente-deux référés ainsi que vingt-deux rapports particuliers. Je souligne le caractère pointu, critique, le côté opérationnel dans les recommandations que recèlent ces rapports particuliers. Ils font l'objet de réponse de la part du Gouvernement. Je puis vous dire, monsieur le Premier président, que dès que je les reçois, je les transmets immédiatement aux rapporteurs spéciaux compétents, qui en font bon usage dans leur travail de contrôle.</p>
 <p>De son côté, la commission des finances s'adresse à la Cour pour lui demander des enquêtes et l'associe aux travaux de sa mission d'évaluation et de contrôle. Je citerai quelques chiffres concernant l'année 2011, l'année 2012, année d'élections nationales, n'étant pas représentative.</p>
@@ -3264,7 +3267,7 @@
 <sp who="Guy_Geoffroy">
   <speaker>Guy Geoffroy</speaker>
 
-<mpt:metadata auteur="Guy_Geoffroy" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Guy_Geoffroy" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p> Absolument !</p>
 
 </mpt:metadata>
@@ -3274,7 +3277,7 @@
 <sp who="Henri_Emmanuelli">
   <speaker>Henri Emmanuelli</speaker>
 
-<mpt:metadata auteur="Henri_Emmanuelli" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Henri_Emmanuelli" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p> Ce n'est pas sérieux !</p>
 
 </mpt:metadata>
@@ -3284,7 +3287,7 @@
 <sp who="Gilles_Carrez">
   <speaker>Gilles Carrez,président de la commission des finances.</speaker>
 
-<mpt:metadata auteur="Gilles_Carrez" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Gilles_Carrez" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p>Cet héritage, monsieur le ministre, il ne faut pas le dilapider. (Nouvelles exclamations sur les bancs du groupe SRC.) Comme M. le Premier président, j'ai moi aussi, monsieur Emmanuelli, des inquiétudes, mais vous ne l'avez pas entendu...</p>
 
 </mpt:metadata>
@@ -3294,7 +3297,7 @@
 <sp who="Henri_Emmanuelli">
   <speaker>Henri Emmanuelli</speaker>
 
-<mpt:metadata auteur="Henri_Emmanuelli" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Henri_Emmanuelli" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p> Si, je l'ai entendu et je répète que ce que vous dites n'est pas sérieux !</p>
 
 </mpt:metadata>
@@ -3304,7 +3307,7 @@
 <sp who="Jean-François_Lamour">
   <speaker>Jean-François Lamour</speaker>
 
-<mpt:metadata auteur="Jean-François_Lamour" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Jean-François_Lamour" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p> Vous êtes arrivé en plein milieu de son intervention.</p>
 
 </mpt:metadata>
@@ -3314,7 +3317,7 @@
 <sp who="Gilles_Carrez">
   <speaker>Gilles Carrez,président de la commission des finances.</speaker>
 
-<mpt:metadata auteur="Gilles_Carrez" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Gilles_Carrez" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p>J'ai, moi aussi, des inquiétudes pour l'année 2013.</p>
 <p>L'objectif de réduire le déficit public à 3 % du PIB paraît, hélas, de plus en plus hors de portée.</p>
 
@@ -3325,7 +3328,7 @@
 <sp who="Lionel_Tardy">
   <speaker>Lionel Tardy</speaker>
 
-<mpt:metadata auteur="Lionel_Tardy" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Lionel_Tardy" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p> On le dit tous les jours !</p>
 
 </mpt:metadata>
@@ -3335,7 +3338,7 @@
 <sp who="Gilles_Carrez">
   <speaker>Gilles Carrez,président de la commission des finances.</speaker>
 
-<mpt:metadata auteur="Gilles_Carrez" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Gilles_Carrez" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p>Et cela pour les raisons que vous avez évoquées, monsieur le Premier président.</p>
 <p>S'agissant des recettes, nous savons tous qu'elles sont surévaluées du fait que, malheureusement, la croissance ne sera pas au niveau de 0,8 % que nous espérons. Le Gouvernement sera très prochainement contraint à une révision à la baisse.</p>
 
@@ -3346,7 +3349,7 @@
 <sp who="Lionel_Tardy">
   <speaker>Lionel Tardy</speaker>
 
-<mpt:metadata auteur="Lionel_Tardy" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Lionel_Tardy" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p> Eh oui !</p>
 
 </mpt:metadata>
@@ -3356,7 +3359,7 @@
 <sp who="Gilles_Carrez">
   <speaker>Gilles Carrez,président de la commission des finances.</speaker>
 
-<mpt:metadata auteur="Gilles_Carrez" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Gilles_Carrez" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p>Chacun sait que 0,5 point de croissance en moins, c'est cinq milliards d'euros de recettes qui font défaut. Mais s'il y a une surévaluation – et le Premier président a eu raison d'insister sur ce point – c'est parce que nous sommes arrivés, tous impôts confondus, à une véritable overdose fiscale. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC."/></p>
 
 </mpt:metadata>
@@ -3366,7 +3369,7 @@
 <sp who="Plusieurs_députés_du_groupe_UMP_">
   <speaker>Plusieurs députés du groupe UMP </speaker>
 
-<mpt:metadata auteur="Plusieurs_députés_du_groupe_UMP_" interventiontype="interruption"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="Plusieurs_députés_du_groupe_UMP_" interventiontype="interruption"        debat="other" subject="other">
   <p>Il a raison !</p>
 
 </mpt:metadata>
@@ -3376,7 +3379,7 @@
 <sp who="Gilles_Carrez">
   <speaker>Gilles Carrez,président de la commission des finances.</speaker>
 
-<mpt:metadata auteur="Gilles_Carrez" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Gilles_Carrez" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p>Nous sommes entrés dans la zone des rendements décroissants de l'impôt. Le Premier président a pesé ses mots en parlant « d'élasticité ». Notre grande crainte, monsieur le ministre, c'est que les élasticités soient négatives.</p>
 
 </mpt:metadata>
@@ -3386,7 +3389,7 @@
 <sp who="Jean-François_Lamour">
   <speaker>Jean-François Lamour</speaker>
 
-<mpt:metadata auteur="Jean-François_Lamour" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Jean-François_Lamour" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p> On prendra l'élastique dans la figure ! <mpt:interruption type="Sourires" text="Sourires sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
@@ -3396,7 +3399,7 @@
 <sp who="Gilles_Carrez">
   <speaker>Gilles Carrez,président de la commission des finances.</speaker>
 
-<mpt:metadata auteur="Gilles_Carrez" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Gilles_Carrez" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p>N'oublions jamais l'adage : trop d'impôt tue l'impôt ! <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes UMP et UDI."/></p>
 <p>M. le Premier président a évoqué, ce dont je le remercie, un aspect auquel je n'ai pas suffisamment prêté attention. Citant les soixante-dix mesures fiscales – ou de prélèvements obligatoires – diverses et variées que comportent les différentes lois de finances, il en a conclu que les recettes risquaient de ne pas être au rendez-vous.</p>
 <p>Mais l'essentiel, mes chers collègues, n'est pas là. L'essentiel est d'abord dans les dépenses.</p>
@@ -3408,7 +3411,7 @@
 <sp who="Guy_Geoffroy">
   <speaker>Guy Geoffroy</speaker>
 
-<mpt:metadata auteur="Guy_Geoffroy" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Guy_Geoffroy" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p> Oui !</p>
 
 </mpt:metadata>
@@ -3418,7 +3421,7 @@
 <sp who="Gilles_Carrez">
   <speaker>Gilles Carrez,président de la commission des finances.</speaker>
 
-<mpt:metadata auteur="Gilles_Carrez" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Gilles_Carrez" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p>La Cour des comptes note que les économies qui ont permis de tenir la dépense en 2012 étaient presque totalement liées à des décisions prises par la précédente majorité.</p>
 
 </mpt:metadata>
@@ -3428,7 +3431,7 @@
 <sp who="Guillaume_Larrivé">
   <speaker>Guillaume Larrivé</speaker>
 
-<mpt:metadata auteur="Guillaume_Larrivé" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Guillaume_Larrivé" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p> et M. Camille de Rocca Serra. En effet !</p>
 
 </mpt:metadata>
@@ -3438,7 +3441,7 @@
 <sp who="Pierre-Alain_Muet">
   <speaker>Pierre-Alain Muet</speaker>
 
-<mpt:metadata auteur="Pierre-Alain_Muet" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Pierre-Alain_Muet" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p> Ce n'est pas vrai !</p>
 
 </mpt:metadata>
@@ -3448,7 +3451,7 @@
 <sp who="Gilles_Carrez">
   <speaker>Gilles Carrez,président de la commission des finances.</speaker>
 
-<mpt:metadata auteur="Gilles_Carrez" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Gilles_Carrez" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p>Je les rappelle brièvement : non-remplacement d'un départ en retraite sur deux <mpt:interruption type="« Eh oui ! »" text="« Eh oui ! » sur les bancs du groupe UMP"/> ; indexation partielle des transferts sociaux ;...</p>
 
 </mpt:metadata>
@@ -3458,7 +3461,7 @@
 <sp who="Jean-François_Lamour">
   <speaker>Jean-François Lamour</speaker>
 
-<mpt:metadata auteur="Jean-François_Lamour" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Jean-François_Lamour" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p> C'est nous !</p>
 
 </mpt:metadata>
@@ -3468,7 +3471,7 @@
 <sp who="Gilles_Carrez">
   <speaker>Gilles Carrez, président de la commission des finances.</speaker>
 
-<mpt:metadata auteur="Gilles_Carrez" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Gilles_Carrez" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p>...baisse en valeur des dotations aux collectivités locales ;...</p>
 
 </mpt:metadata>
@@ -3478,7 +3481,7 @@
 <sp who="Henri_Emmanuelli">
   <speaker>Henri Emmanuelli</speaker>
 
-<mpt:metadata auteur="Henri_Emmanuelli" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Henri_Emmanuelli" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p> Vous vous trompez de débat ! <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
@@ -3488,7 +3491,7 @@
 <sp who="Gilles_Carrez">
   <speaker>Gilles Carrez, président de la commission des finances. </speaker>
 
-<mpt:metadata auteur="Gilles_Carrez" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Gilles_Carrez" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p>..révision générale des politiques publiques. Or toutes ces décisions ont été remises en cause.</p>
 
 </mpt:metadata>
@@ -3498,7 +3501,7 @@
 <sp who="Pascale_Crozon">
   <speaker>Pascale Crozon</speaker>
 
-<mpt:metadata auteur="Pascale_Crozon" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="female" politicalgender="SRC_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Pascale_Crozon" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="female" politicalgender="SRC_female" wing="left" winggender="left_female" debat="other" subject="other">
   <p> Heureusement !</p>
 
 </mpt:metadata>
@@ -3508,7 +3511,7 @@
 <sp who="Gilles_Carrez">
   <speaker>Gilles Carrez, président de la commission des finances.</speaker>
 
-<mpt:metadata auteur="Gilles_Carrez" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Gilles_Carrez" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p>En matière de dépenses, l'année 2013 risque donc d'être très difficile. La Cour des comptes le note : si de loi de finances initiale à loi de finances initiale, la dépense d'État semble être tenue en 2013 par rapport à 2012, ce n'est pas vrai si l'on compare les prévisions de 2013 à l'exécution de 2012 : là, le dépassement sera probablement de plus d'un milliard d'euros.</p>
 
 </mpt:metadata>
@@ -3518,7 +3521,7 @@
 <sp who="Henri_Emmanuelli">
   <speaker>Henri Emmanuelli</speaker>
 
-<mpt:metadata auteur="Henri_Emmanuelli" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Henri_Emmanuelli" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p> Et alors ?</p>
 
 </mpt:metadata>
@@ -3528,7 +3531,7 @@
 <sp who="Sandrine_Mazetier">
   <speaker>Sandrine Mazetier</speaker>
 
-<mpt:metadata auteur="Sandrine_Mazetier" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="female" politicalgender="SRC_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Sandrine_Mazetier" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="female" politicalgender="SRC_female" wing="left" winggender="left_female" debat="other" subject="other">
   <p> Il n'y a que six mois que nous sommes au pouvoir.</p>
 
 </mpt:metadata>
@@ -3538,7 +3541,7 @@
 <sp who="Catherine_Vautrin">
   <speaker>Catherine Vautrin</speaker>
 
-<mpt:metadata auteur="Catherine_Vautrin" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="female" politicalgender="UMP_female" wing="right" winggender="right_female" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Catherine_Vautrin" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="female" politicalgender="UMP_female" wing="right" winggender="right_female" debat="other" subject="other">
   <p> Huit !</p>
 
 </mpt:metadata>
@@ -3548,7 +3551,7 @@
 <sp who="Gilles_Carrez">
   <speaker>Gilles Carrez, président de la commission des finances.</speaker>
 
-<mpt:metadata auteur="Gilles_Carrez" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Gilles_Carrez" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p>Le Gouvernement prétend que, s'il n'avait rien fait, la dépense aurait augmenté de dix milliards d'euros de plus en 2013. Mais la Cour des comptes évalue cette économie en tendance non pas à 10, mais à 6 milliards d'euros. Elle l'indiquait déjà dans son rapport de juillet. Surtout, elle insiste sur le fait que cette économie n'est pas documentée. On ne dispose en effet d'aucun élément précis permettant de savoir où et comment se répartit cette prétendue économie de dix milliards.</p>
 
 </mpt:metadata>
@@ -3558,7 +3561,7 @@
 <sp who="Charles_de_Courson">
   <speaker>Charles de Courson</speaker>
 
-<mpt:metadata auteur="Charles_de_Courson" interventiontype="interruption" politicalgroup="UDI"  vote="contre" gender="male" politicalgender="UDI_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Charles_de_Courson" interventiontype="interruption" politicalgroup="UDI"  vote="contre" gender="male" politicalgender="UDI_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p> Cela manque de précision en effet.</p>
 
 </mpt:metadata>
@@ -3568,7 +3571,7 @@
 <sp who="Gilles_Carrez">
   <speaker>Gilles Carrez,président de la commission des finances.</speaker>
 
-<mpt:metadata auteur="Gilles_Carrez" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Gilles_Carrez" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p>La Cour des comptes met en évidence une singularité française, singularité structurelle qui traverse les majorités et qui nous caractérise depuis une vingtaine d'années, à savoir que nous n'avons fait porter l'effort qu'à la marge. Pour redresser les comptes, nous avons de manière constante choisi d'augmenter les prélèvements obligatoires.</p>
 
 </mpt:metadata>
@@ -3578,7 +3581,7 @@
 <sp who="Charles_de_Courson">
   <speaker>Charles de Courson</speaker>
 
-<mpt:metadata auteur="Charles_de_Courson" interventiontype="interruption" politicalgroup="UDI"  vote="contre" gender="male" politicalgender="UDI_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Charles_de_Courson" interventiontype="interruption" politicalgroup="UDI"  vote="contre" gender="male" politicalgender="UDI_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p> Hélas !</p>
 
 </mpt:metadata>
@@ -3588,7 +3591,7 @@
 <sp who="Gilles_Carrez">
   <speaker>Gilles Carrez,président de la commission des finances.</speaker>
 
-<mpt:metadata auteur="Gilles_Carrez" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Gilles_Carrez" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p>La part de la dépense publique qui est d'une stabilité étonnante ces dernières années atteint 56,3 % du PIB en 2012 alors que dans la zone euro, nous sommes seulement à 49,5 %.</p>
 <p>Vous dites, monsieur le Premier président, que si cette dépense était totalement efficace, il n'y aurait pas de problème. Je ne partage pas ce point de vue car la contrepartie de 56 points de dépenses publiques passe inévitablement par des prélèvements obligatoires qui détruisent l'initiative et même, à ce niveau, la création de richesses.</p>
 
@@ -3599,7 +3602,7 @@
 <sp who="Henri_Emmanuelli">
   <speaker>Henri Emmanuelli</speaker>
 
-<mpt:metadata auteur="Henri_Emmanuelli" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Henri_Emmanuelli" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p> Voici un point de vue très politique !</p>
 
 </mpt:metadata>
@@ -3609,7 +3612,7 @@
 <sp who="Gilles_Carrez">
   <speaker>Gilles Carrez,président de la commission des finances.</speaker>
 
-<mpt:metadata auteur="Gilles_Carrez" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Gilles_Carrez" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p>Je n'irai pas plus loin dans l'analyse de ce rapport très intéressant – nous venons de le découvrir. Soyez sûr, monsieur le Premier président, que nous en ferons bon usage.</p>
 <p>Je terminerai par un rappel. Comme le souligne la Cour des comptes dans ce rapport, nous dépassons <w>aujourd'hui</w> une limite très dangereuse puisque notre dette publique représente désormais 90 % du PIB. Dans ces conditions, il est clair que le moindre faux pas risque de dégrader très rapidement les conditions de financement de notre pays.</p>
 
@@ -3620,7 +3623,7 @@
 <sp who="Henri_Emmanuelli">
   <speaker>Henri Emmanuelli</speaker>
 
-<mpt:metadata auteur="Henri_Emmanuelli" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Henri_Emmanuelli" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p> Grâce à qui ? Dix ans de droite !</p>
 
 </mpt:metadata>
@@ -3630,7 +3633,7 @@
 <sp who="Gilles_Carrez">
   <speaker>Gilles Carrez,président de la commission des finances.</speaker>
 
-<mpt:metadata auteur="Gilles_Carrez" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Gilles_Carrez" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p>En 2013, la France va être le premier emprunteur du monde en euros ! <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
@@ -3640,7 +3643,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="other" subject="other">
   <p> La parole est à M. Christian Eckert, rapporteur général de la commission des finances, de l'économie générale et du contrôle budgétaire.</p>
 
 </mpt:metadata>
@@ -3650,7 +3653,7 @@
 <sp who="Christian_Eckert">
   <speaker>Christian Eckert,rapporteur général de la commission des finances, de l'économie générale et du contrôle budgétaire.</speaker>
 
-<mpt:metadata auteur="Christian_Eckert" interventiontype="intervention" politicalgroup="SRC" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130144.asp#INTER_49" vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Christian_Eckert" interventiontype="intervention" politicalgroup="SRC" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130144.asp#INTER_49" vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p>Monsieur le Premier président, j'ai envie de vous demander de nous excuser pour l'image que nous donnons, avec ce débat aussi partisan, j'allais dire aussi provocateur <mpt:interruption type="Applaudissements" text="Applaudissements sur plusieurs bancs du groupe SRC. – Exclamations sur les bancs du groupe UMP"/> alors même que la qualité de vos travaux et l'excellente collaboration entre la Cour et le Parlement ont été salués par tous.</p>
 
 </mpt:metadata>
@@ -3660,7 +3663,7 @@
 <sp who="Yves_Censi">
   <speaker>Yves Censi</speaker>
 
-<mpt:metadata auteur="Yves_Censi" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Yves_Censi" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p> Quel esprit critique !</p>
 
 </mpt:metadata>
@@ -3670,7 +3673,7 @@
 <sp who="Christian_Eckert">
   <speaker>Christian Eckert,rapporteur général.</speaker>
 
-<mpt:metadata auteur="Christian_Eckert" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Christian_Eckert" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p>J'ai aussi envie de vous dire « Chiche ! ». Rebondissons, de façon calme et sereine, sur les analyses et propositions que contient votre rapport. Plutôt que de nous écharper pour savoir qui, de l'ancienne majorité – qui a exercé le pouvoir pendant dix ans – ou de l'actuelle – qui en a hérité depuis six mois – est responsable de ce que notre taux d'endettement public atteint 90 % du PIB,...</p>
 
 </mpt:metadata>
@@ -3680,7 +3683,7 @@
 <sp who="Hervé_Mariton">
   <speaker>Hervé Mariton</speaker>
 
-<mpt:metadata auteur="Hervé_Mariton" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Hervé_Mariton" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p> Voilà qui vous arrange !</p>
 
 </mpt:metadata>
@@ -3690,7 +3693,7 @@
 <sp who="Christian_Eckert">
   <speaker>Christian Eckert,rapporteur général. </speaker>
 
-<mpt:metadata auteur="Christian_Eckert" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Christian_Eckert" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p>#8230;plutôt que de nous écharper pour savoir si la faiblesse de nos taux d'intérêt est le résultat de la politique antérieure ou plutôt de certaines décisions européennes, sur lesquelles le Président de la République a pesé, en convaincant M. Draghi,...</p>
 
 </mpt:metadata>
@@ -3700,7 +3703,7 @@
 <sp who="Guy_Geoffroy">
   <speaker>Guy Geoffroy</speaker>
 
-<mpt:metadata auteur="Guy_Geoffroy" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Guy_Geoffroy" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p> La France n'a jamais aussi peu pesé dans les décisions européennes !</p>
 
 </mpt:metadata>
@@ -3710,7 +3713,7 @@
 <sp who="Christian_Eckert">
   <speaker>Christian Eckert,rapporteur général.</speaker>
 
-<mpt:metadata auteur="Christian_Eckert" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Christian_Eckert" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p>Mieux vaudrait en tout cas, comme nous le faisons assez souvent à la commission des finances, mener un travail constructif pour faire en sorte que la dégradation des comptes publics dont nous avons hérité soit enfin corrigée.</p>
 <p>S'agissant de la faiblesse des taux d'intérêt, monsieur le président de la commission des finances, je tiens à vous rappeler les discours alarmistes de ceux qui, durant la campagne électorale, prédisaient que dès le lendemain de l'élection d'un président de gauche et d'une majorité de gauche, on assisterait à une flambée des taux d'intérêt qui mettrait immédiatement à plat le budget de notre pays.</p>
 
@@ -3721,7 +3724,7 @@
 <sp who="Henri_Emmanuelli">
   <speaker>Henri Emmanuelli</speaker>
 
-<mpt:metadata auteur="Henri_Emmanuelli" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Henri_Emmanuelli" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p> Ils ont oublié !</p>
 
 </mpt:metadata>
@@ -3731,7 +3734,7 @@
 <sp who="Christian_Eckert">
   <speaker>Christian Eckert,rapporteur général.</speaker>
 
-<mpt:metadata auteur="Christian_Eckert" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Christian_Eckert" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p>Vous feriez mieux de prendre en compte certains constats.</p>
 <p>En juin dernier, et vous l'avez dit, le rapport publié par la Cour des comptes à la demande du Premier ministre avait déjà souligné des risques de dérive budgétaire qui s'élevaient, si ma mémoire est bonne, à près de 2 milliards d'euros – 2 milliards pour une demie-année ! Et cette demie-année-là, nous n'y étions pour rien...</p>
 
@@ -3742,7 +3745,7 @@
 <sp who="Éric_Woerth">
   <speaker>Éric Woerth</speaker>
 
-<mpt:metadata auteur="Éric_Woerth" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Éric_Woerth" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p> C'est tous les ans la même chose !</p>
 
 </mpt:metadata>
@@ -3752,7 +3755,7 @@
 <sp who="Christian_Eckert">
   <speaker>Christian Eckert,rapporteur général.</speaker>
 
-<mpt:metadata auteur="Christian_Eckert" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Christian_Eckert" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p>Dès le mois de juin, dans la loi de finances rectificative pour 2012, nous avons pris des mesures d'économies sur les dépenses – des mesures de surgel – à hauteur de 1,5 milliard d'euros qui font qu'<w>aujourd'hui</w>, peu ou prou, tout le monde s'accorde à dire qu'à l'épaisseur du trait près, nous tiendrons les prévisions de 4,5 % de déficit nominal.</p>
 
 </mpt:metadata>
@@ -3762,7 +3765,7 @@
 <sp who="Éric_Woerth">
   <speaker>Éric Woerth</speaker>
 
-<mpt:metadata auteur="Éric_Woerth" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Éric_Woerth" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p> Ce sont des mesures de gestion !</p>
 
 </mpt:metadata>
@@ -3772,7 +3775,7 @@
 <sp who="Christian_Eckert">
   <speaker>Christian Eckert,rapporteur général.</speaker>
 
-<mpt:metadata auteur="Christian_Eckert" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Christian_Eckert" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p>Ce sera peut-être 4,55 %, voire 4,6 %, nous verrons bien. Toujours est-il que cela représente un effort de 1,4 point de PIB sur le déficit structurel, comme vous l'avez souligné, monsieur le Premier président, avec l'honnêteté intellectuelle dont vous êtes coutumier.</p>
 <p>Dans votre rapport, que j'ai lu attentivement ce week-end, vous avez encore souligné qu'en 2013, le déficit structurel tel qu'il est prévu dans la loi de finances initiale sera réduit de deux points de PIB. Imaginez l'effort que cela représente !</p>
 <p>Vous avez également montré que selon une tendance récente, y compris chez nos collègues et amis européens, c'est de plus en plus le déficit structurel plutôt que le déficit nominal qui est pris en considération pour l'évaluation des situations budgétaires, ce qui est une bonne chose.</p>
@@ -3787,7 +3790,7 @@
 <sp who="Gilles_Carrez">
   <speaker>Gilles Carrez,président de la commission des finances.</speaker>
 
-<mpt:metadata auteur="Gilles_Carrez" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Gilles_Carrez" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p>C'est bien cela !</p>
 
 </mpt:metadata>
@@ -3797,7 +3800,7 @@
 <sp who="Christian_Eckert">
   <speaker>Christian Eckert,rapporteur général.</speaker>
 
-<mpt:metadata auteur="Christian_Eckert" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Christian_Eckert" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p>Mais, monsieur le président de la commission, quelle a été l'augmentation des dépenses publiques durant les dix dernières années ?</p>
 
 </mpt:metadata>
@@ -3807,7 +3810,7 @@
 <sp who="Dominique_Baert">
   <speaker>Dominique Baert</speaker>
 
-<mpt:metadata auteur="Dominique_Baert" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Dominique_Baert" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p> Une augmentation très rapide !</p>
 
 </mpt:metadata>
@@ -3817,7 +3820,7 @@
 <sp who="Gilles_Carrez">
   <speaker>Gilles Carrez,président de la commission des finances.</speaker>
 
-<mpt:metadata auteur="Gilles_Carrez" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Gilles_Carrez" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p>Trop forte, j'en conviens !</p>
 
 </mpt:metadata>
@@ -3827,7 +3830,7 @@
 <sp who="Christian_Eckert">
   <speaker>Christian Eckert,rapporteur général.</speaker>
 
-<mpt:metadata auteur="Christian_Eckert" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Christian_Eckert" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p>Elle s'est élevée en moyenne à six ou sept milliards d'euros par an ! Vous vous êtes donc autorisé un accroissement des dépenses publiques de six à sept milliards par an pendant dix ans, en vous parant de tous les artifices de la vertu, et vous venez <w>aujourd'hui</w> nous reprocher de maintenir les dépenses à ce niveau alors que l'évolution tendancielle les porterait à un peu moins de 10 milliards d'euros !</p>
 <p>Quels sont les outils dont nous disposons ?</p>
 <p>Vous étiez partisans d'un coup de rabot général : révision générale des politiques publiques et non-remplacement d'un fonctionnaire sur deux partant à la retraite, dont vous évaluiez le rendement à 1,5 milliard d'euros par an, estimation que la Cour avait largement réduite dans ses rapports antérieurs.</p>
@@ -3841,7 +3844,7 @@
 <sp who="Régis_Juanico">
   <speaker>Régis Juanico</speaker>
 
-<mpt:metadata auteur="Régis_Juanico" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Régis_Juanico" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p> Bonne mise au point !</p>
 
 </mpt:metadata>
@@ -3851,7 +3854,7 @@
 <sp who="Christian_Eckert">
   <speaker>Christian Eckert,rapporteur général.</speaker>
 
-<mpt:metadata auteur="Christian_Eckert" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Christian_Eckert" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p>Eh oui, monsieur le président de la commission, vous les avez égrenées les unes après les autres !</p>
 
 </mpt:metadata>
@@ -3861,7 +3864,7 @@
 <sp who="Éric_Woerth">
   <speaker>Éric Woerth</speaker>
 
-<mpt:metadata auteur="Éric_Woerth" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Éric_Woerth" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p> Il est rare de voir mettre en cause de cette manière le président de la commission des finances !</p>
 
 </mpt:metadata>
@@ -3871,7 +3874,7 @@
 <sp who="Christian_Eckert">
   <speaker>Christian Eckert,rapporteur général.</speaker>
 
-<mpt:metadata auteur="Christian_Eckert" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Christian_Eckert" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p>Il est rare aussi de voir un président de la commission des finances tenir un discours aussi polémique !</p>
 
 </mpt:metadata>
@@ -3881,7 +3884,7 @@
 <sp who="Yves_Censi">
   <speaker>Yves Censi</speaker>
 
-<mpt:metadata auteur="Yves_Censi" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Yves_Censi" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p> Parce que vous, vous ne faites pas de politique peut-être ?</p>
 
 </mpt:metadata>
@@ -3891,7 +3894,7 @@
 <sp who="Christian_Eckert">
   <speaker>Christian Eckert,rapporteur général.</speaker>
 
-<mpt:metadata auteur="Christian_Eckert" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Christian_Eckert" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p>Vous avez évoqué, monsieur le Premier président, des dossiers plus sectoriels en donnant des exemples de choses à ne pas faire – même si vous êtes aussi revenu sur améliorations que vous aviez déjà mentionnées dans vos rapports précédents.</p>
 <p>Pour ma part, j'ai été particulièrement intéressé par les suites de l'évaluation du plan de soutien aux banques décidé à l'occasion de la crise financière. S'il semble que le bilan financier pour l'État soit positif – sous réserve de la prise en compte des nouveaux risques identifiés pour Dexia ou pour le Crédit immobilier de France – il faut souligner que la Cour est très mitigée s'agissant de la réalisation des contreparties demandées aux banques en matière de soutien au financement de l'économie et surtout d'encadrement des rémunérations dans ce secteur, comme vous l'avez rappelé à cette tribune. Nous évoquerons sans doute ces questions lors de la discussion du projet de loi de séparation et de régulation des activités bancaires qui s'engagera tout à l'heure.</p>
 <p>Le rapport annuel consacre des développements particulièrement intéressants aux difficultés des restructurations hospitalières, à la réforme manquée du plan d'aide à la presse écrite de 2009 à 2011, ou encore à l'insuffisante sollicitation du RSA-activité qui appelle de notre part un travail approfondi, à mener en lien avec une réflexion sur la prime pour l'emploi.</p>
@@ -3904,7 +3907,7 @@
 <sp who="Guy_Geoffroy">
   <speaker>Guy Geoffroy</speaker>
 
-<mpt:metadata auteur="Guy_Geoffroy" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Guy_Geoffroy" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="other" subject="other">
   <p> Comme tout cela est confus !</p>
 
 </mpt:metadata>
@@ -3914,7 +3917,7 @@
 <sp who="Dominique_Baert">
   <speaker>Dominique Baert</speaker>
 
-<mpt:metadata auteur="Dominique_Baert" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Dominique_Baert" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p> C'est important !</p>
 
 </mpt:metadata>
@@ -3924,7 +3927,7 @@
 <sp who="Christian_Eckert">
   <speaker>Christian Eckert,rapporteur général.</speaker>
 
-<mpt:metadata auteur="Christian_Eckert" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
+<mpt:metadata auteur="Christian_Eckert" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
   <p>Il n'y a rien de confus, monsieur Geoffroy. Prenez donc le TGV Est et vous comprendrez.</p>
 <p>Après avoir évoqué ce passage du rapport qui risque de passionner dans les prochains jours les Lorrains, je voudrais me joindre, monsieur le Premier président, aux remerciements que vous ont adressés le président Bartolone et le président de la commission – sur ce point au moins, nous sommes d'accord – pour la bonne entente qui existe entre nos institutions. Elle mérite autre chose que des polémiques. Elle appelle des travaux constructifs auxquels j'invite notre assemblée à s'atteler dans les prochains mois. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe SRC."/></p>
 
@@ -3935,7 +3938,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="other" subject="other">
   <p> Monsieur le Premier président, l'Assemblée nationale vous donne acte du dépôt du rapport annuel de la Cour des comptes.</p>
 </mpt:metadata></sp>
 </div>
@@ -3947,7 +3950,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="other" subject="other">
   <p> La séance est suspendue.</p>
 <p>(La séance, suspendue à dix-huit heures trente, est reprise à dix-huit heures quarante, sous la présidence de Mme Catherine Vautrin.)</p>
 <p>Présidence de Mme Catherine Vautrin</p>
@@ -3959,7 +3962,7 @@
 <sp who="la_présidente">
   <speaker>la présidente</speaker>
 
-<mpt:metadata auteur="la_présidente" interventiontype="régulation"        debat="mpt" subject="mpt">
+<mpt:metadata auteur="la_présidente" interventiontype="régulation"        debat="other" subject="other">
   <p>. La séance est reprise.</p>
 <p></p>
 </mpt:metadata></sp>
