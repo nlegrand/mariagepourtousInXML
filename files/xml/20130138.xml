@@ -4878,7 +4878,7 @@
   <speaker>la présidente</speaker>
 
 <mpt:metadata auteur="la_présidente" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> Merci, monsieur le président Jacob <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe UMP"/>, votre temps est écoulé. <mpt:interruption type="« Non ! non ! »" text="« Non ! non ! » sur les bancs du groupe UMP."/> Chers collègues, vous savez tous que vous avez deux minutes de temps de parole, et je vous précise... (Tumulte prolongée.)</p>
+  <p> Merci, monsieur le président Jacob <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe UMP"/>, votre temps est écoulé. <mpt:interruption type="« Non ! non ! »" text="« Non ! non ! » sur les bancs du groupe UMP."/> Chers collègues, vous savez tous que vous avez deux minutes de temps de parole, et je vous précise... <mpt:interruption type="Tumulte" text="Tumulte prolongée."/></p>
 
 </mpt:metadata>
 
@@ -4964,7 +4964,7 @@
 <p>Nombre de votants   154</p>
 <p>Nombre de suffrages exprimés   154</p>
 <p>Majorité absolue   78</p>
-<p>(Tumulte et claquements de pupitres sur les bancs du groupe UMP, tandis que les députés des groupes SRC et écologiste applaudissent le résultat du scrutin.)</p>
+<p><mpt:interruption type="Tumulte" text="Tumulte et claquements de pupitres sur les bancs du groupe UMP, tandis que les députés des groupes SRC et écologiste applaudissent le résultat du scrutin."/></p>
 
 </mpt:metadata>
 
@@ -5169,7 +5169,7 @@
   <speaker>la présidente</speaker>
 
 <mpt:metadata auteur="la_présidente" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> Monsieur Jacob, je vous ai donné la parole. (Tumulte généralisé.)</p>
+  <p> Monsieur Jacob, je vous ai donné la parole. <mpt:interruption type="Tumulte" text="Tumulte généralisé."/></p>
 
 </mpt:metadata>
 
