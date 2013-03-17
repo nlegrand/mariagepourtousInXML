@@ -6251,7 +6251,7 @@
   <speaker>Philippe Meunier</speaker>
 
 <mpt:metadata auteur="Philippe_Meunier" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Ce n'est pas nous qui avons besoin de sonotones ! (Huées sur les bancs du groupe SRC.)</p>
+  <p> Ce n'est pas nous qui avons besoin de sonotones ! <mpt:interruption type="Huées" text="Huées sur les bancs du groupe SRC."/></p>
 
 </mpt:metadata>
 
