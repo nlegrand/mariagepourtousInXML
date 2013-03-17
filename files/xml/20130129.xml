@@ -3542,7 +3542,7 @@
   <speaker>Philippe Gosselin</speaker>
 
 <mpt:metadata auteur="Philippe_Gosselin" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> C'est sans doute de la même veine que notre collègue Mazetier sur les écoles maternelles ! (Nouvelles exclamations sur les bancs du groupe SRC.)</p>
+  <p> C'est sans doute de la même veine que notre collègue Mazetier sur les écoles maternelles ! <mpt:interruption type="exclamations" text="Nouvelles exclamations sur les bancs du groupe SRC."/></p>
 
 </mpt:metadata>
 

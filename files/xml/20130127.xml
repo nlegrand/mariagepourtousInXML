@@ -2139,7 +2139,7 @@
   <speaker>Marie-Jo Zimmermann</speaker>
 
 <mpt:metadata auteur="Marie-Jo_Zimmermann" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="female" politicalgender="UMP_female" wing="right" winggender="right_female" debat="mpt" subject="mpt">
-  <p> Pas du tout ! Laissez-moi terminer, ne m'interrompez pas ! (Nouvelles exclamations sur les bancs du groupe SRC.)</p>
+  <p> Pas du tout ! Laissez-moi terminer, ne m'interrompez pas ! <mpt:interruption type="exclamations" text="Nouvelles exclamations sur les bancs du groupe SRC."/></p>
 
 </mpt:metadata>
 

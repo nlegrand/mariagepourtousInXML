@@ -11366,7 +11366,7 @@
   <speaker>Xavier Breton</speaker>
 
 <mpt:metadata auteur="Xavier_Breton" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> ...sur un texte ouvrant le mariage aux couples de personnes de même sexe alors qu'il y a d'autres urgences économiques et sociales. (Nouvelles exclamations sur les bancs des groupes SRC et écologiste.)</p>
+  <p> ...sur un texte ouvrant le mariage aux couples de personnes de même sexe alors qu'il y a d'autres urgences économiques et sociales. <mpt:interruption type="exclamations" text="Nouvelles exclamations sur les bancs des groupes SRC et écologiste."/></p>
 <p>Mais s'ils nous regardent, je suis sûr qu'ils seront intéressés de voir qu'un député qui demande aux ministres pourquoi on limite le mariage à deux personnes n'obtient aucune réponse. Pour ma part, j'estime que c'est l'altérité sexuelle, et je crois que la réponse que je donne est partagée par nombre de mes collègues.</p>
 
 </mpt:metadata>

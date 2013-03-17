@@ -85,7 +85,7 @@
 <mpt:metadata auteur="Jean-François_Copé" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_0" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> Ma question s'adresse à M. le Premier ministre.</p>
 <p>Monsieur le Premier ministre, les masques sont en train de tomber. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC."/></p>
-<p>Vous avez refusé d'ouvrir un grand débat national sur votre projet de loi qui bouleverse le cadre juridique du mariage, de l'adoption et de la filiation, vous avez méprisé tous ceux qui vous invitaient à la sagesse, les 800 000 Français qui ont manifesté (Nouvelles exclamations sur les bancs du groupe SRC), les plus hautes autorités civiles, morales et religieuses, auditionnées dans des conditions lamentables, vous privez le peuple français d'un référendum sur cette question fondamentale,...</p>
+<p>Vous avez refusé d'ouvrir un grand débat national sur votre projet de loi qui bouleverse le cadre juridique du mariage, de l'adoption et de la filiation, vous avez méprisé tous ceux qui vous invitaient à la sagesse, les 800 000 Français qui ont manifesté <mpt:interruption type="exclamations" text="Nouvelles exclamations sur les bancs du groupe SRC"/>, les plus hautes autorités civiles, morales et religieuses, auditionnées dans des conditions lamentables, vous privez le peuple français d'un référendum sur cette question fondamentale,...</p>
 
 </mpt:metadata>
 
@@ -106,7 +106,7 @@
 
 <mpt:metadata auteur="Jean-François_Copé" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> ...et maintenant vous allez jusqu'à l'excès de pouvoir en court-circuitant la représentation nationale.</p>
-<p>Notre excellent collègue Daniel Fasquelle (Nouvelles exclamations sur les bancs du groupe SRC) a en effet levé le lièvre en révélant une circulaire d'application immédiate prise vendredi dernier en catimini par votre garde des sceaux. Cette circulaire a des conséquences indirectes majeures sur le droit de la famille et même le droit de la nationalité, sans passer par la loi. En plein débat sur votre projet de loi, c'est une provocation inacceptable. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe UMP."/></p>
+<p>Notre excellent collègue Daniel Fasquelle <mpt:interruption type="exclamations" text="Nouvelles exclamations sur les bancs du groupe SRC"/> a en effet levé le lièvre en révélant une circulaire d'application immédiate prise vendredi dernier en catimini par votre garde des sceaux. Cette circulaire a des conséquences indirectes majeures sur le droit de la famille et même le droit de la nationalité, sans passer par la loi. En plein débat sur votre projet de loi, c'est une provocation inacceptable. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe UMP."/></p>
 <p>Cette circulaire a pour conséquence de reconnaître en droit français la validité de la gestation pour autrui réalisée à l'étranger.</p>
 
 </mpt:metadata>
@@ -242,7 +242,7 @@
   <speaker>Christiane Taubira, garde des sceaux.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="mpt">
-  <p>Les enfants concernés par la circulaire étaient au nombre de onze en 2012, de quarante-quatre entre 2008 et 2011. Cette circulaire porte, non pas sur l'état-civil, mais sur le constat de nationalité. <mpt:interruption type="« Non ! »" text="« Non ! » sur de nombreux bancs des groupes UMP et UDI."/> La filiation de ces enfants est établie par document probant. Les juridictions délivrant le certificat de nationalité française dans certains cas et non dans d'autres, j'ai demandé aux greffiers en chef, étant donné que ce certificat de nationalité française est dû <mpt:interruption type="protestations" text="Vives protestations sur de nombreux bancs des groupes UMP et UDI"/>, de veiller à ce que, conformément à votre souci de l'intérêt supérieur des enfants (Nouvelles protestations sur les bancs des groupes UMP et UDI), dans une République qui veille à l'égalité, la justice traite les enfants de la même façon sur l'ensemble du territoire et leur délivre ce certificat de nationalité. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC, écologiste, RRDP et GDR, les députés des groupes SRC et écologiste se levant. – Huées sur les bancs des groupes UMP et UDI."/></p>
+  <p>Les enfants concernés par la circulaire étaient au nombre de onze en 2012, de quarante-quatre entre 2008 et 2011. Cette circulaire porte, non pas sur l'état-civil, mais sur le constat de nationalité. <mpt:interruption type="« Non ! »" text="« Non ! » sur de nombreux bancs des groupes UMP et UDI."/> La filiation de ces enfants est établie par document probant. Les juridictions délivrant le certificat de nationalité française dans certains cas et non dans d'autres, j'ai demandé aux greffiers en chef, étant donné que ce certificat de nationalité française est dû <mpt:interruption type="protestations" text="Vives protestations sur de nombreux bancs des groupes UMP et UDI"/>, de veiller à ce que, conformément à votre souci de l'intérêt supérieur des enfants <mpt:interruption type="protestations" text="Nouvelles protestations sur les bancs des groupes UMP et UDI"/>, dans une République qui veille à l'égalité, la justice traite les enfants de la même façon sur l'ensemble du territoire et leur délivre ce certificat de nationalité. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC, écologiste, RRDP et GDR, les députés des groupes SRC et écologiste se levant. – Huées sur les bancs des groupes UMP et UDI."/></p>
 
 </mpt:metadata>
 
@@ -3127,7 +3127,7 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> Monsieur Jacob, je vous donnerai la parole quand M. Urvoas aura fini. <mpt:interruption type="Exclamations" text="Exclamations et claquements de pupitres sur les bancs du groupe UMP. – M. Christian Jacob persiste à demander la parole."/> L'orateur seul a la parole, monsieur Jacob, et vous le savez très bien. Vous l'aurez ensuite. (Nouvelles exclamations sur les bancs du groupe UMP.)</p>
+  <p> Monsieur Jacob, je vous donnerai la parole quand M. Urvoas aura fini. <mpt:interruption type="Exclamations" text="Exclamations et claquements de pupitres sur les bancs du groupe UMP. – M. Christian Jacob persiste à demander la parole."/> L'orateur seul a la parole, monsieur Jacob, et vous le savez très bien. Vous l'aurez ensuite. <mpt:interruption type="exclamations" text="Nouvelles exclamations sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
 
