@@ -9421,7 +9421,7 @@
 
 <mpt:metadata auteur="Guillaume_Chevrollier" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> J'ai remarqué qu'un certain nombre de collègues aiment qu'on parle du fond. C'est donc ce que je ferai <mpt:interruption type="« Ah ! »" text="« Ah ! » sur les bancs du groupe SRC"/> même si je me répète – mais la répétition n'est-elle pas l'art de la communication ?</p>
-<p>Cet article aurait mieux trouvé sa place dans le futur projet de loi sur la famille qui devait être présenté au printemps prochain. Mais les différents couacs gouvernementaux ont montré que le calendrier était en train de dériver, comme la séance d'ailleurs. (Mmes et MM. les députés du groupe SRC se lèvent et applaudissent.)</p>
+<p>Cet article aurait mieux trouvé sa place dans le futur projet de loi sur la famille qui devait être présenté au printemps prochain. Mais les différents couacs gouvernementaux ont montré que le calendrier était en train de dériver, comme la séance d'ailleurs. <mpt:interruption type="Mmes et MM. les députés du groupe SRC se lèvent et applaudissent." text="Mmes et MM. les députés du groupe SRC se lèvent et applaudissent."/></p>
 
 </mpt:metadata>
 
@@ -13471,7 +13471,7 @@
   <speaker>Bruno Le Roux</speaker>
 
 <mpt:metadata auteur="Bruno_Le_Roux" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
-  <p> Un Gouvernement, qui depuis le début de ces débats, démontre la force de ses convictions, sa capacité à mettre en perspective ce projet, à mobiliser la société. Un Gouvernement qui fait honneur à ce que nous sommes <w>aujourd'hui</w>. Au nom de toute la majorité, je le remercie. (Mmes et MM. les députés du groupe SRC et du groupe écologiste se lèvent et applaudissent.)</p>
+  <p> Un Gouvernement, qui depuis le début de ces débats, démontre la force de ses convictions, sa capacité à mettre en perspective ce projet, à mobiliser la société. Un Gouvernement qui fait honneur à ce que nous sommes <w>aujourd'hui</w>. Au nom de toute la majorité, je le remercie. <mpt:interruption type="Mmes et MM. les députés du groupe SRC et du groupe écologiste se lèvent et applaudissent." text="Mmes et MM. les députés du groupe SRC et du groupe écologiste se lèvent et applaudissent."/></p>
 
 </mpt:metadata>
 

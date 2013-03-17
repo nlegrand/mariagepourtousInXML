@@ -61,7 +61,7 @@
   <speaker>le président </speaker>
 
 <mpt:metadata auteur="le_président_" interventiontype="régulation"        debat="other" subject="other">
-  <p>Mes chers collègues, je suis heureux de souhaiter en votre nom la bienvenue à une délégation de l'Assemblée nationale du Burkina Faso, conduite par son Président, M. Soungalo Apollinaire Ouattara. (Mmes et MM. les députés et les membres du Gouvernement se lèvent et applaudissent.)</p>
+  <p>Mes chers collègues, je suis heureux de souhaiter en votre nom la bienvenue à une délégation de l'Assemblée nationale du Burkina Faso, conduite par son Président, M. Soungalo Apollinaire Ouattara. <mpt:interruption type="Mmes et MM. les députés et les membres du Gouvernement se lèvent et applaudissent." text="Mmes et MM. les députés et les membres du Gouvernement se lèvent et applaudissent."/></p>
 <p></p>
 <p></p>
 </mpt:metadata></sp>

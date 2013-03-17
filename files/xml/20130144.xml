@@ -465,7 +465,7 @@
 
 <mpt:metadata auteur="Bernard_Cazeneuve" interventiontype="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130144.asp#INTER_9"      debat="qag" subject="qag">
   <p>Monsieur Lequiller, je vous remercie de votre question. Je vous sais trop honnête pour ne pas imaginer que vous n'ayez pas eu toutes les informations avant de la poser.</p>
-<p>J'ai ici une lettre, que d'ailleurs nous allons publier – ainsi, ce sera transparent – signée de Nicolas Sarkozy, de David Cameron et de l'ensemble des dirigeants européens conservateurs, qui date de novembre 2010 et dans laquelle ils demandaient des coupes massives dans le budget de l'Union européenne. (Mmes et MM. les députés du groupe SRC se lèvent et applaudissent.)</p>
+<p>J'ai ici une lettre, que d'ailleurs nous allons publier – ainsi, ce sera transparent – signée de Nicolas Sarkozy, de David Cameron et de l'ensemble des dirigeants européens conservateurs, qui date de novembre 2010 et dans laquelle ils demandaient des coupes massives dans le budget de l'Union européenne. <mpt:interruption type="Mmes et MM. les députés du groupe SRC se lèvent et applaudissent." text="Mmes et MM. les députés du groupe SRC se lèvent et applaudissent."/></p>
 
 </mpt:metadata>
 
@@ -2320,7 +2320,7 @@
 <p>Nombre de votants   568</p>
 <p>Nombre de suffrages exprimés   558</p>
 <p>Majorité absolue   280</p>
-<p>(Mmes et MM. les membres des groupes SRC, GDR, RRDP et écologiste se lèvent, applaudissent longuement et scandent « Égalité ! Égalité ! ».)</p>
+<p><mpt:interruption type="Mmes et MM. les membres des groupes SRC, GDR, RRDP et écologiste se lèvent, applaudissent longuement et scandent « Égalité ! Égalité ! »." text="Mmes et MM. les membres des groupes SRC, GDR, RRDP et écologiste se lèvent, applaudissent longuement et scandent « Égalité ! Égalité ! »."/></p>
 
 </mpt:metadata>
 
