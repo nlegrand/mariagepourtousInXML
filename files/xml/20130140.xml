@@ -5541,7 +5541,7 @@
   <speaker>Philippe Cochet</speaker>
 
 <mpt:metadata auteur="Philippe_Cochet" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Alors, mesdames et messieurs de la majorité, un peu de respect pour les Français ! (Vives exclamations sur les bancs du groupe SRC.)</p>
+  <p> Alors, mesdames et messieurs de la majorité, un peu de respect pour les Français ! <mpt:interruption type="exclamations" text="Vives exclamations sur les bancs du groupe SRC."/></p>
 
 </mpt:metadata>
 

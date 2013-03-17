@@ -845,7 +845,7 @@
   <speaker>Nicolas Bays</speaker>
 
 <mpt:metadata auteur="Nicolas_Bays" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
-  <p> Justement, elle arrive ! (Vifs applaudissements sur les mêmes bancs.)</p>
+  <p> Justement, elle arrive ! <mpt:interruption type="applaudissements" text="Vifs applaudissements sur les mêmes bancs."/></p>
 
 </mpt:metadata>
 
@@ -1741,7 +1741,7 @@
 <mpt:metadata auteur="Alain_Vidalies_" interventiontype="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130132.asp#INTER_9"      debat="mpt" subject="mpt">
   <p>La discussion en séance publique de ce texte a été précédée par un examen long et attentif en commission. Il reviendra ici après avoir été examiné par le Sénat, et compte tenu des délais, son adoption définitive devrait intervenir au mois de juin ou juillet.</p>
 <p>Vous avez déposé, chers députés de l'opposition, plus de 5 000 amendements, et c'est votre responsabilité. Alors que nous siégeons depuis plusieurs jours, tout à coup vous nous annoncez toute une série de sous-amendements. Dans la mesure où ils n'ont pas été examinés par la commission, je vais donc demander, au nom du Gouvernement, l'application d'un droit que vous avez appliqué. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe SRC."/></p>
-<p>Monsieur le président, conformément aux dispositions de l'article 44, alinéa 2, de la Constitution, le Gouvernement s'oppose à l'examen de tout amendement qui n'a pas été antérieurement soumis à la commission. (Vives protestations sur les bancs du groupe UMP.)</p>
+<p>Monsieur le président, conformément aux dispositions de l'article 44, alinéa 2, de la Constitution, le Gouvernement s'oppose à l'examen de tout amendement qui n'a pas été antérieurement soumis à la commission. <mpt:interruption type="protestations" text="Vives protestations sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
 
@@ -3799,7 +3799,7 @@
 
 <mpt:metadata auteur="Jacques_Kossowski" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130132.asp#INTER_ADT_55" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Monsieur le président, nous avons tous des enfants, je l'espère, au moins pour ceux d'entre nous qui peuvent en avoir, et nous savons que l'enfant a besoin d'une histoire crédible de sa naissance, afin qu'il puisse raconter quelque chose, même s'il a été abandonné.</p>
-<p>Si un enfant n'a pas d'histoire, s'il a été adopté par un couple homosexuel, il pourrait se demander pourquoi il n'a pas mérité d'avoir un père et une mère. (Vives exclamations sur les bancs des groupes SRC et écologiste.)</p>
+<p>Si un enfant n'a pas d'histoire, s'il a été adopté par un couple homosexuel, il pourrait se demander pourquoi il n'a pas mérité d'avoir un père et une mère. <mpt:interruption type="exclamations" text="Vives exclamations sur les bancs des groupes SRC et écologiste."/></p>
 
 </mpt:metadata>
 
@@ -6024,7 +6024,7 @@
   <speaker>Hervé Mariton</speaker>
 
 <mpt:metadata auteur="Hervé_Mariton" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Ayez la gentillesse de respecter la démocratie. Il y a hélas des pays où cette conception des choses a fait des dégâts considérables. (Vifs applaudissements sur les bancs du groupe UMP.)</p>
+  <p> Ayez la gentillesse de respecter la démocratie. Il y a hélas des pays où cette conception des choses a fait des dégâts considérables. <mpt:interruption type="applaudissements" text="Vifs applaudissements sur les bancs du groupe UMP."/></p>
 <p></p>
 </mpt:metadata></sp>
 </div>
@@ -11675,7 +11675,7 @@
   <p> Je veux faire deux remarques sur le fondement de l'article 58 de notre règlement.</p>
 <p>La première porte sur l'absence de la ministre de la famille. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC."/> Je sais que le Gouvernement est représenté, je connais parfaitement le règlement.</p>
 <p>Mais lorsque l'on est ministre de la famille – je l'ai été – s'agissant d'un texte auquel vous dites attacher une importance essentielle, qui correspond à un engagement du Président de la République dans son programme électoral, préférer aller dormir plutôt que de débattre avec nous alors que vous voulez passer en force, c'est invraisemblable ! <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC, applaudissements sur les bancs du groupe UMP."/></p>
-<p>À quoi sert la ministre de la famille si elle n'est pas capable d'être présente dans l'hémicycle sur un tel texte ? <mpt:interruption type="Mêmes mouvements" text="Mêmes mouvements sur les mêmes bancs."/> On parle de l'aide sociale à l'enfance, de l'autorité parentale, de l'adoption, et la ministre de la famille préfère aller se coucher et dormir plutôt que d'être parmi nous ! (Vives exclamations sur les bancs du groupe SRC.)</p>
+<p>À quoi sert la ministre de la famille si elle n'est pas capable d'être présente dans l'hémicycle sur un tel texte ? <mpt:interruption type="Mêmes mouvements" text="Mêmes mouvements sur les mêmes bancs."/> On parle de l'aide sociale à l'enfance, de l'autorité parentale, de l'adoption, et la ministre de la famille préfère aller se coucher et dormir plutôt que d'être parmi nous ! <mpt:interruption type="exclamations" text="Vives exclamations sur les bancs du groupe SRC."/></p>
 <p>Je trouve cela choquant ! Et je me demande à quoi sert cette ministre ! <mpt:interruption type="Mêmes mouvements" text="Mêmes mouvements."/></p>
 
 </mpt:metadata>
@@ -11696,7 +11696,7 @@
   <speaker>Christian Jacob</speaker>
 
 <mpt:metadata auteur="Christian_Jacob" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Quand on est ministre, on assume ses responsabilités ! On ne les fuit pas en allant dormir parce qu'il est quatre heures du matin. On a le courage et l'honneur d'être là. (Vives exclamations sur les bancs du groupe SRC, dont les députés se lèvent et apostrophent l'orateur.)</p>
+  <p> Quand on est ministre, on assume ses responsabilités ! On ne les fuit pas en allant dormir parce qu'il est quatre heures du matin. On a le courage et l'honneur d'être là. <mpt:interruption type="exclamations" text="Vives exclamations sur les bancs du groupe SRC, dont les députés se lèvent et apostrophent l'orateur."/></p>
 
 </mpt:metadata>
 

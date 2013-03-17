@@ -151,7 +151,7 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="mpt">
-  <p> La parole est à Mme la garde des sceaux, ministre de la justice. (Vives protestations et huées sur les bancs du groupe UMP. – Applaudissements sur les bancs des groupes SRC, écologiste et RRDP, les députés socialistes se levant.)</p>
+  <p> La parole est à Mme la garde des sceaux, ministre de la justice. <mpt:interruption type="protestations" text="Vives protestations et huées sur les bancs du groupe UMP. – Applaudissements sur les bancs des groupes SRC, écologiste et RRDP, les députés socialistes se levant."/></p>
 <p>Mes chers collègues, écoutez la réponse...</p>
 
 </mpt:metadata>
@@ -242,7 +242,7 @@
   <speaker>Christiane Taubira, garde des sceaux.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="mpt">
-  <p>Les enfants concernés par la circulaire étaient au nombre de onze en 2012, de quarante-quatre entre 2008 et 2011. Cette circulaire porte, non pas sur l'état-civil, mais sur le constat de nationalité. <mpt:interruption type="« Non ! »" text="« Non ! » sur de nombreux bancs des groupes UMP et UDI."/> La filiation de ces enfants est établie par document probant. Les juridictions délivrant le certificat de nationalité française dans certains cas et non dans d'autres, j'ai demandé aux greffiers en chef, étant donné que ce certificat de nationalité française est dû (Vives protestations sur de nombreux bancs des groupes UMP et UDI), de veiller à ce que, conformément à votre souci de l'intérêt supérieur des enfants (Nouvelles protestations sur les bancs des groupes UMP et UDI), dans une République qui veille à l'égalité, la justice traite les enfants de la même façon sur l'ensemble du territoire et leur délivre ce certificat de nationalité. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC, écologiste, RRDP et GDR, les députés des groupes SRC et écologiste se levant. – Huées sur les bancs des groupes UMP et UDI."/></p>
+  <p>Les enfants concernés par la circulaire étaient au nombre de onze en 2012, de quarante-quatre entre 2008 et 2011. Cette circulaire porte, non pas sur l'état-civil, mais sur le constat de nationalité. <mpt:interruption type="« Non ! »" text="« Non ! » sur de nombreux bancs des groupes UMP et UDI."/> La filiation de ces enfants est établie par document probant. Les juridictions délivrant le certificat de nationalité française dans certains cas et non dans d'autres, j'ai demandé aux greffiers en chef, étant donné que ce certificat de nationalité française est dû <mpt:interruption type="protestations" text="Vives protestations sur de nombreux bancs des groupes UMP et UDI"/>, de veiller à ce que, conformément à votre souci de l'intérêt supérieur des enfants (Nouvelles protestations sur les bancs des groupes UMP et UDI), dans une République qui veille à l'égalité, la justice traite les enfants de la même façon sur l'ensemble du territoire et leur délivre ce certificat de nationalité. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC, écologiste, RRDP et GDR, les députés des groupes SRC et écologiste se levant. – Huées sur les bancs des groupes UMP et UDI."/></p>
 
 </mpt:metadata>
 
@@ -408,7 +408,7 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="mpt">
-  <p> La parole est à Mme la garde des sceaux, ministre de la justice. (Vives protestations sur les bancs des groupes UMP et UDI.)</p>
+  <p> La parole est à Mme la garde des sceaux, ministre de la justice. <mpt:interruption type="protestations" text="Vives protestations sur les bancs des groupes UMP et UDI."/></p>
 <p>Mes chers collègues, c'est le Gouvernement qui désigne le ministre chargé de répondre à vos questions.</p>
 <p>Vous avez la parole, madame la garde des sceaux. <mpt:interruption type="« Démission ! Démission ! »" text="« Démission ! Démission ! » sur plusieurs bancs du groupe UMP."/></p>
 
@@ -842,7 +842,7 @@
   <speaker>Christiane Taubira, garde des sceaux.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="qag">
-  <p>Je vous invite à vous intéresser aux travaux, au cours desquels le Gouvernement s'exprima très longuement. (Vives exclamations sur les bancs du groupe UMP.) Ce texte est passé en commission des lois ; il fait son parcours au Parlement ; la loi qui en sortira sera issue d'un travail parlementaire ; par conséquent, c'est bien la voix du Parlement qui en sera sortie.</p>
+  <p>Je vous invite à vous intéresser aux travaux, au cours desquels le Gouvernement s'exprima très longuement. <mpt:interruption type="exclamations" text="Vives exclamations sur les bancs du groupe UMP."/> Ce texte est passé en commission des lois ; il fait son parcours au Parlement ; la loi qui en sortira sera issue d'un travail parlementaire ; par conséquent, c'est bien la voix du Parlement qui en sera sortie.</p>
 
 </mpt:metadata>
 
@@ -884,7 +884,7 @@
   <speaker>Gwendal Rouillard</speaker>
 
 <mpt:metadata auteur="Gwendal_Rouillard" interventiontype="intervention" politicalgroup="SRC" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130120.asp#INTER_12" vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="qag" subject="qag">
-  <p> Monsieur le président, ma question s'adresse au ministre des transports, de la mer et de la pêche. J'espère que ce sujet permettra de détendre l'opposition et de prendre un peu de hauteur de vue eu égard à l'actualité. (Vives exclamations sur les bancs du groupe UMP.)</p>
+  <p> Monsieur le président, ma question s'adresse au ministre des transports, de la mer et de la pêche. J'espère que ce sujet permettra de détendre l'opposition et de prendre un peu de hauteur de vue eu égard à l'actualité. <mpt:interruption type="exclamations" text="Vives exclamations sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
 
@@ -1226,7 +1226,7 @@
 
 <mpt:metadata auteur="Vincent_Peillon" interventiontype="intervention"        debat="qag" subject="qag">
   <p>La commission des normes du ministère de l'intérieur, au sein de laquelle les élus locaux sont représentés, a approuvé la semaine dernière par huit voix contre deux notre principe d'organisation.</p>
-<p>Si c'est vraiment l'intérêt des enfants qui vous guide (Vives exclamations sur les bancs du groupe UMP), si vous partagez la nécessité de revenir sur cette exception française délétère, nous entrons maintenant dans la phase de concertation sur le terrain qui va durer plusieurs mois et exige l'implication de tous. Cela suppose d'abord de dire la vérité. Faites un effort pour connaître et diffuser la réforme ! C'est aussi votre mission de législateur que de penser à la loi, c'est-à-dire à l'intérêt général, et non pas seulement de représenter des intérêts particuliers. <mpt:interruption type="Protestations" text="Protestations sur les bancs du groupe UMP."/></p>
+<p>Si c'est vraiment l'intérêt des enfants qui vous guide <mpt:interruption type="exclamations" text="Vives exclamations sur les bancs du groupe UMP"/>, si vous partagez la nécessité de revenir sur cette exception française délétère, nous entrons maintenant dans la phase de concertation sur le terrain qui va durer plusieurs mois et exige l'implication de tous. Cela suppose d'abord de dire la vérité. Faites un effort pour connaître et diffuser la réforme ! C'est aussi votre mission de législateur que de penser à la loi, c'est-à-dire à l'intérêt général, et non pas seulement de représenter des intérêts particuliers. <mpt:interruption type="Protestations" text="Protestations sur les bancs du groupe UMP."/></p>
 </mpt:metadata></sp>
 </div>
 
@@ -2291,8 +2291,8 @@
 <p>Et pourtant, la logique même de votre raisonnement vous porte jusqu'à ce point. Reprenons votre démonstration. Vous posez la liberté des adultes comme principe absolu. Vous considérez que les règles biologiques de la procréation sont source de discrimination. Vous faites évoluer les règles de l'adoption pour ouvrir le droit à l'enfant. La suite évidente de ce raisonnement est la procréation médicalement assistée, le passage, à terme, par les bébés éprouvette. Certains parmi vous ont d'ailleurs eu la franchise, hier, de l'admettre.</p>
 <p>Dès lors, pourquoi s'arrêterait-on à la procréation médicalement assistée ? Comment expliquer, en vertu de votre raisonnement, que ce que vous accordez aux couples homosexuels féminins ne soit pas ouvert aussi aux couples homosexuels masculins ? La suite logique sera la gestation pour autrui, au nom précisément de votre conception de l'égalité et de la lutte contre les discriminations. Assumez au moins l'ensemble de votre pensée ! <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe UMP."/></p>
 <p>Ce n'est même pas la cohérence de votre pensée que nous vous reprochons, mais les efforts que vous faites pour la dissimuler dans les méandres de l'ambiguïté. Assumez au moins devant les Français l'ensemble du projet que vous cherchez à mener à bien !</p>
-<p>Madame la garde des sceaux, pour reprendre les propos que vous avez tenus hier, qui est hypocrite ici ? Qui dissimule la vérité aux Français ? <mpt:interruption type="« Vous ! »" text="« Vous ! » sur les bancs du groupe SRC."/> Qui joue avec les convictions ? <mpt:interruption type="« Vous ! »" text="« Vous ! » sur les bancs du groupe SRC."/> Qui se drape dans la moralité pour cautionner une marchandisation du corps féminin qui n'a rien de moral ? (Vifs applaudissements sur les bancs du groupe UMP.)</p>
-<p>Oui, vous avez caché la réalité de votre projet. Alors que nous nous apprêtions à débattre d'une loi, vous faisiez passer à la sauvette une circulaire. Alors qu'ici, devant les députés, vous refusiez de donner votre position, on préparait discrètement dans les bureaux de votre ministère ce document. Alors que le Président de la République feignait d'émettre des réserves, vous ouvriez la voie pour la première fois en France à la reconnaissance de la marchandisation du corps. Au moins cette circulaire met-elle fin au jeu de dupes que vous avez pratiqué ! (Vives protestations sur les bancs des groupes SRC, écologiste et GDR.)</p>
+<p>Madame la garde des sceaux, pour reprendre les propos que vous avez tenus hier, qui est hypocrite ici ? Qui dissimule la vérité aux Français ? <mpt:interruption type="« Vous ! »" text="« Vous ! » sur les bancs du groupe SRC."/> Qui joue avec les convictions ? <mpt:interruption type="« Vous ! »" text="« Vous ! » sur les bancs du groupe SRC."/> Qui se drape dans la moralité pour cautionner une marchandisation du corps féminin qui n'a rien de moral ? <mpt:interruption type="applaudissements" text="Vifs applaudissements sur les bancs du groupe UMP."/></p>
+<p>Oui, vous avez caché la réalité de votre projet. Alors que nous nous apprêtions à débattre d'une loi, vous faisiez passer à la sauvette une circulaire. Alors qu'ici, devant les députés, vous refusiez de donner votre position, on préparait discrètement dans les bureaux de votre ministère ce document. Alors que le Président de la République feignait d'émettre des réserves, vous ouvriez la voie pour la première fois en France à la reconnaissance de la marchandisation du corps. Au moins cette circulaire met-elle fin au jeu de dupes que vous avez pratiqué ! <mpt:interruption type="protestations" text="Vives protestations sur les bancs des groupes SRC, écologiste et GDR."/></p>
 
 </mpt:metadata>
 
@@ -2353,7 +2353,7 @@
 
 <mpt:metadata auteur="Laurent_Wauquiez" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Quelle étonnante illustration de l'absence de sérénité dans laquelle vous cherchez à plonger l'hémicycle ! <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe UMP."/></p>
-<p>C'est bien de marchandisation du corps féminin qu'il est question. Vous ne voulez pas d'hypocrisie ? Très bien ! Mais alors, la vérité est brutale. Ce vers quoi nous nous dirigeons, c'est la possibilité pure et simple de louer le corps d'une femme pour obtenir un enfant. (Vives protestations sur les bancs des groupes SRC, écologiste et GDR.) On utilise la femme, on lui fait porter un enfant, puis on le lui enlève et on la rémunère. Oui, on rémunère une femme dont le corps a été utilisé pour faire un enfant. Voilà ce vers quoi vous voulez diriger la société française. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe UMP."/></p>
+<p>C'est bien de marchandisation du corps féminin qu'il est question. Vous ne voulez pas d'hypocrisie ? Très bien ! Mais alors, la vérité est brutale. Ce vers quoi nous nous dirigeons, c'est la possibilité pure et simple de louer le corps d'une femme pour obtenir un enfant. <mpt:interruption type="protestations" text="Vives protestations sur les bancs des groupes SRC, écologiste et GDR."/> On utilise la femme, on lui fait porter un enfant, puis on le lui enlève et on la rémunère. Oui, on rémunère une femme dont le corps a été utilisé pour faire un enfant. Voilà ce vers quoi vous voulez diriger la société française. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
 
@@ -2779,7 +2779,7 @@
 
 <mpt:metadata auteur="Laurent_Wauquiez" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Non, madame la garde des sceaux, je ne crois pas qu'il y ait une évolution de société qui nous amène inéluctablement au projet que vous défendez. Je crois en revanche que ce que vous proposez marque une césure historique dans notre vision de la famille ; je crois que la société de demain ne ressemblera plus, avec votre projet, à celle d'<w>aujourd'hui</w>, et je suis loin d'être convaincu que cette société sera meilleure.</p>
-<p>Si la modernité pour vous, c'est de parler d'un droit à l'enfant comme d'un objet, alors nous vous laissons cette modernité ; si la modernité pour vous, ce sont les bébés éprouvette, alors nous vous laissons cette modernité ; enfin, si la modernité pour vous, c'est de pouvoir louer le ventre d'une femme, alors oui, nous vous laissons aussi cette modernité ! (Vives exclamations et huées sur les bancs des groupes SRC, écologiste et GDR.)</p>
+<p>Si la modernité pour vous, c'est de parler d'un droit à l'enfant comme d'un objet, alors nous vous laissons cette modernité ; si la modernité pour vous, ce sont les bébés éprouvette, alors nous vous laissons cette modernité ; enfin, si la modernité pour vous, c'est de pouvoir louer le ventre d'une femme, alors oui, nous vous laissons aussi cette modernité ! <mpt:interruption type="exclamations" text="Vives exclamations et huées sur les bancs des groupes SRC, écologiste et GDR."/></p>
 
 </mpt:metadata>
 
@@ -2894,7 +2894,7 @@
   <p>Le champ de l'article 11 de notre Constitution ne nous permet pas de soumettre ce type de question au référendum. Vous pouvez très bien parler d'argutie juridique, MM. Guy Carcassonne et Didier Maus apprécieront.</p>
 <p>Il n'en reste pas moins vrai que si vous aviez voulu que le référendum puisse porter sur ce type de question, vous seriez allés jusqu'au bout de la révision constitutionnelle de 2008 qui instituait un référendum d'initiative populaire, en prenant des mesures pour que la loi organique soit votée, et cette discussion n'aurait pas eu lieu.</p>
 <p>On voit bien de quelle façon vous cherchez à éluder le débat.</p>
-<p>En effet, le champ de l'article 11 n'ouvre pas cette possibilité et je rappellerai les propos d'un ancien garde des sceaux, Jacques Toubon : « En limitant l'extension du champ référendaire aux matières économiques et sociales, le Gouvernement a choisi d'exclure les sujets touchant à la souveraineté, comme la défense ou la justice, ou ce qu'il est convenu d'appeler les questions de société avec les libertés publiques, le droit pénal, ou encore les lois de finances, dont l'examen relève des prérogatives traditionnelles du Parlement. Il doit donc être clair qu'il ne saurait y avoir de référendum sur des sujets comme la peine de mort, la repénalisation de l'avortement ou l'expulsion des immigrants clandestins, le référendum n'étant pas et ne devant pas être un instrument de démagogie ». (Vifs applaudissements sur les bancs des groupes SRC, GDR et écologiste.)</p>
+<p>En effet, le champ de l'article 11 n'ouvre pas cette possibilité et je rappellerai les propos d'un ancien garde des sceaux, Jacques Toubon : « En limitant l'extension du champ référendaire aux matières économiques et sociales, le Gouvernement a choisi d'exclure les sujets touchant à la souveraineté, comme la défense ou la justice, ou ce qu'il est convenu d'appeler les questions de société avec les libertés publiques, le droit pénal, ou encore les lois de finances, dont l'examen relève des prérogatives traditionnelles du Parlement. Il doit donc être clair qu'il ne saurait y avoir de référendum sur des sujets comme la peine de mort, la repénalisation de l'avortement ou l'expulsion des immigrants clandestins, le référendum n'étant pas et ne devant pas être un instrument de démagogie ». <mpt:interruption type="applaudissements" text="Vifs applaudissements sur les bancs des groupes SRC, GDR et écologiste."/></p>
 <p>Et de citer les exemples suivants quant au champ du référendum : en matière économique, les privatisations, le plan ou les lois d'orientation pluriannuelles, et, dans le domaine social, les orientations générales du droit du travail, de la sécurité sociale, de la politique de santé, l'exclusion ou l'aide sociale.</p>
 
 </mpt:metadata>
@@ -3000,7 +3000,7 @@
   <speaker>Christian Jacob</speaker>
 
 <mpt:metadata auteur="Christian_Jacob" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Mais ce n'est pas de cela qu'il est question dans votre circulaire ! (Vives exclamations sur les bancs du groupe SRC.)</p>
+  <p> Mais ce n'est pas de cela qu'il est question dans votre circulaire ! <mpt:interruption type="exclamations" text="Vives exclamations sur les bancs du groupe SRC."/></p>
 
 </mpt:metadata>
 
@@ -3055,7 +3055,7 @@
   <speaker>Christiane Taubira,garde des sceaux.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
-  <p>Posons des mots sur des sentiments et des comportements. Je maintiens mes propos : oui, il est hypocrite de faire semblant de ne pas voir ces familles homoparentales et ces milliers d'enfants qui sont exposés à un regard social réprobateur (Vifs applaudissements sur les bancs du groupe SRC.)</p>
+  <p>Posons des mots sur des sentiments et des comportements. Je maintiens mes propos : oui, il est hypocrite de faire semblant de ne pas voir ces familles homoparentales et ces milliers d'enfants qui sont exposés à un regard social réprobateur <mpt:interruption type="applaudissements" text="Vifs applaudissements sur les bancs du groupe SRC."/></p>
 <p>Vous nous parlez des effets psychologiques sur les enfants, mais ces effets sont d'abord le fait du regard social, des discriminations, du rejet, du refus d'une citoyenneté ! <mpt:interruption type="Les députés" text="Les députés des groupes SRC, GDR et écologiste se lèvent et applaudissent"/>.</p>
 <p>Alors, oui, nous le refusons. Je suis désolée de vous déplaire si, par hasard, il vous est arrivé de penser que je vous traitais d'hypocrites.</p>
 
@@ -6309,7 +6309,7 @@
 <mpt:metadata auteur="François_Fillon" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> <w>Aujourd'hui</w>, la responsabilité de l'opposition est de relayer leur voix, parce que cette France que le Gouvernement n'écoute pas doit être respectée, mais notre responsabilité est aussi de parler clair.</p>
 <p>La PMA et la GPA sont des lignes rouges. Le flou des réponses du Gouvernement sur ces sujets révèle la faiblesse de ses convictions.</p>
-<p>Il est du devoir de l'opposition d'avertir que, si ces lignes rouges étaient franchies, à l'heure de l'alternance – car il y aura alternance –, nous réécririons la loi pour stopper cette dérive, car elle consacrerait une régression de notre conscience humaine. (Vifs applaudissements sur les bancs des groupes UMP et UDI.)</p>
+<p>Il est du devoir de l'opposition d'avertir que, si ces lignes rouges étaient franchies, à l'heure de l'alternance – car il y aura alternance –, nous réécririons la loi pour stopper cette dérive, car elle consacrerait une régression de notre conscience humaine. <mpt:interruption type="applaudissements" text="Vifs applaudissements sur les bancs des groupes UMP et UDI."/></p>
 
 </mpt:metadata>
 

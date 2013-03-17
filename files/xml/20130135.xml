@@ -111,7 +111,7 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="mpt">
-  <p> La parole est à M. le ministre délégué chargé des relations avec le Parlement. (Vives protestations sur les bancs des groupes UMP et UDI. – Applaudissements sur plusieurs bancs du groupe SRC.)</p>
+  <p> La parole est à M. le ministre délégué chargé des relations avec le Parlement. <mpt:interruption type="protestations" text="Vives protestations sur les bancs des groupes UMP et UDI. – Applaudissements sur plusieurs bancs du groupe SRC."/></p>
 
 </mpt:metadata>
 
@@ -281,7 +281,7 @@
   <speaker>Pierre Moscovici ,ministre de l'économie et des finances.</speaker>
 
 <mpt:metadata auteur="Pierre_Moscovici_" interventiontype="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_5"      debat="qag" subject="qag">
-  <p>Monsieur le député, j'avoue que je ne comprends absolument pas le sens de ce type de question. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe UMP."/> Je me tourne vers ceux qui nous regardent. Passer son temps à dénigrer son propre pays (Vives exclamations sur les bancs du groupe UMP), alors qu'il est la cinquième puissance économique du monde, qu'il est le pilier de la construction européenne avec l'Allemagne, et que nous sommes en outre en train d'engager son redressement, c'est un acte antipatriotique, dont la vanité et la vacuité ne peuvent que frapper. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC, écologiste et RRDP. – Exclamations sur les bancs des groupes UMP et UDI."/></p>
+  <p>Monsieur le député, j'avoue que je ne comprends absolument pas le sens de ce type de question. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe UMP."/> Je me tourne vers ceux qui nous regardent. Passer son temps à dénigrer son propre pays <mpt:interruption type="exclamations" text="Vives exclamations sur les bancs du groupe UMP"/>, alors qu'il est la cinquième puissance économique du monde, qu'il est le pilier de la construction européenne avec l'Allemagne, et que nous sommes en outre en train d'engager son redressement, c'est un acte antipatriotique, dont la vanité et la vacuité ne peuvent que frapper. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC, écologiste et RRDP. – Exclamations sur les bancs des groupes UMP et UDI."/></p>
 
 </mpt:metadata>
 
@@ -511,7 +511,7 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="mpt">
-  <p> La parole est à Mme Christiane Taubira, garde des sceaux, ministre de la justice. (Vifs applaudissements et acclamations sur les bancs des groupes SRC, écologiste et RRDP. De nombreux députés de ces groupes se lèvent pour applaudir.- Applaudissements sur les bancs du groupe GDR.)</p>
+  <p> La parole est à Mme Christiane Taubira, garde des sceaux, ministre de la justice. <mpt:interruption type="applaudissements" text="Vifs applaudissements et acclamations sur les bancs des groupes SRC, écologiste et RRDP. De nombreux députés de ces groupes se lèvent pour applaudir.- Applaudissements sur les bancs du groupe GDR."/></p>
 
 </mpt:metadata>
 
@@ -1422,7 +1422,7 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="qag">
-  <p> La parole est à M. le ministre délégué chargé du budget. (Vifs applaudissements sur les bancs du groupe SRC.)</p>
+  <p> La parole est à M. le ministre délégué chargé du budget. <mpt:interruption type="applaudissements" text="Vifs applaudissements sur les bancs du groupe SRC."/></p>
 
 </mpt:metadata>
 
@@ -2061,7 +2061,7 @@
 <mpt:metadata auteur="Olivier_Dussopt" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
   <p> L'amendement-balai aurait dû vous rasséréner, mais ce n'est visiblement pas le cas.</p>
 <p>Je regrette que nous passions autant de temps à répéter en permanence le même débat.</p>
-<p>Monsieur Gosselin, l'objectif principal de mon rappel au règlement était presque de vous faire une proposition. (Vives exclamations sur les bancs du groupe UMP.)</p>
+<p>Monsieur Gosselin, l'objectif principal de mon rappel au règlement était presque de vous faire une proposition. <mpt:interruption type="exclamations" text="Vives exclamations sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
 
@@ -2239,7 +2239,7 @@
 <p>M. Le Fur m'a interrogé sur la polysémie du mot « parent ». Or, elle existe déjà dans le code civil. Ainsi, à l'article 371-1 que M. Mariton a relu tout à l'heure, le sens est clairement celui des deux parents. C'est évident.</p>
 <p>En revanche, dans les dispositions relatives aux successions, le mot « parent » est employé à de très nombreuses reprises au sens de parenté, notamment pour viser les collatéraux. Plus précisément, en droit des successions, le terme « parent » vise jusqu'au sixième degré les enfants, leurs descendants, les père et mère, frères et sœurs et descendants de ces derniers, les ascendants autre que les père et mère et les collatéraux autre que les frères et sœurs et les descendants de ces derniers.</p>
 <p>Nous en avons discuté avec les notaires, M. Mariton s'en souvient certainement et j'y ai fait allusion hier. Nous les avons souvent interrogés sur les problèmes qu'ils étaient susceptible de rencontrer en raison de ces deux acceptions. Il s'avère qu'ils n'en sont pas troublés, car ils ont l'habitude de manier ces articles et intègrent dans leur pratique cette polysémie. En revanche, remplacer l'un des termes par « membre de la famille » les aurait perturbés. Or, c'était le parti pris du Gouvernement dans un certain nombre d'articles, et cette modification les gênait davantage que le maintien de la polysémie du mot parent, qui est déjà présente dans notre code civil. Il me paraît important de le rappeler à M. Le Fur. Ce problème ne se posera donc pas plus après le vote du texte qu'il ne se pose <w>aujourd'hui</w>.</p>
-<p>S'agissant de l'article 371-1 du code civil, vous avez rappelé, monsieur Mariton, qu'il était lu devant les couples lors de la cérémonie de mariage. C'est vrai, mais les couples n'ont pas le texte sous les yeux, et quand vous dîtes « aux père et mère », on peut entendre un « s » à père et un « s » à mère, de sorte que l'expression pourrait être considérée de manière générique. (Vives exclamations sur les bancs du groupe UMP.)</p>
+<p>S'agissant de l'article 371-1 du code civil, vous avez rappelé, monsieur Mariton, qu'il était lu devant les couples lors de la cérémonie de mariage. C'est vrai, mais les couples n'ont pas le texte sous les yeux, et quand vous dîtes « aux père et mère », on peut entendre un « s » à père et un « s » à mère, de sorte que l'expression pourrait être considérée de manière générique. <mpt:interruption type="exclamations" text="Vives exclamations sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
 
@@ -2516,7 +2516,7 @@
 
 <mpt:metadata auteur="Hervé_Mariton" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Au regard de ma pratique en tant qu'officier d'état civil – c'est au passage l'une des vertus du cumul des mandats –, je me demande comment tout cela va fonctionner quand mon devoir sera d'appliquer la loi dans ma commune en lisant cet article si, par malheur, votre loi est votée. Il n'est pas mauvais d'avoir l'esprit pratique... Je lis donc l'article et je me dis que cela ne marche pas ! Je ne pourrai pas dire à deux hommes ou à deux femmes qui sont devant moi que « l'autorité parentale appartient aux père et mère ». Comment vais-je pouvoir leur dire cela ? Comment vont-ils le vivre ? Comment vont-ils me regarder ? C'est extravagant !</p>
-<p>Comme je suis quelqu'un d'assez rigoureux, j'ai demandé si cet article était bien visé par l'amendement-balai ou non. On m'a dit que non. Cet article ne change donc pas d'un iota, ni d'un « s » ni de deux « s ». Nous aurons donc un mariage illisible et inapplicable dans toutes les mairies de France dès que la loi sera votée si par malheur elle l'est. (Vifs applaudissements sur les bancs du groupe UMP.)</p>
+<p>Comme je suis quelqu'un d'assez rigoureux, j'ai demandé si cet article était bien visé par l'amendement-balai ou non. On m'a dit que non. Cet article ne change donc pas d'un iota, ni d'un « s » ni de deux « s ». Nous aurons donc un mariage illisible et inapplicable dans toutes les mairies de France dès que la loi sera votée si par malheur elle l'est. <mpt:interruption type="applaudissements" text="Vifs applaudissements sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
 
@@ -3965,7 +3965,7 @@
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="interruption" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Ne vous donnez pas cette peine, je connais très bien les poèmes de Léon-Gontran Damas, qu'il s'agisse de Pigments, de Névralgies ou de Black-Label. Je vais d'ailleurs vous dire ce qu'il vous aurait dit, en réponse à ce que vous affirmez – c'est un poème extrait de Black-Label :</p>
 <p>« Nous les gueux/ nous les peu/ nous les rien/ nous les chiens/ nous les maigres/nous les Nègres [...]/ Qu'attendons-nous [...]/ pour jouer aux fous/ pisser un coup/ tout à l'envi/ contre la vie/ stupide et bête/ qui nous est faite ? »</p>
-<p>Ne pas accorder l'égalité des droits, ne pas reconnaître la liberté, cela revient à dire aux Français : « Qu'attendez-vous pour jouer aux fous contre la vie stupide et bête qui vous est faite » ? (Vifs applaudissements sur les bancs des groupes SRC, écologiste, RRDP et GDR.)</p>
+<p>Ne pas accorder l'égalité des droits, ne pas reconnaître la liberté, cela revient à dire aux Français : « Qu'attendez-vous pour jouer aux fous contre la vie stupide et bête qui vous est faite » ? <mpt:interruption type="applaudissements" text="Vifs applaudissements sur les bancs des groupes SRC, écologiste, RRDP et GDR."/></p>
 
 </mpt:metadata>
 
@@ -7217,7 +7217,7 @@
   <speaker>Christiane Taubira,garde des sceaux.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="interruption" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
-  <p>Seul le Premier ministre peut lever la confidentialité. (Vives exclamations sur les bancs du groupe UMP.)</p>
+  <p>Seul le Premier ministre peut lever la confidentialité. <mpt:interruption type="exclamations" text="Vives exclamations sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
 
@@ -7277,7 +7277,7 @@
   <speaker>Christiane Taubira,garde des sceaux.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="interruption" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
-  <p>J'entends parler de transparence, mais en quoi celle-ci vous autorise-t-elle à ne pas respecter la confidentialité d'un rapport du Conseil d'État ? Ou alors, au nom de la transparence, pourquoi pas lever le secret défense, ou supprimer le secret de l'instruction ? Soyez un peu responsables, en tant que législateur. Vous êtes vraiment mal placés pour donner des conseils. (Vifs applaudissements sur les bancs des groupes SRC, GDR et écologiste. – Vives exclamations sur les bancs du groupe UMP.)</p>
+  <p>J'entends parler de transparence, mais en quoi celle-ci vous autorise-t-elle à ne pas respecter la confidentialité d'un rapport du Conseil d'État ? Ou alors, au nom de la transparence, pourquoi pas lever le secret défense, ou supprimer le secret de l'instruction ? Soyez un peu responsables, en tant que législateur. Vous êtes vraiment mal placés pour donner des conseils. <mpt:interruption type="applaudissements" text="Vifs applaudissements sur les bancs des groupes SRC, GDR et écologiste. – Vives exclamations sur les bancs du groupe UMP."/></p>
 <p></p>
 </mpt:metadata></sp>
 </div>

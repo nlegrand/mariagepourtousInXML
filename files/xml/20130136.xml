@@ -653,7 +653,7 @@
   <speaker>Bruno Le Roux</speaker>
 
 <mpt:metadata auteur="Bruno_Le_Roux" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
-  <p> Après Alain Tourret, je voudrais à mon tour saluer le vote qui a eu lieu cet après-midi, à la Chambre des communes, par 400 voix contre 175, après une journée de débat. Une journée de débat ! (Vifs applaudissements sur les bancs des groupes SRC, écologiste, GDR et RRDP.) Cela n'a pas été un débat facile, il a soulevé des oppositions. Mais il a duré une journée !</p>
+  <p> Après Alain Tourret, je voudrais à mon tour saluer le vote qui a eu lieu cet après-midi, à la Chambre des communes, par 400 voix contre 175, après une journée de débat. Une journée de débat ! <mpt:interruption type="applaudissements" text="Vifs applaudissements sur les bancs des groupes SRC, écologiste, GDR et RRDP."/> Cela n'a pas été un débat facile, il a soulevé des oppositions. Mais il a duré une journée !</p>
 
 </mpt:metadata>
 
@@ -734,7 +734,7 @@
 
 <mpt:metadata auteur="Bernard_Accoyer" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130136.asp#INTER_5" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Monsieur le président, nous entendons des rappels au règlement qui n'en sont pas. <mpt:interruption type="Rires" text="Rires sur les bancs du groupe SRC."/> Le déroulement de notre séance en est gravement perturbé.</p>
-<p>D'autre part, je voudrais étayer mon rappel au règlement, qui, lui, en est un, en apportant des précisions majeures à ce qu'ont annoncé nos collègues Alain Tourret, tout à l'heure, et Bruno Le Roux, à l'instant. Ils se réfèrent à ce qui s'est passé cet après-midi à la Chambre des communes comme à un exemple. Certes, elle vient d'adopter, en première lecture, un texte ouvrant le mariage aux couples de même sexe. Mais, cher collègue Le Roux, vous devriez savoir que le Royaume-Uni, depuis longtemps, admet, pour les couples de même sexe, la procréation médicalement assistée et le recours aux mères porteuses ! Si c'est votre modèle, ce n'est pas le nôtre ! (Vifs applaudissements sur les bancs des groupes UMP et UDI.)</p>
+<p>D'autre part, je voudrais étayer mon rappel au règlement, qui, lui, en est un, en apportant des précisions majeures à ce qu'ont annoncé nos collègues Alain Tourret, tout à l'heure, et Bruno Le Roux, à l'instant. Ils se réfèrent à ce qui s'est passé cet après-midi à la Chambre des communes comme à un exemple. Certes, elle vient d'adopter, en première lecture, un texte ouvrant le mariage aux couples de même sexe. Mais, cher collègue Le Roux, vous devriez savoir que le Royaume-Uni, depuis longtemps, admet, pour les couples de même sexe, la procréation médicalement assistée et le recours aux mères porteuses ! Si c'est votre modèle, ce n'est pas le nôtre ! <mpt:interruption type="applaudissements" text="Vifs applaudissements sur les bancs des groupes UMP et UDI."/></p>
 
 </mpt:metadata>
 
@@ -2370,7 +2370,7 @@
 <mpt:metadata auteur="Christian_Jacob" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Après l'intervention de mon collègue Fromantin et les questions que j'ai posées à Mme la ministre, nous ne pouvons pas continuer sereinement nos débats sans avoir une explication du Gouvernement.</p>
 <p>C'est invraisemblable. Avec ce texte, vous êtes partis dans un imbroglio juridique, et aucune réponse ne nous est donnée. Aucune !</p>
-<p>Monsieur le président, je demande une suspension de séance pour réunir mon groupe, et pas une suspension de cinq minutes ! Je vous demande une suspension d'un quart d'heure. Nous ne pouvons pas continuer à légiférer de cette façon, avec une ministre qui éclate de rire, qui se moque de la représentation nationale et qui n'apporte aucune réponse ! (Vifs applaudissements sur les bancs du groupe UMP.)</p>
+<p>Monsieur le président, je demande une suspension de séance pour réunir mon groupe, et pas une suspension de cinq minutes ! Je vous demande une suspension d'un quart d'heure. Nous ne pouvons pas continuer à légiférer de cette façon, avec une ministre qui éclate de rire, qui se moque de la représentation nationale et qui n'apporte aucune réponse ! <mpt:interruption type="applaudissements" text="Vifs applaudissements sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
 
@@ -4464,7 +4464,7 @@
   <speaker>Catherine Vautrin</speaker>
 
 <mpt:metadata auteur="Catherine_Vautrin" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="female" politicalgender="UMP_female" wing="right" winggender="right_female" debat="mpt" subject="mpt">
-  <p> Vous pourriez au moins vous lever ! (Vives exclamations sur les bancs du groupe SRC.)</p>
+  <p> Vous pourriez au moins vous lever ! <mpt:interruption type="exclamations" text="Vives exclamations sur les bancs du groupe SRC."/></p>
 
 </mpt:metadata>
 
@@ -4804,7 +4804,7 @@
   <speaker>François Rochebloine</speaker>
 
 <mpt:metadata auteur="François_Rochebloine" interventiontype="intervention" politicalgroup="UDI" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130136.asp#INTER_15" vote="contre" gender="male" politicalgender="UDI_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Monsieur le président, les propos qui ont été tenus vis-à-vis de notre collègue M. Lellouche sont absolument inacceptables. (Vives exclamations sur les bancs du groupe SRC.) Je demande, au nom de mon groupe, une suspension de séance.</p>
+  <p> Monsieur le président, les propos qui ont été tenus vis-à-vis de notre collègue M. Lellouche sont absolument inacceptables. <mpt:interruption type="exclamations" text="Vives exclamations sur les bancs du groupe SRC."/> Je demande, au nom de mon groupe, une suspension de séance.</p>
 <p></p>
 </mpt:metadata></sp>
 </div>
@@ -5161,7 +5161,7 @@
 
 <mpt:metadata auteur="Christian_Jacob" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Le président a fait remarquer que chacun devait se concentrer et ne voter que sur un seul boîtier, le sien. Le vote suivant, les résultats ont chuté d'une vingtaine de voix. <mpt:interruption type="Protestations" text="Protestations sur les bancs du groupe SRC."/> Vous vérifierez cela dans le compte rendu.</p>
-<p>À nouveau, lors du dernier vote, l'un de mes collègues a vu un député de la majorité appuyer sur trois boîtiers. (Vives protestations sur les bancs du groupe SRC.)</p>
+<p>À nouveau, lors du dernier vote, l'un de mes collègues a vu un député de la majorité appuyer sur trois boîtiers. <mpt:interruption type="protestations" text="Vives protestations sur les bancs du groupe SRC."/></p>
 
 </mpt:metadata>
 
@@ -5846,7 +5846,7 @@
 <p>Le Premier ministre britannique, M. David Cameron, s'est exprimé en ces termes : « la loi rendra la société britannique plus forte. C'est un pas en avant pour notre pays et je suis fier que notre gouvernement l'entreprenne ».</p>
 <p>Sur le fond, toutes sortes de choses ont été entendues cet après-midi à Londres, légères ou sérieuses, pas toujours agréables, mais toujours très civiques.</p>
 <p>Je retiens un discours, celui de la députée Yvette Cooper. Elle a fait le récit de cette femme, mariée depuis très longtemps, depuis toujours aux yeux des autres, qui lutte pour se souvenir du monde qui l'entoure, du mari avec lequel elle a passé sa vie, devenu un étranger, et qui, pourtant, la lave, la lève, la nourrit et la couche, pour le meilleur et pour le pire, pour le plus riche et le plus pauvre, dans la santé comme dans la maladie.</p>
-<p>Tels sont, mes chers collègues, les errements anglo-saxons que vous décrivez, les mêmes qui ont ouvert l'adoption aux couples homosexuels, pour le meilleur et pour le pire, mais pour tous ! (Vifs applaudissements sur les bancs des groupes SRC et écologiste.)</p>
+<p>Tels sont, mes chers collègues, les errements anglo-saxons que vous décrivez, les mêmes qui ont ouvert l'adoption aux couples homosexuels, pour le meilleur et pour le pire, mais pour tous ! <mpt:interruption type="applaudissements" text="Vifs applaudissements sur les bancs des groupes SRC et écologiste."/></p>
 
 </mpt:metadata>
 
@@ -6223,7 +6223,7 @@
   <speaker>Nicolas Dhuicq</speaker>
 
 <mpt:metadata auteur="Nicolas_Dhuicq" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130136.asp#INTER_ADT_89" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Aux honorables membres de cette assemblée qui voudraient rapidement devenir sujets de Sa Majesté, je souhaite rappeler quelques éléments de réalité. Tout d'abord, dans le processus britannique, il ne s'agit pour l'instant que d'un projet de loi passé en deuxième lecture. Le travail de commission n'a pas encore eu lieu, non plus que le travail d'amendement à la Chambre des communes ainsi que la troisième lecture, avant que le texte passe à la Chambre des lords et que la Reine donne son avis. (Vives exclamations sur les bancs des groupes SRC, écologiste, RRDP et GDR.)</p>
+  <p> Aux honorables membres de cette assemblée qui voudraient rapidement devenir sujets de Sa Majesté, je souhaite rappeler quelques éléments de réalité. Tout d'abord, dans le processus britannique, il ne s'agit pour l'instant que d'un projet de loi passé en deuxième lecture. Le travail de commission n'a pas encore eu lieu, non plus que le travail d'amendement à la Chambre des communes ainsi que la troisième lecture, avant que le texte passe à la Chambre des lords et que la Reine donne son avis. <mpt:interruption type="exclamations" text="Vives exclamations sur les bancs des groupes SRC, écologiste, RRDP et GDR."/></p>
 
 </mpt:metadata>
 

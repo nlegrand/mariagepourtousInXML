@@ -3736,7 +3736,7 @@
   <speaker>Marc Le Fur</speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> ...peut-être de celle du président Mitterrand <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC"/>, celle du général de Gaulle, celle de Georges Pompidou. Mais nous sommes au vingt et unième siècle ! (Vives exclamations sur les bancs du groupe SRC.)</p>
+  <p> ...peut-être de celle du président Mitterrand <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC"/>, celle du général de Gaulle, celle de Georges Pompidou. Mais nous sommes au vingt et unième siècle ! <mpt:interruption type="exclamations" text="Vives exclamations sur les bancs du groupe SRC."/></p>
 
 </mpt:metadata>
 
@@ -6792,7 +6792,7 @@
   <speaker>Alain Vidalies ,ministre délégué.</speaker>
 
 <mpt:metadata auteur="Alain_Vidalies_" interventiontype="intervention"        debat="mpt" subject="mpt">
-  <p>Elles sont 66 % dans les communes urbaines de province. Et leur chiffre atteint 69 % dans les communes rurales ! C'est donc bien dans ces communes-là que l'on trouve <w>aujourd'hui</w> le plus de personnes favorables. (Vifs applaudissements sur les bancs des groupes SRC et écologiste.) Je pense que cela devrait nourrir votre réflexion, sinon sur le texte, du moins sur l'effort qui vous reste à faire.</p>
+  <p>Elles sont 66 % dans les communes urbaines de province. Et leur chiffre atteint 69 % dans les communes rurales ! C'est donc bien dans ces communes-là que l'on trouve <w>aujourd'hui</w> le plus de personnes favorables. <mpt:interruption type="applaudissements" text="Vifs applaudissements sur les bancs des groupes SRC et écologiste."/> Je pense que cela devrait nourrir votre réflexion, sinon sur le texte, du moins sur l'effort qui vous reste à faire.</p>
 <p>J'en viens à l'avis du Conseil d'État. Quelqu'un, ici, est cohérent et fidèle au point de vue qu'il a toujours défendu sur cette question qui touche à l'organisation de nos institutions : c'est M. Le Fur.</p>
 <p>Comme vous le savez, l'article 39 de la Constitution confère au Conseil d'État ce rôle de travail consultatif sur les projets, avant qu'ils ne soient présentés en Conseil des ministres. Depuis le Consulat, l'avis du Conseil d'État est secret. Simplement, le Premier ministre, s'il l'estime utile, peut le communiquer.</p>
 

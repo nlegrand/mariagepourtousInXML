@@ -1581,7 +1581,7 @@
   <speaker>Jacques Bompard</speaker>
 
 <mpt:metadata auteur="Jacques_Bompard" interventiontype="intervention" politicalgroup="NI" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130133.asp#INTER_ADT_28" vote="contre" gender="male" politicalgender="NI_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Je suis ces débats de près, pour ne pas dire presque tout le temps <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC"/>, et je suis étonné que la majorité manifeste une conception de la famille aussi militante, aussi conflictuelle. Je vous assure que dans les familles normales, dans els familles hétérosexuelles (Vives exclamations sur les bancs des groupes SRC, écologiste et GDR), cela ne se passe pas comme cela.</p>
+  <p> Je suis ces débats de près, pour ne pas dire presque tout le temps <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC"/>, et je suis étonné que la majorité manifeste une conception de la famille aussi militante, aussi conflictuelle. Je vous assure que dans les familles normales, dans els familles hétérosexuelles <mpt:interruption type="exclamations" text="Vives exclamations sur les bancs des groupes SRC, écologiste et GDR"/>, cela ne se passe pas comme cela.</p>
 
 </mpt:metadata>
 
@@ -2784,7 +2784,7 @@
   <speaker>Jean-Jacques Urvoas</speaker>
 
 <mpt:metadata auteur="Jean-Jacques_Urvoas" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
-  <p> Je ne fais pour l'instant que dresser un constat, mes chers collègues ! Est-il infamant de rappeler un fait avéré ? Je constate que ces quarante parlementaires entendent s'exprimer pendant deux minutes chacun sur cet article, alors même que nous examinerons par la suite plus de 3 000 amendements, lors de la discussion desquels ils auront l'occasion de développer leurs points de vue. Monsieur le président de l'Assemblée nationale, je vous suggère donc d'appliquer l'article 57, alinéa 1, du règlement, et de déclarer la clôture de la discussion générale. (Vives protestations sur les bancs du groupe UMP.)</p>
+  <p> Je ne fais pour l'instant que dresser un constat, mes chers collègues ! Est-il infamant de rappeler un fait avéré ? Je constate que ces quarante parlementaires entendent s'exprimer pendant deux minutes chacun sur cet article, alors même que nous examinerons par la suite plus de 3 000 amendements, lors de la discussion desquels ils auront l'occasion de développer leurs points de vue. Monsieur le président de l'Assemblée nationale, je vous suggère donc d'appliquer l'article 57, alinéa 1, du règlement, et de déclarer la clôture de la discussion générale. <mpt:interruption type="protestations" text="Vives protestations sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
 
@@ -2915,7 +2915,7 @@
   <speaker>Patrick Ollier</speaker>
 
 <mpt:metadata auteur="Patrick_Ollier" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> J'attends de vous que vous ne fassiez pas jouer l'article 57, alinéa 1, du règlement. Cela serait vraiment, au moment de discuter un article essentiel du projet de loi, faire injure aux droits de l'opposition ! (Vifs applaudissements sur les bancs du groupe UMP.)</p>
+  <p> J'attends de vous que vous ne fassiez pas jouer l'article 57, alinéa 1, du règlement. Cela serait vraiment, au moment de discuter un article essentiel du projet de loi, faire injure aux droits de l'opposition ! <mpt:interruption type="applaudissements" text="Vifs applaudissements sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
 
@@ -3908,7 +3908,7 @@
   <speaker>François de Mazières</speaker>
 
 <mpt:metadata auteur="François_de_Mazières" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Pardonnez-moi, mais à qui s'adresse-t-on ? À une élite parisienne ou à la France ? (Vifs applaudissements sur plusieurs bancs du groupe UMP. – Protestations sur les bancs du groupe SRC.)</p>
+  <p> Pardonnez-moi, mais à qui s'adresse-t-on ? À une élite parisienne ou à la France ? <mpt:interruption type="applaudissements" text="Vifs applaudissements sur plusieurs bancs du groupe UMP. – Protestations sur les bancs du groupe SRC."/></p>
 
 </mpt:metadata>
 
@@ -4668,7 +4668,7 @@
   <speaker>Philippe Meunier</speaker>
 
 <mpt:metadata auteur="Philippe_Meunier" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130133.asp#INTER_ADT_56" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Avec ce projet de loi, vous répondez à une attente, celle de tous les bobos, et surtout à leurs caprices. (Vives exclamations sur les bancs des groupes SRC, écologiste et GDR.)</p>
+  <p> Avec ce projet de loi, vous répondez à une attente, celle de tous les bobos, et surtout à leurs caprices. <mpt:interruption type="exclamations" text="Vives exclamations sur les bancs des groupes SRC, écologiste et GDR."/></p>
 <p>Pour satisfaire les demandes d'une minorité agissante, vous avez fait le choix de casser le code civil de tous les Français.</p>
 
 </mpt:metadata>
@@ -6261,7 +6261,7 @@
   <speaker>Marie-George Buffet</speaker>
 
 <mpt:metadata auteur="Marie-George_Buffet" interventiontype="intervention" politicalgroup="GDR"  vote="pour" gender="female" politicalgender="GDR_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
-  <p> Ma troisième remarque porte sur les peurs que vous agitez. Au lieu de mettre en concurrence les familles hétérosexuelles et les familles homosexuelles qui veulent donner de l'amour à un enfant en l'adoptant, vous devriez encourager la France à mener une action contre l'homophobie d'État et à faire en sorte que, dans les conventions bilatérales, dans les réunions internationales, l'homophobie soit combattue afin de la faire reculer. C'est de cela que nous avons besoin au niveau international ! (Vifs applaudissements sur les bancs des groupes GDR, SRC et écologiste.)</p>
+  <p> Ma troisième remarque porte sur les peurs que vous agitez. Au lieu de mettre en concurrence les familles hétérosexuelles et les familles homosexuelles qui veulent donner de l'amour à un enfant en l'adoptant, vous devriez encourager la France à mener une action contre l'homophobie d'État et à faire en sorte que, dans les conventions bilatérales, dans les réunions internationales, l'homophobie soit combattue afin de la faire reculer. C'est de cela que nous avons besoin au niveau international ! <mpt:interruption type="applaudissements" text="Vifs applaudissements sur les bancs des groupes GDR, SRC et écologiste."/></p>
 
 </mpt:metadata>
 
@@ -6398,7 +6398,7 @@
   <speaker>Christiane Taubira, garde des sceaux.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="interruption" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
-  <p>Compte tenu du déroulement des débats, du contenu des articles et des amendements, aucune raison ne justifie une telle attitude de votre part. (Vifs applaudissements sur les bancs des groupes SRC, écologiste et GDR. – Exclamations sur les bancs des groupes UMP.)</p>
+  <p>Compte tenu du déroulement des débats, du contenu des articles et des amendements, aucune raison ne justifie une telle attitude de votre part. <mpt:interruption type="applaudissements" text="Vifs applaudissements sur les bancs des groupes SRC, écologiste et GDR. – Exclamations sur les bancs des groupes UMP."/></p>
 
 </mpt:metadata>
 
@@ -6477,7 +6477,7 @@
   <p> Eh oui, tel MacArthur, je reviens ! <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC."/></p>
 <p>Depuis que l'homme est homme, il nomme les choses. Et c'est par le nom qu'il les crée. Il fut un temps où seuls les puissants avaient le droit de porter un nom. Vous acculturez les populations et détruisez l'histoire en permanence. Cette œuvre de destruction, vous la poursuivez. Dans le même temps, vous n'avez que le mot égalité à la bouche. La République n'a pas de sexe. C'est la fonction qui oblige, non le genre. Lorsque nous interpellons les ministres du Gouvernement, ce n'est pas sur leur genre, sur leur comportement intime, c'est sur leurs fonctions. C'est parce que c'est la fonction qui prime que le français emploie un seul genre – le masculin – quand le latin en avait trois. Si la fonction l'emporte sur le genre, c'est par souci d'égalité et non pour des raisons liées à l'oppression des femmes. Il faudra vous le rappeler sans cesse.</p>
 <p>Il y a un grand pays qui s'appelle la Fédération de Russie. Nous pouvons ne pas être d'accord sur tout avec elle, mais il est sûr qu'elle reverra inéluctablement tous ses accords avec la République française. Les Russes n'accepteront jamais cette loi ! <mpt:interruption type="Exclamations" text="Exclamations sur les bancs des groupes SRC, écologiste, GDR et RRDP."/></p>
-<p>Madame la ministre, comme les quatre cinquièmes des enfants adoptés viennent de l'étranger, nous serons confrontés à une diminution du nombre d'enfants à adopter. Vous créerez à force d'inégalités une discrimination sur le genre. C'est une régression monstrueuse que vous apportez à la civilisation. (Vifs applaudissements sur quelques bancs du groupe UMP.)</p>
+<p>Madame la ministre, comme les quatre cinquièmes des enfants adoptés viennent de l'étranger, nous serons confrontés à une diminution du nombre d'enfants à adopter. Vous créerez à force d'inégalités une discrimination sur le genre. C'est une régression monstrueuse que vous apportez à la civilisation. <mpt:interruption type="applaudissements" text="Vifs applaudissements sur quelques bancs du groupe UMP."/></p>
 
 </mpt:metadata>
 

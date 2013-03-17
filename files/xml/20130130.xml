@@ -2950,7 +2950,7 @@
   <speaker>Arnaud Leroy</speaker>
 
 <mpt:metadata auteur="Arnaud_Leroy" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
-  <p> ...surtout quand je les vois prier à quatre ans, sous la pluie, avec vos amis de Civitas ! (Vives protestations sur les bancs du groupe UMP.)</p>
+  <p> ...surtout quand je les vois prier à quatre ans, sous la pluie, avec vos amis de Civitas ! <mpt:interruption type="protestations" text="Vives protestations sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
 
@@ -2980,7 +2980,7 @@
   <speaker>Arnaud Leroy</speaker>
 
 <mpt:metadata auteur="Arnaud_Leroy" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
-  <p> Troisième point : j'aurais aimé disposer d'une étude d'impact sur le coût de l'effacement de la valeur d'égalité sur les frontons des bâtiments de la République. (Vives protestations et huées sur les bancs du groupe UMP.)</p>
+  <p> Troisième point : j'aurais aimé disposer d'une étude d'impact sur le coût de l'effacement de la valeur d'égalité sur les frontons des bâtiments de la République. <mpt:interruption type="protestations" text="Vives protestations et huées sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
 

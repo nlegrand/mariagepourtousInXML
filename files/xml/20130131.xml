@@ -3997,7 +3997,7 @@
   <speaker>Claude Goasguen</speaker>
 
 <mpt:metadata auteur="Claude_Goasguen" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Laissez-moi donc parler : j'évoque des questions juridiques. (Vives exclamations sur les bancs des groupes SRC, écologiste, GDR et RRDP.)</p>
+  <p> Laissez-moi donc parler : j'évoque des questions juridiques. <mpt:interruption type="exclamations" text="Vives exclamations sur les bancs des groupes SRC, écologiste, GDR et RRDP."/></p>
 
 </mpt:metadata>
 
@@ -6847,7 +6847,7 @@
   <speaker>Patrick Hetzel</speaker>
 
 <mpt:metadata auteur="Patrick_Hetzel" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> ...à un moment où nous aurions justement besoin de concorde et d'harmonie. Nos concitoyens apprécieront ! (Vifs applaudissements sur les bancs du groupe UMP. – Exclamations sur les bancs du groupe SRC.)</p>
+  <p> ...à un moment où nous aurions justement besoin de concorde et d'harmonie. Nos concitoyens apprécieront ! <mpt:interruption type="applaudissements" text="Vifs applaudissements sur les bancs du groupe UMP. – Exclamations sur les bancs du groupe SRC."/></p>
 
 </mpt:metadata>
 
@@ -6908,7 +6908,7 @@
   <speaker>Bernard Accoyer</speaker>
 
 <mpt:metadata auteur="Bernard_Accoyer" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> ...la sécurité, la dette de la France, Florange, Renault. Les voilà, leurs priorités ! Et nous, nous nous réunissons un dimanche, alors que cela ne nous arrive jamais, pour débattre d'une question qui ne les intéresse même pas ! (Vifs applaudissements sur les bancs du groupe UMP. – Exclamations sur les bancs du groupe SRC.)</p>
+  <p> ...la sécurité, la dette de la France, Florange, Renault. Les voilà, leurs priorités ! Et nous, nous nous réunissons un dimanche, alors que cela ne nous arrive jamais, pour débattre d'une question qui ne les intéresse même pas ! <mpt:interruption type="applaudissements" text="Vifs applaudissements sur les bancs du groupe UMP. – Exclamations sur les bancs du groupe SRC."/></p>
 
 </mpt:metadata>
 
@@ -7042,7 +7042,7 @@
 
 <mpt:metadata auteur="Marie-George_Buffet" interventiontype="intervention" politicalgroup="GDR"  vote="pour" gender="female" politicalgender="GDR_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p> Bien sûr, lorsqu'ils étaient plus grands, l'homme prenait la relève, car il s'agissait alors de leur donner une bonne éducation, notamment sur le plan scolaire. La maman, elle, était là pour les materner, jusqu'à leurs treize ans du moins car, après, elle n'en aurait plus été vraiment capable, n'est-ce pas ?</p>
-<p>Je me rappelle les débats qui se tinrent au Sénat entre 1925 et 1935. À chaque fois qu'une loi était déposée pour accorder le droit de vote aux femmes, le clan conservateur s'écriait que les femmes allaient devenir stériles si elles commençaient à se mêler de politique <mpt:interruption type="Rires" text="Rires sur les bancs du groupe SRC"/>, qu'elles allaient apporter de la déraison... (Vives exclamations sur les bancs du groupe UMP.)</p>
+<p>Je me rappelle les débats qui se tinrent au Sénat entre 1925 et 1935. À chaque fois qu'une loi était déposée pour accorder le droit de vote aux femmes, le clan conservateur s'écriait que les femmes allaient devenir stériles si elles commençaient à se mêler de politique <mpt:interruption type="Rires" text="Rires sur les bancs du groupe SRC"/>, qu'elles allaient apporter de la déraison... <mpt:interruption type="exclamations" text="Vives exclamations sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
 
@@ -7062,7 +7062,7 @@
   <speaker>Marie-George Buffet</speaker>
 
 <mpt:metadata auteur="Marie-George_Buffet" interventiontype="intervention" politicalgroup="GDR"  vote="pour" gender="female" politicalgender="GDR_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
-  <p> Allez donc lire les comptes rendus si vous ne me croyez pas ! Les femmes allaient apporter de la déraison à la politique ! (Vifs applaudissements sur les bancs du groupe SRC.)</p>
+  <p> Allez donc lire les comptes rendus si vous ne me croyez pas ! Les femmes allaient apporter de la déraison à la politique ! <mpt:interruption type="applaudissements" text="Vifs applaudissements sur les bancs du groupe SRC."/></p>
 <p>Mais quelle vision avez-vous donc du rapport de la femme à l'enfant ? La femme d'<w>aujourd'hui</w> travaille et l'enfant va à l'école maternelle ! La femme est l'égale de l'homme et nous n'avons pas à faire une telle distinction dans l'éducation des enfants ! <mpt:interruption type="« Bravo ! »" text="« Bravo ! »sur les bancs du groupe SRC."/></p>
 
 </mpt:metadata>
@@ -7176,7 +7176,7 @@
 
 <mpt:metadata auteur="Christian_Jacob" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Si, car c'est directement lié au bon déroulement de notre séance. En l'espace d'un après-midi, nous venons d'assister, sur la PMA, au refus par la garde des sceaux de répondre à nos questions, à l'annonce par la ministre de la famille qu'elle ferait l'objet d'un prochain texte sur la famille, à son sévère rappel à l'ordre par le Premier ministre depuis Phnom Penh, et, à l'instant, à un tweet du président du groupe socialiste qui, défiant le Premier ministre, affirme que l'extension de la PMA sera, de toutes façons, dans le texte déposé par le Gouvernement, quel que soit l'avis du Comité national d'éthique ! <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC."/></p>
-<p>Que faire face à un tel imbroglio, face à une crise politique aussi grave entre les membres de la majorité, mais surtout entre le président du groupe socialiste et le Premier ministre ! (Vives exclamations sur les bancs du groupe SRC.)</p>
+<p>Que faire face à un tel imbroglio, face à une crise politique aussi grave entre les membres de la majorité, mais surtout entre le président du groupe socialiste et le Premier ministre ! <mpt:interruption type="exclamations" text="Vives exclamations sur les bancs du groupe SRC."/></p>
 
 </mpt:metadata>
 
@@ -7199,7 +7199,7 @@
   <p> Nous ne pouvons pas continuer à débattre sereinement avec une majorité qui avance comme un canard sans tête ! (Nouvelles exclamations sur les bancs du groupe SRC.)</p>
 <p>On ne sait plus <w>aujourd'hui</w> quelle est la position de la majorité, celle du Premier ministre, celle du Gouvernement. Les ministres affichent des positions différentes les uns après les autres, le Premier ministre communique depuis l'Asie parce qu'il n'a personne, ici, pour porter correctement sa parole, et le président du groupe socialiste le défie en permanence sur les plateaux et dans la presse. <mpt:interruption type="Protestations" text="Protestations sur les bancs du groupe SRC."/></p>
 <p>Il devient indispensable que Mme la garde des sceaux ou M. le ministre chargé des relations avec le Parlement nous explique la position du Gouvernement.</p>
-<p>Je vous demande, monsieur le président, une suspension de séance afin que le Gouvernement puisse se mettre enfin d'accord avec son groupe. (Vifs applaudissements sur les bancs du groupe UMP.)</p>
+<p>Je vous demande, monsieur le président, une suspension de séance afin que le Gouvernement puisse se mettre enfin d'accord avec son groupe. <mpt:interruption type="applaudissements" text="Vifs applaudissements sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
 
@@ -7478,7 +7478,7 @@
 
 <mpt:metadata auteur="François_de_Mazières" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130131.asp#INTER_ADT_87" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> On sait qu'il y a <w>aujourd'hui</w> 30 000 demandes d'adoption non satisfaites. Or, si votre loi malheureuse est adoptée, nous allons encore réduire le nombre de possibilités d'adoption. C'est simplement une question de logique : vous ne pourrez faire autrement que d'établir un quota pour les couples homosexuels si vous n'acceptez pas la PMA et la GPA.</p>
-<p>Vous nous dites <w>aujourd'hui</w> que ce sera pour plus tard. Mais comprenez que, pour les Français, c'est maintenant que la vraie question se pose. Elle se pose <w>aujourd'hui</w>, au moment où nous examinons cette loi. Tout à l'heure, Patrick Hetzel a parlé d'un tweet qu'il avait lu, et j'ai vu, monsieur le rapporteur, que vous marquiez votre approbation. Il y a là un problème fondamental. Permettez-moi de vous dire que votre attitude m'a vraiment choqué ! Vous devez tenir la position que Mme la garde des sceaux essaie de tenir avec constance, même si, intellectuellement, on sent qu'elle ne tient pas la route. (Vives protestations sur les bancs du groupe SRC.)</p>
+<p>Vous nous dites <w>aujourd'hui</w> que ce sera pour plus tard. Mais comprenez que, pour les Français, c'est maintenant que la vraie question se pose. Elle se pose <w>aujourd'hui</w>, au moment où nous examinons cette loi. Tout à l'heure, Patrick Hetzel a parlé d'un tweet qu'il avait lu, et j'ai vu, monsieur le rapporteur, que vous marquiez votre approbation. Il y a là un problème fondamental. Permettez-moi de vous dire que votre attitude m'a vraiment choqué ! Vous devez tenir la position que Mme la garde des sceaux essaie de tenir avec constance, même si, intellectuellement, on sent qu'elle ne tient pas la route. <mpt:interruption type="protestations" text="Vives protestations sur les bancs du groupe SRC."/></p>
 
 </mpt:metadata>
 

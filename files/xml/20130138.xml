@@ -441,7 +441,7 @@
   <speaker>Marc Le Fur</speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> « Ont-ils conservé une once d'esprit critique ? Ont-ils une personnalité, ou bien sont-ils simplement là pour appuyer sur des boutons ? » (Vives exclamations sur les bancs du groupe SRC.)</p>
+  <p> « Ont-ils conservé une once d'esprit critique ? Ont-ils une personnalité, ou bien sont-ils simplement là pour appuyer sur des boutons ? » <mpt:interruption type="exclamations" text="Vives exclamations sur les bancs du groupe SRC."/></p>
 
 </mpt:metadata>
 
@@ -1605,7 +1605,7 @@
 <mpt:metadata auteur="Xavier_Breton" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Lorsqu'un enfant ne dépend que du bon-vouloir des adultes, tout est permis, toutes les techniques sont permises. Peut-être avez-vous une conception de la personne différente de la nôtre ? Sans doute, mais au moins nous, nous assumons. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC."/></p>
 <p>En réduisant un enfant à un projet, c'est la logique techniciste qui est à l'œuvre, laquelle conduit à faire primer le désir des adultes. C'est une manière de se servir de la science et de l'utiliser ; c'est ce qui nous sépare de vous comme de nos collègues britanniques. Car nous, nous sommes fiers de ne pas être utilitaristes. Pour nous, la fin ne justifie pas les moyens. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe UMP."/></p>
-<p>C'est notre exception philosophique française et nous en sommes fiers. Vous, vous êtes en train de vendre votre âme aux Anglo-Saxons, aux Américains et leur théorie du genre. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC."/> Si, chers collègues, vous vous inscrivez complètement dans cette idéologie. Au moins, assumez-le. Nous, nous sommes fiers de l'exception française. (Vifs applaudissements sur les bancs du groupe UMP.)</p>
+<p>C'est notre exception philosophique française et nous en sommes fiers. Vous, vous êtes en train de vendre votre âme aux Anglo-Saxons, aux Américains et leur théorie du genre. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC."/> Si, chers collègues, vous vous inscrivez complètement dans cette idéologie. Au moins, assumez-le. Nous, nous sommes fiers de l'exception française. <mpt:interruption type="applaudissements" text="Vifs applaudissements sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
 
@@ -1764,7 +1764,7 @@
 
 <mpt:metadata auteur="Jean-Frédéric_Poisson" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130138.asp#INTER_ADT_25" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Je poursuis la lecture de la déclaration de notre excellent ancien collègue Bernard Poignant, <w>aujourd'hui</w> conseiller du Président de la République François Hollande.</p>
-<p>Le 11 novembre 2011, Bernard Poignant déclarait : « Quelle que soit la façon dont on prend la question, il faut se rendre à l'évidence. Tout enfant a un père et une mère. Il ne peut pas être élevé par eux s'ils sont séparés, décédés ou si la société les a arrachés à leurs parents au nom de leurs droits ou encore s'ils se trouvent dans un foyer de deux hommes ou de deux femmes. Mais de toute façon, ils existent. Voilà pourquoi le projet de loi va entraîner beaucoup de discussions, beaucoup d'interrogations et mérite autant de consultations et de débats que nécessaire afin d'entraîner une acceptation de la société. Certains partent du seul droit des adultes au nom de leur liberté et de l'égalité. D'autres partent des enfants au nom d'une idée de leur construction et aussi de l'égalité (Mme Louwagie quitte l'hémicycle sous les exclamations des députés du groupe SRC) ...</p>
+<p>Le 11 novembre 2011, Bernard Poignant déclarait : « Quelle que soit la façon dont on prend la question, il faut se rendre à l'évidence. Tout enfant a un père et une mère. Il ne peut pas être élevé par eux s'ils sont séparés, décédés ou si la société les a arrachés à leurs parents au nom de leurs droits ou encore s'ils se trouvent dans un foyer de deux hommes ou de deux femmes. Mais de toute façon, ils existent. Voilà pourquoi le projet de loi va entraîner beaucoup de discussions, beaucoup d'interrogations et mérite autant de consultations et de débats que nécessaire afin d'entraîner une acceptation de la société. Certains partent du seul droit des adultes au nom de leur liberté et de l'égalité. D'autres partent des enfants au nom d'une idée de leur construction et aussi de l'égalité <mpt:interruption type="exclamations" text="Mme Louwagie quitte l'hémicycle sous les exclamations des députés du groupe SRC"/> ...</p>
 
 </mpt:metadata>
 
@@ -4178,7 +4178,7 @@
   <speaker>Bernard Roman</speaker>
 
 <mpt:metadata auteur="Bernard_Roman" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
-  <p> Taisez-vous, Wauquiez ! (Vives protestations sur les bancs des groupes UMP et UDI. – Vives exclamations sur les bancs des groupes SRC, écologiste, GDR et RRDP.)</p>
+  <p> Taisez-vous, Wauquiez ! <mpt:interruption type="protestations" text="Vives protestations sur les bancs des groupes UMP et UDI. – Vives exclamations sur les bancs des groupes SRC, écologiste, GDR et RRDP."/></p>
 
 </mpt:metadata>
 
@@ -4939,7 +4939,7 @@
 
 <mpt:metadata auteur="la_présidente" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p> Monsieur Wauquiez, vous avez la parole pour un rappel au règlement. <mpt:interruption type="Protestations" text="Protestations prolongées sur les bancs du groupe UMP."/> Vous ne la prenez pas ? (M. Wauquiez décline.)</p>
-<p>Dans ce cas, je vais maintenant mettre aux voix les amendements identiques <w>n<hi rend="sup">os</hi></w> 2163, 2731 et 3742. (Vives protestations sur les bancs du groupe UMP. – Tous les députés UMP se lèvent et réclament une suspension de séance.) C'est trop tard : le scrutin est lancé. (Huées sur les bancs du groupe UMP.)</p>
+<p>Dans ce cas, je vais maintenant mettre aux voix les amendements identiques <w>n<hi rend="sup">os</hi></w> 2163, 2731 et 3742. <mpt:interruption type="protestations" text="Vives protestations sur les bancs du groupe UMP. – Tous les députés UMP se lèvent et réclament une suspension de séance."/> C'est trop tard : le scrutin est lancé. (Huées sur les bancs du groupe UMP.)</p>
 
 </mpt:metadata>
 
@@ -4998,11 +4998,11 @@
 
 <mpt:metadata auteur="Laurent_Wauquiez" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130138.asp#INTER_8" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Ce rappel au règlement se fonde sur l'article 58, alinéa 1.</p>
-<p>Madame la présidente, la façon dont vous venez de procéder, le comportement que vous venez d'avoir sont indignes. (Vifs applaudissements des députés du groupe UMP. – Huées sur les bancs du groupe SRC.)</p>
+<p>Madame la présidente, la façon dont vous venez de procéder, le comportement que vous venez d'avoir sont indignes. <mpt:interruption type="applaudissements" text="Vifs applaudissements des députés du groupe UMP. – Huées sur les bancs du groupe SRC."/></p>
 <p>Le président de notre groupe avait le droit d'obtenir une suspension de séance. Vous venez de piétiner ce droit.</p>
 <p>Madame la garde des sceaux, chargée du respect des institutions, venait d'insulter le travail de l'opposition. <mpt:interruption type="Mêmes mouvements" text="Mêmes mouvements."/> Visiblement, quand nous lui posons des questions, nous l'importunons. Visiblement, quand nous osons exprimer notre désaccord, nous la gênons. (Le tumulte se poursuit.) Visiblement, quand nous osons, sur un sujet aussi grave, demander un débat qui dure plus de dix jours, on considère que nous faisons de l'obstruction ! <mpt:interruption type="« Oui ! Oui ! »" text="« Oui ! Oui ! » sur les bancs du groupe SRC."/></p>
-<p>Comble du comble, madame la garde des sceaux traite avec ironie et mépris les interventions de nos députés. Et vous, madame la présidente, qui êtes théoriquement chargée du bon déroulement de ces débats, vous ajoutez aux attaques de la garde des sceaux à l'égard des institutions une absence complète de respect à l'égard du travail des députés de l'opposition ! (Vifs applaudissements des députés du groupe UMP, toujours debout.)</p>
-<p>C'est indigne ! (Vives exclamations sur les bancs du groupe SRC.)</p>
+<p>Comble du comble, madame la garde des sceaux traite avec ironie et mépris les interventions de nos députés. Et vous, madame la présidente, qui êtes théoriquement chargée du bon déroulement de ces débats, vous ajoutez aux attaques de la garde des sceaux à l'égard des institutions une absence complète de respect à l'égard du travail des députés de l'opposition ! <mpt:interruption type="applaudissements" text="Vifs applaudissements des députés du groupe UMP, toujours debout."/></p>
+<p>C'est indigne ! <mpt:interruption type="exclamations" text="Vives exclamations sur les bancs du groupe SRC."/></p>
 <p>La garde des sceaux a énoncé une contrevérité concernant le déroulement de la séance. L'avis du Conseil d'État, et elle le sait très bien, peut être rendu public par le Gouvernement ! <mpt:interruption type="Mêmes mouvements" text="Mêmes mouvements."/></p>
 
 </mpt:metadata>
@@ -5023,7 +5023,7 @@
   <speaker>Laurent Wauquiez</speaker>
 
 <mpt:metadata auteur="Laurent_Wauquiez" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Elle vient de nous faire un grand numéro... (Vives protestations sur les bancs du groupe SRC.) consistant à dire qu'elle n'en avait pas la possibilité, qu'elle n'était pas là pour éclairer les travaux de l'opposition ! (Les apostrophes fusent.) Que l'avis du Conseil d'État ne pouvait pas être rendu public !</p>
+  <p> Elle vient de nous faire un grand numéro... <mpt:interruption type="protestations" text="Vives protestations sur les bancs du groupe SRC."/> consistant à dire qu'elle n'en avait pas la possibilité, qu'elle n'était pas là pour éclairer les travaux de l'opposition ! (Les apostrophes fusent.) Que l'avis du Conseil d'État ne pouvait pas être rendu public !</p>
 <p>Madame la garde des sceaux, vous vous adressez bien à des législateurs ! </p>
 
 </mpt:metadata>
@@ -5179,7 +5179,7 @@
   <speaker>Christian Jacob</speaker>
 
 <mpt:metadata auteur="Christian_Jacob" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130138.asp#INTER_10" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Madame la présidente, j'entends intervenir dans des conditions normales, c'est-à-dire avec un minimum de silence ! (Vives exclamations sur les bancs du groupe SRC.)</p>
+  <p> Madame la présidente, j'entends intervenir dans des conditions normales, c'est-à-dire avec un minimum de silence ! <mpt:interruption type="exclamations" text="Vives exclamations sur les bancs du groupe SRC."/></p>
 
 </mpt:metadata>
 
@@ -5547,7 +5547,7 @@
 
 <mpt:metadata auteur="Olivier_Dussopt" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
   <p> ...pour cacher votre incapacité à concevoir les familles homoparentales et la présence des enfants en leur sein, et votre incapacité à accepter même que la société évolue en ce sens.</p>
-<p>Je conclus en répétant à notre rapporteur, au président de la commission, à Mme la ministre de la famille et à Mme la garde des sceaux que nous sommes extrêmement fiers de leur travail. (Vifs applaudissements sur les bancs des groupes SRC, GDR et écologiste.)</p>
+<p>Je conclus en répétant à notre rapporteur, au président de la commission, à Mme la ministre de la famille et à Mme la garde des sceaux que nous sommes extrêmement fiers de leur travail. <mpt:interruption type="applaudissements" text="Vifs applaudissements sur les bancs des groupes SRC, GDR et écologiste."/></p>
 
 </mpt:metadata>
 
@@ -5873,7 +5873,7 @@
   <speaker>François de Rugy</speaker>
 
 <mpt:metadata auteur="François_de_Rugy" interventiontype="intervention" politicalgroup="ECOLO"  vote="pour" gender="male" politicalgender="ECOLO_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
-  <p> ...car j'ai l'impression que le fait qu'il s'agisse d'une femme n'est pas totalement étranger au mépris avec lequel vous l'avez traitée. (Vifs applaudissements sur les bancs des groupes SRC, GDR et écologiste. – Protestations sur les bancs du groupe UMP.) Vous avez pointé un doigt accusateur et menaçant, en tout cas c'est comme cela que nous l'avons ressenti, vers la présidente de séance, ce qui empêche le bon déroulement de nos travaux.</p>
+  <p> ...car j'ai l'impression que le fait qu'il s'agisse d'une femme n'est pas totalement étranger au mépris avec lequel vous l'avez traitée. <mpt:interruption type="applaudissements" text="Vifs applaudissements sur les bancs des groupes SRC, GDR et écologiste. – Protestations sur les bancs du groupe UMP."/> Vous avez pointé un doigt accusateur et menaçant, en tout cas c'est comme cela que nous l'avons ressenti, vers la présidente de séance, ce qui empêche le bon déroulement de nos travaux.</p>
 
 </mpt:metadata>
 

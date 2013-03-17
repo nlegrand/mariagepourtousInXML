@@ -1540,7 +1540,7 @@
   <speaker>Jean Glavany</speaker>
 
 <mpt:metadata auteur="Jean_Glavany" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
-  <p> Qu'est-ce que vous en savez, de la nature humaine ? (Vives exclamations sur les bancs du groupe UMP.)</p>
+  <p> Qu'est-ce que vous en savez, de la nature humaine ? <mpt:interruption type="exclamations" text="Vives exclamations sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
 
@@ -2737,7 +2737,7 @@
   <speaker>Christiane Taubira,garde des sceaux.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
-  <p>Monsieur le député Aboud, vous avez déclaré : « ce ne sera pas le triangle rose, une véritable tragédie » et vous avez ajouté : « ce sera le triangle noir ». Je trouve inqualifiable de faire un mot d'esprit sur une expression pareille (Vives exclamations sur les bancs du groupe UMP) Je veux simplement croire que c'était fortuit, car c'est inqualifiable ! <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe SRC – Vives exclamations sur les bancs du groupe UMP."/></p>
+  <p>Monsieur le député Aboud, vous avez déclaré : « ce ne sera pas le triangle rose, une véritable tragédie » et vous avez ajouté : « ce sera le triangle noir ». Je trouve inqualifiable de faire un mot d'esprit sur une expression pareille <mpt:interruption type="exclamations" text="Vives exclamations sur les bancs du groupe UMP"/> Je veux simplement croire que c'était fortuit, car c'est inqualifiable ! <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe SRC – Vives exclamations sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
 
@@ -2793,7 +2793,7 @@
   <speaker>Christian Jacob</speaker>
 
 <mpt:metadata auteur="Christian_Jacob" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130134.asp#INTER_14" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> C'est trop facile, monsieur le président. Je regrette l'indignité avec laquelle s'est exprimée Mme la ministre (Vives exclamations sur les bancs du groupe SRC.) Votre comportement est indigne, madame la ministre. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe UMP."/> Ce sont les députés de votre camp, les socialistes, qui ont scandaleusement fait référence au triangle rose alors que M. Mariton s'exprimait. Vous reprenez cette expression. Vous êtes indigne des responsabilités que vous exercez ! C'est scandaleux ! (Très vives protestations sur les bancs du groupe SRC.)</p>
+  <p> C'est trop facile, monsieur le président. Je regrette l'indignité avec laquelle s'est exprimée Mme la ministre <mpt:interruption type="exclamations" text="Vives exclamations sur les bancs du groupe SRC."/> Votre comportement est indigne, madame la ministre. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe UMP."/> Ce sont les députés de votre camp, les socialistes, qui ont scandaleusement fait référence au triangle rose alors que M. Mariton s'exprimait. Vous reprenez cette expression. Vous êtes indigne des responsabilités que vous exercez ! C'est scandaleux ! (Très vives protestations sur les bancs du groupe SRC.)</p>
 <p></p>
 </mpt:metadata></sp>
 </div>
@@ -2905,7 +2905,7 @@
 
 <mpt:metadata auteur="Bruno_Le_Roux" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
   <p> Quand cela a été évoqué, en tout cas, ce n'était en direction d'aucun d'entre vous. Si vous hochez la tête en me disant « si ! », cela montre bien la façon dont vous pensez vous-même être le relais, <w>aujourd'hui</w>, peut-être, d'un certain nombre d'idées. Ce n'était pas la volonté du groupe. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe SRC."/></p>
-<p>Pour autant, les amalgames qui ont été faits, notamment ce qu'a rappelé Mme la garde des sceaux, dans des propos qui, là, n'étaient pas une référence à l'histoire, cet amalgame entre triangle rose et triangle noir, méritaient, je le pense, la mise au point qui a été celle de Mme la garde des sceaux. Je veux, une fois de plus, par rapport à ce débat et à ce que sous-tend ce débat, lui apporter le soutien total du groupe socialiste pour les propos qu'elle a tenus et qui visent à la clarté du débat. (Vifs applaudissements sur les bancs du groupe SRC.)</p>
+<p>Pour autant, les amalgames qui ont été faits, notamment ce qu'a rappelé Mme la garde des sceaux, dans des propos qui, là, n'étaient pas une référence à l'histoire, cet amalgame entre triangle rose et triangle noir, méritaient, je le pense, la mise au point qui a été celle de Mme la garde des sceaux. Je veux, une fois de plus, par rapport à ce débat et à ce que sous-tend ce débat, lui apporter le soutien total du groupe socialiste pour les propos qu'elle a tenus et qui visent à la clarté du débat. <mpt:interruption type="applaudissements" text="Vifs applaudissements sur les bancs du groupe SRC."/></p>
 
 </mpt:metadata>
 
@@ -2925,7 +2925,7 @@
   <speaker>Bruno Le Roux</speaker>
 
 <mpt:metadata auteur="Bruno_Le_Roux" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
-  <p> Ce qui n'est pas beau, c'est que vous interrompiez sans cesse le débat (Vives exclamations sur les bancs du groupe UMP) pour faire en sorte qu'il sombre de cette façon. Ce qui n'est pas beau, c'est que vous soyez toujours sur des amalgames qui ne sont pas la façon dont nous voulons poser les choses mais qui mesurent bien les conséquences d'un certain nombre de propos que vous avez tenus...</p>
+  <p> Ce qui n'est pas beau, c'est que vous interrompiez sans cesse le débat <mpt:interruption type="exclamations" text="Vives exclamations sur les bancs du groupe UMP"/> pour faire en sorte qu'il sombre de cette façon. Ce qui n'est pas beau, c'est que vous soyez toujours sur des amalgames qui ne sont pas la façon dont nous voulons poser les choses mais qui mesurent bien les conséquences d'un certain nombre de propos que vous avez tenus...</p>
 
 </mpt:metadata>
 
@@ -3039,7 +3039,7 @@
   <speaker>Christiane Taubira,garde des sceaux.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130134.asp#INTER_18"  gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
-  <p>Vous nous donnez des leçons sur le vocabulaire, quand, dans vos rangs, on parle d'« enfants Playmobil » ? Monsieur Aboud, le Journal officiel l'atteste ! Vous dites : « Ce ne sera pas le triangle rose, ce sera le triangle noir ! » Et c'est de moi que vous voulez des propos d'apaisement ? (Vifs applaudissements sur les bancs des groupes SRC, écologiste et GDR. – Vives exclamations sur les bancs du groupe UMP.)</p>
+  <p>Vous nous donnez des leçons sur le vocabulaire, quand, dans vos rangs, on parle d'« enfants Playmobil » ? Monsieur Aboud, le Journal officiel l'atteste ! Vous dites : « Ce ne sera pas le triangle rose, ce sera le triangle noir ! » Et c'est de moi que vous voulez des propos d'apaisement ? <mpt:interruption type="applaudissements" text="Vifs applaudissements sur les bancs des groupes SRC, écologiste et GDR. – Vives exclamations sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
 
@@ -3886,7 +3886,7 @@
   <speaker>Marc Le Fur</speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> ...afin que dans chacun de ces 187 articles, on en revienne à la disposition initiale, à celle qui fait toute la force du code civil, comme l'a très bien dit notre collègue Étienne Blanc. Nous l'affirmerons et le répéterons, monsieur le président de la commission, et nous avons bien l'intention d'exercer ce droit. Il est des moments où il faut savoir se battre pour préserver ce qui pour nous reste l'essentiel : papa, maman, père et mère ! (Vifs applaudissements sur les bancs du groupe UMP.)</p>
+  <p> ...afin que dans chacun de ces 187 articles, on en revienne à la disposition initiale, à celle qui fait toute la force du code civil, comme l'a très bien dit notre collègue Étienne Blanc. Nous l'affirmerons et le répéterons, monsieur le président de la commission, et nous avons bien l'intention d'exercer ce droit. Il est des moments où il faut savoir se battre pour préserver ce qui pour nous reste l'essentiel : papa, maman, père et mère ! <mpt:interruption type="applaudissements" text="Vifs applaudissements sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
 

@@ -5005,7 +5005,7 @@
   <speaker>Alain Vidalies ,ministre délégué.</speaker>
 
 <mpt:metadata auteur="Alain_Vidalies_" interventiontype="intervention"        debat="mpt" subject="mpt">
-  <p>Le seul problème, c'est une interview donnée par un sénateur UMP – je dis bien UMP, monsieur Fasquelle –, qui est publiée <w>aujourd'hui</w>. Il se prononce pour le mariage, pour la GPA et pour la PMA. C'est publié <w>aujourd'hui</w> ! (Vives exclamations sur les bancs du groupe UMP.)</p>
+  <p>Le seul problème, c'est une interview donnée par un sénateur UMP – je dis bien UMP, monsieur Fasquelle –, qui est publiée <w>aujourd'hui</w>. Il se prononce pour le mariage, pour la GPA et pour la PMA. C'est publié <w>aujourd'hui</w> ! <mpt:interruption type="exclamations" text="Vives exclamations sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
 
@@ -5251,7 +5251,7 @@
 
 <mpt:metadata auteur="Yves_Censi" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> C'est Pompidou, en 1972.</p>
-<p>L'interruption volontaire de grossesse, c'est Simone Veil, sous Giscard d'Estaing. (Vives exclamations sur les bancs du groupe SRC.)</p>
+<p>L'interruption volontaire de grossesse, c'est Simone Veil, sous Giscard d'Estaing. <mpt:interruption type="exclamations" text="Vives exclamations sur les bancs du groupe SRC."/></p>
 
 </mpt:metadata>
 
@@ -5314,7 +5314,7 @@
   <speaker>Claude Greff</speaker>
 
 <mpt:metadata auteur="Claude_Greff" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130139.asp#INTER_ADT_87" vote="contre" gender="female" politicalgender="UMP_female" wing="right" winggender="right_female" debat="mpt" subject="mpt">
-  <p> La majorité a tout de même un sacré culot ! Nier que c'est Simone Veil qui nous a apporté le droit à l'interruption volontaire de grossesse ! (Vives exclamations sur les bancs du groupe SRC.)</p>
+  <p> La majorité a tout de même un sacré culot ! Nier que c'est Simone Veil qui nous a apporté le droit à l'interruption volontaire de grossesse ! <mpt:interruption type="exclamations" text="Vives exclamations sur les bancs du groupe SRC."/></p>
 
 </mpt:metadata>
 
@@ -6085,7 +6085,7 @@
   <speaker>Christian Jacob</speaker>
 
 <mpt:metadata auteur="Christian_Jacob" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Depuis huit jours, à chaque fois qu'elle est incapable de répondre en droit, Mme la garde des sceaux répond par la provocation ! Son attitude est inacceptable, monsieur le président. Je vous demande une suspension de séance. Croyez-moi, la séance ne se déroulera pas bien tant que Mme la garde des sceaux restera sur cette position ! (Vifs applaudissements sur les bancs du groupe UMP.)</p>
+  <p> Depuis huit jours, à chaque fois qu'elle est incapable de répondre en droit, Mme la garde des sceaux répond par la provocation ! Son attitude est inacceptable, monsieur le président. Je vous demande une suspension de séance. Croyez-moi, la séance ne se déroulera pas bien tant que Mme la garde des sceaux restera sur cette position ! <mpt:interruption type="applaudissements" text="Vifs applaudissements sur les bancs du groupe UMP."/></p>
 <p></p>
 
 </mpt:metadata>
@@ -6476,7 +6476,7 @@
   <speaker>Marc Le Fur</speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Donc, bravo David Douillet ! (Vifs applaudissements sur de nombreux bancs du groupe UMP.)</p>
+  <p> Donc, bravo David Douillet ! <mpt:interruption type="applaudissements" text="Vifs applaudissements sur de nombreux bancs du groupe UMP."/></p>
 <p>Nous évoquons, mes chers collègues, l'article 206 du code civil que vous voulez réformer : « Les gendres et belles-filles doivent également, et dans les mêmes circonstances, des aliments à leur beau-père et belle-mère... »...</p>
 
 </mpt:metadata>
