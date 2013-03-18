@@ -3599,7 +3599,7 @@
 
 <mpt:metadata auteur="Éric_Woerth" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130138.asp#INTER_ADT_61" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Monsieur le président, l'amendement-balai balaie pas mal des principes républicains. </p>
-<p>La loi sur l'abolition de la peine de mort, la loi sur l'avortement, c'étaient des grandes lois humanistes, c'étaient aussi des grandes lois républicaines. (Interruptions sur les bancs du groupe SRC.)</p>
+<p>La loi sur l'abolition de la peine de mort, la loi sur l'avortement, c'étaient des grandes lois humanistes, c'étaient aussi des grandes lois républicaines. <mpt:interruption type="interruption" text="Interruptions sur les bancs du groupe SRC."/></p>
 <p>Celle-ci, elle ne l'est pas et il y a une véritable confusion. Elle est même le contraire, puisqu'elle donne le droit à l'État d'empêcher un enfant d'avoir un père ou une mère.</p>
 <p>N'est pas Robert Badinter ou Simone Veil qui veut. N'est pas non plus Élisabeth Guigou qui veut. Je ne résiste pas à vous relire ce que disait Élisabeth Guigou : elle disait très clairement que le PACS n'allait pas se continuer par une autre vision des choses et qu'il n'irait pas jusqu'au mariage, à l'adoption et à la PMA. Élisabeth Guigou a été très claire dans les débats en 1998 et lorsqu'elle l'a dit, je pense d'ailleurs qu'elle était probablement la porte-parole du président Mitterrand, ne l'oubliez pas. <mpt:interruption type="Protestations" text="Protestations sur les bancs du groupe SRC."/></p>
 
@@ -5000,7 +5000,7 @@
   <p> Ce rappel au règlement se fonde sur l'article 58, alinéa 1.</p>
 <p>Madame la présidente, la façon dont vous venez de procéder, le comportement que vous venez d'avoir sont indignes. <mpt:interruption type="applaudissements" text="Vifs applaudissements des députés du groupe UMP. – Huées sur les bancs du groupe SRC."/></p>
 <p>Le président de notre groupe avait le droit d'obtenir une suspension de séance. Vous venez de piétiner ce droit.</p>
-<p>Madame la garde des sceaux, chargée du respect des institutions, venait d'insulter le travail de l'opposition. <mpt:interruption type="Mêmes mouvements" text="Mêmes mouvements."/> Visiblement, quand nous lui posons des questions, nous l'importunons. Visiblement, quand nous osons exprimer notre désaccord, nous la gênons. (Le tumulte se poursuit.) Visiblement, quand nous osons, sur un sujet aussi grave, demander un débat qui dure plus de dix jours, on considère que nous faisons de l'obstruction ! <mpt:interruption type="« Oui ! Oui ! »" text="« Oui ! Oui ! » sur les bancs du groupe SRC."/></p>
+<p>Madame la garde des sceaux, chargée du respect des institutions, venait d'insulter le travail de l'opposition. <mpt:interruption type="Mêmes mouvements" text="Mêmes mouvements."/> Visiblement, quand nous lui posons des questions, nous l'importunons. Visiblement, quand nous osons exprimer notre désaccord, nous la gênons. <mpt:interruption type="tumulte" text="Le tumulte se poursuit."/> Visiblement, quand nous osons, sur un sujet aussi grave, demander un débat qui dure plus de dix jours, on considère que nous faisons de l'obstruction ! <mpt:interruption type="« Oui ! Oui ! »" text="« Oui ! Oui ! » sur les bancs du groupe SRC."/></p>
 <p>Comble du comble, madame la garde des sceaux traite avec ironie et mépris les interventions de nos députés. Et vous, madame la présidente, qui êtes théoriquement chargée du bon déroulement de ces débats, vous ajoutez aux attaques de la garde des sceaux à l'égard des institutions une absence complète de respect à l'égard du travail des députés de l'opposition ! <mpt:interruption type="applaudissements" text="Vifs applaudissements des députés du groupe UMP, toujours debout."/></p>
 <p>C'est indigne ! <mpt:interruption type="exclamations" text="Vives exclamations sur les bancs du groupe SRC."/></p>
 <p>La garde des sceaux a énoncé une contrevérité concernant le déroulement de la séance. L'avis du Conseil d'État, et elle le sait très bien, peut être rendu public par le Gouvernement ! <mpt:interruption type="Mêmes mouvements" text="Mêmes mouvements."/></p>
@@ -5023,7 +5023,7 @@
   <speaker>Laurent Wauquiez</speaker>
 
 <mpt:metadata auteur="Laurent_Wauquiez" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Elle vient de nous faire un grand numéro... <mpt:interruption type="protestations" text="Vives protestations sur les bancs du groupe SRC."/> consistant à dire qu'elle n'en avait pas la possibilité, qu'elle n'était pas là pour éclairer les travaux de l'opposition ! (Les apostrophes fusent.) Que l'avis du Conseil d'État ne pouvait pas être rendu public !</p>
+  <p> Elle vient de nous faire un grand numéro... <mpt:interruption type="protestations" text="Vives protestations sur les bancs du groupe SRC."/> consistant à dire qu'elle n'en avait pas la possibilité, qu'elle n'était pas là pour éclairer les travaux de l'opposition ! <mpt:interruption type="apostrophes" text="Les apostrophes fusent."/> Que l'avis du Conseil d'État ne pouvait pas être rendu public !</p>
 <p>Madame la garde des sceaux, vous vous adressez bien à des législateurs ! </p>
 
 </mpt:metadata>
@@ -5118,7 +5118,7 @@
 
 <mpt:metadata auteur="la_présidente" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p> Vous aurez la parole, monsieur Jacob.</p>
-<p>Sur le déroulement du vote précédent, j'avais été saisie d'une demande de scrutin public. Le scrutin était annoncé, j'ai donc préféré vous donner la parole ensuite. (Le tumulte se poursuit.) M. Jacob m'ayant demandé la parole pour un rappel au règlement, je la lui ai donnée, mais son intervention n'avait strictement rien à voir avec un rappel au règlement. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC, écologiste et GDR. – Exclamations sur les bancs du groupe UMP."/> C'est pour cela qu'avant même de lui donner la parole, je lui avais dit que son intervention remplaçait celle de M. Nicolin. Ensuite, le scrutin s'est déroulé.</p>
+<p>Sur le déroulement du vote précédent, j'avais été saisie d'une demande de scrutin public. Le scrutin était annoncé, j'ai donc préféré vous donner la parole ensuite. <mpt:interruption type="tumulte" text="Le tumulte se poursuit."/> M. Jacob m'ayant demandé la parole pour un rappel au règlement, je la lui ai donnée, mais son intervention n'avait strictement rien à voir avec un rappel au règlement. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC, écologiste et GDR. – Exclamations sur les bancs du groupe UMP."/> C'est pour cela qu'avant même de lui donner la parole, je lui avais dit que son intervention remplaçait celle de M. Nicolin. Ensuite, le scrutin s'est déroulé.</p>
 <p>La parole est maintenant à M. Christian Jacob pour un rappel au règlement, et peut-être pour ramener un peu de calme dans cet hémicycle. <mpt:interruption type="Les députés" text="Les députés du groupe UMP restent debout. – Protestations sur les bancs du groupe SRC."/></p>
 
 </mpt:metadata>
@@ -5220,7 +5220,7 @@
 
 <mpt:metadata auteur="Christian_Jacob" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Madame ! Vous êtes au perchoir ! Cela vous oblige à un certain nombre de choses ! (<mpt:interruption type="Protestations" text="Protestations sur les bancs des groupes SRC et écologiste."/> Cela vous oblige à une présidence impartiale ! <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe UMP."/></p>
-<p>Je vous ai demandé une suspension de séance ! Je suis président de groupe ! (Les clameurs se poursuivent.)</p>
+<p>Je vous ai demandé une suspension de séance ! Je suis président de groupe ! <mpt:interruption type="clameurs" text="Les clameurs se poursuivent."/></p>
 
 </mpt:metadata>
 
@@ -5240,7 +5240,7 @@
   <speaker>Christian Jacob</speaker>
 
 <mpt:metadata auteur="Christian_Jacob" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Vous m'avez refusé la possibilité d'aller vous voir ! Vous me refusez une suspension de séance ! (Le tumulte enfle encore.)</p>
+  <p> Vous m'avez refusé la possibilité d'aller vous voir ! Vous me refusez une suspension de séance ! <mpt:interruption type="tumulte" text="Le tumulte enfle encore."/></p>
 
 </mpt:metadata>
 
@@ -5702,7 +5702,7 @@
   <speaker>Hervé Mariton</speaker>
 
 <mpt:metadata auteur="Hervé_Mariton" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Les propos du Gouvernement ne le sont pas non plus, mais celui-ci n'a pas à apprécier les propos des parlementaires. Le président Jacob vous l'a rappelé à plusieurs reprises : le Gouvernement est à la disposition du Parlement. (Mme la garde des sceaux rit et fait des signes « Au pied ! »)</p>
+  <p> Les propos du Gouvernement ne le sont pas non plus, mais celui-ci n'a pas à apprécier les propos des parlementaires. Le président Jacob vous l'a rappelé à plusieurs reprises : le Gouvernement est à la disposition du Parlement. <mpt:interruption type="rires" text="Mme la garde des sceaux rit et fait des signes « Au pied ! »"/></p>
 <p>C'est un fait, madame. <mpt:interruption type="« Oui ! »" text="« Oui ! » sur plusieurs bancs du groupe UMP."/></p>
 
 </mpt:metadata>
@@ -8087,7 +8087,7 @@
   <speaker>Philippe Cochet</speaker>
 
 <mpt:metadata auteur="Philippe_Cochet" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> ...« et non à cause de consignes politiques. Le parti socialiste s'honorerait à laisser la liberté de vote à l'ensemble de ses membres. » (Interruptions sur les bancs du groupe SRC.) C'est la raison pour laquelle nous soutenons ces amendements. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe UMP."/></p>
+  <p> ...« et non à cause de consignes politiques. Le parti socialiste s'honorerait à laisser la liberté de vote à l'ensemble de ses membres. » <mpt:interruption type="interruption" text="Interruptions sur les bancs du groupe SRC."/> C'est la raison pour laquelle nous soutenons ces amendements. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
 
@@ -8235,7 +8235,7 @@
   <speaker>Philippe Gosselin</speaker>
 
 <mpt:metadata auteur="Philippe_Gosselin" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130138.asp#INTER_ADT_98" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Peu importe, madame la présidente, nous assistons à une scène curieuse ! Mme Lemorton semble vouloir intimider M. Tian... (Brouhaha prolongé.)</p>
+  <p> Peu importe, madame la présidente, nous assistons à une scène curieuse ! Mme Lemorton semble vouloir intimider M. Tian... <mpt:interruption type="brouhaha" text="Brouhaha prolongé."/></p>
 
 </mpt:metadata>
 
