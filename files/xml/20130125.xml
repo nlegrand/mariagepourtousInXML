@@ -581,7 +581,7 @@
   <speaker>Dominique Bertinotti,ministre déléguée.</speaker>
 
 <mpt:metadata auteur="Dominique_Bertinotti" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
-  <p>Étant donné le grand respect que j'ai pour vous, je vais répéter ma question. (Interruptions sur les bancs du groupe UMP.) J'ai aussi apporté une réponse à la question que je vous ai posée. Je la reformule : y a-t-il une obligation juridique ou logique de voter une loi avant une autre loi ou inversement ? Je réponds : non.</p>
+  <p>Étant donné le grand respect que j'ai pour vous, je vais répéter ma question. <mpt:interruption type="interruption" text="Interruptions sur les bancs du groupe UMP"/> J'ai aussi apporté une réponse à la question que je vous ai posée. Je la reformule : y a-t-il une obligation juridique ou logique de voter une loi avant une autre loi ou inversement ? Je réponds : non.</p>
 
 </mpt:metadata>
 
@@ -677,7 +677,7 @@
   <speaker>Hervé Mariton</speaker>
 
 <mpt:metadata auteur="Hervé_Mariton" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130125.asp#INTER_ADT_1" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Mesdames les ministres, première question : est-ce que vous assumez votre texte ? (Interruptions sur les bancs du groupe SRC.)</p>
+  <p> Mesdames les ministres, première question : est-ce que vous assumez votre texte ? <mpt:interruption type="interruption" text="Interruptions sur les bancs du groupe SRC."/></p>
 <p>Vous portez devant l'opinion le « mariage pour tous ». Le titre est déjà différent. Le contenu est différent encore. Nous sommes sur un article qui concerne le mariage, qui est seul évoqué dans le titre du projet de loi. Pourquoi est-ce que dans le titre, pourquoi est-ce que devant l'opinion, vous n'avez pas porté la totalité du contenu ? </p>
 <p>Deuxième point, nous entendons de beaucoup de nos collègues qu'au fond, tout serait joué d'avance ; que dès lors que vous êtes majoritaires – j'ai entendu le président Urvoas dire cela –, il faut attendre le moment où l'opposition finira par comprendre que, comme elle est minoritaire, les choses nécessairement se feraient. Nous avons entendu cet argument il y a une trentaine d'années.</p>
 
@@ -2174,7 +2174,7 @@
   <speaker>Thierry Mariani</speaker>
 
 <mpt:metadata auteur="Thierry_Mariani" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Monsieur le président, comme d'aucuns mettent en doute l'existence de ce bistrot, je leur donne rendez-vous au bistrot « Canaille » rue Bolshaya Bronnaya, à Moscou. Ce genre d'événement a déjà eu lieu dans ma circonscription, à Pékin, par exemple. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs des groupes SRC et écologiste."/> Il y a vingt ans, pour vous, Moscou, c'était La Mecque, et maintenant, c'est l'enfer ! Il faudrait savoir ! (Même mouvement)</p>
+  <p> Monsieur le président, comme d'aucuns mettent en doute l'existence de ce bistrot, je leur donne rendez-vous au bistrot « Canaille » rue Bolshaya Bronnaya, à Moscou. Ce genre d'événement a déjà eu lieu dans ma circonscription, à Pékin, par exemple. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs des groupes SRC et écologiste."/> Il y a vingt ans, pour vous, Moscou, c'était La Mecque, et maintenant, c'est l'enfer ! Il faudrait savoir ! <mpt:interruption type="Même mouvement" text="Même mouvement"/></p>
 
 </mpt:metadata>
 
@@ -5760,7 +5760,7 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> Vous ne connaissez pas les talents de la garde des sceaux ! (Mouvements divers.)</p>
+  <p> Vous ne connaissez pas les talents de la garde des sceaux ! <mpt:interruption type="Mouvements divers" text="Mouvements divers"/></p>
 
 </mpt:metadata>
 
@@ -6338,7 +6338,7 @@
 
 <mpt:metadata auteur="Daniel_Fasquelle" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Qui dit délivrance du certificat de nationalité dit reconnaissance de la nationalité. Celle-ci est octroyée à l'enfant concerné parce que l'on considère qu'il a un père français, en vertu de l'article 18 du code civil.</p>
-<p>Reconnaître que son père est français suppose de transcrire en droit français le certificat d'état civil dressé à l'étranger. (Interruptions sur les bancs des groupes SRC et écologiste.) L'enfant n'est d'ailleurs pas apatride, contrairement à ce qu'a dit Mme la garde des sceaux, il a la nationalité d'un État étranger. Or jusqu'à présent, on s'opposait à la transcription en droit français du certificat obtenu à l'étranger parce que ce certificat était contraire à l'ordre public français et parce que la filiation dépendait de la gestation pour autrui. <mpt:interruption type="Mêmes mouvements" text="Mêmes mouvements."/></p>
+<p>Reconnaître que son père est français suppose de transcrire en droit français le certificat d'état civil dressé à l'étranger. <mpt:interruption type="interruption" text="Interruptions sur les bancs des groupes SRC et écologiste."/> L'enfant n'est d'ailleurs pas apatride, contrairement à ce qu'a dit Mme la garde des sceaux, il a la nationalité d'un État étranger. Or jusqu'à présent, on s'opposait à la transcription en droit français du certificat obtenu à l'étranger parce que ce certificat était contraire à l'ordre public français et parce que la filiation dépendait de la gestation pour autrui. <mpt:interruption type="Mêmes mouvements" text="Mêmes mouvements."/></p>
 
 </mpt:metadata>
 
@@ -7580,7 +7580,7 @@
   <speaker>Jean-Charles Taugourdeau</speaker>
 
 <mpt:metadata auteur="Jean-Charles_Taugourdeau" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Ce n'est tout de même pas inintéressant ! <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC."/> <w>Aujourd'hui</w>, le mariage est très clair. (Interruptions sur les bancs du groupe SRC.)</p>
+  <p> Ce n'est tout de même pas inintéressant ! <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC."/> <w>Aujourd'hui</w>, le mariage est très clair. <mpt:interruption type="interruption" text="Interruptions sur les bancs du groupe SRC."/></p>
 
 </mpt:metadata>
 
@@ -8343,7 +8343,7 @@
 <mpt:metadata auteur="Marie-Jo_Zimmermann" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="female" politicalgender="UMP_female" wing="right" winggender="right_female" debat="mpt" subject="mpt">
   <p> C'était la raison de mon refus. Depuis 1999, nous avons amélioré le PACS : en 2007, dans la loi TEPA, au plan de la fiscalité et en 2008 au plan de la transmission.</p>
 <p>Si j'ai déposé cet amendement, c'est que, pour moi, le mariage n'est pas qu'une affaire de couple. On ne le conçoit que fondé sur une attirance réciproque, un consentement mutuel, mais c'est avant une institution qui a pour but de mettre de l'ordre dans la filiation. Je voudrais citer quelqu'un pour qui vous avez beaucoup de respect, M. Jospin, qui disait : « Dans la discussion qui s'amorce, j'entends parler de désirs, de refus de discriminations, de droit à l'enfant et d'égalité des droits, comme si le principe d'égalité des droits devait effacer toute différence. Mais j'ai peu entendu parler d'institutions. Or c'est essentiel. »</p>
-<p>Pour moi, le mariage est une institution, et je crois que l'alliance civile permettrait un consensus au niveau de l'ensemble de la population. Le mariage n'est pas nécessaire pour respecter l'amour que se portent deux personnes du même sexe. (Interruptions sur les bancs du groupe SRC.)</p>
+<p>Pour moi, le mariage est une institution, et je crois que l'alliance civile permettrait un consensus au niveau de l'ensemble de la population. Le mariage n'est pas nécessaire pour respecter l'amour que se portent deux personnes du même sexe. <mpt:interruption type="interruption" text="Interruptions sur les bancs du groupe SRC."/></p>
 <p>Encore une fois, je vous demande de respecter ce que je pense. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC."/> J'éprouve un profond respect pour tout être humain, pour la vie qu'il choisit, et je veux lui offrir la sécurité dans tous les domaines. Laissez-moi simplement vous dire que l'alliance civile permettrait de remplir toutes ces conditions, sans toucher à une institution. Merci de respecter ce que nous disons.</p>
 
 </mpt:metadata>
@@ -8565,7 +8565,7 @@
 <mpt:metadata auteur="Christian_Kert" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Monsieur le président, merci de bien vouloir mettre de l'ordre dans notre belle maison...</p>
 <p>Je défends donc l'idée d'une alliance civique, que je vais vous proposer d'appeler d'une autre façon. Je défends cette idée, madame la ministre, car vous êtes allée loin et vite en bouleversant une notion essentielle, celle du mariage.</p>
-<p>Il nous semble qu'en rapprochant les visions, il était possible de produire un texte médian. Une telle alliance civique permettrait la tenue d'une cérémonie proche du mariage, tout en réservant cette idée du mariage, fondement de notre société, aux couples hétérosexuels. (Interruptions sur les bancs du groupe SRC.) Merci, chers collègues, pour votre remarquable tolérance...</p>
+<p>Il nous semble qu'en rapprochant les visions, il était possible de produire un texte médian. Une telle alliance civique permettrait la tenue d'une cérémonie proche du mariage, tout en réservant cette idée du mariage, fondement de notre société, aux couples hétérosexuels. <mpt:interruption type="interruption" text="Interruptions sur les bancs du groupe SRC."/> Merci, chers collègues, pour votre remarquable tolérance...</p>
 
 </mpt:metadata>
 
@@ -9258,7 +9258,7 @@
   <p> Monsieur le président, quelques éléments simples. Dans l'étude d'impact présentée par le Gouvernement, il y a une analyse de la proposition d'union civile qui présente un argument absolument définitif : « L'instauration d'un quatrième régime rendrait singulièrement complexe et moins lisible notre droit ». Voilà ce qu'on appelle une démonstration !</p>
 <p>Et puis il y a, s'agissant du mariage, une autre démonstration convaincante : « Seule l'ouverture du mariage aux couples de même sexe paraît être une réponse satisfaisante aux besoins d'évolution de la société. » En français qui se cause, cela s'appelle un argument d'autorité... Ne pas avoir de meilleure démonstration en faveur du mariage et de meilleur argument de récusation de l'union civile, cela pourrait appeler à un peu plus de modestie.</p>
 <p>Vous m'avez refusé, monsieur le président, un rappel au règlement, ou plus exactement deux, sur des éléments qui me paraissent justifiés. Je ne retiens que le premier. Vous n'avez pas tout à l'heure prêté attention aux propos du rapporteur, qui me paraissent extrêmement graves à l'égard des personnes homosexuelles et de l'égalité. Car le rapporteur – je ne sais pas s'il l'a fait exprès, je veux croire à une erreur de langage de sa part – a dit : « Les couples homosexuels ont plus besoin que nous de l'union du mariage »...</p>
-<p>Je suis désolé, je l'ai déjà dit, nous n'avons pas dans ce débat à nous situer quant à nos orientations sexuelles. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe UMP."/> Nous n'avons pas dans ce débat à dire ce dont d'autres auraient besoin et ce dont certains ici n'auraient pas besoin ! (Interruptions sur les bancs du groupe SRC.)</p>
+<p>Je suis désolé, je l'ai déjà dit, nous n'avons pas dans ce débat à nous situer quant à nos orientations sexuelles. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe UMP."/> Nous n'avons pas dans ce débat à dire ce dont d'autres auraient besoin et ce dont certains ici n'auraient pas besoin ! <mpt:interruption type="interruption" text="Interruptions sur les bancs du groupe SRC."/></p>
 <p>Il y a dans ce propos une distance et, de fait, je suis désolé de le dire, une forme de stigmatisation qui ne sont pas acceptables. Ni le rapporteur, ni aucun d'entre nous n'a ici à dire ce dont « nous » aurions besoin et ce dont « d'autres » auraient besoin. Ce n'est acceptable pour personne et sûrement pas pour la défense des droits des personnes homosexuelles, sur laquelle nous n'avons pas de leçons à recevoir de vous. Il n'y a pas « eux », il n'y a pas « nous », il y a « nous, peuple de France » ! <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
