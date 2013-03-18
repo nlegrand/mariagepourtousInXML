@@ -896,7 +896,7 @@
   <speaker>Claude Greff</speaker>
 
 <mpt:metadata auteur="Claude_Greff" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130121.asp#INTER_5" vote="contre" gender="female" politicalgender="UMP_female" wing="right" winggender="right_female" debat="mpt" subject="mpt">
-  <p> Monsieur le président, mesdames les ministres, monsieur le président de commission, madame, monsieur les rapporteurs, mes chers collègues (mouvements divers)...</p>
+  <p> Monsieur le président, mesdames les ministres, monsieur le président de commission, madame, monsieur les rapporteurs, mes chers collègues <mpt:interruption type="mouvements divers" text="mouvements divers"/>...</p>
 
 </mpt:metadata>
 
