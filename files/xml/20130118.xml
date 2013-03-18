@@ -5871,7 +5871,7 @@
   <speaker>Plusieurs députés du groupe SRC</speaker>
 
 <mpt:metadata auteur="Plusieurs_députés_du_groupe_SRC" interventiontype="interruption"        debat="mpt" subject="mpt">
-  <p> On souffre ! (Très vives protestations et claquements de pupitres sur les bancs du groupe UMP. – De nombreux députés du groupe UMP se lèvent.)</p>
+  <p> On souffre ! <mpt:interruption type="protestations" text="Très vives protestations et claquements de pupitres sur les bancs du groupe UMP. – De nombreux députés du groupe UMP se lèvent."/></p>
 
 </mpt:metadata>
 
@@ -8456,7 +8456,7 @@
 <p>En conclusion, sur aucune de ces questions absolument essentielles, monsieur le rapporteur, vous n'avez souhaité écrire le moindre mot. Il me semble pourtant que, quelle qu'ait pu être votre opinion sur chacun de ces sujets, notre commission aurait tiré grand avantage à en débattre au fond.</p>
 <p>À plusieurs reprises, vous avez dans votre texte rappelé qu'à l'évidence le Conseil constitutionnel reconnaît au législateur la capacité de légiférer sur le mariage – il n'y a aucun doute sur ce sujet. Mais il n'y a aucun doute non plus sur la dimension parlementaire des différentes questions que je viens d'évoquer sur le principe d'égalité et de son utilité commune, sur le rapport entre filiation biologique et filiation sociale, sur la question de l'universalité du droit et de son écriture, sur le rôle de la loi et son rapport à l'évolution de la société, etc.</p>
 <p>En choisissant la partialité comme principe d'organisation de votre travail, et le simple déroulement des événements comme clé de voûte de votre argumentation, vous vous êtes coupés de cette possibilité d'aborder en profondeur les questions essentielles posées par ce texte. Et vous en avez par conséquent privé notre commission. De ce fait, il n'est pas envisageable d'engager maintenant ce débat pour examiner au fond ces différents aspects.</p>
-<p>C'est la raison pour laquelle, mes chers collègues je vous demande par votre vote d'adopter cette motion de renvoi en commission. (Mme et MM les députés du groupe UMP se lèvent et applaudissent.)</p>
+<p>C'est la raison pour laquelle, mes chers collègues je vous demande par votre vote d'adopter cette motion de renvoi en commission. <mpt:interruption type="applaudissements" text="Mme et MM les députés du groupe UMP se lèvent et applaudissent."/></p>
 
 </mpt:metadata>
 
