@@ -6022,7 +6022,7 @@
   <speaker>Gérald Darmanin</speaker>
 
 <mpt:metadata auteur="Gérald_Darmanin" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Les parlementaires sont élus et représentent le peuple. Aux prochaines élections, il vous appartiendra de les faire battre ! (Claquements de pupitres sur les bancs du groupe SRC.)</p>
+  <p> Les parlementaires sont élus et représentent le peuple. Aux prochaines élections, il vous appartiendra de les faire battre ! <mpt:interruption type="claquement" text="Claquements de pupitres sur les bancs du groupe SRC."/></p>
 
 </mpt:metadata>
 
