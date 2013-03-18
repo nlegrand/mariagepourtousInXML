@@ -937,7 +937,7 @@
 
 <mpt:metadata auteur="Noël_Mamère" interventiontype="intervention" politicalgroup="ECOLO" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130130.asp#INTER_ADT_9" vote="pour" gender="male" politicalgender="ECOLO_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
   <p> Monsieur le président, mes chers collègues, ce sujet est effectivement très intéressant, puisqu'il pose des problèmes philosophiques, éthiques et juridiques.</p>
-<p>Le groupe auquel j'appartiens ne partage pas les arguments qui viennent d'être utilisés par Mme la garde des sceaux. Nous serons d'ailleurs amenés, avec notre collègue Marie-George Buffet, à défendre un amendement ouvrant la procréation médicalement assistée à des couples homosexuels. (Interruptions sur les bancs du groupe UMP.)</p>
+<p>Le groupe auquel j'appartiens ne partage pas les arguments qui viennent d'être utilisés par Mme la garde des sceaux. Nous serons d'ailleurs amenés, avec notre collègue Marie-George Buffet, à défendre un amendement ouvrant la procréation médicalement assistée à des couples homosexuels. <mpt:interruption type="interruption" text="Interruptions sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
 
@@ -3440,7 +3440,7 @@
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p> Je suis saisi de deux amendements, <w>n<hi rend="sup">os</hi></w> 1610 et 2157, pouvant être soumis à une discussion commune.</p>
-<p>La parole est à Mme Marie-George Buffet, pour soutenir l'amendement n° 1610. (Bruit persistant.)</p>
+<p>La parole est à Mme Marie-George Buffet, pour soutenir l'amendement n° 1610. <mpt:interruption type="bruit" text="Bruit persistant."/></p>
 
 </mpt:metadata>
 
