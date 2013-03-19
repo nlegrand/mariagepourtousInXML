@@ -36,8 +36,8 @@ Ce graphique a été réalisé avec un résultat de cooccurrences de
 R.
 
 On peut aussi parser le XML avec le script tei_to_gexf.py (fichier
-généré par le `make` dans files/gexf/) et faire un [graph des
-interruptions](interruptions.png) :
+généré par le `make` dans files/gexf/ - actuellement cassé) et faire
+un [graph des interruptions](interruptions.png) :
 
 ![interruptions](interruptions.png)
 
