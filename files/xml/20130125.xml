@@ -3965,7 +3965,7 @@
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p> Merci. Les amendements n°<sup>s</sup> 4779, 4785, 4827, 4868, 4878, 4968 et 4983 ne sont pas défendus.</p>
-<p>La parole est à Mme Marion Maréchal-Le Pen, pour soutenir l'amendement n°5071.</p>
+<p>La parole est à Mme Marion <w>Maréchal-Le Pen</w>, pour soutenir l'amendement n°5071.</p>
 
 </mpt:metadata>
 
@@ -3982,7 +3982,7 @@
 </sp>
 
 <sp who="Marion_Maréchal-Le_Pen">
-  <speaker>Marion Maréchal-Le Pen</speaker>
+  <speaker>Marion <w>Maréchal-Le Pen</w></speaker>
 
 <mpt:metadata auteur="Marion_Maréchal-Le_Pen" interventiontype="intervention" politicalgroup="NI" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130125.asp#INTER_ADT_32" vote="contre"   wing="right"  debat="mpt" subject="mpt" gender="female">
   <p> Cela a l'air de vous plaisir que je prenne la parole ! <mpt:interruption type="Sourires" text="Sourires."/></p>
@@ -4022,7 +4022,7 @@
 </sp>
 
 <sp who="Marion_Maréchal-Le_Pen">
-  <speaker>Marion Maréchal-Le Pen</speaker>
+  <speaker>Marion <w>Maréchal-Le Pen</w></speaker>
 
 <mpt:metadata auteur="Marion_Maréchal-Le_Pen" interventiontype="intervention" politicalgroup="NI"  vote="contre"   wing="right"  debat="mpt" subject="mpt" gender="female">
   <p> Ce qui m'amuse, c'est le recours à l'argument de l'engagement de François Hollande.</p>
@@ -4043,7 +4043,7 @@
 </sp>
 
 <sp who="Marion_Maréchal-Le_Pen">
-  <speaker>Marion Maréchal-Le Pen</speaker>
+  <speaker>Marion <w>Maréchal-Le Pen</w></speaker>
 
 <mpt:metadata auteur="Marion_Maréchal-Le_Pen" interventiontype="intervention" politicalgroup="NI"  vote="contre"   wing="right"  debat="mpt" subject="mpt" gender="female">
   <p> La vérité, c'est que vous ne pouvez élargir l'institution du mariage sans la détruire. Ce n'est pas l'orientation sexuelle qui fonde le droit de se marier, mais le sexe, c'est-à-dire la distinction anthropologique entre un homme et une femme. Les hommes et les femmes homosexuelles ou hétérosexuelles ont le droit de se marier, mais avec une personne de sexe différent, parce que les sexes ne sont pas interchangeables.</p>
