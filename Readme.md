@@ -1,16 +1,7 @@
-Télécharge les comptes rendus de séance de l'Assemblée nationale sur
-l'[ouverture du mariage aux couples de même
-sexe](http://www.assemblee-nationale.fr/14/dossiers/mariage_personnes_meme_sexe.asp)
-et les transforme en XML TEI et en fichier texte.
-
-À partir de chaque fichier source « _identifiant_.asp » (eg
-20130129.asp) sont générés dans le dossier _files_ un équivalent
-« _identifiant_.xml » (XML TEI) et « _identifiant_.txt ». Un fichier
-« tout.txt » contient la concaténation de tous les
-« _identifiant_.txt ».
-
-Le but est de pouvoir les retransformer « proprement » en quoique ce
-soit (docbook, xhtml...), dans le but de faire des recherches
+Ce projet vise a encoder en XML les séances de l'Assemblée Nationale
+sur l'ouverture du mariage aux couples de même sexe afin de pouvoir
+les retransformer « proprement » en quoique ce soit (docbook,
+xhtml...), dans le but, par exemple, de faire des recherches
 lexicographiques avec des outils comme
 [Philologic](https://sites.google.com/site/philologic3/) ou
 [TXM](http://textometrie.ens-lyon.fr/).
@@ -18,19 +9,11 @@ lexicographiques avec des outils comme
 Télécharger
 ===========
 
-Si vous voulez juste utiliser les fichiers *.txt et *.xml produits
-dans une archive .zip :
 
-- les fichiers [XML
-  TEI](http://perso.obspm.fr/nicolas.legrand/MPT-TEI.zip) (importable
-  en l'état dans
-  [Philologic](https://sites.google.com/site/philologic3/) ou dans
-  [TXM](http://textometrie.ens-lyon.fr/)) via le module XML-TEI-BFM) ;
-
-- les fichiers
-  [TXT](http://perso.obspm.fr/nicolas.legrand/MPT-TXM-TXT-CSV.zip)
-  (importable en l'état avec leurs métadonnées en CSV via le module
-  TXT+CSV dans le logiciel [TXM](http://textometrie.ens-lyon.fr/)).
+[MPT_2013-03-19](http://perso.obspm.fr/nicolas.legrand/MPT_2013-03-19.zip),
+est importable en l'état dans
+[Philologic](https://sites.google.com/site/philologic3/) ou dans
+[TXM](http://textometrie.ens-lyon.fr/)) via le module XML+w/CSV.
 
 Exemples de résultats
 =====================
@@ -80,38 +63,11 @@ donnant de très bonnes idées d'exploitation de ce type de corpus :
   l'étude d'un débat
   parlementaire](http://www.persee.fr/web/revues/home/prescript/article/mots_0243-6450_1999_num_60_1_2168).
 
-Utilisation
-===========
-
-Fonctionne dans un environnement *nix (Linux, Mac OS X,
-BSD). Nécessite GNU `make(1)`, `perl(1)`, `wget(1)`, `xsltproc(1)`,
-éventuelement `git(1)` et `zip(1)`.
-
-    git clone git://github.com/nlegrand/mariagepourtousInXML.git
-    cd mariagepourtousInXML/
-    make
-
-Créer les archives *.zip contenant les *.txt ou les *.xml :
-
-    make archives
-
-Mise à jour
-===========
-
-Pour mettre à jour avec les dernières modifications :
-
-    git pull
-    make clean
-    make
-
 Todo
 ====
 
 Tester automatiquement la validité du XML (fait grossièrement par
 `xsltproc(1)`).
-
-Mettre les XLM et les ASP dans des dossiers à part que l'on s'y
-retrouve dans l'arbre.
 
 Erreur ?
 ========
