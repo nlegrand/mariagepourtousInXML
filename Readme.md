@@ -6,9 +6,10 @@ lexicographiques avec des outils comme
 [Philologic](https://sites.google.com/site/philologic3/) ou
 [TXM](http://textometrie.ens-lyon.fr/).
 
+Je décris l'[encodage](Encoding.fr.md) sur sa propre page.
+
 Télécharger
 ===========
-
 
 [MPT_2013-03-19](http://perso.obspm.fr/nicolas.legrand/MPT_2013-03-19.zip),
 est importable en l'état dans
