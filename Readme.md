@@ -16,6 +16,10 @@ est importable en l'état dans
 [Philologic](https://sites.google.com/site/philologic3/) ou dans
 [TXM](http://textometrie.ens-lyon.fr/)) via le module XML+w/CSV.
 
+[MPT-TXM_2013-03-20](http://perso.obspm.fr/nicolas.legrand/MPT-TXM_2013-03-20.zip)
+est un export des fichiers chargés et lemmatisés pour TXM que vous
+pouvez recharger dans votre propre instance de TXM.
+
 Exemples de résultats
 =====================
 
