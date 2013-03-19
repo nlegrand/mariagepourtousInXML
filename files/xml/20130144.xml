@@ -167,14 +167,14 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="qag">
-  <p> La parole est à M. Bruno Le Roux, pour le groupe socialiste, républicain et citoyen.</p>
+  <p> La parole est à M. Bruno <w>Le Roux</w>, pour le groupe socialiste, républicain et citoyen.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Bruno_Le_Roux">
-  <speaker>Bruno Le Roux</speaker>
+  <speaker>Bruno <w>Le Roux</w></speaker>
 
 <mpt:metadata auteur="Bruno_Le_Roux" interventiontype="intervention" politicalgroup="SRC" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130144.asp#INTER_2" vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="qag" subject="qag">
   <p> Monsieur le Premier ministre, la crise que nous traversons, a des noms : Goodyear, Petroplus, PSA, Arcelor-Mittal et d'autres encore ; elle a des visages : ceux de ces femmes et de ces hommes qui se lèvent chaque jour en craignant pour leur emploi et en se demandant si leur territoire pourra encore, demain, offrir une vie de travail à leurs enfants.</p>
@@ -201,7 +201,7 @@
   <speaker>Jean-Marc Ayrault, Premier ministre.</speaker>
 
 <mpt:metadata auteur="Jean-Marc_Ayrault" interventiontype="intervention"  corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130144.asp#INTER_3"      debat="qag" subject="qag">
-  <p>Monsieur le président Le Roux, l'emploi est la priorité du Gouvernement, mais aussi la première inquiétude des Français.</p>
+  <p>Monsieur le président <w>Le Roux</w>, l'emploi est la priorité du Gouvernement, mais aussi la première inquiétude des Français.</p>
 
 </mpt:metadata>
 
@@ -599,7 +599,7 @@
 <p>Vous avez pris le temps de défendre vos points de vue, vous avez pris le temps d'essayer de vous convaincre et, parfois, c'était difficile, je le sais. Mais les Français ont pris le temps d'écouter vos arguments. Et, comme vous, je le dis, le Gouvernement est fier de cette réforme <mpt:interruption type="exclamations" text="Vives exclamations sur les bancs du groupe UMP"/>, parce que cette réforme, mesdames et messieurs les députés, s'inscrit dans une longue lignée de réformes républicaines pour l'égalité et contre les discriminations. <mpt:interruption type="« Référendum ! Référendum ! »" text="« Référendum ! Référendum ! » sur les bancs du groupe UMP."/></p>
 <p>Cette loi va étendre à toutes les familles les protections garanties par l'institution du mariage. Et, malgré ceux qui vocifèrent – mais heureusement, ils sont minoritaires – elle va renforcer l'institution du mariage. <mpt:interruption type="« C'est faux ! »" text="« C'est faux ! » sur de nombreux bancs du groupe UMP."/></p>
 <p>Je voudrais saluer la solidarité et la fermeté dans les convictions de tous les députés de la majorité, et même parfois au-delà. Mesdames et messieurs les députés, vous avez su vous montrer soudés, concentrés, convaincants d'un bout à l'autre du débat. Merci à vous, à chacune et à chacun d'entre vous !</p>
-<p>Permettez-moi de saluer le président de la commission des lois, Jean-Jacques Urvoas <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe SRC"/> et votre rapporteur, Erwann Binet <mpt:interruption type="Même mouvement" text="Même mouvement"/>. Et puis, certes parce que c'est mon rôle mais surtout parce que je le pense profondément, je veux remercier trois des membres du Gouvernement. D'abord Christiane Taubira, dont l'éloquence fait la fierté du Gouvernement et du Parlement. <mpt:interruption type="Applaudissements" text="Applaudissements prolongés sur les bancs des groupes SRC, écologiste, RRDP et GDR, dont de nombreux membres se lèvent."/> Elle l'avait déjà montrée en 2001 à l'occasion de cette proposition de loi où la France reconnaissait enfin que l'esclavage était un crime contre l'humanité. Merci, madame la garde des sceaux !</p>
+<p>Permettez-moi de saluer le président de la commission des lois, Jean-Jacques Urvoas <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe SRC"/> et votre rapporteur, Erwann Binet <mpt:interruption type="Même mouvement" text="Même mouvement"/>. Et puis, certes parce que c'est mon rôle mais surtout parce que je le pense profondément, je veux remercier trois des membres du Gouvernement. D'abord Christiane Taubira, dont l'éloquence fait la fierté du Gouvernement et du Parlement. <mpt:interruption type="Applaudissements" text="Applaudissements prolongés sur les bancs des groupes SRC, écologiste, RRDP et GDR, dont de nombreux membres se lèvent."/> Elle l'avait déjà montrée en 2001 à l'occasion de cette proposition de loi où la France reconnaissait enfin que l'esclavage était un crime contre l'humanité. Merci, madame la <w>garde des Sceaux</w> !</p>
 <p>Je voudrais aussi remercier Dominique Bertinotti qui s'est battue avec courage et conviction <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC, écologiste, RRDP et GDR"/> et Alain Vidalies, ministre chargé des relations avec le Parlement, qui a veillé, lui aussi, au bon déroulement de ce débat. <mpt:interruption type="Même mouvement." text="Même mouvement."/></p>
 <p>Monsieur le président de l'Assemblée nationale, vous avez présidé quatre-vingt-douze heures de séance sur cent dix. Vous avez eu le souci, au-delà des convictions de chacun, de préserver l'intégrité de l'Assemblée nationale et vous avez forcé le respect, même lorsque c'était difficile. <mpt:interruption type="« Référendum ! Référendum ! »" text="« Référendum ! Référendum ! » sur les bancs du groupe UMP."/></p>
 <p>Je voudrais remercier tous les députés de la majorité ainsi que ceux, pour l'immense majorité d'entre eux, de l'opposition – je dis bien l'immense majorité d'entre eux – qui ont su défendre leurs convictions avec dignité. Merci au Parlement, et d'abord à l'Assemblée nationale. Dans quelques semaines, ce sera au Sénat de compléter ce travail législatif. Je n'ai aucun doute, cette loi restera une des grandes lois de la République. <mpt:interruption type="applaudissements" text="Vifs applaudissements sur les bancs des groupes SRC, écologiste, RRDP et GDR."/></p>
@@ -1777,8 +1777,8 @@
 <mpt:metadata auteur="Corinne_Narassiguin" interventiontype="intervention"        debat="mpt" subject="mpt">
   <p> Cette loi apportera un changement concret dans la vie de nombreuses familles.</p>
 <p>Enfin, après plusieurs années de lutte, une des dernières discriminations institutionnelles sera rayée de nos lois, pour une reconnaissance pleine et entière de l'existence des familles homoparentales et de leur réalité. Parce que, en tant que députés, nous n'oublions pas que nous nous battons pour que toutes les familles de France soient protégées par la République, aucune exception ne peut être tolérée.</p>
-<p>Je veux, au nom de tous les députés socialistes, rendre hommage aux membres du Gouvernement pour leur engagement, leur dévouement et leur sincérité. Madame la garde des sceaux Christiane Taubira, <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe SRC"/> madame la ministre déléguée à la famille Dominique Bertinotti, <mpt:interruption type="Mêmes mouvements" text="Mêmes mouvements."/> je vous adresse un grand merci pour avoir défendu ce projet de loi avec ferveur.</p>
-<p>Mme la garde des sceaux, Christiane Taubira <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe SRC"/>, Mme la ministre déléguée chargée de la famille, Dominique Bertinotti <mpt:interruption type="Mêmes mouvements" text="Mêmes mouvements"/>, un grand merci pour avoir défendu ce projet de loi avec ferveur.</p>
+<p>Je veux, au nom de tous les députés socialistes, rendre hommage aux membres du Gouvernement pour leur engagement, leur dévouement et leur sincérité. Madame la <w>garde des Sceaux</w> Christiane Taubira, <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe SRC"/> madame la ministre déléguée à la famille Dominique Bertinotti, <mpt:interruption type="Mêmes mouvements" text="Mêmes mouvements."/> je vous adresse un grand merci pour avoir défendu ce projet de loi avec ferveur.</p>
+<p>Mme la <w>garde des Sceaux</w>, Christiane Taubira <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe SRC"/>, Mme la ministre déléguée chargée de la famille, Dominique Bertinotti <mpt:interruption type="Mêmes mouvements" text="Mêmes mouvements"/>, un grand merci pour avoir défendu ce projet de loi avec ferveur.</p>
 <p>Il est regrettable que l'opposition se soit adonnée à la désinformation et aux amalgames en tout genre, provoquant chez nos concitoyens une certaine confusion. Mais, et je tiens à le souligner, l'opposition a également participé à la bonne tenue des débats. La ténacité dont ont fait preuve nos collègues fut symbolique. Symbolique de nos différences, car ce sont bien deux visions de société qui se sont opposées tout au long de nos échanges.</p>
 <p>Le choix que font les socialistes <w>aujourd'hui</w>, c'est de porter l'égalité comme étendard, la justice comme guide pour une grande réforme de progrès.</p>
 <p>Cette loi est un premier pas nécessaire, une évolution sociale qui profite à la société dans son ensemble.</p>
@@ -2131,7 +2131,7 @@
 <p>Membre de la majorité, le groupe écologiste est fier de ce que nous allons accomplir. Cette réforme ne saurait cependant se faire à nos yeux au prix d'une ultime crispation.</p>
 <p>Vous le savez, différentes modalités pour établir le lien de filiation existent. La filiation repose en effet sur la procréation, sur l'adoption ou sur l'engendrement avec tiers donneur. La filiation d'hier n'était pas biologique, mais instituée sur le socle du mariage. Telle était d'ailleurs la volonté des codificateurs de 1804. Et la filiation de demain ne sera pas une négation de l'altérité des sexes, mais la conjugaison harmonieuse de ce qui existe déjà, lorsque le législateur ouvrira la procréation médicalement assistée aux couples de femmes.</p>
 <p>Votre Gouvernement, monsieur le Premier ministre, a pris ici même des engagements et cette parole donnée nous engage tous.</p>
-<p>Je voudrais, en concluant mes propos, m'adresser à Mme la garde des sceaux. Vous avez fait preuve, madame, de talent, de détermination pour porter ce texte. Nul ici ne saurait le contester. Presque neuf ans après le mariage célébré par Noël Mamère à Bègles, vous venez de faire tomber les murs d'une discrimination. Il fut à l'époque sanctionné ; vous êtes <w>aujourd'hui</w> célébrée et applaudie dans les rangs de la majorité. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe écologiste et sur de nombreux bancs du groupe SRC."/></p>
+<p>Je voudrais, en concluant mes propos, m'adresser à Mme la <w>garde des Sceaux</w>. Vous avez fait preuve, madame, de talent, de détermination pour porter ce texte. Nul ici ne saurait le contester. Presque neuf ans après le mariage célébré par Noël Mamère à Bègles, vous venez de faire tomber les murs d'une discrimination. Il fut à l'époque sanctionné ; vous êtes <w>aujourd'hui</w> célébrée et applaudie dans les rangs de la majorité. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe écologiste et sur de nombreux bancs du groupe SRC."/></p>
 <p>Que de chemin parcouru ! Ce n'est que justice. C'est donc un mot simple, un mot très simple qui me vient à l'esprit : merci, madame, merci d'avoir apporté votre pierre à ce bel édifice qu'est l'égalité. Dans la majorité, nous pouvons être fiers du vote que nous allons émettre. Nous pouvons aussi être fiers de compter parmi les membres de l'opposition des hommes et des femmes libres qui permettront que des couples aient accès au mariage. <mpt:interruption type="Les députés" text="Les députés du groupe écologiste et plusieurs députés du groupe SRC se lèvent et applaudissent – Applaudissements sur les bancs des groupes SRC, GDR et RRDP."/></p>
 
 </mpt:metadata>
@@ -2152,7 +2152,7 @@
   <speaker>Alain Tourret</speaker>
 
 <mpt:metadata auteur="Alain_Tourret" interventiontype="intervention" politicalgroup="RRDP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130144.asp#INTER_37" vote="pour" gender="male" politicalgender="RRDP_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
-  <p> Monsieur le président, madame la garde des sceaux, madame la ministre, monsieur le président de la commission des lois, monsieur le rapporteur, la loi sur le mariage et l'adoption par les couples de même sexe marquera l'histoire de la République.</p>
+  <p> Monsieur le président, madame la <w>garde des Sceaux</w>, madame la ministre, monsieur le président de la commission des lois, monsieur le rapporteur, la loi sur le mariage et l'adoption par les couples de même sexe marquera l'histoire de la République.</p>
 <p>Cette loi met fin à une discrimination vieille de plus de deux siècles. Cette loi rend justice aux homosexuels qui, de tout temps, ont été victimes d'une homophobie persistante et prégnante. Ce n'est que le 10 décembre 1981 que la dernière loi sanctionnant pénalement l'homosexualité a été abolie. Abolie par la gauche et pas par la droite ! <mpt:interruption type="Protestations" text="Protestations sur les bancs du groupe UMP."/></p>
 <p>Cette loi a été l'occasion pour la droite et pour la gauche d'opposer leurs visions de la société. D'un côté le passé, certes respectable mais qui reste le passé.</p>
 
@@ -2176,7 +2176,7 @@
 <mpt:metadata auteur="Alain_Tourret" interventiontype="intervention" politicalgroup="RRDP"  vote="pour" gender="male" politicalgender="RRDP_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
   <p> De l'autre côté l'avenir, porté par vous monsieur le Premier ministre <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC et RRDP"/>, porté en particulier par la jeunesse de France qui croit plus que quiconque aux principes d'égalité et d'humanité.</p>
 <p>Mais cette loi restera dans notre histoire car, pour la première fois, des amendements communs ont été signés par la droite et par le Front national. Que ce rapprochement honteux se soit fait sur une loi sociétale en dit long sur le délitement d'une certaine droite. <mpt:interruption type="Protestations" text="Protestations sur les bancs du groupe UMP."/></p>
-<p>Le groupe RRDP, les radicaux quasi-unanimes, voteront cette loi. Mais ils ont fait valoir avec force, monsieur le Premier ministre, qu'ils s'opposeront frontalement à toute recherche de légalisation de la gestation pour autrui. Ils souhaitent, madame la garde des sceaux, que la France prenne des initiatives pour qu'une convention internationale vienne interdire et sanctionner tout recours à la gestation pour autrui.</p>
+<p>Le groupe RRDP, les radicaux quasi-unanimes, voteront cette loi. Mais ils ont fait valoir avec force, monsieur le Premier ministre, qu'ils s'opposeront frontalement à toute recherche de légalisation de la gestation pour autrui. Ils souhaitent, madame la <w>garde des Sceaux</w>, que la France prenne des initiatives pour qu'une convention internationale vienne interdire et sanctionner tout recours à la gestation pour autrui.</p>
 <p>Au cours de ces débats, les radicaux ont rappelé avec force leur attachement aux institutions républicaines, à la célébration du mariage républicain, au rôle du procureur de la République, garant des libertés et de l'état civil. Amendements présentés par les radicaux que vous avez, à droite, refusé de voter !</p>
 <p>M. le premier ministre anglais David Cameron l'a dit : « Avec cette loi, une nation est plus forte ».</p>
 
@@ -2330,14 +2330,14 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> La parole est à Mme la garde des sceaux, ministre de la justice.</p>
+  <p> La parole est à Mme la <w>garde des Sceaux</w>, ministre de la justice.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira,garde des sceaux, ministre de la justice.</speaker>
+  <speaker>Christiane Taubira,<w>garde des Sceaux</w>, ministre de la justice.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130144.asp#INTER_39"  gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Monsieur le président, monsieur le président de la commission des lois, madame la présidente de la commission des affaires sociales, monsieur le rapporteur, madame la rapporteure pour avis, mesdames et messieurs les députés, après ce vote solennel vous nous avez permis de franchir une étape. Ce n'est pas la dernière, mais elle est extrêmement importante. Après le Premier ministre, je voudrais remercier les présidents des quatre groupes de la majorité et les quatre responsables du texte pour leur engagement constant sur ce texte.</p>
@@ -5355,7 +5355,7 @@
   <speaker>François Brottes, président de la commission des affaires économiques.</speaker>
 
 <mpt:metadata auteur="François_Brottes" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="other" subject="other">
-  <p>...la Banque de France recevant à cette occasion des compétences nouvelles. Permettez-moi, monsieur Lellouche, de préciser que celles-ci pourront en quelque sorte satisfaire « l'irréductible inquiétude pour l'autre », comme l'a dit magnifiquement tout à l'heure Mme la garde des sceaux.</p>
+  <p>...la Banque de France recevant à cette occasion des compétences nouvelles. Permettez-moi, monsieur Lellouche, de préciser que celles-ci pourront en quelque sorte satisfaire « l'irréductible inquiétude pour l'autre », comme l'a dit magnifiquement tout à l'heure Mme la <w>garde des Sceaux</w>.</p>
 
 </mpt:metadata>
 

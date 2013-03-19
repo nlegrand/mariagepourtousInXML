@@ -156,14 +156,14 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> La parole est à Mme la garde des sceaux, ministre de la justice, pour donner l'avis du Gouvernement.</p>
+  <p> La parole est à Mme la <w>garde des Sceaux</w>, ministre de la justice, pour donner l'avis du Gouvernement.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux, ministre de la justice.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>, ministre de la justice.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130141.asp#INTER_1"  gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>C'est bien que vous preniez les devants, monsieur le député, parce qu'il est toujours extrêmement désagréable, pour le Gouvernement, de faire remarquer à un parlementaire que son amendement est un cavalier législatif, surtout quand le parlementaire est expérimenté, comme vous l'êtes. Cela étant, c'est un moyen d'appeler l'attention sur une disposition qui vous tient à cœur.</p>
@@ -191,7 +191,7 @@
   <speaker>Alain Tourret</speaker>
 
 <mpt:metadata auteur="Alain_Tourret" interventiontype="intervention" politicalgroup="RRDP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130141.asp#INTER_ADT_1" vote="pour" gender="male" politicalgender="RRDP_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
-  <p> Compte tenu des explications données par Mme la garde des sceaux et approuvées par Mme la ministre de la famille, je retire mes trois amendements.</p>
+  <p> Compte tenu des explications données par Mme la <w>garde des Sceaux</w> et approuvées par Mme la ministre de la famille, je retire mes trois amendements.</p>
 
 </mpt:metadata>
 
@@ -244,7 +244,7 @@
   <speaker>Élisabeth Guigou</speaker>
 
 <mpt:metadata auteur="Élisabeth_Guigou" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="female" politicalgender="SRC_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
-  <p>Regardez MM. Tourret et Le Roux qui se serrent la main ! C'est l'union sacrée !</p>
+  <p>Regardez MM. Tourret et <w>Le Roux</w> qui se serrent la main ! C'est l'union sacrée !</p>
 
 </mpt:metadata>
 
@@ -264,7 +264,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="interruption" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Ils ont été retirés ! Nous en discuterons lors du projet de loi sur la famille, patientez, monsieur Mariton !</p>
@@ -343,7 +343,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="interruption" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Même avis pour les mêmes raisons.</p>
@@ -885,7 +885,7 @@
   <speaker>Jacques Alain Bénisti</speaker>
 
 <mpt:metadata auteur="Jacques_Alain_Bénisti" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130141.asp#INTER_ADT_10" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> J'aimerais vous interpeller, mesdames les ministres, au sujet de l'adoption plénière dans les territoires d'outre-mer. Il faut rappeler qu'elle a pour effet de supprimer juridiquement la filiation par le sang pour lui substituer un nouveau lien de filiation découlant évidemment du jugement qui l'a prononcé. Madame la garde des sceaux ne m'écoute pas. Si nous ne sommes là que pour la parade... <mpt:interruption type="Sourires" text="Sourires."/></p>
+  <p> J'aimerais vous interpeller, mesdames les ministres, au sujet de l'adoption plénière dans les territoires d'outre-mer. Il faut rappeler qu'elle a pour effet de supprimer juridiquement la filiation par le sang pour lui substituer un nouveau lien de filiation découlant évidemment du jugement qui l'a prononcé. Madame la <w>garde des Sceaux</w> ne m'écoute pas. Si nous ne sommes là que pour la parade... <mpt:interruption type="Sourires" text="Sourires."/></p>
 <p>L'acte de naissance d'origine de l'enfant est remplacé par un nouvel acte établi à partir des éléments du jugement d'adoption, sans aucune référence à la filiation réelle de l'intéressé, alors même que la filiation est un élément essentiel d'identification biologique, sociale et juridique pour chaque individu. L'état civil ainsi reconstitué mettra nettement en évidence, par la référence à des parents de même sexe, la fiction juridique sur laquelle repose la filiation. Le Conseil d'État, comme vous le savez, vient d'attirer à nouveau l'attention du Gouvernement d'une part sur les conséquences de cette situation au regard de la question délicate et toujours débattue de l'accès aux origines et d'autre part sur les précautions qu'il conviendra de prendre dans la rédaction des actes de naissance en cause.</p>
 
 </mpt:metadata>
@@ -1010,7 +1010,7 @@
   <speaker>Véronique Louwagie</speaker>
 
 <mpt:metadata auteur="Véronique_Louwagie" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130141.asp#INTER_ADT_13" vote="contre" gender="female" politicalgender="UMP_female" wing="right" winggender="right_female" debat="mpt" subject="mpt">
-  <p> Madame la garde des sceaux, madame la ministre, à plusieurs reprises, vous avez souligné que le projet de loi n'aurait pas d'impact sur les couples hétérosexuels. Or, il n'en est rien, et je vais vous en faire la démonstration.</p>
+  <p> Madame la <w>garde des Sceaux</w>, madame la ministre, à plusieurs reprises, vous avez souligné que le projet de loi n'aurait pas d'impact sur les couples hétérosexuels. Or, il n'en est rien, et je vais vous en faire la démonstration.</p>
 <p>Les conséquences du texte seront en effet redoutables en matière d'adoption – et il s'agit ici, non pas d'avis ou d'opinion, mais de faits. Le délégué du Kremlin aux droits de l'enfant a ainsi clairement indiqué que la possibilité accordée aux couples de l'Hexagone d'adopter des enfants russes sera réduite. Je déplore une telle orientation, mais vous ne pouvez pas contester qu'elle prouve l'impact qu'aura le projet de loi sur les couples hétérosexuels.</p>
 
 </mpt:metadata>
@@ -1255,7 +1255,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="interruption" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Il nous est soumis une série d'amendements visant à supprimer l'article 4 bis, qui a pourtant son utilité pour préciser l'application de certaines dispositions, en particulier de la disposition interprétative introduite par la commission.</p>
@@ -1395,7 +1395,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="interruption" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Défavorable.</p>
@@ -1426,7 +1426,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="interruption" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Chez nous, cela reste de la fiction !</p>
@@ -1441,7 +1441,7 @@
 <mpt:metadata auteur="Hervé_Mariton" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Dès lors que l'on s'éloigne des schémas familiaux ordinaires, on entre dans des schémas qui affaibliront la présomption de paternité, la notion d'héritage et nombre d'autres éléments importants de la vie de notre société.</p>
 <p>L'amendement n° 2247 a simplement vocation à mettre le rapporteur en cohérence avec lui-même. Je lui reconnais l'honnêteté d'avoir assumé que la référence aux collectivités d'outre-mer régies par l'article 73 était superfétatoire – cela dit, si elle est superfétatoire, il vaut mieux la retirer, monsieur le rapporteur !</p>
-<p>Je souhaite poser à nouveau à Mme la garde des sceaux une question qui lui a déjà été posée hier, à savoir pourquoi la circulaire relative à la GPA portait la mention « Hexagone ». Ma question est tout à fait directe et innocente : je ne comprends pas ce qui justifie que l'on déroge à l'usage, en vigueur jusqu'à présent, d'utiliser le terme de « métropole ». S'agit-il de marquer une nouvelle distinction entre la métropole et l'outre-mer ? La nouvelle terminologie a-t-elle vocation à faire jurisprudence au ministère de la justice ? Plus largement, l'administration française est-elle condamnée à s'interdire l'emploi du terme « métropole » utilisé jusqu'à présent, y compris par le Président de la République, qui envoie ses vœux à ses concitoyens de métropole et d'outre-mer ?</p>
+<p>Je souhaite poser à nouveau à Mme la <w>garde des Sceaux</w> une question qui lui a déjà été posée hier, à savoir pourquoi la circulaire relative à la GPA portait la mention « Hexagone ». Ma question est tout à fait directe et innocente : je ne comprends pas ce qui justifie que l'on déroge à l'usage, en vigueur jusqu'à présent, d'utiliser le terme de « métropole ». S'agit-il de marquer une nouvelle distinction entre la métropole et l'outre-mer ? La nouvelle terminologie a-t-elle vocation à faire jurisprudence au ministère de la justice ? Plus largement, l'administration française est-elle condamnée à s'interdire l'emploi du terme « métropole » utilisé jusqu'à présent, y compris par le Président de la République, qui envoie ses vœux à ses concitoyens de métropole et d'outre-mer ?</p>
 <p>De la même manière que nous avons pu apparaître, il y a quelque temps, un « s » au mot « outre-mer » – ce qui n'était pas une idée très heureuse –, va-t-on voir le mot « hexagone » supplanter définitivement celui de « métropole » ? <mpt:interruption type="« Très bien ! »" text="« Très bien ! » et applaudissements sur les bancs du groupe UMP."/> Est-ce le cas, et peut-on imaginer qu'une disposition alors superfétatoire peut être abandonnée ?</p>
 
 </mpt:metadata>
@@ -1573,7 +1573,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="interruption" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Nous sommes à un moment de grande concorde à l'Assemblée nationale.</p>
@@ -1593,7 +1593,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="interruption" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Monsieur Mariton, comme de toute façon il vous faut chercher querelle au Gouvernement, vous trouvez toujours une accroche, un angle d'entrée, une emprise...</p>
@@ -1613,7 +1613,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="interruption" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Oui, c'est juste que vous cherchiez querelle au Gouvernement... Ce n'est pas juste, c'est exact.</p>
@@ -1633,7 +1633,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="interruption" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Je vous le répète, mais pas pour me désolidariser de la commission. Je réaffirme que le travail de la commission a été de très grande qualité ; ce travail, c'est vous, les parlementaires, qui le faites, c'est vous qui votez le texte. Par conséquent, le Gouvernement n'est pas l'auteur de cette disposition.</p>
@@ -1654,7 +1654,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="interruption" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Ce n'est pas ce que vous disiez hier ! Je vous dénoncerai publiquement, si vous m'y contraignez.</p>
@@ -1746,7 +1746,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="interruption" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Oui, en effet.</p>
@@ -1766,7 +1766,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="interruption" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Oui !</p>
@@ -1786,7 +1786,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="interruption" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Et de l'étranger !</p>
@@ -1799,7 +1799,7 @@
   <speaker>Hervé Mariton</speaker>
 
 <mpt:metadata auteur="Hervé_Mariton" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Il a ensuite, à l'occasion d'une émission sur France Ô, adressé ses vœux spécifiquement à nos concitoyens d'outre-mer. Voulez-vous donc signifier que chaque fois que M. le Président de la République adresse ses vœux aux Français de métropole et d'outre-mer, l'utilisation du terme de « métropole » est une référence coloniale ? On pourrait en dire de même du Gouvernement, car on ne peut pas imaginer que chaque ministère ait sa terminologie, à plus forte raison – éminemment – s'il s'agit du vôtre : vous êtes garde des sceaux, ministre de la justice.</p>
+  <p> Il a ensuite, à l'occasion d'une émission sur France Ô, adressé ses vœux spécifiquement à nos concitoyens d'outre-mer. Voulez-vous donc signifier que chaque fois que M. le Président de la République adresse ses vœux aux Français de métropole et d'outre-mer, l'utilisation du terme de « métropole » est une référence coloniale ? On pourrait en dire de même du Gouvernement, car on ne peut pas imaginer que chaque ministère ait sa terminologie, à plus forte raison – éminemment – s'il s'agit du vôtre : vous êtes <w>garde des Sceaux</w>, ministre de la justice.</p>
 <p>Cela veut-il dire que, demain, dans la suite du raisonnement politique que vous venez de rappeler, le terme « métropole » sera proscrit et celui d'« hexagone » s'imposera systématiquement ? C'est tout de même une question majeure. Nous devons être éclairés sur ce point. L'usage est en effet de parler de métropole ; est-ce que l'usage change, dans ce cas nous devons nous y conformer, ou est-ce qu'il est maintenu, et alors ceux qui le respectent souffrent le procès d'expression coloniale que vous avez souligné, madame la ministre ?</p>
 
 </mpt:metadata>
@@ -1830,14 +1830,14 @@
   <speaker>la présidente</speaker>
 
 <mpt:metadata auteur="la_présidente" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> La parole est à Mme la garde des sceaux.</p>
+  <p> La parole est à Mme la <w>garde des Sceaux</w>.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130141.asp#INTER_14"  gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Je crains qu'emporté par son succès récent, M. le ministre Mariton ne se laisse aller à quelques sophismes qui ne sont pas indispensables.</p>
@@ -1858,7 +1858,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>...et un point de divergence entre la présidence de la République et la chancellerie ; il n'y en a pas ! Les termes ne sont pas utilisés – je l'ai dit moi-même – indifféremment, ni en termes de constance ni en termes de contenu. Pour tout vous dire, je considère que le terme « hexagone » renvoie à une conception à la fois physique et géographique ; je ne trouve pas que c'est le mot le plus heureux sur le plan musical. Toutefois les deux termes sont utilisés, ne venez donc pas nous faire une démonstration rhétorique à laquelle vous donnez, par extension, une signification politique. N'inventez pas un problème qui n'existe pas !</p>
@@ -1878,7 +1878,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Le mot métropole a une histoire, comme tous les mots ont une histoire, comme « principe de précaution » a une histoire, une histoire qui fait que quand vous l'introduisez dans un texte comme le nôtre, vous transportez quelque chose d'extrêmement contestable. J'enfonce une porte ouverte en vous disant que les mots ont une histoire. N'inventez donc pas des histoires parce que les mots ont une histoire !</p>
@@ -1951,7 +1951,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="interruption" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Favorable.</p>
@@ -2018,7 +2018,7 @@
   <speaker>Philippe Gosselin</speaker>
 
 <mpt:metadata auteur="Philippe_Gosselin" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130141.asp#INTER_ADT_30" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Je voudrais revenir sur les propos précédemment échangés entre notre collègue Mariton – il le fera sans doute lui-même par la suite – et Mme la garde des sceaux.</p>
+  <p> Je voudrais revenir sur les propos précédemment échangés entre notre collègue Mariton – il le fera sans doute lui-même par la suite – et Mme la <w>garde des Sceaux</w>.</p>
 <p>C'est vrai que les mots ne sont pas neutres. Chaque terme a, en principe, un sens, mais on cherche actuellement, avec les articles 4, 4 bis et les autres, à nous faire perdre le sens des mots. Au demeurant, c'est le principe même de l'article-balai : on ne veut plus dire « père et mère » donc on adopte une formule qui ramasse l'ensemble mais, en réalité, les textes sont précis. On ne peut pas non plus heurter de front la réalité juridique. Le mariage n'est pas la carte Navigo ! Ce n'est pas comme on veut, quand on veut. On ne peut pas l'ouvrir à d'autres types de couples que les couples hétérosexuels sans le détruire ou lui faire perdre radicalement sa substance.</p>
 <p>Cela affaiblit l'ensemble de l'institution.</p>
 <p>Les mots, disais-je, ont une importance ; quand on parle de l'« hexagone », de la « métropole » et de l'« outre-mer », cela a un sens particulier. Il serait important – mais je pense qu'Hervé Mariton y reviendra – de connaître les instructions qui seront données aux fonctionnaires dans le cadre d'une circulaire. Dira-t-on que cette circulaire s'adresse à la métropole et aux outre-mers, ou à l'hexagone et aux outre-mers ? Ce n'est pas la même chose.</p>
@@ -2028,7 +2028,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="interruption" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Si !</p>
@@ -2091,7 +2091,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="interruption" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Il vous fallait de la matière pour ce matin !</p>
@@ -2834,7 +2834,7 @@
   <speaker>Jacques Alain Bénisti</speaker>
 
 <mpt:metadata auteur="Jacques_Alain_Bénisti" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Madame la garde des sceaux, c'est l'un de vos plus brillants magistrats qui le dit, le juge Rosenczveig, qui se trouve en bout de chaîne et reçoit ces enfants privés de repères, souvent issus de familles déstructurées,...</p>
+  <p> Madame la <w>garde des Sceaux</w>, c'est l'un de vos plus brillants magistrats qui le dit, le juge Rosenczveig, qui se trouve en bout de chaîne et reçoit ces enfants privés de repères, souvent issus de familles déstructurées,...</p>
 
 </mpt:metadata>
 
@@ -3275,7 +3275,7 @@
   <speaker>Yves Albarello</speaker>
 
 <mpt:metadata auteur="Yves_Albarello" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130141.asp#INTER_ADT_56" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Madame la garde des sceaux, dans le cadre de la réforme de civilisation que vous menez à marche forcée, j'aimerais savoir ce que vous pensez de cette proposition d'une élue socialiste – et non des moindres – de la huitième circonscription de Paris <mpt:interruption type="Sourires" text="Sourires"/>, qui suggère de débaptiser les écoles maternelles, au motif que cette terminologie serait trop sexiste, pour les nommer d'un terme plus neutre ? Cette proposition pourrait-elle, à terme, être applicable à l'ensemble de notre pays ?</p>
+  <p> Madame la <w>garde des Sceaux</w>, dans le cadre de la réforme de civilisation que vous menez à marche forcée, j'aimerais savoir ce que vous pensez de cette proposition d'une élue socialiste – et non des moindres – de la huitième circonscription de Paris <mpt:interruption type="Sourires" text="Sourires"/>, qui suggère de débaptiser les écoles maternelles, au motif que cette terminologie serait trop sexiste, pour les nommer d'un terme plus neutre ? Cette proposition pourrait-elle, à terme, être applicable à l'ensemble de notre pays ?</p>
 
 </mpt:metadata>
 
@@ -3378,7 +3378,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="interruption" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Merci !</p>
@@ -3428,7 +3428,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="interruption" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>On ne va tout de même pas jeter ces enfants à la mer !</p>
@@ -3553,7 +3553,7 @@
 
 <mpt:metadata auteur="Philippe_Cochet" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Mes chers collègues, nous sommes au cœur du problème. Notre débat montre bien que cette maxime de Boileau n'est pas du tout respectée dans ce texte. C'est incompréhensible ! « Père et mère » et « mari et femme » ne veulent pas dire « deux hommes » ou « deux femmes ».</p>
-<p>Plus c'est compliqué, plus il faut revenir aux fondamentaux ! Madame la garde des sceaux, les fondamentaux montrent bien que le texte que vous défendez <w>aujourd'hui</w> devant la représentation nationale n'est pas interprétable correctement. Comme 61 ou 62 % des maires de France, je vous invite une fois de plus à retirer votre texte.</p>
+<p>Plus c'est compliqué, plus il faut revenir aux fondamentaux ! Madame la <w>garde des Sceaux</w>, les fondamentaux montrent bien que le texte que vous défendez <w>aujourd'hui</w> devant la représentation nationale n'est pas interprétable correctement. Comme 61 ou 62 % des maires de France, je vous invite une fois de plus à retirer votre texte.</p>
 <p>Gardez bien en mémoire cette maxime de Boileau ! Cela simplifierait les débats, et les Français pourraient enfin avoir une position claire. Vous pourriez également – pourquoi pas ? – renoncer à faire adopter ce texte au Parlement et recourir au référendum : nous participerions alors au débat de manière totale. <mpt:interruption type="Applaudissements" text="Applaudissements sur quelques bancs du groupe UMP."/></p>
 
 </mpt:metadata>
@@ -3735,7 +3735,7 @@
   <speaker>David Douillet</speaker>
 
 <mpt:metadata auteur="David_Douillet" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Qu'allez-vous mettre en œuvre, madame la garde des sceaux, pour colmater la brèche que vous avez ouverte avec votre circulaire ? Qu'allez-vous faire pour que les femmes ne deviennent pas des esclaves ? <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC."/></p>
+  <p> Qu'allez-vous mettre en œuvre, madame la <w>garde des Sceaux</w>, pour colmater la brèche que vous avez ouverte avec votre circulaire ? Qu'allez-vous faire pour que les femmes ne deviennent pas des esclaves ? <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC."/></p>
 
 </mpt:metadata>
 
@@ -3765,7 +3765,7 @@
   <speaker>Marc Le Fur</speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Vous pouvez répondre, madame la garde des sceaux !</p>
+  <p> Vous pouvez répondre, madame la <w>garde des Sceaux</w> !</p>
 <p>(Les amendements identiques <w>n<hi rend="sup">os</hi></w> 2467, 3447 et 3932 ne sont pas adoptés.)</p>
 
 </mpt:metadata>
@@ -3820,7 +3820,7 @@
 <mpt:metadata auteur="Philippe_Gosselin" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Je cède à votre amicale pression. C'est dire si je suis discipliné. <mpt:interruption type="Sourires" text="Sourires."/></p>
 <p>Le moment venu, il faudra soumettre au Conseil constitutionnel un certain nombre de principes auxquels votre texte contrevient manifestement. J'ai évoqué le principe de la clarté de la loi, l'objectif de valeur constitutionnelle de l'intelligibilité, de l'usage du français. Car nous sommes devant un dilemme qu'il faudra résoudre.</p>
-<p>Si l'on cherche à respecter la clarté du droit, il faut alors assumer le « changement de civilisation », et je reprends là les termes de Mme la garde des sceaux, que vous voulez imposer. Mais pour surmonter les problèmes créés par la volonté de remédier à une prétendue discrimination – je dis bien « prétendue », notre rapporteur ayant affirmé à plusieurs reprises qu'il n'y avait pas de discrimination juridique, mais qu'il s'agissait d'une volonté politique –, on crée d'autres discriminations bien réelles, celles-là, là où il n'y en avait pas.</p>
+<p>Si l'on cherche à respecter la clarté du droit, il faut alors assumer le « changement de civilisation », et je reprends là les termes de Mme la <w>garde des Sceaux</w>, que vous voulez imposer. Mais pour surmonter les problèmes créés par la volonté de remédier à une prétendue discrimination – je dis bien « prétendue », notre rapporteur ayant affirmé à plusieurs reprises qu'il n'y avait pas de discrimination juridique, mais qu'il s'agissait d'une volonté politique –, on crée d'autres discriminations bien réelles, celles-là, là où il n'y en avait pas.</p>
 <p>Autrement dit, il y a une discrimination au sens politique qui n'est pas d'ordre juridique. Mais en voulant faire cesser une discrimination qui n'existe pas, on en crée une bien réelle. Le Conseil constitutionnel aura à s'y intéresser. Je développerai la suite de mes arguments en présentant mon prochain amendement.</p>
 
 </mpt:metadata>
@@ -3860,7 +3860,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="interruption" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Oui !</p>
@@ -4043,14 +4043,14 @@
 <mpt:metadata auteur="François_de_Mazières" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130141.asp#INTER_ADT_71" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Revenons-en aux questions de droit. Philippe Gosselin a insisté sur le principe d'altérité. Aux termes de la Cour de cassation, c'est très clair : un principe essentiel du droit français de la filiation, c'est celui de l'altérité.</p>
 <p>Par rapport à l'adoption plénière, on crée une fiction juridique. Et il est très difficile de reconnaître l'altérité, avec deux pères ou deux mères. Cela conduit à toucher au titre VII en particulier l'article 310 du code civil qui dispose que : « Tous les enfants dont la filiation est légalement établie ont les mêmes droits et les mêmes devoirs dans leurs rapports avec leur père et mère », puisqu'il est bel et bien institué une nouvelle forme de filiation. J'aimerais connaître votre avis, car la question sera posée au Conseil constitutionnel.</p>
-<p>Vous venez de nous reprocher, madame la ministre, d'évoquer des personnalités de gauche. Vous ne vous êtes pas privée de citer l'ancien garde des sceaux M. Toubon qui se serait déclaré défavorable à un référendum sur la question. Je vous conseille de l'appeler pour vérifier s'il a réellement tenu de tels propos. Pour ma part, je l'ai fait car à force de l'entendre évoqué, il n'était pas inutile d'avoir son opinion. Il ne pense absolument pas ce que vous dites, au contraire.</p>
+<p>Vous venez de nous reprocher, madame la ministre, d'évoquer des personnalités de gauche. Vous ne vous êtes pas privée de citer l'ancien <w>garde des Sceaux</w> M. Toubon qui se serait déclaré défavorable à un référendum sur la question. Je vous conseille de l'appeler pour vérifier s'il a réellement tenu de tels propos. Pour ma part, je l'ai fait car à force de l'entendre évoqué, il n'était pas inutile d'avoir son opinion. Il ne pense absolument pas ce que vous dites, au contraire.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="interruption" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Il ne pense pas ce qu'il a écrit ?</p>
@@ -4117,7 +4117,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="interruption" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Vous ne faites que cela ! <mpt:interruption type="Sourires" text="Sourires."/></p>
@@ -4328,7 +4328,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="interruption" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Et pas le monologue sans fin !</p>
@@ -4703,7 +4703,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="interruption" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Ce n'est pas votre fibre habituelle !</p>
@@ -4803,7 +4803,7 @@
 <mpt:metadata auteur="Jean-Frédéric_Poisson" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130141.asp#INTER_ADT_88" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> L'article L. 226-2-1 du code de l'action sociale et des familles a pour objet les modalités de transmission d'informations préoccupantes sur les mineurs en danger.</p>
 <p>Cet article spécifie, dans son dernier alinéa, que « sauf intérêt contraire de l'enfant, le père, la mère, toute autre personne exerçant l'autorité parentale ou le tuteur sont préalablement informés de cette transmission, selon des modalités adaptées ».</p>
-<p>Je vous repose donc la même question que tout à l'heure, madame la garde des sceaux : comment vous assurerez-vous que le nombre de personnes concernées par cette transmission, ou sollicitées à l'occasion de cette transmission, sera effectivement limité à deux, dans la mesure où le texte que vous nous soumettez <w>aujourd'hui</w> ne fixe pas de limite ?</p>
+<p>Je vous repose donc la même question que tout à l'heure, madame la <w>garde des Sceaux</w> : comment vous assurerez-vous que le nombre de personnes concernées par cette transmission, ou sollicitées à l'occasion de cette transmission, sera effectivement limité à deux, dans la mesure où le texte que vous nous soumettez <w>aujourd'hui</w> ne fixe pas de limite ?</p>
 <p>J'aimerais donc obtenir une réponse à cette question. L'amendement est défendu, madame la présidente.</p>
 
 </mpt:metadata>
@@ -4832,7 +4832,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="interruption" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>C'est devenu une passion de plus en plus folle, même si elle est récente !</p>
@@ -4872,7 +4872,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira,garde des sceaux.</speaker>
+  <speaker>Christiane Taubira,<w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="interruption" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Défavorable.</p>

@@ -1993,7 +1993,7 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> La parole est à Mme la garde des sceaux, ministre de la justice.</p>
+  <p> La parole est à Mme la <w>garde des Sceaux</w>, ministre de la justice.</p>
 
 </mpt:metadata>
 
@@ -2010,7 +2010,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux, ministre de la justice.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>, ministre de la justice.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130118.asp#INTER_30"  gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Monsieur le président, monsieur le président de la commission des lois, madame la présidente de la commission des affaires sociales, monsieur le rapporteur, madame la rapporteure pour avis, mesdames, messieurs les députés, nous avons l'honneur et le privilège, Dominique Bertinotti, ministre déléguée chargée de la famille, et moi-même, de vous présenter, au nom du Gouvernement, un projet de loi traduisant l'engagement du Président de la République d'ouvrir le mariage et l'adoption aux couples de même sexe.</p>
@@ -2043,7 +2043,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>...le fait de reconnaître la liberté de chacun des conjoints est un progrès considérable, <w>aujourd'hui</w> encore inscrit dans le code civil.</p>
@@ -2064,7 +2064,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>C'est donc dans un mouvement de laïcisation de l'état-civil, des libertés individuelles, de la société en général que le divorce sera restauré en 1884. C'est en effet au cours de cette décennie que d'autres lois de liberté individuelle, telles que la loi sur la presse, les lois relatives à la liberté d'association ou à la liberté syndicale, et bientôt la loi de séparation des églises et de l'État, vont intervenir. Le divorce sera consolidé en 1975 par le rétablissement du consentement mutuel, qui était déjà reconnu en 1792, comme d'ailleurs l'incompatibilité d'humeur.</p>
@@ -2086,7 +2086,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>...née avec la laïcisation de la société et du mariage. <mpt:interruption type="Applaudissements" text="Applaudissements sur de nombreux bancs des groupes SRC, écologiste, RRDP et GDR."/></p>
@@ -2107,7 +2107,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Cette évolution vers l'égalité, qui va moderniser notre institution du mariage en reconnaissant la femme comme sujet de droit, va reconnaître aussi progressivement les droits des enfants. Par la loi de 1972, le législateur cessera d'établir une différence entre les enfants légitimes et les enfants naturels. Il procédera donc à une refonte de la filiation, de façon à reconnaître une égalité des droits pour les enfants, que leur filiation soit légitime ou naturelle.</p>
@@ -2130,7 +2130,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>C'est un acte d'égalité. <mpt:interruption type="« Non ! »" text="« Non ! » sur les bancs du groupe UMP."/></p>
@@ -2150,7 +2150,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Il s'agit du mariage tel qu'il est institué actuellement dans notre code civil. Il ne s'agit pas d'un mariage au rabais, il ne s'agit pas d'une union civile...</p>
@@ -2170,7 +2170,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>...prétendument aménagée. Il ne s'agit pas non plus d'une ruse, d'une entourloupe <mpt:interruption type="« Si ! »" text="« Si ! » sur les bancs du groupe UMP."/>, il s'agit du mariage en tant que contrat entre deux personnes <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC, écologiste, RRDP et GDR"/>, en tant qu'institution produisant des règles d'ordre public.</p>
@@ -2202,7 +2202,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>...qui ont vieilli ensemble devraient consentir à la précarité, à une fragilité, voire à une injustice, du seul fait que la loi ne leur reconnaît pas les mêmes droits qu'à un autre couple aussi stable qui a choisi de construire sa vie.</p>
@@ -2222,7 +2222,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Qu'est-ce que le mariage homosexuel va enlever aux couples hétérosexuels ? <mpt:interruption type="« Rien ! »" text="« Rien ! » et applaudissements sur les bancs des groupes SRC, écologiste, RRDP et GDR. – Exclamations sur de nombreux bancs du groupe UMP."/> S'il n'enlève rien, nous allons oser poser des mots sur des sentiments et des comportements. Nous allons oser parler de mensonges à l'occasion de cette campagne de panique <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe UMP"/>, sur la pseudo-suppression des mots de « père » et de « mère » du code civil et du livret de famille. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC, écologiste, RRDP et GDR. – Exclamations sur les bancs du groupe UMP."/></p>
@@ -2242,7 +2242,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Nous posons les mots et nous parlons d'hypocrisie pour ceux qui refusent de voir ces familles homoparentales et ces enfants, exposés aux aléas de la vie. Nous posons les mots et nous parlons d'égoïsme pour ceux qui s'imaginent qu'une institution de la République pourrait être réservée à une catégorie de citoyens. <mpt:interruption type="applaudissements" text="Vifs applaudissements sur les bancs des groupes SRC, écologiste, RRDP et GDR. – Protestations sur de nombreux bancs du groupe UMP."/></p>
@@ -2262,7 +2262,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Nous disons que le mariage ouvert aux couples de même sexe illustre bien la devise de la République. Il illustre la liberté de se choisir, la liberté de décider de vivre ensemble.</p>
@@ -2282,7 +2282,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Nous proclamons par ce texte l'égalité de tous les couples, de toutes les familles.</p>
@@ -2302,7 +2302,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Enfin, nous disons aussi qu'il y a dans cet acte une démarche de fraternité, parce qu'aucune différence ne peut servir de prétexte à des discriminations d'État. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC, écologiste, RRDP et GDR. – Exclamations sur les bancs du groupe UMP."/></p>
@@ -2315,14 +2315,14 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> S'il vous plaît, chers collègues ! Écoutez les arguments de Mme la garde des sceaux. Vous aurez l'occasion de vous exprimer par la suite.</p>
+  <p> S'il vous plaît, chers collègues ! Écoutez les arguments de Mme la <w>garde des Sceaux</w>. Vous aurez l'occasion de vous exprimer par la suite.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Au nom d'un prétendu droit à l'enfant <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe UMP"/>...</p>
@@ -2342,7 +2342,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>...qui n'existe pas, vous protestez parce que le mariage et l'adoption sont ouverts aux couples de même sexe dans exactement les mêmes conditions que pour les couples hétérosexuels. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC, écologiste, RRDP et GDR."/> Autrement dit, ou bien vous nous affirmez que les couples hétérosexuels ont un droit à l'enfant...</p>
@@ -2372,7 +2372,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>...inscrit dans le code civil, ou bien ce droit à l'enfant n'existe pas – et de fait il n'existe pas – et les couples homosexuels auront le droit d'adopter dans les mêmes conditions que les couples hétérosexuels. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC, écologiste, RRDP et GDR."/></p>
@@ -2393,7 +2393,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>...vous refusez des droits à des enfants que vous choisissez de ne pas voir. <mpt:interruption type="Applaudissements" text="Applaudissements sur plusieurs bancs du groupe SRC."/> Le texte que nous vous présentons n'a rien de contraire à la Convention internationale des droits de l'enfant.</p>
@@ -2413,7 +2413,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Au contraire, il protège des enfants que vous refusez de voir. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC, écologiste, GDR et RRDP. – Exclamations sur plusieurs bancs du groupe UMP."/></p>
@@ -2434,7 +2434,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>...selon les mêmes procédures : l'agrément sera accordé dans les mêmes conditions par les conseils généraux, l'adoption prononcée dans les mêmes conditions par le juge, conformément à l'article 353 du code civil,...</p>
@@ -2454,7 +2454,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>...qui dispose que l'adoption est prononcée si elle est conforme aux droits de l'enfant. Par conséquent, vos objections n'ont pas de fondement <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe UMP"/>, si ce n'est une réelle difficulté à inclure dans vos représentations la légitimité de ces couples de même sexe. Or vos enfants et petits-enfants les incluent déjà et les incluront de plus en plus. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC, écologiste, RRDP et GDR."/> Et vous serez bien mal à l'aise lorsque, par curiosité, ils liront les comptes rendus de nos débats ! <mpt:interruption type="Mêmes mouvements" text="Mêmes mouvements. – Exclamations sur les bancs du groupe UMP."/></p>
@@ -2475,7 +2475,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Il a été une institution de possession puisque le mari et père avait une autorité absolue sur l'épouse et les enfants. Il a été une institution d'exclusion, nous l'avons vu : le mariage civil a mis un terme à l'exclusion des croyants non catholiques et de certaines professions, donc de toute une série de citoyens. Ce mariage, qui a été une institution d'exclusion, va enfin devenir, par l'inclusion des couples de même sexe, une institution universelle. Enfin, le mariage devient une institution universelle !</p>
@@ -2506,7 +2506,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Vous pouvez conserver le regard obstinément rivé sur le passé <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe UMP"/>,...</p>
@@ -2526,7 +2526,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>...et encore, en regardant bien le passé, y trouverez-vous des traces durables de la reconnaissance officielle, y compris par l'Église, de couples homosexuels. <mpt:interruption type="Applaudissements" text="Applaudissements sur plusieurs bancs du groupe SRC."/></p>
@@ -2547,7 +2547,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Nous en sommes si fiers que je voudrais le définir par les mots du poète Léon-Gontran Damas : l'acte que nous allons accomplir est « beau comme une rose dont la tour Eiffel assiégée à l'aube voit s'épanouir enfin les pétales ». Il est « grand comme un besoin de changer d'air ».</p>
@@ -2567,7 +2567,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Il est « fort comme le cri aigu d'un accent dans la nuit longue ». <mpt:interruption type="Les députés" text="Les députés des groupes SRC, écologiste, RRDP et GDR se lèvent et applaudissent longuement. – Exclamations sur les bancs du groupe UMP."/></p>
@@ -3073,7 +3073,7 @@
   <speaker>Erwann Binet, rapporteur de la commission des lois constitutionnelles, de la législation et de l'administration générale de la République. </speaker>
 
 <mpt:metadata auteur="Erwann_Binet" interventiontype="intervention" politicalgroup="SRC" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130118.asp#INTER_32" vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
-  <p>onsieur le président, madame la garde des sceaux, madame la ministre, monsieur le ministre, chers collègues, l'esprit et le sens du projet de loi ouvrant le mariage aux couples de personnes de même sexe est d'instaurer l'égalité entre tous les citoyens. Il vise à permettre aux homosexuels qui vivent en couple, à ceux qui ont des enfants, de se marier. Il s'agit de donner des droits essentiels à certains de nos compatriotes qui s'en trouvent encore <w>aujourd'hui</w> dépourvus. C'est une avancée sociétale, c'est un bond en avant des libertés publiques et, comme à chaque fois que notre pays fait progresser l'égalité et reculer les différenciations injustifiées ou les discriminations, c'est un progrès indéniable.</p>
+  <p>onsieur le président, madame la <w>garde des Sceaux</w>, madame la ministre, monsieur le ministre, chers collègues, l'esprit et le sens du projet de loi ouvrant le mariage aux couples de personnes de même sexe est d'instaurer l'égalité entre tous les citoyens. Il vise à permettre aux homosexuels qui vivent en couple, à ceux qui ont des enfants, de se marier. Il s'agit de donner des droits essentiels à certains de nos compatriotes qui s'en trouvent encore <w>aujourd'hui</w> dépourvus. C'est une avancée sociétale, c'est un bond en avant des libertés publiques et, comme à chaque fois que notre pays fait progresser l'égalité et reculer les différenciations injustifiées ou les discriminations, c'est un progrès indéniable.</p>
 <p>Les familles homoparentales existent dans notre pays.</p>
 
 </mpt:metadata>
@@ -3325,7 +3325,7 @@
 <mpt:metadata auteur="Erwann_Binet" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
   <p> En affirmant une place égale à la filiation juridique, affective et sociale, le code civil a conduit à élaborer un autre modèle de parenté où la filiation homosexuelle devient alors possible. La France ne peut pas tolérer qu'il y ait sur son sol des enfants non protégés du fait de l'orientation sexuelle de leurs parents. Il n'est pas concevable d'accepter, à travers le PACS, la vie de couple, l'amour entre personnes de même sexe, de constater qu'elles font des enfants tout en leur refusant l'accès à l'institution qui rassemble le tout : le mariage.</p>
 <p>Nous avons mené de très nombreuses heures d'auditions qui nous ont apporté un solide éclairage grâce au large faisceau de connaissances, d'expertises, et de compétences : plus de cent vingt personnes sont venues présenter leur expérience ou leur vécu devant les députés. Plusieurs d'entre nous se sont également rendus à Bruxelles pour partager l'expérience d'un pays qui a ouvert, depuis de très nombreuses années, le mariage et la procréation médicalement assistée aux couples homosexuels.</p>
-<p>Je tiens à remercier le président de la commission des lois et le président de l'Assemblée nationale pour avoir accepté les conditions d'organisation et de publicité exceptionnelles qui ont présidé à la tenue de ces auditions. Je tiens aussi à remercier le Gouvernement pour son écoute et pour la bienveillance qu'il a réservée aux initiatives parlementaires, madame la garde des sceaux, madame la ministre.</p>
+<p>Je tiens à remercier le président de la commission des lois et le président de l'Assemblée nationale pour avoir accepté les conditions d'organisation et de publicité exceptionnelles qui ont présidé à la tenue de ces auditions. Je tiens aussi à remercier le Gouvernement pour son écoute et pour la bienveillance qu'il a réservée aux initiatives parlementaires, madame la <w>garde des Sceaux</w>, madame la ministre.</p>
 
 </mpt:metadata>
 
@@ -3632,7 +3632,7 @@
 </sp>
 
 <sp who="Bruno_Le_Roux">
-  <speaker>Bruno Le Roux</speaker>
+  <speaker>Bruno <w>Le Roux</w></speaker>
 
 <mpt:metadata auteur="Bruno_Le_Roux" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
   <p> Très bien !</p>
@@ -3730,7 +3730,7 @@
   <speaker>Marie-Françoise Clergeau, rapporteure pour avis</speaker>
 
 <mpt:metadata auteur="Marie-Françoise_Clergeau" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="female" politicalgender="SRC_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
-  <p> Jacques Toubon, lorsqu'il était garde des Sceaux, n'avait-il pas rejeté l'idée d'organiser un référendum sur des sujets de société, estimant que le référendum ne devait pas être « un instrument de démagogie » ?</p>
+  <p> Jacques Toubon, lorsqu'il était <w>garde des Sceaux</w>, n'avait-il pas rejeté l'idée d'organiser un référendum sur des sujets de société, estimant que le référendum ne devait pas être « un instrument de démagogie » ?</p>
 
 </mpt:metadata>
 
@@ -4135,7 +4135,7 @@
   <speaker>Jean-Jacques Urvoas, président de la commission des lois.</speaker>
 
 <mpt:metadata auteur="Jean-Jacques_Urvoas" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
-  <p>Concernant l'appel au peuple, le Gouvernement, par la voix de la garde des sceaux et de la ministre de la famille en commission des lois, a eu l'occasion de démontrer l'inapplicabilité constitutionnelle d'une telle requête. Je n'y reviens pas, d'autant que nous aurons, je crois, l'occasion d'en reparler dans la soirée.</p>
+  <p>Concernant l'appel au peuple, le Gouvernement, par la voix de la <w>garde des Sceaux</w> et de la ministre de la famille en commission des lois, a eu l'occasion de démontrer l'inapplicabilité constitutionnelle d'une telle requête. Je n'y reviens pas, d'autant que nous aurons, je crois, l'occasion d'en reparler dans la soirée.</p>
 <p>Ce problème juridique mis à part, il ne semble pas que l'usage du référendum sur cette question aurait été pertinent. La nature même de la procédure référendaire, binaire, ne permet pas d'apporter une réponse nuancée à une question complexe.</p>
 
 </mpt:metadata>
@@ -4683,7 +4683,7 @@
   <speaker>Henri Guaino</speaker>
 
 <mpt:metadata auteur="Henri_Guaino" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> <w>Aujourd'hui</w>, c'est pour autre un texte d'une tout autre nature, qui ne met pas en jeu la souveraineté nationale, mais les fondements même de notre société <mpt:interruption type="Exclamations" text="Exclamations sur de nombreux bancs du groupe SRC"/>, un texte qui a l'ambition, comme l'a dit madame le garde des sceaux, de réformer la civilisation, que je viens, avec une voix dont j'ai bien conscience qu'elle n'est pas aussi forte que celle de Philippe Séguin,...</p>
+  <p> <w>Aujourd'hui</w>, c'est pour autre un texte d'une tout autre nature, qui ne met pas en jeu la souveraineté nationale, mais les fondements même de notre société <mpt:interruption type="Exclamations" text="Exclamations sur de nombreux bancs du groupe SRC"/>, un texte qui a l'ambition, comme l'a dit madame le <w>garde des Sceaux</w>, de réformer la civilisation, que je viens, avec une voix dont j'ai bien conscience qu'elle n'est pas aussi forte que celle de Philippe Séguin,...</p>
 
 </mpt:metadata>
 
@@ -4710,7 +4710,7 @@
 </sp>
 
 <sp who="Bruno_Le_Roux">
-  <speaker>Bruno Le Roux</speaker>
+  <speaker>Bruno <w>Le Roux</w></speaker>
 
 <mpt:metadata auteur="Bruno_Le_Roux" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
   <p> Narcissisme !</p>
@@ -6281,14 +6281,14 @@
   <speaker>la présidente</speaker>
 
 <mpt:metadata auteur="la_présidente" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> La parole est à Mme la garde des sceaux.</p>
+  <p> La parole est à Mme la <w>garde des Sceaux</w>.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira,garde des sceaux.</speaker>
+  <speaker>Christiane Taubira,<w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130118.asp#INTER_39"  gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>J'ai écouté la motion de rejet préalable avec la plus grande attention,...</p>
@@ -6308,7 +6308,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira,garde des sceaux.</speaker>
+  <speaker>Christiane Taubira,<w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>...en scrutant des arguments qui prouveraient l'inconstitutionnalité du projet de loi : aux termes du règlement de l'Assemblée, la motion préalable vise à démontrer qu'il y a des raisons constitutionnelles de rejeter le texte ou qu'il n'y a pas lieu de délibérer.</p>
@@ -6329,7 +6329,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira,garde des sceaux.</speaker>
+  <speaker>Christiane Taubira,<w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Lorsque vous dites que le...</p>
@@ -6349,7 +6349,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira,garde des sceaux.</speaker>
+  <speaker>Christiane Taubira,<w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Vous n'êtes pas obligé d'être incorrects ! Si j'ai marqué une pause, c'est parce que vous êtes nombreux à bouger et que M. Guaino, à qui je m'adresse, n'était plus dans mon champ de vision.</p>
@@ -6369,7 +6369,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira,garde des sceaux.</speaker>
+  <speaker>Christiane Taubira,<w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>S'agissant, donc, du référendum, je ne vais pas vous rappeler, à vous et à votre groupe, que la Constitution définit le champ d'application du référendum : j'aurais l'impression de me répéter, et surtout de répéter des choses à quelqu'un qui les connaît par cœur.</p>
@@ -6389,7 +6389,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira,garde des sceaux.</speaker>
+  <speaker>Christiane Taubira,<w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Si la Constitution ne mentionne pas les débats de société comme pouvant faire l'objet d'un référendum, ce n'est pas par oubli : c'est bien au terme de discussions et d'un débat parlementaire qu'il a été décidé que ces sujets ne pourraient être soumis à référendum. J'ai vraiment l'impression de me répéter, mais comme vous-même vous répétez beaucoup, vous aussi, nous sommes contraints de vous faire constamment les mêmes réponses.</p>
@@ -6409,7 +6409,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira,garde des sceaux.</speaker>
+  <speaker>Christiane Taubira,<w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Il est vraiment surprenant de vous entendre soutenir à la tribune que vous ne pouvez pas faire le travail que vous ont confié vos électeurs et que c'est à eux qu'il reviendrait de le faire !</p>
@@ -6431,7 +6431,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira,garde des sceaux. </speaker>
+  <speaker>Christiane Taubira,<w>garde des Sceaux</w>. </speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>#8230;au sens où cette institution témoigne... <mpt:interruption type="Mêmes mouvements" text="Mêmes mouvements"/></p>
@@ -6444,14 +6444,14 @@
   <speaker>la présidente</speaker>
 
 <mpt:metadata auteur="la_présidente" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> Mes chers collègues ! Tout le monde aura la parole dans ce débat : laissez conclure Mme la garde des sceaux.</p>
+  <p> Mes chers collègues ! Tout le monde aura la parole dans ce débat : laissez conclure Mme la <w>garde des Sceaux</w>.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira,garde des sceaux.</speaker>
+  <speaker>Christiane Taubira,<w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Le mariage est une institution conservatrice, disais-je, au sens où cette institution témoigne d'un ordre passé. <mpt:interruption type="« Oh ! »" text="« Oh ! » sur les bancs du groupe UMP."/></p>
@@ -6481,7 +6481,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Il n'y a rien d'insultant dans une société à conserver...</p>
@@ -6501,7 +6501,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Non, monsieur Goasguen : si elle était conservatoire, elle serait figée. Elle n'est pas conservatoire, mais bien conservatrice, au sens où elle témoigne d'un temps passé, et surtout de l'évolution de son temps. Elle est objectivement conservatrice, et vous voulez en faire une institution doctrinairement conservatrice, <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe SRC – Exclamations sur les bancs du groupe UMP"/> au sens où vous vous agrippez à un ordre que vous croyez immuable.</p>
@@ -6521,7 +6521,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Le mariage a traversé des périodes différentes.</p>
@@ -6541,7 +6541,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Je vous rappelle que l'article 213 du code civil disposait que le mari doit protection à sa femme et la femme obéissance à son mari, et qu'il a fallu attendre le Front populaire pour que soit supprimé, en 1938, le devoir d'obéissance de la femme à son mari. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC, écologiste et GDR."/></p>
@@ -6561,7 +6561,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Que vous souhaitiez conserver cet aspect du mariage, c'est votre liberté.</p>
@@ -6591,7 +6591,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Nous disons, pour notre part, que le mariage est une institution qui porte l'empreinte des évolutions de la société. Et c'est cette évolution que nous poursuivons en continuant le processus de laïcisation du mariage. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC et écologiste."/></p>
@@ -6612,7 +6612,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux. </speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>. </speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>'est leur faire injure que de croire que leur revendication est matérielle, et nous répondons très clairement que c'est bien l'institution du mariage, avec toute sa charge symbolique, que nous ouvrons aux couples homosexuels. Il ne s'agit pas de leur accorder quelques avantages : nous disons que l'institution du mariage n'appartient pas à une catégorie de citoyens. Cette institution est républicaine et nous l'ouvrons aux couples homosexuels.</p>
@@ -6632,7 +6632,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>L'essentiel, pour nous, c'est de convaincre,...</p>
@@ -6652,7 +6652,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux. </speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>. </speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>#8230;bien au-delà de vous, de convaincre vos électeurs ; et lorsqu'on voit que 63 % des Français sont favorables au mariage, il n'y a pas de doute que nous les convainquons ! <mpt:interruption type="Applaudissements" text="Applaudissements sur certains bancs du groupe SRC. – Exclamations sur les bancs du groupe UMP."/></p>
@@ -6673,7 +6673,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>J'ai entendu, non pas une motion de rejet préalable, mais simplement une motion de regret du passé. Le passé est passé, nous travaillons pour l'avenir ! <mpt:interruption type="« Bravo ! »" text="« Bravo ! » sur les bancs du groupe SRC. – De nombreux députés des groupes SRC et écologiste se lèvent et applaudissent."/></p>
@@ -7052,7 +7052,7 @@
 <mpt:metadata auteur="Philippe_Gosselin" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130118.asp#INTER_43" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Je vous remercie, madame la présidente. Il faudra souffrir de m'écouter, moi aussi, que voulez-vous ! Nous soutiendrons évidemment la motion de rejet de notre collègue Guaino.</p>
 <p>Nous n'avons pas peur du peuple, comme la gauche semble en avoir peur en ce moment. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC."/> Oui, l'article 11 de la Constitution permet réellement, à notre sens, le recours au référendum lorsqu'il s'agit de questions sociales. Par le fait qu'il intègre la filiation, le mariage, les droits de succession, les pensions de réversion, la place de l'enfant, des pères et des mères, oui, ce texte concerne bien l'ensemble de la société. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe UMP."/> Le mariage est une institution : c'est beaucoup plus qu'un contrat ou que la reconnaissance d'un simple amour entre deux individus, si légitime et si fort soit-il.</p>
-<p>Non, madame la garde des sceaux, le mariage n'est pas le témoin d'un ordre passé. La loi française n'est pas non plus le témoin d'un ordre passé. Nous travaillons pour l'avenir : c'est aussi un enjeu de civilisation. Ce disant, madame la garde des sceaux, je ne fais que reprendre vos propos de novembre 2012 : un enjeu de civilisation ! <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe UMP."/></p>
+<p>Non, madame la <w>garde des Sceaux</w>, le mariage n'est pas le témoin d'un ordre passé. La loi française n'est pas non plus le témoin d'un ordre passé. Nous travaillons pour l'avenir : c'est aussi un enjeu de civilisation. Ce disant, madame la <w>garde des Sceaux</w>, je ne fais que reprendre vos propos de novembre 2012 : un enjeu de civilisation ! <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
 
@@ -7293,7 +7293,7 @@
 </sp>
 
 <sp who="Bruno_Le_Roux">
-  <speaker>Bruno Le Roux</speaker>
+  <speaker>Bruno <w>Le Roux</w></speaker>
 
 <mpt:metadata auteur="Bruno_Le_Roux" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
   <p> Jusque-là, ça va !</p>
@@ -7459,7 +7459,7 @@
 
 <mpt:metadata auteur="Jean-Frédéric_Poisson" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Il est curieux que vous ayez eu besoin d'un tel rappel à l'ordre pour rétablir – partiellement, il est vrai – un équilibre que vous n'avez, au fond, probablement pas souhaité. Monsieur le rapporteur, de telles proportions nous autorisent à mettre en cause non seulement votre méthode de travail, mais aussi les conclusions auxquelles vous avez abouti.</p>
-<p>Il est vrai que vous avez tenu à inventer une nouvelle méthode. Sur le plan de l'innovation, personne ne peut vous faire de reproches. Ne nous méprenons pas : je ne remets pas en cause la diffusion publique, par Internet, de certaines des auditions. Je trouve cependant paradoxal – pour ne pas dire d'une certaine mauvaise foi – la conjonction de cette organisation et le reproche qui nous a été fait régulièrement ici – parfois même par les membres du Gouvernement, madame la garde des sceaux – de ne pas participer physiquement à des auditions alors même que nous disposions de tous les moyens pour y assister depuis notre bureau ou sur Internet. <mpt:interruption type="Applaudissements" text="Applaudissements sur plusieurs bancs du groupe UMP."/></p>
+<p>Il est vrai que vous avez tenu à inventer une nouvelle méthode. Sur le plan de l'innovation, personne ne peut vous faire de reproches. Ne nous méprenons pas : je ne remets pas en cause la diffusion publique, par Internet, de certaines des auditions. Je trouve cependant paradoxal – pour ne pas dire d'une certaine mauvaise foi – la conjonction de cette organisation et le reproche qui nous a été fait régulièrement ici – parfois même par les membres du Gouvernement, madame la <w>garde des Sceaux</w> – de ne pas participer physiquement à des auditions alors même que nous disposions de tous les moyens pour y assister depuis notre bureau ou sur Internet. <mpt:interruption type="Applaudissements" text="Applaudissements sur plusieurs bancs du groupe UMP."/></p>
 
 </mpt:metadata>
 
@@ -7890,9 +7890,9 @@
   <speaker>Jean-Frédéric Poisson</speaker>
 
 <mpt:metadata auteur="Jean-Frédéric_Poisson" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Faut-il considérer, madame la garde des sceaux, que cette interprétation prévaudra désormais dans l'ensemble des directives et des textes issus de votre ministère ? Cela promettrait une belle désorganisation dans l'ensemble de notre corps social, y compris sur un certain nombre de sujets à propos desquels nous ne manquerions pas d'être saisis, monsieur le président de la commission !</p>
-<p>Vraiment, madame la garde des sceaux, je ne comprends pas comment vous avez pu déclarer que la République française « ruse avec ses propres principes » lorsqu'elle n'admet pas que deux personnes de même sexe puissent accéder au mariage. Il me semble que votre expression était à peu près celle-là – vous me pardonnerez cette inexactitude. J'avais d'ailleurs été un peu étonné par cette expression, même si elle provenait d'un poète qui n'est pas celui que vous avez cité tout à l'heure, mais d'Aimé Césaire, je crois.</p>
-<p>Connaissez-vous, madame la garde des sceaux, une seule société dans laquelle toutes les personnes auraient strictement les mêmes droits ? Bien sûr, cette société n'existe pas ! Je suis prêt à admettre que vous ne souhaitez pas la constituer. Mais alors, mesdames les ministres, monsieur le rapporteur, quelle est la limite de votre argument sur l'égalité ?</p>
+  <p> Faut-il considérer, madame la <w>garde des Sceaux</w>, que cette interprétation prévaudra désormais dans l'ensemble des directives et des textes issus de votre ministère ? Cela promettrait une belle désorganisation dans l'ensemble de notre corps social, y compris sur un certain nombre de sujets à propos desquels nous ne manquerions pas d'être saisis, monsieur le président de la commission !</p>
+<p>Vraiment, madame la <w>garde des Sceaux</w>, je ne comprends pas comment vous avez pu déclarer que la République française « ruse avec ses propres principes » lorsqu'elle n'admet pas que deux personnes de même sexe puissent accéder au mariage. Il me semble que votre expression était à peu près celle-là – vous me pardonnerez cette inexactitude. J'avais d'ailleurs été un peu étonné par cette expression, même si elle provenait d'un poète qui n'est pas celui que vous avez cité tout à l'heure, mais d'Aimé Césaire, je crois.</p>
+<p>Connaissez-vous, madame la <w>garde des Sceaux</w>, une seule société dans laquelle toutes les personnes auraient strictement les mêmes droits ? Bien sûr, cette société n'existe pas ! Je suis prêt à admettre que vous ne souhaitez pas la constituer. Mais alors, mesdames les ministres, monsieur le rapporteur, quelle est la limite de votre argument sur l'égalité ?</p>
 
 </mpt:metadata>
 
@@ -8022,7 +8022,7 @@
   <speaker>Jean-Frédéric Poisson</speaker>
 
 <mpt:metadata auteur="Jean-Frédéric_Poisson" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Dans son article <w>1<hi rend="sup">er, </hi></w>la Déclaration des droits de l'homme et du citoyen indique très clairement le chemin à suivre : « Les hommes naissent et demeurent libres et égaux en droits. Les distinctions sociales ne peuvent être fondées que sur l'utilité commune ». Au point où nous en sommes de notre réflexion, et à la lumière de cet article <w>1<hi rend="sup">er</hi></w>, il ressort que vous n'acceptez pas que le fait de fonder le mariage sur l'altérité sexuelle soit de l'ordre de l'utilité commune. <mpt:interruption type="Applaudissements" text="Applaudissements sur de nombreux bancs du groupe UMP."/> C'est là, madame la garde des sceaux, je le crois, le cœur de notre opposition.</p>
+  <p> Dans son article <w>1<hi rend="sup">er, </hi></w>la Déclaration des droits de l'homme et du citoyen indique très clairement le chemin à suivre : « Les hommes naissent et demeurent libres et égaux en droits. Les distinctions sociales ne peuvent être fondées que sur l'utilité commune ». Au point où nous en sommes de notre réflexion, et à la lumière de cet article <w>1<hi rend="sup">er</hi></w>, il ressort que vous n'acceptez pas que le fait de fonder le mariage sur l'altérité sexuelle soit de l'ordre de l'utilité commune. <mpt:interruption type="Applaudissements" text="Applaudissements sur de nombreux bancs du groupe UMP."/> C'est là, madame la <w>garde des Sceaux</w>, je le crois, le cœur de notre opposition.</p>
 <p>Je reviens à votre texte, monsieur le rapporteur, pour illustrer ce point : « En l'état actuel du droit, le code civil ne contient aucune disposition définissant le mariage. [...] Les rédacteurs du code civil de 1804 n'ont pas éprouvé le besoin de définir le mariage, tant la définition allait de soi » – tout est dans l'imparfait.</p>
 
 </mpt:metadata>
@@ -8187,7 +8187,7 @@
   <speaker>Jean-Frédéric Poisson</speaker>
 
 <mpt:metadata auteur="Jean-Frédéric_Poisson" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> De la même façon que j'avais pris acte de la sincérité de Mme la garde des sceaux Elisabeth Guigou, alors assise au même banc que vous, madame la ministre, et qui avait de dénégations énergiques en en serments enflammés, juré ses grands dieux que jamais au grand jamais, la France n'irait vers le mariage homosexuel à la suite du PACS.</p>
+  <p> De la même façon que j'avais pris acte de la sincérité de Mme la <w>garde des Sceaux</w> Elisabeth Guigou, alors assise au même banc que vous, madame la ministre, et qui avait de dénégations énergiques en en serments enflammés, juré ses grands dieux que jamais au grand jamais, la France n'irait vers le mariage homosexuel à la suite du PACS.</p>
 
 </mpt:metadata>
 
@@ -8228,7 +8228,7 @@
 
 <mpt:metadata auteur="Jean-Frédéric_Poisson" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Ainsi totalement dissociée des capacités biologiques des personnes, votre conception de la filiation instaure de manière définitive un droit à l'enfant, dont nos codes avaient jusqu'ici réussi à se préserver. J'ai du mal à considérer qu'une telle distance à l'égard de la nature – doublée d'une telle volonté de satisfaire toutes les aspirations individuelles – constitue réellement un progrès social.</p>
-<p>En ce sens, madame la garde des sceaux, nous sommes bien dans un changement de civilisation ou dans une « révolution anthropologique », pour reprendre l'expression de notre rapporteur, même s'il la conteste par ailleurs.</p>
+<p>En ce sens, madame la <w>garde des Sceaux</w>, nous sommes bien dans un changement de civilisation ou dans une « révolution anthropologique », pour reprendre l'expression de notre rapporteur, même s'il la conteste par ailleurs.</p>
 <p>D'abord, parce que nous voyons bien que des bouleversements de ces notions d'égalité et d'utilité commune ne comportent pas que des conséquences purement juridiques. Mais surtout, parce que nous franchissons une limite supplémentaire dans le rapport que nous avons organisé jusqu'à présent entre la loi et la nature. À ceux de mes collègues qui se demandaient l'autre jour ce que peut bien être le « droit naturel », je les invite à relire l'article 2 de la Déclaration des droits de l'homme :...</p>
 
 </mpt:metadata>
@@ -8330,7 +8330,7 @@
   <speaker>Jean-Frédéric Poisson</speaker>
 
 <mpt:metadata auteur="Jean-Frédéric_Poisson" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Mais, madame la garde des sceaux, vous ne pouvez pas considérer qu'une telle attitude puisse valablement constituer un principe, ni théorique, ni pratique. <mpt:interruption type="Applaudissements" text="Applaudissements sur plusieurs bancs du groupe UMP."/></p>
+  <p> Mais, madame la <w>garde des Sceaux</w>, vous ne pouvez pas considérer qu'une telle attitude puisse valablement constituer un principe, ni théorique, ni pratique. <mpt:interruption type="Applaudissements" text="Applaudissements sur plusieurs bancs du groupe UMP."/></p>
 <p>Sur ce dernier point, je souhaite revenir sur l'article 16 de votre projet de loi, emblématique de votre texte.</p>
 
 </mpt:metadata>
@@ -8476,7 +8476,7 @@
   <speaker>la présidente </speaker>
 
 <mpt:metadata auteur="la_présidente_" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p>La parole est à Mme la garde des sceaux.</p>
+  <p>La parole est à Mme la <w>garde des Sceaux</w>.</p>
 
 </mpt:metadata>
 
@@ -8513,7 +8513,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130118.asp#INTER_50"  gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Nous sommes habitués à ces excès. <mpt:interruption type="Protestations" text="Protestations sur les bancs du groupe UMP."/></p>
@@ -8545,7 +8545,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira, garde des sceaux.</speaker>
+  <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Non ! Ce n'était d'ailleurs pas une motion de renvoi en commission, ne serait-ce que si l'on s'en tient au seul argument de la présence en commission. Il m'est en effet arrivé de répondre à des députés de l'opposition qui réclamaient un débat, qu'il serait déjà bien qu'ils participent aux auditions !</p>
@@ -8565,7 +8565,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira,garde des sceaux.</speaker>
+  <speaker>Christiane Taubira,<w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Allons ! Vous connaissez suffisamment bien l'Assemblée nationale pour savoir que même les députés qui ne sont pas membres d'une commission sont autorisés à participer à ses débats ! Or vous n'y étiez pas !</p>
@@ -8596,7 +8596,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira,garde des sceaux.</speaker>
+  <speaker>Christiane Taubira,<w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Or voilà que M. le député Poisson nous explique que parce que les auditions étaient diffusées sur Internet, cela dispensait d'y participer ! <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe UMP."/> Sauf que les auditions sont faites pour être actif, c'est-à-dire pour poser des questions, pour obtenir des réponses et pour contester ! Il y a donc une contradiction entre le fait de réclamer sans arrêt des débats et de snober ensuite tous les lieux de débats ! Je le maintiens !</p>
@@ -8626,7 +8626,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira,garde des sceaux.</speaker>
+  <speaker>Christiane Taubira,<w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Vous nous dites également, monsieur Poisson, que vous connaissez des couples homosexuels qui ne sont pas intéressés par le mariage. Or, je connais infiniment plus d'hétérosexuels qui ne s'intéressent pas au mariage ; pour autant, il ne me viendrait pas à l'esprit d'abolir le mariage hétérosexuel ! <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC et GDR."/></p>
@@ -8648,7 +8648,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira,garde des sceaux.</speaker>
+  <speaker>Christiane Taubira,<w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Souvent, dans l'histoire, les minorités ont fait progresser le droit,...</p>
@@ -8668,7 +8668,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira,garde des sceaux.</speaker>
+  <speaker>Christiane Taubira,<w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>...parce que, subissant des injustices, ces minorités se sont souvent plus mobilisées.</p>
@@ -8691,7 +8691,7 @@
 </sp>
 
 <sp who="Christiane_Taubira">
-  <speaker>Christiane Taubira,garde des sceaux.</speaker>
+  <speaker>Christiane Taubira,<w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p>Or, lorsque nous vous avons répondu que les célibataires ont le droit d'adopter, vous avez déposé un amendement pour interdire ce droit aux célibataires ! <mpt:interruption type="Exclamations" text="Exclamations sur quelques bancs du groupe UMP."/> Vous nous avez habitués à une meilleure tenue !</p>
