@@ -48,6 +48,8 @@ sub print_body {
     my ($aspfilename, $deputes_id, $official_id) = @_;
     my $div_state = "main";	#main, subpart, subsubpart
     my $sp_state = "closed";	#closed open
+    my $debat_position = "other"; #mpt -> mariage pour tous, qag -> question au gouvernement
+    my $debat = "";
     my $last_intervenant = "";
     print "<text>\n";
     print "<body>\n";
@@ -81,17 +83,17 @@ sub print_body {
 		}
 		if ($deputes_id->{$intervenant_id}{'sexe'}) {
 		    if ($deputes_id->{$intervenant_id}{'sexe'} eq 'H') {
-			$genre="homme";
+			$genre="male";
 		    } elsif ($deputes_id->{$intervenant_id}{'sexe'} eq 'F') {
-			$genre="femme";
+			$genre="female";
 		    }
 		}
 	    } elsif ($intervenant =~ /Taubira/i) {
-		$genre="femme";
+		$genre="female";
 		$political_group = "GVT";
 		$intervenant = "Christiane Taubira"
 	    } elsif ($intervenant =~ /Bertinotti/i) {
-		$genre="femme";
+		$genre="female";
 		$political_group = "GVT";
 		$intervenant = "Dominique Bertinotti"
 	    }
@@ -146,7 +148,51 @@ sub print_body {
 		    . $genre
 		    . "\"";
 	    }
-	    print "\n<mpt:metadata auteur=\"$who\" typedintervention=\"$intervention_type\" $att_political $intervention_id $vote $att_gender $att_political_gender>\n";
+	    my $wing="";
+	    if ($political_group eq 'ECOLO') {
+		$wing="left";
+	    }
+	    if ($political_group eq 'GDR') {
+		$wing="left";
+	    }
+	    if ($political_group eq 'GVT') {
+		$wing="left";
+	    }
+	    if ($political_group eq 'NI') {
+		$wing="right";
+	    }
+	    if ($political_group eq 'RRDP') {
+		$wing="left";
+	    }
+	    if ($political_group eq 'SRC') {
+		$wing="left";
+	    }
+	    if ($political_group eq 'UDI') {
+		$wing="right";
+	    }
+	    if ($political_group eq 'UMP') {
+		$wing="right";
+	    }
+	    my $winggender = "";
+	    if ($genre && $wing) {
+		$winggender = "winggender=\""
+		    . $wing
+		    . "_"
+		    . $genre
+		    . "\"";
+	    }
+	    $wing = "wing=\"$wing\"" if $wing;
+	    if ($genre) {
+		$att_gender = "gender=\"$genre\"";
+	    }
+	    if ($genre && $political_group) {
+		$att_political_gender = "politicalgender=\""
+		    . $political_group
+		    . "_"
+		    . $genre
+		    . "\"";
+	    }
+	    print "\n<mpt:metadata auteur=\"$who\" interventiontype=\"$intervention_type\" $att_political $intervention_id $vote $att_gender $att_political_gender $wing $winggender $debat>\n";
 	    print "  <p>$intervention</p>\n";
 	} elsif (m!^<p>(.*?)</p>!) {
 	    my $para = encode("utf-8", $1) ;
@@ -163,6 +209,16 @@ sub print_body {
 	    }
 	    my $div_level = $1 ;
 	    my $div_head = encode("utf8", $2) ;
+	    if ($div_level eq 'titre1') {
+		if (/(?:Ouverture du mariage|Projet de loi)/i) {
+		    $debat_position = "mpt";
+		} elsif (/Questions/) {
+		    $debat_position = "qag";
+		} else {
+		    $debat_position = "other";
+		}
+	    }
+	    $debat = "debat=\"$debat_position\" subject=\"$debat_position\"";
 	    clean_entities(\$div_head) ;
 	    if ($div_state eq "subpart" and $div_level eq "titre1") {
 		print "</div>\n";
