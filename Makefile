@@ -1,8 +1,7 @@
 .PHONP: clean all cleanasp txm tei archives
 
 #export directories
-TXMDIR=MPT-TXM-TXT-CSV
-TEIDIR=MPT-TEI
+XMLARCHIVE=MPT
 
 #Generated docs directories
 XMLDIR=files/xml/
@@ -38,16 +37,10 @@ CRANMPT=20130118 \
 	20130144
 
 
-$(XMLDIR)%.xml: $(HTMLDIR)%.asp compte_rendu_to_tei.pl
-	./compte_rendu_to_tei.pl $< > $@
-
 $(TXTDIR)%.txt: $(XMLDIR)%.xml
 	xsltproc xmltei_to_plaintext.xsl $< > $@
 
-warning:
-	@echo This makefile should not be used anymore unless you know what you do
-
-all: $(CRANMPT:%=$(XMLDIR)%.xml) $(TXTDIR)tout.txt $(GEXFDIR)/mpt.gexf
+all: $(TXTDIR)tout.txt
 
 $(TXTDIR)tout.txt: $(CRANMPT:%=$(TXTDIR)%.txt)
 	cat $$(ls $(TXTDIR)2013*.txt |sort) >$(TXTDIR)tout.txt
@@ -61,25 +54,16 @@ clean:
 cleanasp:
 	rm -f $(HTMLDIR)*.asp
 
-$(TXMDIR):
-	mkdir $(TXMDIR)
+$(XMLARCHIVE):
+	mkdir $@
 
-$(TEIDIR):
-	mkdir $(TEIDIR)
-
-txm: metadata.csv $(TXMDIR) $(CRANMPT:%=$(TXTDIR)%.txt)
-	cp $(TXTDIR)2013*.txt $(TXMDIR)
-	cp metadata.csv $(TXMDIR)
-	zip $(TXMDIR).zip $(TXMDIR)/*
+archive: $(XMLARCHIVE)
+	cp $(CRANMPT:%=$(XMLDIR)%.xml) $(XMLARCHIVE)
+	cp $(XMLDIR)/metadata.csv $(XMLARCHIVE)
+	zip $(XMLARCHIVE)_$$(date +%Y-%m-%d).zip $(XMLARCHIVE)/*
 
 metadata.csv:
 	./gen_txm_metadata.sh
-
-tei: $(TEIDIR) $(CRANMPT:%=$(XMLDIR)%.xml)
-	cp $(XMLDIR)*.xml $(TEIDIR)
-	zip $(TEIDIR).zip $(TEIDIR)/*
-
-archives: txm tei
 
 download:
 	@for cranmpt in $(CRANMPT) ; do \
