@@ -1815,14 +1815,14 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> La parole est à M. Marc Le Fur, pour soutenir l'amendement n°2598.</p>
+  <p> La parole est à M. Marc <w>Le Fur</w>, pour soutenir l'amendement n°2598.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_ADT_2" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Cet amendement vise à faire échapper l'article 75 à l'application de la loi. Dans cet article, qui concerne la célébration du mariage, le mot « parent » apparaît, mais dans un sens bien différent. Je cite : « Le jour désigné par les parties, après le délai de publication, l'officier d'état civil, à la mairie, en présence d'au moins deux témoins, ou de quatre au plus, parents ou non des parties... »</p>
@@ -1849,7 +1849,7 @@
 <mpt:metadata auteur="Xavier_Breton" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_ADT_3" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Je voudrais revenir, par cet amendement, sur la validité juridique de celui qui a conduit à cet article-balai. M. Myard le disait très bien, des interrogations juridiques demeurent mais elles pourraient être levées si nous avions connaissance de l'avis du Conseil d'État. A-t-il eu, en particulier, l'occasion de s'interroger sur la pertinence juridique de cet article-balai ?</p>
 <p>Nous aurions aussi aimé connaître l'avis du président de la commission des lois sur son impact juridique. En tant que président de cette prestigieuse commission, il a certainement une opinion indépendante du désir de faire accélérer les débats ou bâillonner l'opposition. </p>
-<p>La question posée par M. Le Fur est importante, on ne peut pas la balayer d'un revers de main.</p>
+<p>La question posée par M. <w>Le Fur</w> est importante, on ne peut pas la balayer d'un revers de main.</p>
 <p>Pour toutes ces raisons, nous avons déposé cet amendement et nous attendons des réponses, non pas lapidaires, mais qui aillent au fond des questions posées. Il y en aura d'autres, j'y reviendrai, quant aux conséquences sur notre société.</p>
 <p>Nous attendons donc les réponses de la <w>garde des Sceaux</w>, du rapporteur et du président de la commission des lois, et nous demandons à nouveau que nous soit communiqué l'avis du Conseil d'État.</p>
 
@@ -2236,9 +2236,9 @@
 
 <mpt:metadata auteur="Erwann_Binet" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
   <p> Je vais y venir.</p>
-<p>M. Le Fur m'a interrogé sur la polysémie du mot « parent ». Or, elle existe déjà dans le code civil. Ainsi, à l'article 371-1 que M. Mariton a relu tout à l'heure, le sens est clairement celui des deux parents. C'est évident.</p>
+<p>M. <w>Le Fur</w> m'a interrogé sur la polysémie du mot « parent ». Or, elle existe déjà dans le code civil. Ainsi, à l'article 371-1 que M. Mariton a relu tout à l'heure, le sens est clairement celui des deux parents. C'est évident.</p>
 <p>En revanche, dans les dispositions relatives aux successions, le mot « parent » est employé à de très nombreuses reprises au sens de parenté, notamment pour viser les collatéraux. Plus précisément, en droit des successions, le terme « parent » vise jusqu'au sixième degré les enfants, leurs descendants, les père et mère, frères et sœurs et descendants de ces derniers, les ascendants autre que les père et mère et les collatéraux autre que les frères et sœurs et les descendants de ces derniers.</p>
-<p>Nous en avons discuté avec les notaires, M. Mariton s'en souvient certainement et j'y ai fait allusion hier. Nous les avons souvent interrogés sur les problèmes qu'ils étaient susceptible de rencontrer en raison de ces deux acceptions. Il s'avère qu'ils n'en sont pas troublés, car ils ont l'habitude de manier ces articles et intègrent dans leur pratique cette polysémie. En revanche, remplacer l'un des termes par « membre de la famille » les aurait perturbés. Or, c'était le parti pris du Gouvernement dans un certain nombre d'articles, et cette modification les gênait davantage que le maintien de la polysémie du mot parent, qui est déjà présente dans notre code civil. Il me paraît important de le rappeler à M. Le Fur. Ce problème ne se posera donc pas plus après le vote du texte qu'il ne se pose <w>aujourd'hui</w>.</p>
+<p>Nous en avons discuté avec les notaires, M. Mariton s'en souvient certainement et j'y ai fait allusion hier. Nous les avons souvent interrogés sur les problèmes qu'ils étaient susceptible de rencontrer en raison de ces deux acceptions. Il s'avère qu'ils n'en sont pas troublés, car ils ont l'habitude de manier ces articles et intègrent dans leur pratique cette polysémie. En revanche, remplacer l'un des termes par « membre de la famille » les aurait perturbés. Or, c'était le parti pris du Gouvernement dans un certain nombre d'articles, et cette modification les gênait davantage que le maintien de la polysémie du mot parent, qui est déjà présente dans notre code civil. Il me paraît important de le rappeler à M. <w>Le Fur</w>. Ce problème ne se posera donc pas plus après le vote du texte qu'il ne se pose <w>aujourd'hui</w>.</p>
 <p>S'agissant de l'article 371-1 du code civil, vous avez rappelé, monsieur Mariton, qu'il était lu devant les couples lors de la cérémonie de mariage. C'est vrai, mais les couples n'ont pas le texte sous les yeux, et quand vous dîtes « aux père et mère », on peut entendre un « s » à père et un « s » à mère, de sorte que l'expression pourrait être considérée de manière générique. <mpt:interruption type="exclamations" text="Vives exclamations sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
@@ -3390,14 +3390,14 @@
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p> Je suis saisi de six amendements identiques, <w>n<hi rend="sup">os</hi></w> 1771, 1777, 2355, 3460, 3513 et 4136.</p>
-<p>La parole est à M. Marc Le Fur pour soutenir l'amendement n° 1771.</p>
+<p>La parole est à M. Marc <w>Le Fur</w> pour soutenir l'amendement n° 1771.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_ADT_19" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Mes chers collègues, après l'intervention de M. Thévenoud, je souhaiterais que l'on cesse ces allusions constantes à la couleur des vêtements des uns et des autres <mpt:interruption type="Exclamations" text="Exclamations sur les bancs des groupes SRC et écologiste"/> ; c'est déplacé. Bientôt, on fera remarquer que ma chemise est de couleur rose et on en tirera je ne sais quel argument. Tout cela n'a pas de sens : faisons preuve du sérieux qu'exigent nos travaux !</p>
@@ -3422,7 +3422,7 @@
   <speaker>Jean-Frédéric Poisson</speaker>
 
 <mpt:metadata auteur="Jean-Frédéric_Poisson" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_ADT_20" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Je suis d'accord avec Marc Le Fur sur la nécessité de disposer de l'avis du Conseil d'État, qui, à ce stade de nos débats, me semble être un élément tout à fait essentiel. En revanche, contrairement à lui, j'invite vivement nos collègues de la majorité – je m'adresse en particulier à vous, monsieur Guedj – à continuer à nous invectiver, parfois à nous injurier <mpt:interruption type="« Oh ! »" text="« Oh ! » sur les bancs des groupes SRC et écologiste"/>,...</p>
+  <p> Je suis d'accord avec Marc <w>Le Fur</w> sur la nécessité de disposer de l'avis du Conseil d'État, qui, à ce stade de nos débats, me semble être un élément tout à fait essentiel. En revanche, contrairement à lui, j'invite vivement nos collègues de la majorité – je m'adresse en particulier à vous, monsieur Guedj – à continuer à nous invectiver, parfois à nous injurier <mpt:interruption type="« Oh ! »" text="« Oh ! » sur les bancs des groupes SRC et écologiste"/>,...</p>
 
 </mpt:metadata>
 
@@ -3737,7 +3737,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Une méthode qui ne vous agrée pas tant que cela, reconnaissez-le !</p>
@@ -3750,7 +3750,7 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> Vous n'avez pas la parole, monsieur Le Fur ! En tant que vice-président de notre assemblée, vous connaissez pourtant le règlement !</p>
+  <p> Vous n'avez pas la parole, monsieur <w>Le Fur</w> ! En tant que vice-président de notre assemblée, vous connaissez pourtant le règlement !</p>
 
 </mpt:metadata>
 
@@ -3760,7 +3760,7 @@
   <speaker>Christiane Taubira, <w>garde des Sceaux</w>.</speaker>
 
 <mpt:metadata auteur="Christiane_Taubira" interventiontype="interruption" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
-  <p>La question n'est pas là, monsieur Le Fur : en fait, le Gouvernement est respectueux du Parlement et de son règlement,...</p>
+  <p>La question n'est pas là, monsieur <w>Le Fur</w> : en fait, le Gouvernement est respectueux du Parlement et de son règlement,...</p>
 
 </mpt:metadata>
 
@@ -4277,7 +4277,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Il faudrait auditionner M. Damas ! <mpt:interruption type="Sourires" text="Sourires."/></p>
@@ -4576,14 +4576,14 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> La parole est à M. Marc Le Fur, pour soutenir l'amendement n° 2611.</p>
+  <p> La parole est à M. Marc <w>Le Fur</w>, pour soutenir l'amendement n° 2611.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_ADT_31" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> J'espère que le Gouvernement nous communiquera l'avis du Conseil d'État. J'ai profité de la suspension pour prendre quelques informations du côté du Palais-Royal. Effectivement, non seulement bruit mais enfle la rumeur selon laquelle cet avis comporterait un certain nombre de réserves.</p>
@@ -4604,7 +4604,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Ne pourriez-vous donc pas d'une manière ou d'une autre l'amender ? Depuis que c'est sur le texte de la commission que nous débattons, c'est au Gouvernement de déposer des amendements, et on l'a vu dans un certain nombre de débats. Il n'est tenu par aucun délai. Vous pouvez donc parfaitement encore en déposer. Vu l'avis du Conseil d'État et les propos que vous avez tenus sur la nouvelle rédaction de la commission, c'est à vous de prendre l'initiative.</p>
@@ -4748,14 +4748,14 @@
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p> Nous arrivons à une autre série d'amendements identiques.</p>
-<p>La parole est à M. Marc Le Fur, pour soutenir l'amendement n° 1783.</p>
+<p>La parole est à M. Marc <w>Le Fur</w>, pour soutenir l'amendement n° 1783.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_ADT_35" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Nous attendons toujours votre réponse aux deux questions que nous vous avons posées, madame la ministre, je suis convaincue que vous les avez parfaitement enregistrées. Quelle publicité entendez-vous donner à l'avis du Conseil d'État, puisque cela devient objectivement une difficulté, et quelle est votre attitude envers ce texte qui est une initiative parlementaire puisque le texte initial du Gouvernement était sensiblement différent ?</p>
@@ -4976,7 +4976,7 @@
 <p>Pour éclairer l'Assemblée et tous ceux qui nous écoutent, je donne lecture de l'article auquel les députés de l'opposition ne veulent pas appliquer la disposition interprétative : aux termes de l'article 108-2, « le mineur non émancipé est domicilié chez ses père et mère ». En clair, si ces amendements sont adoptés, le mineur non émancipé ne pourra plus résider chez ses père et mère. Pour démontrer son intérêt pour les droits de l'enfant, on a déjà réussi à faire beaucoup mieux ! <mpt:interruption type="Applaudissements" text="Applaudissements sur plusieurs bancs du groupe SRC."/></p>
 <p>Monsieur le député Gosselin, je ne vous avais pas répondu car vous n'étiez pas allé au bout de la démonstration que, depuis cette nuit, vous nous livrez par tranches. Ce n'était pas faute de bonne volonté, mais la formulation de votre question était telle que je ne comprenais pas l'angle sous lequel elle était posée !</p>
 <p>Cette fois-ci, vous en avez dit assez pour que je comprenne que vous liez l'article 310 du code civil à la question de l'acte d'état civil. Vous nous indiquez que l'enfant adopté par un couple homosexuel aurait une identité sexuelle problématique. Sauf que le titre VII, auquel appartient effectivement l'article 310, ne traite pas de l'adoption, mais de la filiation biologique. Vous ne pouvez établir un lien entre l'article 310 et l'acte d'état civil en cas d'adoption. C'est seulement lors de votre dernière intervention que j'ai réussi à comprendre votre question !</p>
-<p>Enfin, M. Le Fur souhaitait que l'on auditionnât M. Léon-Gontran Damas. Dois-je préciser qu'il est décédé en janvier 1978 ?</p>
+<p>Enfin, M. <w>Le Fur</w> souhaitait que l'on auditionnât M. Léon-Gontran Damas. Dois-je préciser qu'il est décédé en janvier 1978 ?</p>
 
 </mpt:metadata>
 
@@ -5356,7 +5356,7 @@
   <speaker>Bernard Roman</speaker>
 
 <mpt:metadata auteur="Bernard_Roman" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
-  <p>Monsieur Le Fur, vous n'avez pas votre place ici !</p>
+  <p>Monsieur <w>Le Fur</w>, vous n'avez pas votre place ici !</p>
 
 </mpt:metadata>
 
@@ -5396,7 +5396,7 @@
   <speaker>Bernard Roman</speaker>
 
 <mpt:metadata auteur="Bernard_Roman" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
-  <p> Marc Le Fur peut supprimer la photo de sa page !</p>
+  <p> Marc <w>Le Fur</w> peut supprimer la photo de sa page !</p>
 
 </mpt:metadata>
 
@@ -5456,7 +5456,7 @@
   <speaker>Bruno <w>Le Roux</w></speaker>
 
 <mpt:metadata auteur="Bruno_Le_Roux" interventiontype="intervention" politicalgroup="SRC" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_40" vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
-  <p> Je n'entends pas réglementer ici l'usage des réseaux sociaux. Je demande simplement à M. Le Fur d'arrêter de diffamer un collègue qu'il nomme mais qui n'est pas celui qui figure sur la photo. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe SRC."/> C'est inadmissible, et il n'y a pas besoin de réunir la conférence des présidents pour avoir, dans cet hémicycle, un comportement responsable ! <mpt:interruption type="Mêmes mouvements" text="Mêmes mouvements."/></p>
+  <p> Je n'entends pas réglementer ici l'usage des réseaux sociaux. Je demande simplement à M. <w>Le Fur</w> d'arrêter de diffamer un collègue qu'il nomme mais qui n'est pas celui qui figure sur la photo. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe SRC."/> C'est inadmissible, et il n'y a pas besoin de réunir la conférence des présidents pour avoir, dans cet hémicycle, un comportement responsable ! <mpt:interruption type="Mêmes mouvements" text="Mêmes mouvements."/></p>
 
 </mpt:metadata>
 
@@ -5551,14 +5551,14 @@
 <mpt:metadata auteur="le_président_" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p>Sur l'amendement n° 2061 et les amendements identiques, je suis saisi par le groupe socialiste, républicain et citoyen d'une demande de scrutin public.</p>
 <p>Le scrutin est annoncé dans l'enceinte de l'Assemblée nationale.</p>
-<p>La parole est à M. Marc Le Fur, pour soutenir l'amendement n° 2657.</p>
+<p>La parole est à M. Marc <w>Le Fur</w>, pour soutenir l'amendement n° 2657.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_ADT_50" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Il n'est pas étonnant que le président <w>Le Roux</w> s'en prenne à ma personne <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC"/>, puisque, de manière insistante, je demande la transparence sur un élément majeur du dossier, un préalable, à savoir l'avis du Conseil d'État. Il se trouve en effet que cette assemblée, qui réunit les plus grands juristes de France, aurait émis un avis réservé, pour ne pas dire négatif, sur le projet de loi du Gouvernement.</p>
@@ -5578,7 +5578,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Sur cet avis du Conseil d'État, je souhaiterais entendre quelqu'un qui ne s'exprime jamais sur le fond, alors qu'il est président de la commission des lois, notre collègue Jean-Jacques Urvoas. Il est parfait pour la procédure, mais on ne l'entend jamais sur le fond de la loi, ce qui est surprenant... Je comprends qu'il laisse au rapporteur l'essentiel des réponses, mais vous êtes président de la commission, monsieur Urvoas, et vous n'intervenez jamais sur le fond ! Est-ce par prudence vis-à-vis de la population d'une région que je connais bien, puisque nous sommes tous deux élus de départements bretons ? <mpt:interruption type="Protestations" text="Protestations sur les bancs du groupe SRC."/> Est-ce plutôt parce que, comme d'autres de vos collègues, de plus en plus nombreux, vous éprouvez des réserves personnelles sur ce texte ?</p>
@@ -5785,14 +5785,14 @@
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p> Sur cette série d'amendements identiques, je suis saisi par le groupe socialiste, républicain et citoyen d'une demande de scrutin public.</p>
 <p>Le scrutin est annoncé dans l'enceinte de l'Assemblée nationale.</p>
-<p>La parole est à M. Marc Le Fur, pour soutenir l'amendement n° 2660.</p>
+<p>La parole est à M. Marc <w>Le Fur</w>, pour soutenir l'amendement n° 2660.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_ADT_56" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Chacun l'a bien compris, nous attendons du Gouvernement qu'il nous communique l'avis du Conseil d'État.</p>
@@ -6199,14 +6199,14 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> La parole est à M. Marc Le Fur, pour soutenir l'amendement n° 2665.</p>
+  <p> La parole est à M. Marc <w>Le Fur</w>, pour soutenir l'amendement n° 2665.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_ADT_65" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> J'aurais aimé répondre à M. <w>Le Roux</w> mais il n'est plus là ; tant pis, ce sera pour plus tard.</p>
@@ -6226,7 +6226,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Je reviens sur les émouvants propos de Mme Buffet. Le peuple, il faut le consulter, c'est ce que nous demandons ! Nous avons, nous, confiance dans le peuple, et nous considérons que certaines pseudo-élites qui s'expriment dans ce débat ont une vision dévoyée des choses ; elles prétendent parler au nom du peuple et déforment la pensée populaire.</p>
@@ -6246,7 +6246,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Vous appartenez, madame Buffet, à un grand parti qui, à certains moments de son histoire, a rencontré l'histoire de France, avec d'autres. Je regrette que ce parti soit réduit à n'être plus qu'une force supplétive du parti socialiste. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe UMP."/></p>
@@ -6320,7 +6320,7 @@
   <speaker>Hervé Mariton</speaker>
 
 <mpt:metadata auteur="Hervé_Mariton" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_ADT_67" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Au moment où se tient la grande commission réunissant députés de notre assemblée et membres de la Douma d'État, il convient, suite aux propos de Marc Le Fur, de confirmer les conséquences que la législation et la politique russes peuvent avoir sur l'adoption internationale d'une part pour des personnes de même sexe, à l'évidence, puisque les autorités russes refusent et refuseront farouchement toute adoption par ces personnes, mais aussi d'autre part pour des personnes de sexe différent, avec un risque de tarissement de cette source d'adoption.</p>
+  <p> Au moment où se tient la grande commission réunissant députés de notre assemblée et membres de la Douma d'État, il convient, suite aux propos de Marc <w>Le Fur</w>, de confirmer les conséquences que la législation et la politique russes peuvent avoir sur l'adoption internationale d'une part pour des personnes de même sexe, à l'évidence, puisque les autorités russes refusent et refuseront farouchement toute adoption par ces personnes, mais aussi d'autre part pour des personnes de sexe différent, avec un risque de tarissement de cette source d'adoption.</p>
 <p>Analyser les conséquences de la politique russe, ce n'est pas l'approuver. Je crois que nous pouvons être unanimes – car cela va au-delà de l'autonomie politique russe et concerne notre vision des droits de l'homme – à condamner le durcissement de la politique de la Russie dans ce domaine, parfois sous des prétextes de relations internationales qui ont peu à voir avec les conditions de l'adoption, parfois pour exprimer une conviction, que la manière dont elle est mise en œuvre rend illégitime de notre point de vue, en particulier eu égard à ses conséquences pour les couples de personnes de sexe différent.</p>
 <p>Qu'un pays refuse l'adoption pour les couples de même sexe, c'est son droit ; c'est, du reste, notre raisonnement que de considérer qu'un enfant doit avoir un père et une mère. Je peux donc comprendre que les Russes prennent des décisions de ce type, mais la manière dont ils le font, les arguments auxquels ils recourent, l'homophobie...</p>
 
@@ -6705,14 +6705,14 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> La parole est à M. Marc Le Fur, pour soutenir l'amendement n°2669.</p>
+  <p> La parole est à M. Marc <w>Le Fur</w>, pour soutenir l'amendement n°2669.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_ADT_74" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Nous attendons toujours du Gouvernement l'avis du Conseil d'État, ainsi qu'une position de fond sur cette question de la part du président de la commission des lois. </p>
@@ -6735,7 +6735,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> ...protecteur, mais également éducatif. Bien sûr, cette condition n'est pas suffisante, mais elle est nécessaire.</p>
@@ -6772,7 +6772,7 @@
   <speaker>Xavier Breton</speaker>
 
 <mpt:metadata auteur="Xavier_Breton" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_ADT_75" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> À la suite de M. Le Fur, je veux revenir sur l'impréparation d'un texte qui passe en force aussi bien dans le droit que dans notre société.</p>
+  <p> À la suite de M. <w>Le Fur</w>, je veux revenir sur l'impréparation d'un texte qui passe en force aussi bien dans le droit que dans notre société.</p>
 <p>La mauvaise préparation du texte se voit aussi dans la fermeture du débat. Il y a eu, de fait, des auditions organisées par le rapporteur au sein de la commission des lois. Nous y avons participé. Toutefois, elles étaient de deux types : les auditions diffusées sur internet, qui ont bénéficié d'une grande publicité – des auditions militantes, puisqu'il s'agissait de personnes favorables à l'ouverture du mariage et de la filiation aux couples de personnes de même sexe ; et les auditions plus techniques, également intéressantes, mais moins diffusées, lors desquelles nous avons entendu beaucoup de réserves émises par des professionnels du droit, notaires ou avocats, qui nous ont tous dit que nous n'avions pas pris toute la mesure de l'impact de ce texte.</p>
 <p>Nous le constatons d'ailleurs avec cet amendement-balai, ajouté ultérieurement et dont nous avons du mal à évaluer les conséquences. M. Mariton demandait d'ailleurs tout à l'heure si, outre cet article 371-1, il en est d'autres qui pourraient entraîner une confusion préjudiciable tant pour les personnes que pour notre société.</p>
 <p>Bref, ce texte a été fait dans la plus grande impréparation ; c'est pourquoi nous vous demandons de voter notre amendement.</p>
@@ -6943,7 +6943,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Mme la ministre n'a pas répondu !</p>
@@ -6999,14 +6999,14 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> La parole est à M. Marc Le Fur, pour soutenir l'amendement n° 2672.</p>
+  <p> La parole est à M. Marc <w>Le Fur</w>, pour soutenir l'amendement n° 2672.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_ADT_82" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Nous sommes effectivement suspendus aux lèvres de Mme la <w>garde des Sceaux</w>, qui va nous dire très précisément ce qu'il y a dans l'avis du Conseil d'État et nous en donner communication. La transparence est tout de même un des éléments fondateurs de votre pensée politique, chers collègues socialistes. Et puis nous savons, depuis quelques mois, que « le changement, c'est maintenant ». Désormais, nous devrions donc avoir accès à ce type d'informations.</p>
@@ -7207,7 +7207,7 @@
   <speaker>Christian Jacob</speaker>
 
 <mpt:metadata auteur="Christian_Jacob" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> et M. Marc Le Fur. Il en fait ce qu'il en veut !</p>
+  <p> et M. Marc <w>Le Fur</w>. Il en fait ce qu'il en veut !</p>
 
 </mpt:metadata>
 
@@ -7629,17 +7629,17 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> La parole est à M. Marc Le Fur, pour soutenir l'amendement n° 2675.</p>
+  <p> La parole est à M. Marc <w>Le Fur</w>, pour soutenir l'amendement n° 2675.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_ADT_89" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> L'intervention de notre collègue Touraine est extraordinaire. De deux choses l'une : soit il commente quelque chose dont il ne dispose pas, ce qui est un comble, et révélateur d'une attitude un peu politicienne, soit il dispose de ce type d'information qui n'a pas été communiquée à l'ensemble des députés de la République, et c'est grave. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC."/></p>
@@ -7660,7 +7660,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Vous avez en permanence à la bouche le mot transparence. Appliquez la transparence ! Nous avons le droit d'avoir tous les éléments du dossier. Nous avons en particulier le droit de disposer de l'avis des juristes les plus éminents, les plus neutres, les plus compétents de la République. Si vous privez la représentation nationale de ce type d'informations, c'est un déni de démocratie ! <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe UMP – Exclamations sur les bancs du groupe SRC."/></p>
@@ -7982,7 +7982,7 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> M. Le Fur, vous avez demandé la parole en application de l'article 58, alinéa 4, du règlement pour un fait personnel.</p>
+  <p> M. <w>Le Fur</w>, vous avez demandé la parole en application de l'article 58, alinéa 4, du règlement pour un fait personnel.</p>
 <p>Vous avez la parole.</p>
 
 </mpt:metadata>
@@ -7990,7 +7990,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_48" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Je vous remercie, monsieur le président. Et je remercie aussi le président <w>Le Roux</w> d'être revenu après plusieurs heures d'absence. Je lui en sais gré. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC."/></p>
@@ -8010,7 +8010,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Le président <w>Le Roux</w> m'a attaqué tout à l'heure. Ce n'est pas surprenant que je sois, comme d'autres, la cible de M. <w>Le Roux</w> puisque, depuis un certain nombre d'heures, inlassablement, nous demandons la transparence sur l'avis du Conseil d'État en particulier et nous avons bien compris que cela gênait.</p>
@@ -8035,9 +8035,9 @@
 
 <mpt:metadata auteur="Bruno_Le_Roux" interventiontype="intervention" politicalgroup="SRC" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_49" vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
   <p> Cela montre bien toutes les confusions.</p>
-<p>Monsieur Le Fur, si la responsabilité d'un président est d'organiser son groupe, force est de constater, avec les écarts dans les votes que nous connaissons depuis cinq jours, que le nôtre est mieux organisé que le vôtre dans le taux de mobilisation de ses députés. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe SRC."/> J'invite donc M. Jacob, s'il le souhaite, à passer un peu moins de temps dans l'hémicycle et à mieux organiser les choses à l'extérieur. Mais je n'ai aucun conseil supplémentaire à vous donner.</p>
-<p>Pour le reste, vous faites amende honorable sur la mise en cause d'un député, je m'en réjouis. Compte tenu de ce que vous venez de décrire, vous devez savoir qu'il ne convient pas de jeter l'opprobre sur des députés qui travaillent ici sur la TVA, dans le cadre d'une mission de l'Assemblée nationale. Il nous arrive à tous de devoir faire d'autres travaux en séance, ou de lire des journaux, comme je vous ai déjà vu le faire, monsieur Le Fur. Je vous ai même vu faire autre chose : parler depuis maintenant cinq jours d'un texte de loi qui n'existe pas. Cela ne peut-il pas vous être reproché aussi ? <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC et écologiste."/></p>
-<p>Ayez plus d'imagination pour mettre en cause vos collègues, en restant dans le cadre d'un fonctionnement normal de notre assemblée, c'est-à-dire en évitant la diffamation et la mise en cause personnelle. Nous nous en porterons mieux, monsieur Le Fur. <mpt:interruption type="Mêmes mouvements" text="Mêmes mouvements."/></p>
+<p>Monsieur <w>Le Fur</w>, si la responsabilité d'un président est d'organiser son groupe, force est de constater, avec les écarts dans les votes que nous connaissons depuis cinq jours, que le nôtre est mieux organisé que le vôtre dans le taux de mobilisation de ses députés. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe SRC."/> J'invite donc M. Jacob, s'il le souhaite, à passer un peu moins de temps dans l'hémicycle et à mieux organiser les choses à l'extérieur. Mais je n'ai aucun conseil supplémentaire à vous donner.</p>
+<p>Pour le reste, vous faites amende honorable sur la mise en cause d'un député, je m'en réjouis. Compte tenu de ce que vous venez de décrire, vous devez savoir qu'il ne convient pas de jeter l'opprobre sur des députés qui travaillent ici sur la TVA, dans le cadre d'une mission de l'Assemblée nationale. Il nous arrive à tous de devoir faire d'autres travaux en séance, ou de lire des journaux, comme je vous ai déjà vu le faire, monsieur <w>Le Fur</w>. Je vous ai même vu faire autre chose : parler depuis maintenant cinq jours d'un texte de loi qui n'existe pas. Cela ne peut-il pas vous être reproché aussi ? <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC et écologiste."/></p>
+<p>Ayez plus d'imagination pour mettre en cause vos collègues, en restant dans le cadre d'un fonctionnement normal de notre assemblée, c'est-à-dire en évitant la diffamation et la mise en cause personnelle. Nous nous en porterons mieux, monsieur <w>Le Fur</w>. <mpt:interruption type="Mêmes mouvements" text="Mêmes mouvements."/></p>
 
 </mpt:metadata>
 

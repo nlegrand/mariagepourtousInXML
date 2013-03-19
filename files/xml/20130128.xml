@@ -1337,14 +1337,14 @@
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p> Je suis saisi de nombreux amendements pouvant être soumis à discussion commune dont 89 sont identiques.</p>
-<p>La parole est à M. Marc Le Fur, pour soutenir l'amendement n° 59.</p>
+<p>La parole est à M. Marc <w>Le Fur</w>, pour soutenir l'amendement n° 59.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130128.asp#INTER_ADT_12" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Cette série d'amendements identiques a pour objet de trouver une solution à la question de la clause de conscience, laquelle a été soulevée par le Président de la République à l'occasion du congrès des maires de France et pas par hasard. En effet, son collaborateur, notre ancien collègue Bernard Poignant que connaît bien le président de la commission des lois, avait lui-même préconisé l'introduction d'une telle clause. Or, le Président a très rapidement fait machine arrière devant les exigences de groupes minoritaires.</p>
@@ -1379,7 +1379,7 @@
   <speaker>Marc Laffineur</speaker>
 
 <mpt:metadata auteur="Marc_Laffineur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130128.asp#INTER_ADT_13" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Marc le Fur vient de défendre excellemment cet amendement qui permet simplement de faire respecter sa parole au Président de la République. Nous avons beaucoup de respect pour ce que dit le Président de la République et lorsqu'il s'engage devant le congrès des maires et l'Association des maires de France, nous ne pouvons penser que sa majorité ne respectera pas sa parole. C'est pourquoi nous lui donnons la possibilité de le faire parce que nous sommes républicains.</p>
+  <p> Marc <w>Le Fur</w> vient de défendre excellemment cet amendement qui permet simplement de faire respecter sa parole au Président de la République. Nous avons beaucoup de respect pour ce que dit le Président de la République et lorsqu'il s'engage devant le congrès des maires et l'Association des maires de France, nous ne pouvons penser que sa majorité ne respectera pas sa parole. C'est pourquoi nous lui donnons la possibilité de le faire parce que nous sommes républicains.</p>
 <p>Je sais que la mode depuis ce matin est à la suspicion à l'égard des élus locaux : les différents amendements déposés par la majorité sont sous-tendus par l'idée que ces élus ne sont pas républicains. Mais les élus locaux, ne peuvent imaginer qu'un engagement du Président de la République devant leur congrès ne sera pas tenu.</p>
 <p>Par cet amendement, nous proposons donc de faire en sorte que cet engagement soit tenu mais que, dans le même temps, les mariages soient célébrés pour les couples qui le demanderaient.</p>
 <p>Comme c'est le cas depuis ce matin, nous essayons de trouver des consensus, mais nous nous heurtons perpétuellement à un mur. Aucune avancée n'est possible parce que l'idéologie est telle, sur les bancs de la majorité, qu'aucune discussion n'est possible. <mpt:interruption type="Applaudissements" text="Applaudissements sur plusieurs bancs du groupe UMP."/></p>
@@ -3993,14 +3993,14 @@
 <mpt:metadata auteur="le_président_" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p>La séance est reprise.</p>
 <p>Nous en venons à une nouvelle série de soixante-dix-huit amendements identiques, qui tendent à insérer un article additionnel après l'article <w>1<hi rend="sup">er</hi></w>.</p>
-<p>La parole est à M. Marc Le Fur, pour soutenir l'amendement n° 62.</p>
+<p>La parole est à M. Marc <w>Le Fur</w>, pour soutenir l'amendement n° 62.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130128.asp#INTER_ADT_54" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Madame la <w>garde des Sceaux</w>, madame la ministre déléguée chargée de la famille, j'ai rencontré beaucoup de maires préalablement à ce débat et j'ai été surpris par la façon dont ils parlaient des cérémonies qu'ils célébraient dans leurs communes. J'ai compris à cette occasion que ces célébrations les engageaient, pas comme on exerce un métier, mais à titre très personnel.</p>
@@ -5668,7 +5668,7 @@
   <speaker>Isabelle Attard</speaker>
 
 <mpt:metadata auteur="Isabelle_Attard" interventiontype="intervention" politicalgroup="ECOLO" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130128.asp#INTER_ADT_82" vote="pour" gender="female" politicalgender="ECOLO_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
-  <p> Il y a maintenant trois heures, M. Marc Le Fur parlait de compromis ; mais celui-ci existe déjà. M. Hervé Mariton quant à lui évoquait la conciliation ; mais celle-ci existe déjà entre la conscience et le fait d'exercer la fonction de maire. Personne n'est contraint d'être maire et lorsqu'un maire ne souhaite pas remplir les fonctions d'officier d'état civil, il peut également démissionner. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC et écologiste. – Exclamations sur les bancs du groupe UMP."/></p>
+  <p> Il y a maintenant trois heures, M. Marc <w>Le Fur</w> parlait de compromis ; mais celui-ci existe déjà. M. Hervé Mariton quant à lui évoquait la conciliation ; mais celle-ci existe déjà entre la conscience et le fait d'exercer la fonction de maire. Personne n'est contraint d'être maire et lorsqu'un maire ne souhaite pas remplir les fonctions d'officier d'état civil, il peut également démissionner. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes SRC et écologiste. – Exclamations sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
 
@@ -7071,14 +7071,14 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> La parole est à M. Marc Le Fur, pour soutenir l'amendement n° 1637.</p>
+  <p> La parole est à M. Marc <w>Le Fur</w>, pour soutenir l'amendement n° 1637.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130128.asp#INTER_ADT_100" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Mme Crozon a tout à l'heure parfaitement posé les termes du débat, en remarquant que l'opposition croyait en un certain nombre de lois naturelles. Tout à fait ! L'homme, la femme, l'altérité dans le mariage, nous y croyons.</p>
@@ -7098,7 +7098,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Nous croyons que ces lois naturelles constituent des bornes pour le législateur et pour l'humanité, et nous croyons également que la conscience des uns et des autres constitue une borne pour le législateur et pour l'humanité.</p>
@@ -7119,7 +7119,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> « Nul ne doit être inquiété par ses opinions même religieuses, pourvu que leur manifestation ne trouble l'ordre public. » Plus précisément encore : « Nul ne peut être lésé dans son travail ou son emploi en raison de ses origines, ses opinions ou ses croyances. » Cela signifie que vous ne pourrez pas sanctionner un maire qui refusera pour des raisons de conscience de célébrer une telle union.</p>
@@ -7139,7 +7139,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Ayons donc l'esprit pratique. Permettons aux maires d'exercer leur liberté de conscience, tout en permettant aux couples homosexuels de se marier, si la loi est adoptée. C'est une solution propice à la paix sociale et à la pacification des esprits que nous vous proposons ; ne la refusez pas.</p>

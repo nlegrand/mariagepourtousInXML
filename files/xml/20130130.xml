@@ -74,15 +74,15 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> J'espère, mes chers collègues, que la nuit a été réparatrice. Elle semble en tout cas l'avoir été pour M. Le Fur, qui souhaite déjà faire un rappel au règlement – un vrai, je n'en doute pas. <mpt:interruption type="Sourires" text="Sourires."/></p>
-<p>Vous avez la parole, monsieur Le Fur.</p>
+  <p> J'espère, mes chers collègues, que la nuit a été réparatrice. Elle semble en tout cas l'avoir été pour M. <w>Le Fur</w>, qui souhaite déjà faire un rappel au règlement – un vrai, je n'en doute pas. <mpt:interruption type="Sourires" text="Sourires."/></p>
+<p>Vous avez la parole, monsieur <w>Le Fur</w>.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130130.asp#INTER_0" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Monsieur le président, ce vrai rappel au règlement a deux objets. En effet, je voudrais, d'une part, vous exprimer de manière très républicaine mes respects du matin et, d'autre part, m'interroger sur les conséquences financières du prolongement de nos travaux le soir, le samedi et le dimanche. Nous avons la chance de compter parmi nous le premier questeur, qui pourra très clairement nous dire ce qu'il en est. Je vous rappelle que nous avons tout notre temps, le vote étant prévu le 12 février et pouvant être reporté ; je sais que le mois de février est un peu court, néanmoins on peut l'utiliser complètement.</p>
@@ -117,7 +117,7 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> Monsieur Le Fur, pour que les choses soient bien claires, et comme nous avons déjà eu l'occasion de le dire en Conférence des présidents et devant le Bureau, l'Assemblée nationale ne demandera pas un euro supplémentaire pour son fonctionnement au budget de l'État dans les cinq prochaines années.</p>
+  <p> Monsieur <w>Le Fur</w>, pour que les choses soient bien claires, et comme nous avons déjà eu l'occasion de le dire en Conférence des présidents et devant le Bureau, l'Assemblée nationale ne demandera pas un euro supplémentaire pour son fonctionnement au budget de l'État dans les cinq prochaines années.</p>
 <p>À nous, ensuite, de bien veiller à la répartition de ces crédits ; mais croyez bien que votre effort dominical n'aura pas de conséquence sur le budget de l'Assemblée.</p>
 <p></p>
 <p></p>
@@ -1222,14 +1222,14 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> La parole est à M. Marc Le Fur, pour un rappel au règlement.</p>
+  <p> La parole est à M. Marc <w>Le Fur</w>, pour un rappel au règlement.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130130.asp#INTER_5" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Je veux vous remercier, monsieur le président, d'avoir accordé du temps à notre collègue Noël Mamère pour exprimer sa position. Vous avez bien fait. Cela a eu le mérite de poser le débat.</p>
@@ -1243,7 +1243,7 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> Monsieur Le Fur, au risque de m'attirer le courroux du président de la commission des lois, j'ai essayé de laisser aux orateurs – tout en signalant le moment où les deux minutes étaient écoulées – un temps de parole plus important, afin que, sur une question comme celle-là, chacun puisse s'exprimer.</p>
+  <p> Monsieur <w>Le Fur</w>, au risque de m'attirer le courroux du président de la commission des lois, j'ai essayé de laisser aux orateurs – tout en signalant le moment où les deux minutes étaient écoulées – un temps de parole plus important, afin que, sur une question comme celle-là, chacun puisse s'exprimer.</p>
 <p>Cela étant, sur d'autres sujets, qui sont répétitifs, ceux qui interviennent peuvent ne pas forcément utiliser leurs deux minutes. Cela arrangerait tout le monde.</p>
 <p></p>
 </mpt:metadata></sp>
@@ -1408,7 +1408,7 @@
   <speaker>Dominique Bertinotti,ministre déléguée.</speaker>
 
 <mpt:metadata auteur="Dominique_Bertinotti" interventiontype="interruption" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
-  <p>Les questions qui sont évoquées depuis hier, notamment celle de la possibilité pour tout enfant de connaître l'histoire de ses origines, sont des questions importantes. Il ne s'agit pas – et je donne en cela raison à M. Le Fur – de les traiter en deux minutes. Les questions soulevées par M. Noël Mamère sont, elles aussi, tout à fait légitimes.</p>
+  <p>Les questions qui sont évoquées depuis hier, notamment celle de la possibilité pour tout enfant de connaître l'histoire de ses origines, sont des questions importantes. Il ne s'agit pas – et je donne en cela raison à M. <w>Le Fur</w> – de les traiter en deux minutes. Les questions soulevées par M. Noël Mamère sont, elles aussi, tout à fait légitimes.</p>
 <p>Mais, après avoir écouté vos questions, mesdames, messieurs de l'opposition, j'ai envie de dire que vous aimeriez bien nous affecter du syndrome du lampadaire, c'est-à-dire mettre le projecteur sur des sujets qui ne concernent pas la loi, pour mieux éviter de parler de la loi. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe SRC."/> Le projet de loi qui est <w>aujourd'hui</w> soumise à votre examen, elle porte sur le mariage et sur l'adoption, et non pas sur l'assistance médicale à la procréation.</p>
 
 </mpt:metadata>
@@ -1837,14 +1837,14 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> La parole est à M. Marc Le Fur, pour soutenir l'amendement n° 1632.</p>
+  <p> La parole est à M. Marc <w>Le Fur</w>, pour soutenir l'amendement n° 1632.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130130.asp#INTER_ADT_23" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Je limiterai mon propos à la PMA. Il faut rappeler – nombreux sont ceux qui l'ignorent – que la PMA se passe pour l'essentiel, actuellement, à l'intérieur du couple. Elle pose déjà des problèmes, on le sait bien, puisqu'un minimum de stabilité est nécessaire pour les couples concernés. Elle pose aussi des problèmes quant à la conservation des embryons, qui est un autre sujet déjà compliqué. Les choses se compliquent davantage encore quand, dans certains cas – qui ne représentent que 8 % des cas de PMA –, on fait appel à un donneur extérieur. On touche là à un problème majeur, qui est celui des origines. Il est en effet légitime de demander à connaître ses origines, et je ne suis pas le seul à l'affirmer.</p>
@@ -1864,7 +1864,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Ensuite, vous voulez étendre la PMA aux couples lesbiens. Or, vous comprenez bien que si la clause médicale saute pour les couples lesbiens, elle sautera tout autant pour les couples hétérosexuels, c'est-à-dire que nous n'aurons plus aucune raison de refuser la PMA pour des raisons d'âge. Puisque la condition médicale ne sera plus exigée pour les uns, pourquoi l'exiger pour les autres ? Nous n'aurons pas davantage de motifs d'interdire la conservation des ovocytes. Vous comprenez par conséquent que si vous faites sauter la condition médicale au nom d'un droit donné aux couples lesbiens, cette condition médicale sautera pour tous les autres...</p>
@@ -1884,7 +1884,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> ...et la PMA deviendra une pratique de convenance.</p>
@@ -1926,7 +1926,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Il est vrai qu'on aurait pu utiliser cet argent à d'autres fins !</p>
@@ -2967,7 +2967,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> On ne peut accepter ces propos !</p>

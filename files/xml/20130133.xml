@@ -98,14 +98,14 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> La parole est à M. Marc Le Fur, pour un rappel au règlement.</p>
+  <p> La parole est à M. Marc <w>Le Fur</w>, pour un rappel au règlement.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130133.asp#INTER_0" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Je tiens tout d'abord à vous présenter mes respects de l'après-midi, monsieur le président, et à saluer l'ensemble des personnes présentes. Nous apprécions le retour de la ministre de la famille. Je constate que ceux qui sont là étaient également présents ce matin à huit heures...</p>
@@ -204,7 +204,7 @@
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p> Je vous remercie de votre intervention, monsieur Tourret. Je pense que chacun tirera les leçons du travail que nous avons effectué. Les conditions étaient peut-être un peu difficiles physiquement mais il y a eu de véritables échanges.</p>
 <p>Je tiens de nouveau à féliciter le rapporteur pour le travail qu'il a réalisé. Au moment où nous examinons le contrat de génération, il serait bon que ceux qui ont plus d'heures de vol aident les nouveaux parlementaires pleins de talents potentiels à occuper leur poste dans les meilleures conditions possibles. Vous avez été nombreux à souhaiter avoir des réponses précises des membres du Gouvernement. Ils sont ici chez nous et le moins que nous puissions faire, c'est d'écouter leurs réponses pour être à même de mieux réagir à leurs différentes interventions.</p>
-<p>Nous en resterons là pour les rappels au règlement. Vous vous êtes fait « avoir », monsieur Mariton. Vous étiez légèrement en retard, en dépit de votre présence assidue, et M. Le Fur vous a grillé la politesse. <mpt:interruption type="Sourires" text="Sourires."/></p>
+<p>Nous en resterons là pour les rappels au règlement. Vous vous êtes fait « avoir », monsieur Mariton. Vous étiez légèrement en retard, en dépit de votre présence assidue, et M. <w>Le Fur</w> vous a grillé la politesse. <mpt:interruption type="Sourires" text="Sourires."/></p>
 
 </mpt:metadata>
 
@@ -229,14 +229,14 @@
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p> Nous commençons par une série d'amendements identiques.</p>
-<p>La parole est à M. Marc Le Fur pour soutenir l'amendement n° 81.</p>
+<p>La parole est à M. Marc <w>Le Fur</w> pour soutenir l'amendement n° 81.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130133.asp#INTER_ADT_0" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Le nom de l'enfant sera automatiquement l'association du nom du père et de celui de la mère. Cela concerne l'ensemble des enfants, ceux des familles homoparentales mais aussi, et ce seront les plus nombreux, ceux des familles hétérosexuelles. Cela va bouleverser la vie des familles.</p>
@@ -260,7 +260,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Il faut s'occuper des enfants, les inscrire ici ou là. Si, à chaque fois, les deux parents doivent être là, nous allons énormément compliquer la vie de nos concitoyens, qui est déjà difficile.</p>
@@ -315,7 +315,7 @@
   <speaker>François de Mazières</speaker>
 
 <mpt:metadata auteur="François_de_Mazières" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130133.asp#INTER_ADT_2" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Marc Le Fur l'a extrêmement bien expliqué, et cela a été confirmé par Hervé Mariton : nous essayons logiquement de revenir à des choses simples que tout le monde comprend.</p>
+  <p> Marc <w>Le Fur</w> l'a extrêmement bien expliqué, et cela a été confirmé par Hervé Mariton : nous essayons logiquement de revenir à des choses simples que tout le monde comprend.</p>
 <p>Le nom patronymique du père permet d'intégrer l'enfant dans une généalogie, et nous sommes revenus plusieurs fois sur l'importance pour l'enfant de s'intégrer dans une histoire familiale. Lors de son audition, le professeur Flavigny nous a expliqué combien il était essentiel pour un enfant d'arriver à s'intégrer dans une histoire patronymique.</p>
 <p>Dans cette logique, nous essayons d'éviter toute confusion et toute complexité. Nous voyons bien dans nos mairies combien ce sont parfois les choses simples qui permettent de donner les meilleurs cadres à nos concitoyens.</p>
 
@@ -576,7 +576,7 @@
   <speaker>Jean-Frédéric Poisson</speaker>
 
 <mpt:metadata auteur="Jean-Frédéric_Poisson" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130133.asp#INTER_ADT_8" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Avant de présenter cet amendement, je voudrais revenir sur le rappel au règlement de notre collègue Marc Le Fur et le filtre de l'article 40. Il serait souhaitable qu'un réexamen ait lieu. Nous serions très intéressés de connaître le cheminement de cet amendement devenu article 2 en commission.</p>
+  <p> Avant de présenter cet amendement, je voudrais revenir sur le rappel au règlement de notre collègue Marc <w>Le Fur</w> et le filtre de l'article 40. Il serait souhaitable qu'un réexamen ait lieu. Nous serions très intéressés de connaître le cheminement de cet amendement devenu article 2 en commission.</p>
 
 </mpt:metadata>
 
@@ -593,7 +593,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Il n'a pas signé !</p>
@@ -1021,14 +1021,14 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> La parole est à M. Marc Le Fur.</p>
+  <p> La parole est à M. Marc <w>Le Fur</w>.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130133.asp#INTER_ADT_17" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Si je décrypte votre propos, madame la <w>garde des Sceaux</w>, il est l'enterrement en première classe de l'initiative du rapporteur, ce qui me convient.</p>
@@ -1048,7 +1048,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Reste que, si nos amendements ne sont pas adoptés, c'est l'article tel qu'il est qui sera transmis au Sénat, et c'est une perspective redoutable.</p>
@@ -1069,7 +1069,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Je lui ai fait confiance, et je ne vois pas pourquoi cette logique des prénoms ne vaudrait pas pour le nom. Le véritable sujet, c'est que nous débattons d'un projet de loi relatif à l'homosexualité et que, pour résoudre le problème des couples homosexuels, dans lesquels se trouvent deux pères ou deux mères, vous avez trouvé cette solution-là, mais qu'au lieu de la cantonner au groupe homosexuel vous l'appliquez à l'ensemble des familles françaises dont vous allez compliquer la vie.</p>
@@ -1106,7 +1106,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Tout à fait !</p>
@@ -1287,7 +1287,7 @@
 <mpt:metadata auteur="Jean-Marc_Germain" interventiontype="intervention" politicalgroup="SRC" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130133.asp#INTER_ADT_21" vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
   <p> Avant d'en venir à mon amendement, je tiens à relever que ce à quoi nous assistons est de l'obstruction pure et simple. Je rappelle que ce qui a rendu effectives les nouvelles règles établies par la loi de 2002, qui ont donné du poids à la mère dans la transmission du nom, c'est une loi présentée par un ministre ici présent : M. Jacob. Sa loi a étendu les possibilités de donner le nom de la mère, il pourra en témoigner. Je regrette, chers collègues, que vous ne saisissiez pas cette opportunité historique de mettre vos noms au bas de cette nouvelle loi.</p>
 <p>Au-delà de l'obstruction, vous n'avez qu'un seul argument : celui de la loi naturelle, qui en réalité est la loi divine. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe UMP."/> Or cela fait longtemps que l'homme est un animal qui a trouvé d'autres moyens de se reproduire qu'en s'accouplant. Vous êtes ici dans la maison du peuple pour faire la loi du peuple, c'est-à-dire pour donner corps à la plus belle des libertés, celle d'aimer qui on veut <mpt:interruption type="exclamations" text="Nouvelles exclamations sur les bancs du groupe UMP"/> ; la loi du peuple, c'est donner corps à la plus belles des égalités, celle de faire famille comme on l'entend <mpt:interruption type="Mêmes mouvements" text="Mêmes mouvements"/> ; la loi du peuple, c'est donner corps à la plus belle des fraternités, celle de toutes et de tous à l'égard de tous les couples. <mpt:interruption type="Mêmes mouvements" text="Mêmes mouvements."/></p>
-<p>J'en viens à mon amendement. Parmi les arguments que vous avez présentés, un seul est sensé, et M. Le Fur est le premier d'entre vous à l'avoir exposé : puisque, en l'absence d'accord entre les parents, l'alinéa 3 privilégie l'ordre alphabétique, on privilégierait les noms les plus proches de la lettre A. Personne ici ne souhaite privilégier – en tout cas pas vous – les conjoints qui s'appelleraient Aubry, Ayrault ou Bartolone au détriment de ceux qui s'appelleraient Poisson ou Sarkozy. <mpt:interruption type="Sourires" text="Sourires."/> Je propose donc qu'en cas d'absence d'accord des parents les noms soient accolés par ordre alphabétique les jours pairs, et selon l'ordre inverse les jours impairs. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe UMP."/> Ce serait un moyen de rétablir la diversité des noms de famille. Il ne s'agit pas de généalogie, mais de donner tout son sens à un aspect important de l'égalité entre tous les couples.</p>
+<p>J'en viens à mon amendement. Parmi les arguments que vous avez présentés, un seul est sensé, et M. <w>Le Fur</w> est le premier d'entre vous à l'avoir exposé : puisque, en l'absence d'accord entre les parents, l'alinéa 3 privilégie l'ordre alphabétique, on privilégierait les noms les plus proches de la lettre A. Personne ici ne souhaite privilégier – en tout cas pas vous – les conjoints qui s'appelleraient Aubry, Ayrault ou Bartolone au détriment de ceux qui s'appelleraient Poisson ou Sarkozy. <mpt:interruption type="Sourires" text="Sourires."/> Je propose donc qu'en cas d'absence d'accord des parents les noms soient accolés par ordre alphabétique les jours pairs, et selon l'ordre inverse les jours impairs. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe UMP."/> Ce serait un moyen de rétablir la diversité des noms de famille. Il ne s'agit pas de généalogie, mais de donner tout son sens à un aspect important de l'égalité entre tous les couples.</p>
 
 </mpt:metadata>
 
@@ -1405,7 +1405,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Eh oui !</p>
@@ -2610,7 +2610,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Jamais !</p>
@@ -2902,7 +2902,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> C'est votre rôle, monsieur le président !</p>
@@ -3388,7 +3388,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Grâce à notre réforme !</p>
@@ -3713,14 +3713,14 @@
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p> Nous en venons maintenant à une série de 110 amendements identiques visant à supprimer l'article 3.</p>
-<p>La parole est à M. Marc Le Fur pour soutenir l'amendement n° 83.</p>
+<p>La parole est à M. Marc <w>Le Fur</w> pour soutenir l'amendement n° 83.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130133.asp#INTER_ADT_39" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Toujours à propos de la transmission du nom, je souhaite évoquer une difficulté dont nous n'avons pas encore parlé : certains enfants, ceux que leur père n'aura pas reconnus, ne pourront avoir qu'un seul nom. Nous allons ainsi stigmatiser une catégorie d'enfants : d'un côté il y a aura ceux pourvus d'un double nom, et de l'autre ceux qui, faute de père, faute de reconnaissance, issus de familles monoparentales, n'auront qu'un seul nom. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC."/></p>
@@ -3751,7 +3751,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Vous voyez donc la complexité du dispositif que vous proposez. Il me suffira pour l'illustrer de lire l'alinéa 5 de l'article : « En cas d'adoption par deux époux, le nom ajouté à celui de l'adopté est, à la demande des adoptants, celui de l'un d'eux, dans la limite d'un nom. Si l'adopté porte un double nom de famille, le choix du nom conservé et l'ordre des noms adjoints appartient aux adoptants, qui doivent recueillir le consentement personnel de l'adopté âgé de plus de treize ans. En cas de désaccord ou à défaut de choix, le nom conféré à l'adopté résulte de l'adjonction en seconde position du premier nom des adoptants selon l'ordre alphabétique, au premier nom de l'adopté. »</p>
@@ -3867,7 +3867,7 @@
   <speaker>François de Mazières</speaker>
 
 <mpt:metadata auteur="François_de_Mazières" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Marc Le Fur vient de nous donner lecture d'un alinéa de l'article qui est d'une complexité stupéfiante !</p>
+  <p> Marc <w>Le Fur</w> vient de nous donner lecture d'un alinéa de l'article qui est d'une complexité stupéfiante !</p>
 <p>C'est pourquoi je vous reproche d'avoir refusé le débat public à l'occasion duquel les Français auraient exigé une vraie simplicité afin de pouvoir comprendre les textes qui s'appliquent à eux.</p>
 
 </mpt:metadata>
@@ -3997,7 +3997,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Tout à fait !</p>
@@ -4127,7 +4127,7 @@
 
 <mpt:metadata auteur="Frédéric_Reiss" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Le projet de mariage pour tous ne devait censément pas perturber les couples hétérosexuels, mais cette remise en cause juridique de la notion de parent, à travers la reconnaissance de l'adoption, est bien la preuve du contraire.</p>
-<p>Comme l'ont dit Marc Le Fur et François de Mazières, cet article 3, relatif à l'adoption, constitue, en fait de clarté, un modèle du genre : il est au moins aussi complexe que l'article 2.</p>
+<p>Comme l'ont dit Marc <w>Le Fur</w> et François de Mazières, cet article 3, relatif à l'adoption, constitue, en fait de clarté, un modèle du genre : il est au moins aussi complexe que l'article 2.</p>
 <p>En matière d'état civil, des questions restent d'ailleurs sans réponse : c'est le cas, par exemple, des actes de naissance et des livrets de famille, dont on ignore s'ils seront les mêmes pour tous les enfants, ou s'il y aura des aménagements particuliers.</p>
 <p>Les Français attendaient les socialistes sur le terrain de l'emploi, du logement et du pouvoir d'achat. Ils doivent être bien déçus, en voyant l'énergie que vous dépensez autour de ce projet de loi de mariage pour tous, et surtout la cacophonie qui règne dans vos rangs.</p>
 <p>Et l'opposition attend toujours des réponses sur la PMA et la GPA ! Pour toutes ces raisons, je voterai cet amendement de suppression. <mpt:interruption type="Applaudissements" text="Applaudissements sur plusieurs bancs du groupe UMP."/></p>
@@ -5093,7 +5093,7 @@
   <speaker>Philippe Gosselin</speaker>
 
 <mpt:metadata auteur="Philippe_Gosselin" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> et M. Marc Le Fur. Mais chacun de nous est une individualité ! Nous ne sommes pas des numéros !</p>
+  <p> et M. Marc <w>Le Fur</w>. Mais chacun de nous est une individualité ! Nous ne sommes pas des numéros !</p>
 
 </mpt:metadata>
 
@@ -5198,7 +5198,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Qui a pu rédiger cela ?</p>
@@ -5314,7 +5314,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Écoutez, madame la ministre ! Prenez un peu de hauteur !</p>
@@ -6887,7 +6887,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Alors restons-en là !</p>
@@ -6907,7 +6907,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Non !</p>

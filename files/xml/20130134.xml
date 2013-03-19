@@ -74,14 +74,14 @@
   <speaker>le président </speaker>
 
 <mpt:metadata auteur="le_président_" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p>La parole est à M. Marc Le Fur, pour un rappel au règlement, comme c'est souvent le cas en début de séance.</p>
+  <p>La parole est à M. Marc <w>Le Fur</w>, pour un rappel au règlement, comme c'est souvent le cas en début de séance.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130134.asp#INTER_0" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Mon intervention a deux objets, monsieur le président : d'abord vous présenter mes respects du soir et saluer l'ensemble des personnes présentes et en particulier Mme la ministre chargée de la famille. Deuxième raison : obtenir une réponse à une question que j'avais posée à l'occasion d'un précédent rappel au règlement que j'ai effectué à 16 heures. L'article 2 organisant la nouvelle procédure en matière de nom résulte d'un amendement parlementaire. Cet amendement occasionne des dépenses dans les services de l'état civil et dans toutes les administrations : puisque les noms seront beaucoup plus longs, il va falloir modifier l'ensemble des formulaires.</p>
@@ -101,7 +101,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> S'il s'était agi d'une initiative gouvernementale, je n'aurais rien à dire, mais il s'agit bien d'une initiative parlementaire. Or nous sommes soumis à l'article 40, qui nous interdit d'être à l'initiative de dépenses publiques.</p>
@@ -115,7 +115,7 @@
   <speaker>le président </speaker>
 
 <mpt:metadata auteur="le_président_" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p>Monsieur Le Fur, vous me pardonnerez, mais j'avais l'argumentaire pour vous répondre en fin de séance et je ne l'ai plus au moment où je vous parle. Je vous promets de vous le donner pendant la séance. <mpt:interruption type="Sourires" text="Sourires."/></p>
+  <p>Monsieur <w>Le Fur</w>, vous me pardonnerez, mais j'avais l'argumentaire pour vous répondre en fin de séance et je ne l'ai plus au moment où je vous parle. Je vous promets de vous le donner pendant la séance. <mpt:interruption type="Sourires" text="Sourires."/></p>
 <p></p>
 <p></p>
 </mpt:metadata></sp>
@@ -341,7 +341,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Circulez, il n'y a rien à voir !</p>
@@ -494,16 +494,16 @@
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p> Pour le reste, nous n'allons pas reprendre un débat qui a eu lieu cet après midi, avec les mêmes causes et les mêmes effets.</p>
-<p>Monsieur Le Fur, il y a dans un rapport d'information sur la recevabilité financière des initiatives parlementaires, à la page 89, la réponse que vous cherchiez : Pour qu'une charge soit qualifiée comme telle au sens de l'article 40, il faut qu'elle soit directe et certaine. Ce principe dégagé par les présidents successifs de la commission des finances a été à plusieurs reprises confirmé par le Conseil constitutionnel, par exemple à l'occasion de sa décision n° 2003-476 DC du 24 juillet 2003, dans laquelle il a jugé que « l'augmentation du nombre de sénateurs [...] a une incidence directe et certaine sur les dépenses du Sénat, lesquelles font partie des charges de l'État ».</p>
+<p>Monsieur <w>Le Fur</w>, il y a dans un rapport d'information sur la recevabilité financière des initiatives parlementaires, à la page 89, la réponse que vous cherchiez : Pour qu'une charge soit qualifiée comme telle au sens de l'article 40, il faut qu'elle soit directe et certaine. Ce principe dégagé par les présidents successifs de la commission des finances a été à plusieurs reprises confirmé par le Conseil constitutionnel, par exemple à l'occasion de sa décision n° 2003-476 DC du 24 juillet 2003, dans laquelle il a jugé que « l'augmentation du nombre de sénateurs [...] a une incidence directe et certaine sur les dépenses du Sénat, lesquelles font partie des charges de l'État ».</p>
 <p>C'est d'ailleurs ce qui m'a été répondu par la commission des finances lorsque l'un des amendements a été adopté.</p>
-<p>La parole est à M. Marc Le Fur, pour un rappel au règlement.</p>
+<p>La parole est à M. Marc <w>Le Fur</w>, pour un rappel au règlement.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130134.asp#INTER_9" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Je vous remercie, monsieur le président, de me donner ces éléments et je vous en sais gré. Je les connaissais. Les choses sont claires. La dépense occasionnée par l'article 2 pour les services de l'état civil dans les communes et les différentes administrations, qui devront réorganiser totalement leurs formulaires, est clairement directe et certaine.</p>
@@ -517,7 +517,7 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> Monsieur Le Fur, adressez-vous à la présidence de la commission des finances puisque ce n'est pas l'argument qui a été employé. Je donnerai tout à l'heure la parole au président de la commission des lois s'il a besoin de le certifier.</p>
+  <p> Monsieur <w>Le Fur</w>, adressez-vous à la présidence de la commission des finances puisque ce n'est pas l'argument qui a été employé. Je donnerai tout à l'heure la parole au président de la commission des lois s'il a besoin de le certifier.</p>
 <p>La parole est à M. Bernard Lesterlin, pour un rappel au règlement.</p>
 
 </mpt:metadata>
@@ -644,14 +644,14 @@
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p> Je suis saisi d'une série d'amendements de suppression de l'article 4.</p>
-<p>La parole est à M. Marc Le Fur, pour soutenir l'amendement n° 84.</p>
+<p>La parole est à M. Marc <w>Le Fur</w>, pour soutenir l'amendement n° 84.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130134.asp#INTER_ADT_0" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> L'article 4, c'est ce qu'on appelle l'article-balai.</p>
@@ -672,7 +672,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Circulez, bonnes gens, il n'y a rien à voir. Mais les bonnes gens se sont rendu compte que l'essentiel du code civil était impacté par la réforme et que ce n'était pas simplement une affaire d'homosexuels.</p>
@@ -693,7 +693,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> On garde « père » et « mère » en disant qu'il faut à chaque fois ajouter « parents ». Le projet modifiait 187 articles, l'amendement du rapporteur en modifie 187. C'est donc exactement la même chose.</p>
@@ -714,7 +714,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> ...et peut-être également, c'est intéressant, d'éviter une nouvelle consultation du Conseil d'État puisque, s'il a certainement été consulté initialement, cela va de soi, il ne l'a pas été à l'occasion de cet amendement.</p>
@@ -739,7 +739,7 @@
 
 <mpt:metadata auteur="Éric_Straumann" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130134.asp#INTER_ADT_1" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Après avoir passé la fin de semaine dans ma circonscription, je me permets de vous faire part de l'incompréhension de nos concitoyens, pour qui cette évolution législative est totalement incompréhensible.</p>
-<p>Remplacer « père » et « mère » par « parents », c'est remettre en cause le fondement du droit de la famille, laquelle constitue notre forme d'organisation sociale depuis des millénaires. Comme l'a souligné M. Le Fur, c'est un article-balai qui supprime des dispositions fondamentales de notre code civil et va saper les fondements de la famille.</p>
+<p>Remplacer « père » et « mère » par « parents », c'est remettre en cause le fondement du droit de la famille, laquelle constitue notre forme d'organisation sociale depuis des millénaires. Comme l'a souligné M. <w>Le Fur</w>, c'est un article-balai qui supprime des dispositions fondamentales de notre code civil et va saper les fondements de la famille.</p>
 
 </mpt:metadata>
 
@@ -1317,7 +1317,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Exactement !</p>
@@ -2497,7 +2497,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> C'est la faute aux notaires !</p>
@@ -3016,7 +3016,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Mme la <w>garde des Sceaux</w> veut parler ! </p>
@@ -3805,14 +3805,14 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> La parole est à M. Marc Le Fur, pour soutenir l'amendement n° 1739.</p>
+  <p> La parole est à M. Marc <w>Le Fur</w>, pour soutenir l'amendement n° 1739.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130134.asp#INTER_ADT_49" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Je ne comprends toujours pas pourquoi on est passé d'un texte initial émanant du Gouvernement à un texte émanant de la commission.</p>
@@ -3842,7 +3842,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Comme les explications que vous nous fournissez ne sont pas satisfaisantes, je persiste à penser que la seule finalité de ce changement était de donner l'illusion à l'opinion que les choses ne changeaient pas pour les couples et les familles hétérosexuels et que ce texte ne concernait que les couples homosexuels.</p>
@@ -3863,7 +3863,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Et nous ne le souhaitons pas. C'est pourquoi, sur chacun des 187 articles concernés, nous allons déposer un amendement...</p>
@@ -3883,7 +3883,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> ...afin que dans chacun de ces 187 articles, on en revienne à la disposition initiale, à celle qui fait toute la force du code civil, comme l'a très bien dit notre collègue Étienne Blanc. Nous l'affirmerons et le répéterons, monsieur le président de la commission, et nous avons bien l'intention d'exercer ce droit. Il est des moments où il faut savoir se battre pour préserver ce qui pour nous reste l'essentiel : papa, maman, père et mère ! <mpt:interruption type="applaudissements" text="Vifs applaudissements sur les bancs du groupe UMP."/></p>
@@ -4258,7 +4258,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Bravo !</p>
@@ -4393,7 +4393,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> C'est du baratin !</p>
@@ -4434,7 +4434,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> C'est complètement ridicule !</p>
@@ -4642,14 +4642,14 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> La parole est à M. Marc Le Fur, pour soutenir l'amendement n° 1748.</p>
+  <p> La parole est à M. Marc <w>Le Fur</w>, pour soutenir l'amendement n° 1748.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130134.asp#INTER_ADT_64" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> On voit apparaître des choses bizarres, comme le « thermomètre de la fraternité »...</p>
@@ -4669,7 +4669,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> ...comme si cela se mesurait ! Il y a des choses qui ne se mesurent pas, qui relèvent du cœur et des sentiments : évitez-nous ce genre de chose !</p>
@@ -4735,7 +4735,7 @@
   <speaker>Hervé Mariton</speaker>
 
 <mpt:metadata auteur="Hervé_Mariton" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Il emploie ces mots de « père » et de « mère » dans la circonstance qu'a évoquée Marc le Fur. Cette circonstance montre que, dans notre droit actuel, quand on parle de mariage, les mots « père » et « mère » ou « mari » et « femme » ne sont pas si souvent employés que cela.</p>
+  <p> Il emploie ces mots de « père » et de « mère » dans la circonstance qu'a évoquée Marc <w>Le Fur</w>. Cette circonstance montre que, dans notre droit actuel, quand on parle de mariage, les mots « père » et « mère » ou « mari » et « femme » ne sont pas si souvent employés que cela.</p>
 <p>Mais ils sont tout entiers dans le texte. Sinon, l'évocation, dans le texte relatif aux mineurs, des mots « père » et « mère » n'aurait pas de sens. Quand on désigne les parents d'un mineur qui se marie, on parle bien du père et de la mère. Tout cela montre bien que l'édifice repose sur le mariage d'un homme et d'une femme, et que, dans le cas exceptionnel du mariage d'un mineur, l'articulation se fait avec le père et la mère, dans la succession et le fil des générations.</p>
 
 </mpt:metadata>
@@ -4948,14 +4948,14 @@
 
 <mpt:metadata auteur="le_président_" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p>Je suis saisi de cinq amendements identiques, <w>n<hi rend="sup">os</hi></w> 1756, 1758, 2354, 3457 et 4127.</p>
-<p>La parole est à M. Marc Le Fur, pour soutenir l'amendement n° 1756.</p>
+<p>La parole est à M. Marc <w>Le Fur</w>, pour soutenir l'amendement n° 1756.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130134.asp#INTER_ADT_71" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Cet amendement vous donne l'occasion de vous racheter et de faire en sorte que l'article 71 du Code civil échappe à votre infernale logique.</p>
@@ -5014,7 +5014,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> C'est important !</p>
@@ -5503,14 +5503,14 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> La parole est à M. Marc Le Fur, pour soutenir l'amendement n° 2594.</p>
+  <p> La parole est à M. Marc <w>Le Fur</w>, pour soutenir l'amendement n° 2594.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130134.asp#INTER_ADT_81" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Chacun l'aura remarqué : depuis la discussion d'un certain nombre d'amendements, nous avons une réflexion de fond. <mpt:interruption type="Rires" text="Rires et exclamations sur les bancs du groupe SRC. – Applaudissements sur plusieurs bancs du groupe UMP."/> Nous examinons un par un les articles du code civil. Nous ne sommes pas du tout dans l'invective, mais dans le fond des choses ! <mpt:interruption type="Mêmes mouvements" text="Mêmes mouvements."/></p>
@@ -5523,14 +5523,14 @@
   <speaker>Philippe Martin</speaker>
 
 <mpt:metadata auteur="Philippe_Martin" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
-  <p> Ce n'est plus M. Le Fur : c'est M. « le fond » !</p>
+  <p> Ce n'est plus M. <w>Le Fur</w> : c'est M. « le fond » !</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Pour M. le rapporteur et Mme la ministre, cela devrait être le moment de nous préciser leurs positions ! On nous reproche d'être schématiques ou théoriques ; or nous examinons maintenant les articles du code civil un par un... Et nous en avons un certain nombre à examiner, puisque j'ai déposé 187 amendements concernant les 187 articles du code modifiés par le projet de loi. J'attends des réponses précises !</p>
@@ -5551,7 +5551,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> ...comme nous avions su le faire à l'occasion de la loi bioéthique. Vous l'avez refusé ! <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe UMP."/></p>
@@ -5644,7 +5644,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Vous fuyez le débat !</p>

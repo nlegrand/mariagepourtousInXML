@@ -88,14 +88,14 @@
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p> Je suis saisi d'une série d'amendements identiques.</p>
-<p>La parole est à M. Marc Le Fur, pour défendre l'amendement n° 1787.</p>
+<p>La parole est à M. Marc <w>Le Fur</w>, pour défendre l'amendement n° 1787.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130136.asp#INTER_ADT_0" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Monsieur le président, madame la <w>garde des Sceaux</w>, madame la ministre déléguée chargée de la famille, monsieur le rapporteur, mes chers collègues, chaque jour apporte des éléments d'information nouveaux. Il y a de cela quelques jours, il s'agissait des difficultés gouvernementales quant à la PMA : autant de ministres, autant de positions ! Et puis, il y eut un arbitrage – rendu de Phnom Penh, c'est tout dire ! <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC"/> –, qui désavoue certains, clairement. Et puis, cette circulaire sur les mères porteuses – il faut employer des mots encore plus compréhensibles pour nos compatriotes que « GPA » –, cette circulaire qui, de fait, valide la GPA. Au lieu de la sanctionner, elle la renforce. <mpt:interruption type="Mêmes mouvements" text="Mêmes mouvements."/> On nous assène des pétitions de principe pour nous expliquer que le Gouvernement est contre la GPA, mais, de fait, nous ne voyons aucun élément objectif, aucune mise en place de sanctions, aucune mesure législative qui permette de dire que l'on s'attelle concrètement à cette difficulté.</p>
@@ -116,7 +116,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> J'y reviendrai, monsieur le président.</p>
@@ -140,7 +140,7 @@
   <speaker>Philippe Meunier</speaker>
 
 <mpt:metadata auteur="Philippe_Meunier" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130136.asp#INTER_ADT_1" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Notre collègue Le Fur a totalement raison : c'est un feuilleton à rebondissements. Dimanche dernier, le cafouillage de la GPA...ou plutôt de la PMA, la GPA viendra plus tard <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC"/>, et, <w>aujourd'hui</w>, l'avis caché du Conseil d'État. Je crois que la représentation nationale a besoin de tous les éléments pour pouvoir travailler sereinement, d'autant plus que, apparemment, certains de nos collègues ont l'avis du Conseil d'État, alors que l'opposition n'en a pas connaissance.</p>
+  <p> Notre collègue <w>Le Fur</w> a totalement raison : c'est un feuilleton à rebondissements. Dimanche dernier, le cafouillage de la GPA...ou plutôt de la PMA, la GPA viendra plus tard <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC"/>, et, <w>aujourd'hui</w>, l'avis caché du Conseil d'État. Je crois que la représentation nationale a besoin de tous les éléments pour pouvoir travailler sereinement, d'autant plus que, apparemment, certains de nos collègues ont l'avis du Conseil d'État, alors que l'opposition n'en a pas connaissance.</p>
 <p>Il est absolument nécessaire, monsieur le président, que la représentation nationale soit informée pour travailler sereinement sur ce projet de loi néfaste, qui, je le répète, détruit le droit de la famille.</p>
 
 </mpt:metadata>
@@ -227,7 +227,7 @@
   <speaker>Thierry Benoit</speaker>
 
 <mpt:metadata auteur="Thierry_Benoit" interventiontype="intervention" politicalgroup="UDI" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130136.asp#INTER_2" vote="contre" gender="male" politicalgender="UDI_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> En ce début de séance, je voudrais interroger le Gouvernement, en m'appuyant sur les interventions de Patrick Ollier, du président Jacob et de Marc Le Fur. Les débats que nous avons eus lors de la séance précédente révèlent que certains députés auraient pu être destinataires de l'avis du Conseil d'État. Je pose clairement la question au Gouvernement : est-ce que, oui ou non, certains députés ont été destinataires de cet avis ?</p>
+  <p> En ce début de séance, je voudrais interroger le Gouvernement, en m'appuyant sur les interventions de Patrick Ollier, du président Jacob et de Marc <w>Le Fur</w>. Les débats que nous avons eus lors de la séance précédente révèlent que certains députés auraient pu être destinataires de l'avis du Conseil d'État. Je pose clairement la question au Gouvernement : est-ce que, oui ou non, certains députés ont été destinataires de cet avis ?</p>
 
 </mpt:metadata>
 
@@ -502,7 +502,7 @@
 
 <mpt:metadata auteur="Christian_Jacob" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130136.asp#INTER_ADT_8" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Je voudrais répondre au Gouvernement.</p>
-<p>J'ai interrogé Mme la <w>garde des Sceaux</w> et lui ai demandé à plusieurs reprises de rendre public l'avis du Conseil d'État. Pourquoi ? La rumeur court – notre collègue Marc Le Fur l'a dit tout à l'heure – que ce texte comporte des imperfections juridiques graves et que le Conseil d'État en aurait fait état. Il semble que le Gouvernement n'en tienne pas compte et, surtout, refuse de rendre cet avis public. Je souhaite que nous en disposions, afin de légiférer dans de bonnes conditions. Il serait utile à l'ensemble des parlementaires, et notamment à ceux de la majorité, qui n'auraient sans doute pas voté certains articles s'ils en avaient disposé.</p>
+<p>J'ai interrogé Mme la <w>garde des Sceaux</w> et lui ai demandé à plusieurs reprises de rendre public l'avis du Conseil d'État. Pourquoi ? La rumeur court – notre collègue Marc <w>Le Fur</w> l'a dit tout à l'heure – que ce texte comporte des imperfections juridiques graves et que le Conseil d'État en aurait fait état. Il semble que le Gouvernement n'en tienne pas compte et, surtout, refuse de rendre cet avis public. Je souhaite que nous en disposions, afin de légiférer dans de bonnes conditions. Il serait utile à l'ensemble des parlementaires, et notamment à ceux de la majorité, qui n'auraient sans doute pas voté certains articles s'ils en avaient disposé.</p>
 <p>Je vais vous en lire un extrait, puisque j'ai réussi à en obtenir un. <mpt:interruption type="Rires" text="Rires et exclamations sur les bancs du groupe SRC."/> Vous savez que c'est très difficile.</p>
 
 </mpt:metadata>
@@ -768,14 +768,14 @@
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p> Je suis saisi d'une série d'amendements identiques.</p>
-<p>La parole est à M. Marc Le Fur, pour soutenir l'amendement n° 1790.</p>
+<p>La parole est à M. Marc <w>Le Fur</w>, pour soutenir l'amendement n° 1790.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130136.asp#INTER_ADT_10" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Je veux profiter de la présence du président <w>Le Roux</w> – une présence si rare qu'elle n'en a que plus de prix –, pour lui dire qu'il vient de rendre hommage au successeur de Mme Thatcher ! C'est quand même un comble !</p>
@@ -796,7 +796,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Je ne passe pas mon temps sur Internet, moi ! Je lis ! Je lis notamment les actes des congrès de l'Internationale socialiste, en particulier celui de 1912. Que disait alors Jaurès, dont la grande voix s'est éteinte le 31 juillet 1914 parce qu'il était contre le politiquement correct de l'époque ? Le politiquement correct de l'époque conduisait au bellicisme. Lui, au nom de son amour pour la paix, s'est battu contre ce politiquement correct !</p>
@@ -826,7 +826,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Que disait donc Jaurès, en 1912, au congrès de l'Internationale socialiste ? « Quand les hommes ne peuvent changer les choses, ils changent les mots ». C'est ce que vous êtes en train de faire : transformer notre vocabulaire et notre code civil, et rompre avec la nature ! <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe UMP. - Exclamations sur les bancs du groupe SRC."/> Revenez à l'essentiel ! Revenez à Jaurès ! Restez fidèles à vous-mêmes ! <mpt:interruption type="Mêmes mouvements" text="Mêmes mouvements."/></p>
@@ -1314,14 +1314,14 @@
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p> Je suis saisi de plusieurs amendements identiques.</p>
-<p>La parole est à M. Marc Le Fur, pour soutenir l'amendement n° 1795.</p>
+<p>La parole est à M. Marc <w>Le Fur</w>, pour soutenir l'amendement n° 1795.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130136.asp#INTER_ADT_17" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Mes chers collègues socialistes, ne nous y trompons pas, ce n'est pas le gouvernement conservateur qui vous imite, c'est vous qui imitez la logique du gouvernement conservateur britannique. C'est tout à fait cela ! Il vous a précédés dans la PMA et dans la GPA, entre autres ! C'est vous qui suivez cette logique libérale-libertaire ! Je sens d'ailleurs, puisqu'il ne s'exprime pas, un certain flottement du côté du groupe communiste, comme le disait très clairement notre collègue Meunier. Comment ce groupe peut-il s'identifier à ce que vous présentez désormais comme un idéal, à savoir l'Angleterre thatchérienne ? <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC."/></p>
@@ -1794,14 +1794,14 @@
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p> Je suis saisi d'une série d'amendements identiques.</p>
-<p>La parole est à M. Marc Le Fur, pour soutenir l'amendement n°1797.</p>
+<p>La parole est à M. Marc <w>Le Fur</w>, pour soutenir l'amendement n°1797.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130136.asp#INTER_ADT_25" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Je crains que nous ne puissions poursuivre dans cette ambiance, mes chers collègues. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC."/></p>
@@ -1822,7 +1822,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Que dit M. Chevènement ? « Je pense qu'on a résolu quasiment tous les problèmes, je ne comprends pas très bien la nécessité d'ouvrir le mariage aux couples homosexuels ».</p>
@@ -1842,7 +1842,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Les choses sont claires, limpides. Que dit-il encore, ce grand républicain qui partage votre sensibilité politique, pour l'essentiel ? Que cela « occulte les immenses problèmes que la France doit résoudre par ailleurs ». Il ajoute : « Je pense qu'on occulte l'essentiel à travers des projets dits sociétaux qui ne répondent pas vraiment aux aspirations de la masse ».</p>
@@ -1862,7 +1862,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Le vrai problème pour vous, qui va se révéler au fil des jours, au fil des semaines, c'est que vous êtes complètement coupés de la France profonde, du pays réel, de celles et ceux qui essaient d'élever leurs enfants péniblement, qui s'efforcent de leur donner une éducation, de leur inculquer un certain nombre de principes nécessaires pour le corps social. <mpt:interruption type="Exclamations" text="Exclamations continues sur les bancs du groupe SRC."/></p>
@@ -2640,14 +2640,14 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> La parole est à M. Marc Le Fur, pour soutenir l'amendement n° 2702.</p>
+  <p> La parole est à M. Marc <w>Le Fur</w>, pour soutenir l'amendement n° 2702.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130136.asp#INTER_ADT_34" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Monsieur le président, mesdames les ministres, cet amendement concerne l'article 206 du code civil. J'évoquais tout à l'heure Jaurès. Je souhaite maintenant convoquer les mânes de Courteline, Feydeau, Labiche et Guitry.</p>
@@ -2667,7 +2667,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Pourquoi ? Parce qu'en transformant l'article 206, mes chers collègues, vous supprimez la belle-mère ! Vous supprimez un personnage essentiel de leur théâtre ! <mpt:interruption type="Exclamations" text="Exclamations sur les tous les bancs."/></p>
@@ -2687,7 +2687,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Vous portez un coup terrible au théâtre de boulevard ! La belle-mère disparaît ! Eh oui, mes chers collègues ! C'est pourquoi je souhaite que soit associée à nos débats Mme Filippetti, ministre de la culture ! <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe UMP."/></p>
@@ -2722,7 +2722,7 @@
   <speaker>Xavier Breton</speaker>
 
 <mpt:metadata auteur="Xavier_Breton" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130136.asp#INTER_ADT_35" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Comme Marc Le Fur nous indiquait que les belles-mères allaient disparaître, des cris se sont fait entendre sur tous les bancs. J'ai même entendu : « Enfin ! ».</p>
+  <p> Comme Marc <w>Le Fur</w> nous indiquait que les belles-mères allaient disparaître, des cris se sont fait entendre sur tous les bancs. J'ai même entendu : « Enfin ! ».</p>
 <p>Au-delà de la plaisanterie, je voudrais revenir sur l'avant-projet de loi sur la famille, qui fait apparaître un problème de méthode que nous dénonçons depuis le début. Avez-vous une conception claire de la famille, de la filiation et de la parenté ? Si oui, débattons-en entre nous, bien sûr, mais aussi avec la société. Organisons des états généraux de la famille !</p>
 
 </mpt:metadata>
@@ -3210,14 +3210,14 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> La parole est à M. Marc Le Fur, pour soutenir l'amendement n° 2713.</p>
+  <p> La parole est à M. Marc <w>Le Fur</w>, pour soutenir l'amendement n° 2713.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130136.asp#INTER_ADT_42" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Une séance publique à l'Assemblée, ce sont divers personnages. Ce sont des députés : ils sont présents. C'est un président : la présidence est tenue. Ce sont des ministres, dont la fonction est de parler, mais qui sont devenus muets. <mpt:interruption type="« Absolument ! »" text="« Absolument ! » sur les bancs du groupe UMP."/> C'est un rapporteur, qui ne dit pas grand-chose – et quand il dit quelque chose, c'est assez bref. Et puis, c'est un président de la commission. Or, alors que nous avons repris nos travaux à vingt et une heure trente, M. Urvoas, président de la commission des lois, n'est toujours pas là. C'est la première fois que, sur un texte de cette importance, je constate l'absence du président de la commission. <mpt:interruption type="« Il est où ? »" text="« Il est où ? » sur les bancs du groupe UMP."/>. Certes, M. Le Bouillonnec est présent, et il a toute notre estime – nous savons qu'il est un parlementaire chevronné. Il n'empêche que tout à l'heure, j'ai demandé, en sa présence, à M. Urvoas son avis sur le fond et il ne m'a pas répondu. Pourquoi ne s'exprime-t-il jamais sur le fond ? Est-ce par tactique politicienne – il est élu comme moi, d'une région, la Bretagne, où la famille a de l'importance ? Ou alors, et ce serait mieux, est-ce parce qu'il n'est pas convaincu de l'intérêt de ce texte et ne veut pas le dire, par discipline de parti ?</p>
@@ -3370,7 +3370,7 @@
 <mpt:metadata auteur="Gérald_Darmanin" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Ne croyez pas cela, mon cher collègue.</p>
 <p>... de voir dans quel mépris est tenue la représentation nationale.</p>
-<p>Enfin, M. Le Fur a cité avec le talent qu'on lui connaît Labiche et Jules Sandeau. Mais, vu les gags absurdes auxquels nous avons assisté – que ce soit la circulaire sur la GPA, l'intervention du Premier ministre depuis le Cambodge pour recadrer Mme Bertinotti, l'avis du Conseil d'État que nous ne pouvons pas consulter ou l'avant-projet de loi sur la famille qui, finalement, ne comprendrait pas de disposition sur la PMA –, ce n'est plus du Labiche : c'est La minute nécessaire de M. Cyclopède, du regretté Desproges. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe UMP. – Exclamations sur les bancs des groupes SRC et écologiste."/></p>
+<p>Enfin, M. <w>Le Fur</w> a cité avec le talent qu'on lui connaît Labiche et Jules Sandeau. Mais, vu les gags absurdes auxquels nous avons assisté – que ce soit la circulaire sur la GPA, l'intervention du Premier ministre depuis le Cambodge pour recadrer Mme Bertinotti, l'avis du Conseil d'État que nous ne pouvons pas consulter ou l'avant-projet de loi sur la famille qui, finalement, ne comprendrait pas de disposition sur la PMA –, ce n'est plus du Labiche : c'est La minute nécessaire de M. Cyclopède, du regretté Desproges. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe UMP. – Exclamations sur les bancs des groupes SRC et écologiste."/></p>
 
 </mpt:metadata>
 
@@ -3447,14 +3447,14 @@
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p> Je suis saisi d'une série d'amendements identiques.</p>
-<p>La parole est à M. Marc Le Fur, pour soutenir l'amendement n° 1804.</p>
+<p>La parole est à M. Marc <w>Le Fur</w>, pour soutenir l'amendement n° 1804.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130136.asp#INTER_ADT_49" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Dans la situation à laquelle nous sommes confrontés, il faut, me semble-t-il, revenir à un certain nombre de fondamentaux, en particulier à ce que nous disent les grandes traditions. Aussi voudrais-je citer l'un des plus beaux textes écrits par le grand Rabbin Bernheim sur le sujet : « Le père et la mère indiquent à l'enfant sa généalogie. » Pas seulement le père et la mère, mais la filière : la généalogie. « L'enfant a besoin d'une généalogie claire et cohérente pour se positionner en tant qu'individu. Ce qui fait l'humain depuis toujours et pour toujours est une parole dans un corps sexué et dans une généalogie. » Voilà ce que vous êtes en train de casser ! « Nommer la filiation, ce n'est pas seulement indiquer par qui l'enfant sera élevé, avec qui il aura des relations affectives, qui sera son adulte “référent”, » comme on dit maintenant, « c'est aussi et surtout permettre à l'enfant de se situer dans la chaîne des générations. Depuis des millénaires, le système sur lequel est fondée notre société est une généalogie à double lignée, celle du père et celle de la mère. La pérennité de ce système garantit à chaque individu qu'il peut trouver sa place dans le monde où il vit, car il sait d'où il vient. »</p>
@@ -3519,7 +3519,7 @@
 
 <mpt:metadata auteur="Pascale_Crozon" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="female" politicalgender="SRC_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
   <p> ...et je continuerai jusqu'à ce que j'obtienne une réponse.</p>
-<p>Par ailleurs, je suis en désaccord sur un point avec mon collègue Le Fur, mais il me le pardonnera. Nous regrettons, bien entendu, que le président de la commission des lois soit retenu par sa tâche, mais nous saluons la présence de notre collègue Le Bouillonnec – et nous l'en remercions –, pour lequel nous avons beaucoup d'estime.</p>
+<p>Par ailleurs, je suis en désaccord sur un point avec mon collègue <w>Le Fur</w>, mais il me le pardonnera. Nous regrettons, bien entendu, que le président de la commission des lois soit retenu par sa tâche, mais nous saluons la présence de notre collègue Le Bouillonnec – et nous l'en remercions –, pour lequel nous avons beaucoup d'estime.</p>
 <p>Enfin, je tiens à achever la citation de M. Thibaud Collin que j'ai commencée tout à l'heure et qui a été brutalement interrompue en raison de l'expiration de mon temps de parole : « Or, quel est le bien fondamental dû à l'enfant que notre société se doit de respecter ? Vivre dans la continuité de la double origine dont il est issu. La sexuation concerne toute la personne, masculine ou féminine, père ou mère. Elle n'est pas une propriété du seul corps réduit à un simple substrat biologique, comme certaines formules condescendantes veulent le faire croire. » Et il cite ici Irène Théry, qui évoque « la conception bouchère de la filiation ».</p>
 <p>Tels sont, mes chers collègues, les éléments que je souhaitais porter à votre connaissance. L'amendement est ainsi défendu, monsieur le président.</p>
 
@@ -4281,14 +4281,14 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> La parole est à M. Marc Le Fur, pour soutenir l'amendement n° 2716.</p>
+  <p> La parole est à M. Marc <w>Le Fur</w>, pour soutenir l'amendement n° 2716.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130136.asp#INTER_ADT_58" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Monsieur le rapporteur, je trouve qu'à la suite de l'excellente réflexion de notre collègue Hervé Mariton, vous progressez : vous ne dites rien, mais vous le dites debout. <mpt:interruption type="Sourires" text="Sourires."/></p>
@@ -4309,7 +4309,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Nous sommes de nombreux témoins à l'avoir entendu.</p>
@@ -4940,7 +4940,7 @@
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p> Je suis saisi d'une série d'amendements identiques.</p>
-<p>La parole est à M. Marc Le Fur, pour soutenir l'amendement n° 1810.</p>
+<p>La parole est à M. Marc <w>Le Fur</w>, pour soutenir l'amendement n° 1810.</p>
 
 </mpt:metadata>
 
@@ -4960,14 +4960,14 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> Seul M. Le Fur a la parole. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe UMP."/></p>
+  <p> Seul M. <w>Le Fur</w> a la parole. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130136.asp#INTER_ADT_65" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Monsieur le rapporteur, vous avez derrière vous, pour vous assister, des fonctionnaires d'une extrême qualité, qui comptent parmi les esprits les plus déliés de l'Assemblée.</p>
@@ -4987,7 +4987,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Je suis convaincu qu'ils sont en mesure de vous donner les notes nécessaires pour vous permettre de répondre. Nous vous demandons de lire ces éléments pour que nous disposions de réponses.</p>
@@ -5341,14 +5341,14 @@
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p> Nous en venons à une nouvelle série d'amendements identiques.</p>
-<p>La parole est à M. Marc Le Fur, pour soutenir l'amendement n° 1816.</p>
+<p>La parole est à M. Marc <w>Le Fur</w>, pour soutenir l'amendement n° 1816.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130136.asp#INTER_ADT_73" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Notre excellent ministre chargé des relations avec le Parlement nous a rejoints. J'imagine que c'est pour nous donner des précisions sur l'avis du Conseil d'État. Je vois qu'il opine du chef. Nous attendrons et nous écouterons avec la plus grande attention ce qu'il nous dira.</p>
@@ -5369,7 +5369,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> L'État de l'argent, la ville de l'argent, voilà certainement qui vous inspire, et c'est redoutable. Revenez aux principes républicains ! Trouvons l'inspiration dans notre histoire et dans nos traditions, au confluent d'éléments très divers, qui doivent nous enrichir mutuellement et nous rassembler !</p>
@@ -5904,14 +5904,14 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> La parole est à M. Marc Le Fur, pour soutenir l'amendement n° 2720.</p>
+  <p> La parole est à M. Marc <w>Le Fur</w>, pour soutenir l'amendement n° 2720.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130136.asp#INTER_ADT_83" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Je reviens sur la question du Conseil d'État. <mpt:interruption type="Protestations" text="Protestations sur les bancs du groupe SRC."/> Il faut aller au fond des choses. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC."/></p>
@@ -5931,7 +5931,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> M. Vidalies nous a expliqué une chose simple, identifiée, connue de tous, c'est que le Gouvernement n'est pas obligé de communiquer l'avis du Conseil d'État. Nous le savions, ce n'est pas une information, ce n'est pas ça le sujet.</p>
@@ -5951,7 +5951,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> J'avais demandé en 2008 que l'on soit obligé à l'avenir de communiquer l'avis du Conseil d'État. Nous allons avoir des travaux de révision constitutionnelle, des lois organiques, nous aurons donc l'occasion de revenir sur ce point et je suis convaincu qu'un grand nombre d'entre nous adhérerons à cette demande, mais ce n'est pas du tout la question.</p>
@@ -5976,7 +5976,7 @@
   <speaker>Dominique Tian</speaker>
 
 <mpt:metadata auteur="Dominique_Tian" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130136.asp#INTER_ADT_84" vote="pour" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Marc Le Fur a totalement raison en demandant l'avis du Conseil d'État.</p>
+  <p> Marc <w>Le Fur</w> a totalement raison en demandant l'avis du Conseil d'État.</p>
 <p>Cela dit, puisque le débat devient international, Mme Lemaire, qui représente les Français installés en Angleterre, grâce d'ailleurs au Président Sarkozy, qui a souhaité cette évolution, pourrait-elle nous indiquer par quel système magique, le débat a été bouclé en Grande-Bretagne en moins de six heures et, surtout, quels avis juridiques ont été demandés par le Parlement anglais ? A-t-on demandé l'avis du Conseil d'État anglais, de la reine d'Angleterre ou de je ne sais qui ? Quelle aide juridique est intervenue pour que les choses aillent aussi vite alors que, dans ce Parlement, on nous refuse l'accès à l'avis du Conseil d'État ? On oublie d'éclairer le Parlement français. Apparemment, les méthodes anglaises sont beaucoup plus efficaces, peut-être parce qu'il s'agit de conservateurs et qu'ils sont puissamment aidés par des instances juridiques britanniques. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
@@ -6401,14 +6401,14 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> La parole est à M. Marc Le Fur, pour soutenir l'amendement n° 1824.</p>
+  <p> La parole est à M. Marc <w>Le Fur</w>, pour soutenir l'amendement n° 1824.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130136.asp#INTER_ADT_92" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Nous arrivons au bilan de la journée. Ce bilan, quel est-il ? Un rapporteur qui ne dit rien, n'a rien à dire. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC."/> Un président de la commission excellemment remplacé par son vice-président, mais un président absent : sur un texte aussi essentiel, c'est surprenant. <mpt:interruption type="Mêmes mouvements" text="Mêmes mouvements."/> Nous sommes un certain nombre à siéger depuis longtemps dans cette assemblée : combien de fois avons-nous vu vide un banc de la commission ? Très rarement.</p>
@@ -6428,7 +6428,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Une ministre de la famille qui est revenue, alors qu'elle était alitée hier soir ; elle progresse. <mpt:interruption type="Mêmes mouvements" text="Mêmes mouvements."/></p>
@@ -6458,7 +6458,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Un ministre chargé des relations avec le Parlement dont on connaît la compétence et une <w>garde des Sceaux</w> qui traite de manière un peu cavalière – et je suis très modéré dans mon propos – une grande institution de la République, le Conseil d'État. Il faudrait que nous sachions respecter les grands corps de l'État, l'administration en général ; nous y gagnerions tous. <mpt:interruption type="Mêmes mouvements" text="Mêmes mouvements."/></p>
@@ -6479,7 +6479,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> En tout état de cause, nous espérons que, demain,...</p>
@@ -6499,7 +6499,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> ...puisque nous aurons le temps d'examiner les amendements successivement, nous pourrons revenir, ne serait-ce qu'à la marge, à une rédaction un peu plus satisfaisante. Je suis convaincu que la nuit réparatrice que les uns et les autres vont passer nous le permettra !</p>
@@ -6553,7 +6553,7 @@
   <speaker>Xavier Breton</speaker>
 
 <mpt:metadata auteur="Xavier_Breton" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130136.asp#INTER_ADT_94" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Je m'associe au bilan proposé par M. Le Fur et, pour tenter de regagner un peu de la sympathie de mes collègues, je considère cet amendement comme défendu. Je donne mon temps à M. Mariton qui le prendra bien volontiers.</p>
+  <p> Je m'associe au bilan proposé par M. <w>Le Fur</w> et, pour tenter de regagner un peu de la sympathie de mes collègues, je considère cet amendement comme défendu. Je donne mon temps à M. Mariton qui le prendra bien volontiers.</p>
 
 </mpt:metadata>
 

@@ -1678,14 +1678,14 @@
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p> Nous en venons à une série d'amendements identiques.</p>
-<p>La parole est à M. Marc Le Fur, pour soutenir l'amendement n° 57.</p>
+<p>La parole est à M. Marc <w>Le Fur</w>, pour soutenir l'amendement n° 57.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130126.asp#INTER_ADT_7" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Monsieur le président, à la suite de la réunion que vous avez souhaitée, le président de mon groupe m'a demandé de détendre l'atmosphère : je vais donc m'y employer.</p>
@@ -1706,7 +1706,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Voilà le titre de l'entretien qu'il vient d'accorder aux Échos : « La France veut du boulot, pas du mariage homo ». Je le cite : « La priorité <w>aujourd'hui</w>, c'est la lutte contre le chômage plutôt que les réformes sociétales. »</p>
@@ -1736,7 +1736,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> « Sur ce terrain très sensible, il faut avancer avec beaucoup de précaution », dit-il à propos de la réforme de la famille.</p>
@@ -1756,7 +1756,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Les choses sont claires. Notre amendement est très simple. Il consiste à revenir à une règle élémentaire : le mariage est l'union d'un homme et d'une femme. C'était l'esprit du Code civil, rédigé par un grand juriste, Cambacérès, dont les orientations sexuelles étaient d'ailleurs connues mais ne l'ont pas empêché de faire une belle et grande carrière, puisqu'il était le second du régime. Les logiques victimaires que certains utilisent sont donc très relatives.</p>
@@ -1780,7 +1780,7 @@
   <speaker>Laurent Marcangeli</speaker>
 
 <mpt:metadata auteur="Laurent_Marcangeli" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130126.asp#INTER_ADT_8" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
-  <p> Comme l'a expliqué Marc Le Fur, cet amendement consiste à rappeler que le mariage est l'union entre un homme et une femme. Pourquoi ? Pour une bonne et simple raison que nous vous exposons depuis ce matin : le mariage ne désigne pas seulement l'union entre deux êtres, il inclut aussi le concept de filiation. Dans nos rangs, nous considérons que la filiation ne peut être véritablement solide que si elle est exercée par un homme et une femme.</p>
+  <p> Comme l'a expliqué Marc <w>Le Fur</w>, cet amendement consiste à rappeler que le mariage est l'union entre un homme et une femme. Pourquoi ? Pour une bonne et simple raison que nous vous exposons depuis ce matin : le mariage ne désigne pas seulement l'union entre deux êtres, il inclut aussi le concept de filiation. Dans nos rangs, nous considérons que la filiation ne peut être véritablement solide que si elle est exercée par un homme et une femme.</p>
 <p>Nous ne sommes pas seuls à penser ainsi : de brillants constitutionnalistes intègrent le principe de l'altérité sexuelle dans le bloc de constitutionnalité, ce qui n'est pas rien. Ainsi le doyen Carbonnier explique les raisons pour lesquelles il pourrait être dangereux de porter atteinte à ce principe.</p>
 <p>Depuis ce matin, nous entendons des arguments tout à fait respectables, au premier rang desquels figure celui selon lequel il faut respecter l'amour que se portent deux êtres et leur donner le droit de s'unir. Nous l'avons proposé avec l'alliance civile, qui a été rejetée.</p>
 <p>Par ailleurs, il serait, nous a-t-on dit, anormal de ne pas faire droit au principe d'égalité. Mais, mes chers collègues, l'égalité, on y contrevient dans pratiquement dans tous les rapports que l'individu entretient avec la société ! En tant qu'élus, nous n'avons pas le droit d'exercer un certain nombre de responsabilités si nous occupons une fonction élective : c'est une inégalité entre les citoyens. Le droit de vote n'est pas autorisé avant l'âge de dix-huit ans : c'est une autre inégalité. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC."/></p>
@@ -3756,7 +3756,7 @@
   <speaker>Erwann Binet,rapporteur</speaker>
 
 <mpt:metadata auteur="Erwann_Binet" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
-  <p> J'ai entendu à de nombreuses reprises – je vais reprendre vos mots – des allusions à la nature. J'ai noté chez M. Fenech l'expression de loi naturelle ; dans un autre registre, M. Gosselin a rappelé la tradition ; M. Le Fur a parlé de règle naturelle ; M. Myard, de la vérité du monde ; Mme Lauwagie a dit « la loi de la nature a organisé la civilisation » ; pour moi, c'est l'inverse ! Comme je suis Isérois, je vais vous citer Stendhal, Le rouge et le noir, si vous me le permettez, monsieur le président : « il n'y a point de droit naturel. Ce mot n'est qu'une antique niaiserie. Avant la loi, il n'y a que la force du lion ou le besoin de l'être qui a faim, qui a froid, le besoin en un mot ». Notre assemblée ne doit pas entériner la loi naturelle, nous devons faire la loi de la République ! <mpt:interruption type="applaudissements" text="Vifs applaudissements sur les bancs des groupes SRC, GDR et écologiste."/></p>
+  <p> J'ai entendu à de nombreuses reprises – je vais reprendre vos mots – des allusions à la nature. J'ai noté chez M. Fenech l'expression de loi naturelle ; dans un autre registre, M. Gosselin a rappelé la tradition ; M. <w>Le Fur</w> a parlé de règle naturelle ; M. Myard, de la vérité du monde ; Mme Lauwagie a dit « la loi de la nature a organisé la civilisation » ; pour moi, c'est l'inverse ! Comme je suis Isérois, je vais vous citer Stendhal, Le rouge et le noir, si vous me le permettez, monsieur le président : « il n'y a point de droit naturel. Ce mot n'est qu'une antique niaiserie. Avant la loi, il n'y a que la force du lion ou le besoin de l'être qui a faim, qui a froid, le besoin en un mot ». Notre assemblée ne doit pas entériner la loi naturelle, nous devons faire la loi de la République ! <mpt:interruption type="applaudissements" text="Vifs applaudissements sur les bancs des groupes SRC, GDR et écologiste."/></p>
 
 </mpt:metadata>
 
@@ -4408,14 +4408,14 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> La parole est à M. Marc Le Fur.</p>
+  <p> La parole est à M. Marc <w>Le Fur</w>.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130126.asp#INTER_ADT_45" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Madame la <w>garde des Sceaux</w>, permettez-moi également de vous souhaiter un bon anniversaire. Vous savez que nous avons, sur les bancs de la droite, une indulgence toute particulière à votre égard puisque nous avons contracté à votre égard une dette il y a de cela onze ans. Cela crée donc une sympathie toute particulière. Vous vous rappelez : en 2002. <mpt:interruption type="« Nul ! »" text="« Nul ! » et « Minable ! » sur les bancs du groupe SRC."/></p>
@@ -4455,7 +4455,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Madame la <w>garde des Sceaux</w>, monsieur le rapporteur, il y a une objective différence entre la droite et la gauche.</p>
@@ -4475,7 +4475,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Elle porte sur deux points.</p>

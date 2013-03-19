@@ -2434,14 +2434,14 @@
 
 <mpt:metadata auteur="le_président_" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p>La séance est reprise.</p>
-<p>La parole est à M. Marc Le Fur, pour un rappel au règlement.</p>
+<p>La parole est à M. Marc <w>Le Fur</w>, pour un rappel au règlement.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130121.asp#INTER_15" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Monsieur le président, mon rappel au règlement se fonde sur l'article 58.</p>
@@ -2462,7 +2462,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Que certains d'entre nous se manifestent de manière singulière, voire outrancière, ce n'est pas la première fois. Ce qui me surprend, c'est que, dans cette enceinte, certains de nos collègues, rapporteurs ou présidents de commission, jouent un rôle spécifique. De ce fait, ils ne peuvent pas avoir le même comportement que d'autres collègues.</p>
@@ -2627,7 +2627,7 @@
   <speaker>Bruno <w>Le Roux</w></speaker>
 
 <mpt:metadata auteur="Bruno_Le_Roux" interventiontype="intervention" politicalgroup="SRC" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130121.asp#INTER_17" vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
-  <p> Merci monsieur le président. J'avais demandé un rappel au règlement après celui de M. Le Fur, mais je n'ai pas jugé utile de le faire bruyamment remarquer dès lors que vous aviez donné la parole à M. Nicolin.</p>
+  <p> Merci monsieur le président. J'avais demandé un rappel au règlement après celui de M. <w>Le Fur</w>, mais je n'ai pas jugé utile de le faire bruyamment remarquer dès lors que vous aviez donné la parole à M. Nicolin.</p>
 <p>Sur ce texte, nous avons tous des idées somme toute très différentes.</p>
 
 </mpt:metadata>
@@ -2648,14 +2648,14 @@
   <speaker>Bruno <w>Le Roux</w></speaker>
 
 <mpt:metadata auteur="Bruno_Le_Roux" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
-  <p> Nous devons les assumer. À partir du moment où nous les mettons sur la place publique de cet hémicycle, elles sont susceptibles d'être critiquées, voire combattues. En revanche, je n'accepterai jamais, monsieur Le Fur, que vous pointiez du doigt le membre d'un groupe, fût-il investi d'une responsabilité, pour porter atteinte à son honneur par le biais d'une remarque de portée générale !</p>
+  <p> Nous devons les assumer. À partir du moment où nous les mettons sur la place publique de cet hémicycle, elles sont susceptibles d'être critiquées, voire combattues. En revanche, je n'accepterai jamais, monsieur <w>Le Fur</w>, que vous pointiez du doigt le membre d'un groupe, fût-il investi d'une responsabilité, pour porter atteinte à son honneur par le biais d'une remarque de portée générale !</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Elle est présidente de commission ! C'est une responsabilité particulière !</p>

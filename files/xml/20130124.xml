@@ -143,7 +143,7 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> La parole est à M. Marc Le Fur, pour un rappel au règlement.</p>
+  <p> La parole est à M. Marc <w>Le Fur</w>, pour un rappel au règlement.</p>
 
 </mpt:metadata>
 
@@ -160,7 +160,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130124.asp#INTER_1" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Un élément majeur avait déjà été apporté au débat avant-hier par M. Mariton, je veux parler de la fameuse circulaire à laquelle il a fait allusion. Et voilà que l'on constate qu'un certain nombre de membres du Gouvernement adhèrent au principe de la <w>gestation pour autrui</w> ! Or, il faut savoir que, dans le même temps, un certain nombre de gens s'élèvent, eux, contre la GPA. Si nous avons, nous, tout de suite manifesté on ne peut plus nettement notre opposition à cette circulaire, sans que l'on n'ait entendu personne sur les bancs de la gauche...</p>
@@ -180,7 +180,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Je sais votre détermination, ma chère collègue, et je vous en sais gré.</p>
@@ -201,7 +201,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> ...a également clairement demandé le retrait de la circulaire. Cela veut bien dire que la demande de retrait va au-delà des bancs de l'UMP.</p>
@@ -215,7 +215,7 @@
   <speaker>Corinne Narassiguin</speaker>
 
 <mpt:metadata auteur="Corinne_Narassiguin" interventiontype="interruption"        debat="mpt" subject="mpt">
-  <p> On n'est pas aux questions d'actualité, monsieur Le Fur !</p>
+  <p> On n'est pas aux questions d'actualité, monsieur <w>Le Fur</w> !</p>
 
 </mpt:metadata>
 
@@ -225,7 +225,7 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> Mes chers collègues, nous verrons si le Gouvernement souhaite répondre aux questions vous avez posées, mais je veux tout de même apporter une précision après l'intervention de M. Marc Le Fur : chacun peut visionner, comme je l'ai fait, l'enregistrement de l'audition de la commission des lois au cours de laquelle Mme la <w>garde des Sceaux</w> a précisé le contenu de cette circulaire une dizaine de jours avant sa sortie. Et non seulement les députés étaient nombreux à assister à cette réunion, mais celle-ci était également ouverte à la presse.</p>
+  <p> Mes chers collègues, nous verrons si le Gouvernement souhaite répondre aux questions vous avez posées, mais je veux tout de même apporter une précision après l'intervention de M. Marc <w>Le Fur</w> : chacun peut visionner, comme je l'ai fait, l'enregistrement de l'audition de la commission des lois au cours de laquelle Mme la <w>garde des Sceaux</w> a précisé le contenu de cette circulaire une dizaine de jours avant sa sortie. Et non seulement les députés étaient nombreux à assister à cette réunion, mais celle-ci était également ouverte à la presse.</p>
 
 </mpt:metadata>
 
@@ -245,7 +245,7 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> Il est vrai que j'ai pourtant pu entendre, concernant cette même circulaire, de nombreuses réactions de surprise dans cet hémicycle. Je tiens donc à répéter, parce qu'il est aussi de ma responsabilité de mettre en avant le travail qui a été fait par les députés, que vous pouvez, monsieur Le Fur, consulter cet enregistrement.</p>
+  <p> Il est vrai que j'ai pourtant pu entendre, concernant cette même circulaire, de nombreuses réactions de surprise dans cet hémicycle. Je tiens donc à répéter, parce qu'il est aussi de ma responsabilité de mettre en avant le travail qui a été fait par les députés, que vous pouvez, monsieur <w>Le Fur</w>, consulter cet enregistrement.</p>
 
 </mpt:metadata>
 
@@ -525,7 +525,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Très pertinente question !</p>
@@ -680,7 +680,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Exactement !</p>
@@ -830,7 +830,7 @@
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
   <p> Avant de donner la parole à Mamère pour un rappel au règlement, je souhaite répondre à des remarques que j'ai entendues venant des bancs de l'opposition.</p>
-<p>Vous l'aurez d'abord constaté, mes chers collègues, l'intervention tout à l'heure de M. Le Fur ne correspondait pas tout à fait à un rappel au règlement.</p>
+<p>Vous l'aurez d'abord constaté, mes chers collègues, l'intervention tout à l'heure de M. <w>Le Fur</w> ne correspondait pas tout à fait à un rappel au règlement.</p>
 <p>Pour autant, Je vais accorder à la majorité et à l'opposition un nombre équivalent de rappels au règlement en ce début de séance, puisque telle semble être la règle du jeu, afin que nous puissions ensuite entrer d'une manière plus sereine dans les débats.</p>
 <p>La parole est à Noël Mamère, pour un rappel au règlement.</p>
 
@@ -973,14 +973,14 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> La parole est à M. Marc Le Fur.</p>
+  <p> La parole est à M. Marc <w>Le Fur</w>.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130124.asp#INTER_8" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Ce rappel au règlement fait suite aux propos de M. Dussopt que j'invite à la plus grande prudence parce que certains propos, qu'il a tenus il y a plusieurs mois dans cette enceinte, ont heurté des familles françaises.</p>
@@ -1000,7 +1000,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Souvenez-vous, c'était à la commission spéciale d'éthique.</p>
@@ -1020,7 +1020,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Nous avions appris que 96 % des enfants atteints de trisomie faisaient l'objet d'avortement. Cela nous avait conduits, tous autant que nous étions, à constater que nous étions au-delà des limites de l'eugénisme. Or qu'a dit M. Dussopt en cette circonstance ? Que ce qui le surprenait, c'était que 4 % vivaient !</p>
@@ -1050,7 +1050,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Il a heurté les familles. La meilleure preuve, monsieur Dussopt, est que votre groupe vous a immédiatement exfiltré de la commission pour que cessent de tels débordements.</p>
@@ -1250,7 +1250,7 @@
   <speaker>Bernard Roman</speaker>
 
 <mpt:metadata auteur="Bernard_Roman" interventiontype="intervention" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="mpt" subject="mpt">
-  <p> Et en en prenant également connaissance, M. Le Fur sera amené à présenter ses excuses.</p>
+  <p> Et en en prenant également connaissance, M. <w>Le Fur</w> sera amené à présenter ses excuses.</p>
 <p>J'en reviens au fond. De quoi s'agit-il ? Nous avons l'impression que vous voulez le faire oublier : il s'agit avec cet article qui touche au code civil d'ouvrir dans le droit français le mariage aux personnes de même sexe.</p>
 
 </mpt:metadata>
@@ -4686,14 +4686,14 @@
   <speaker>le président</speaker>
 
 <mpt:metadata auteur="le_président" interventiontype="régulation"        debat="mpt" subject="mpt">
-  <p> Monsieur Le Fur, pour vous montrer l'état d'esprit d'ouverture de la présidence, je vous donne la parole. <mpt:interruption type="Sourires" text="Sourires."/></p>
+  <p> Monsieur <w>Le Fur</w>, pour vous montrer l'état d'esprit d'ouverture de la présidence, je vous donne la parole. <mpt:interruption type="Sourires" text="Sourires."/></p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130124.asp#INTER_48" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Merci, monsieur le président.</p>
@@ -4714,7 +4714,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Le mariage n'est pas une validation des sentiments par la collectivité. L'État n'a ni à censurer ni à autoriser un quelconque sentiment. Les sentiments que les uns et les autres se portent ne regardent qu'eux-mêmes ; les amoureux n'ont pas besoin de certificat ! <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes UMP et UDI. – Exclamations sur les bancs des groupes SRC et écologiste."/></p>
@@ -4734,7 +4734,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Le mariage n'est pas davantage un contrat qui n'engagerait et ne concernerait que les signataires de ce contrat. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs des groupes SRC."/> Non, le mariage est bien une institution, et la meilleure preuve en est que les militants du mariage homosexuel veulent être mariés en mairie, dans un lieu qui n'est pas neutre, par un officier de l'état civil, représentant de l'État.</p>
@@ -4755,7 +4755,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> C'est lui qu'il faut protéger, et c'est la vocation de la société que de le faire.</p>
@@ -4777,7 +4777,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Nous voterons résolument contre ce texte funeste ! <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs des groupes UMP et UDI."/></p>
@@ -6605,7 +6605,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Cela revient à reconnaître la GPA !</p>
@@ -7320,7 +7320,7 @@
   <speaker>Dominique Bertinotti,ministre déléguée.</speaker>
 
 <mpt:metadata auteur="Dominique_Bertinotti" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="mpt" subject="mpt">
-  <p>Je veux dire à plusieurs orateurs, notamment à M. Le Fur, qu'ils ont décidément le mariage très triste. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe UMP."/></p>
+  <p>Je veux dire à plusieurs orateurs, notamment à M. <w>Le Fur</w>, qu'ils ont décidément le mariage très triste. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
 
@@ -8787,14 +8787,14 @@
   <speaker>le Président </speaker>
 
 <mpt:metadata auteur="le_Président_" interventiontype="interruption"        debat="mpt" subject="mpt">
-  <p>La parole est à M. Le Fur, pour soutenir l'amendement n° 56.</p>
+  <p>La parole est à M. <w>Le Fur</w>, pour soutenir l'amendement n° 56.</p>
 
 </mpt:metadata>
 
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130124.asp#INTER_ADT_1" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Je ne veux pas intervenir sur l'organisation des débats, mais une question a été posée et chacun constate que la ministre n'y répond pas ! <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC."/></p>
@@ -8816,7 +8816,7 @@
 </sp>
 
 <sp who="Marc_Le_Fur">
-  <speaker>Marc Le Fur</speaker>
+  <speaker>Marc <w>Le Fur</w></speaker>
 
 <mpt:metadata auteur="Marc_Le_Fur" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="mpt" subject="mpt">
   <p> Vous l'avez compris, je défendrai au cours de ce débat l'enfant sujet de droit face à ceux qui veulent en faire un objet de droit, au risque d'en faire une chose, de le réifier, comme disent de manière savante mais compréhensible les philosophes. Pour ces raisons, nous défendons et nous défendrons tous ces amendements de suppression de l'article <w>1<hi rend="sup">er</hi></w>. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe UMP."/></p>
