@@ -111,3 +111,15 @@ Autre balise custom : <mpt:interruption>. Eg :
     <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe UMP"/>
 
 Relève une description d'interruption, sans polluer le texte avec.
+
+La balise <w>
+=============
+
+La balise <w> est utilisée à plusieurs endroits pour s'assurer que
+plusieurs mots forment la même unité lexicale, comme les abréviations,
+les noms propres (Le Fur, Le Roux, Marchéchal-Le Pen...), ou certaines
+expressions très présentes dans le corpus comme :
+
+    <w>gestation pour autrui</w>
+    <w>procréation médicalement assistée</w>
+    <w>garde des Sceaux</w>
