@@ -750,7 +750,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="qag">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="mpt">
   <p> La parole est à M. Philippe Gosselin, pour le groupe de l'Union pour un mouvement populaire.</p>
 
 </mpt:metadata>
@@ -760,7 +760,7 @@
 <sp who="Plusieurs_députés_du_groupe_SRC">
   <speaker>Plusieurs députés du groupe SRC</speaker>
 
-<mpt:metadata auteur="Plusieurs_députés_du_groupe_SRC" interventiontype="interruption"        debat="qag" subject="qag">
+<mpt:metadata auteur="Plusieurs_députés_du_groupe_SRC" interventiontype="interruption"        debat="qag" subject="mpt">
   <p> Non, pas lui !</p>
 
 </mpt:metadata>
@@ -770,7 +770,7 @@
 <sp who="Philippe_Gosselin">
   <speaker>Philippe Gosselin</speaker>
 
-<mpt:metadata auteur="Philippe_Gosselin" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_16" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Philippe_Gosselin" interventiontype="intervention" politicalgroup="UMP" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_16" vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> Ma question s'adresse au Premier ministre.</p>
 
 </mpt:metadata>
@@ -780,7 +780,7 @@
 <sp who="Plusieurs_députés_du_groupe_UMP">
   <speaker>Plusieurs députés du groupe UMP</speaker>
 
-<mpt:metadata auteur="Plusieurs_députés_du_groupe_UMP" interventiontype="interruption"        debat="qag" subject="qag">
+<mpt:metadata auteur="Plusieurs_députés_du_groupe_UMP" interventiontype="interruption"        debat="qag" subject="mpt">
   <p> Il n'est pas là !</p>
 
 </mpt:metadata>
@@ -790,7 +790,7 @@
 <sp who="Philippe_Gosselin">
   <speaker>Philippe Gosselin</speaker>
 
-<mpt:metadata auteur="Philippe_Gosselin" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Philippe_Gosselin" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> Mais je voudrais tout d'abord dire à Mme la <w>garde des Sceaux</w> qu'elle a l'ouïe particulièrement sélective. Si elle entend les conservateurs britanniques à propos du mariage homosexuel <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC"/>, j'aimerais qu'elle les entende aussi parler de leur réforme fiscale. Je suis disposé à lui donner les sonotones dont la majorité voulait nous équiper hier. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC. – Applaudissements sur les bancs du groupe UMP."/></p>
 
 </mpt:metadata>
@@ -800,7 +800,7 @@
 <sp who="Thomas_Thévenoud">
   <speaker>Thomas Thévenoud</speaker>
 
-<mpt:metadata auteur="Thomas_Thévenoud" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Thomas_Thévenoud" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="qag" subject="mpt">
   <p> Lamentable !</p>
 
 </mpt:metadata>
@@ -810,7 +810,7 @@
 <sp who="Philippe_Gosselin">
   <speaker>Philippe Gosselin</speaker>
 
-<mpt:metadata auteur="Philippe_Gosselin" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Philippe_Gosselin" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> Depuis le début des discussions sur le projet de loi instaurant le mariage homosexuel, le Gouvernement ne cesse de répéter, la main sur le cœur, qu'il n'est question de mères porteuses ni de près ni de loin dans ce projet, et que la frontière éthique jamais ne sera franchie.</p>
 <p>Or les débats commencent à peine qu'une circulaire <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC"/>, celle du 25 janvier 2013, nous dit que la GPA est possible. Interdite en France, elle devient indirectement légalisée. C'est une invitation à aller à l'étranger, un encouragement au tourisme reproductif, je n'hésite pas à le dire.</p>
 
@@ -821,7 +821,7 @@
 <sp who="Jean-Claude_Perez">
   <speaker>Jean-Claude Perez</speaker>
 
-<mpt:metadata auteur="Jean-Claude_Perez" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Jean-Claude_Perez" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="qag" subject="mpt">
   <p> Inepte !</p>
 
 </mpt:metadata>
@@ -831,7 +831,7 @@
 <sp who="Philippe_Gosselin">
   <speaker>Philippe Gosselin</speaker>
 
-<mpt:metadata auteur="Philippe_Gosselin" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Philippe_Gosselin" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> C'est une prime à la violation de la loi française. Évidemment la prochaine étape sera de légaliser.</p>
 <p>Quelle est cette société qui accepte de fixer des contrats sur des enfants à naître ?</p>
 <p>Oui, accepter le principe d'un contrat sur un enfant à naître, sur un ventre en état futur d'achèvement <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe SRC"/>, même pratiqué à l'étranger, revient à piétiner nos valeurs républicaines...</p>
@@ -843,7 +843,7 @@
 <sp who="Jean-Claude_Perez">
   <speaker>Jean-Claude Perez</speaker>
 
-<mpt:metadata auteur="Jean-Claude_Perez" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Jean-Claude_Perez" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="qag" subject="mpt">
   <p> Minable !</p>
 
 </mpt:metadata>
@@ -853,7 +853,7 @@
 <sp who="Philippe_Gosselin">
   <speaker>Philippe Gosselin</speaker>
 
-<mpt:metadata auteur="Philippe_Gosselin" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Philippe_Gosselin" interventiontype="intervention" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> ...et notre devise, à laquelle vous prétendez pourtant être attachés.</p>
 <p>Dès lors, monsieur le Premier ministre, pouvez-vous nous assurer que le gouvernement français entend renoncer définitivement à la marchandisation des corps, au dumping éthique qui consiste à aligner la législation de la France sur les pratiques européennes ou mondiales les moins-disantes ? Quels engagements, quelles mesures fermes et concrètes allez-vous prendre ? <mpt:interruption type="Applaudissements" text="Applaudissements sur plusieurs bancs du groupe UMP."/></p>
 
@@ -864,7 +864,7 @@
 <sp who="le_président">
   <speaker>le président</speaker>
 
-<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="qag">
+<mpt:metadata auteur="le_président" interventiontype="régulation"        debat="qag" subject="mpt">
   <p> La parole est à Mme la <w>garde des Sceaux</w>, ministre de la justice.</p>
 
 </mpt:metadata>
@@ -874,7 +874,7 @@
 <sp who="Christiane_Taubira">
   <speaker>Christiane Taubira,<w>garde des Sceaux</w>, ministre de la justice.</speaker>
 
-<mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_17"  gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT" corresp="http://www.assemblee-nationale.fr/14/cri/2012-2013/20130135.asp#INTER_17"  gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="mpt">
   <p>Monsieur le député Gosselin, étant particulièrement assidu dans cet hémicycle depuis mardi vous m'avez forcément entendue une dizaine de fois expliquer que cette circulaire n'est en aucun cas une ouverture à la GPA, et qu'elle n'attribue pas la nationalité.</p>
 
 </mpt:metadata>
@@ -884,7 +884,7 @@
 <sp who="Yves_Nicolin">
   <speaker>Yves Nicolin</speaker>
 
-<mpt:metadata auteur="Yves_Nicolin" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Yves_Nicolin" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> Mais si !</p>
 
 </mpt:metadata>
@@ -894,7 +894,7 @@
 <sp who="Christiane_Taubira">
   <speaker>Christiane Taubira,<w>garde des Sceaux</w>.</speaker>
 
-<mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="mpt">
   <p>Cette circulaire rappelle simplement que lorsque la nationalité est établie – puisqu'elle ne concerne que des enfants français – le certificat de nationalité doit être délivré.</p>
 <p>Vous étiez aussi en commission des lois lorsque, répondant à un amendement sur la GPA, j'ai commencé mon intervention en disant que le Gouvernement ne tolérera pas la moindre éraflure sur le principe d'indisponibilité du corps humain, qui est un principe d'ordre public inscrit dans notre code civil.</p>
 
@@ -905,7 +905,7 @@
 <sp who="Claude_Goasguen">
   <speaker>Claude Goasguen</speaker>
 
-<mpt:metadata auteur="Claude_Goasguen" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Claude_Goasguen" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> C'est cela !</p>
 
 </mpt:metadata>
@@ -915,7 +915,7 @@
 <sp who="Christiane_Taubira">
   <speaker>Christiane Taubira,<w>garde des Sceaux</w>.</speaker>
 
-<mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="mpt">
   <p>Nous n'y ferons aucune dérogation. Parce que le sujet est sérieux, je n'aurai pas la cruauté de vous rappeler qu'il existe une proposition de loi d'un sénateur UMP favorable à la GPA...</p>
 
 </mpt:metadata>
@@ -925,7 +925,7 @@
 <sp who="Bernard_Roman">
   <speaker>Bernard Roman</speaker>
 
-<mpt:metadata auteur="Bernard_Roman" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Bernard_Roman" interventiontype="interruption" politicalgroup="SRC"  vote="pour" gender="male" politicalgender="SRC_male" wing="left" winggender="left_male" debat="qag" subject="mpt">
   <p> Mais oui !</p>
 
 </mpt:metadata>
@@ -935,7 +935,7 @@
 <sp who="Christiane_Taubira">
   <speaker>Christiane Taubira,<w>garde des Sceaux</w>.</speaker>
 
-<mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="qag">
+<mpt:metadata auteur="Christiane_Taubira" interventiontype="intervention" politicalgroup="GVT"   gender="female" politicalgender="GVT_female" wing="left" winggender="left_female" debat="qag" subject="mpt">
   <p>...sur laquelle on n'entend pas de protestations affirmées, récurrentes, répétées de la part des hauts responsables de l'UMP. <mpt:interruption type="Exclamations" text="Exclamations sur les bancs du groupe UMP. – Applaudissements sur les bancs du groupe SRC."/></p>
 <p>Il n'y a donc aucune ambiguïté de la part du Gouvernement, qui respecte, par conviction et parce que nous sommes dans un État de droit, le principe d'ordre public d'indisponibilité du corps humain. <mpt:interruption type="Applaudissements" text="Applaudissements sur les bancs du groupe SRC."/></p>
 
@@ -946,7 +946,7 @@
 <sp who="Claude_Goasguen">
   <speaker>Claude Goasguen</speaker>
 
-<mpt:metadata auteur="Claude_Goasguen" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="qag">
+<mpt:metadata auteur="Claude_Goasguen" interventiontype="interruption" politicalgroup="UMP"  vote="contre" gender="male" politicalgender="UMP_male" wing="right" winggender="right_male" debat="qag" subject="mpt">
   <p> Certainement pas, il le viole !</p>
 </mpt:metadata></sp>
 </div>
