@@ -297,7 +297,7 @@ Oui, le mariage pour tous était en effet un engagement du Président de la Rép
   Jean-Marc Ayrault, Premier ministre. ...
 
 
-  u cours duquel des opinions contraires se sont exprimées. Nous sommes dans une République où les questions de cette nature provoquent légitimement une discussion et un débat. Mais nous sommes aussi dans une République où le suffrage universel donne mandat aux députés pour trancher et décider. C'est ce que vous allez faire à partir de cet après-midi, et je sais, mesdames et messieurs les députés, que vous le ferez avec la dignité et la sérénité qui conviennent.
+  Au cours duquel des opinions contraires se sont exprimées. Nous sommes dans une République où les questions de cette nature provoquent légitimement une discussion et un débat. Mais nous sommes aussi dans une République où le suffrage universel donne mandat aux députés pour trancher et décider. C'est ce que vous allez faire à partir de cet après-midi, et je sais, mesdames et messieurs les députés, que vous le ferez avec la dignité et la sérénité qui conviennent.
 Quand on considère notre histoire, on s'aperçoit qu'à chaque fois que nous avons fait progresser l'égalité dans notre pays...
 
 
@@ -505,7 +505,7 @@ Restructuration de la filière automobile
 
 
    Monsieur le Premier ministre, je me réjouis tout d'abord que la cour d'appel de Paris ait décidé de suspendre le plan de restructuration chez PSA.
-Mais, après Peugeot, c'est au tour de Renault de tailler dans ses effectifs à hauteur de 7 500 postes, soit 17 % du total des salariés.
+Mais, après Peugeot, c'est au tour de Renault de tailler dans ses effectifs à hauteur de 7 500 postes, soit 17 % du total desinterruption salariés.
 
 
 
@@ -644,7 +644,7 @@ On ne vous entend que sur la réforme des rythmes scolaires. Mon prédécesseur 
   Vincent Peillon, ministre.
 
 
-  Sa conclusion, soutenue par votre groupe, a été qu'il fallait revenir à la semaine de quatre jours et demi. (Vifs applaudissements sur les bancs du groupe SRC.)
+  Sa conclusion, soutenue par votre groupe, a été qu'il fallait revenir à la semaine de quatre jours et demi. 
 Il y a une immense distance entre un homme d'État et un politicien, entre un démocrate et un démagogue.  Votre façon de conduire l'action publique ne me convient pas, vous ne prendrez pas les enfants de France en otage de vos manœuvres politiciennes. Faire cette réforme, c'est l'intérêt de la France. 
 
 
@@ -1953,7 +1953,7 @@ Présentation
   le président
 
 
-   La parole est à Mme la garde des sceaux, ministre de la justice.
+   La parole est à Mme la garde des Sceaux, ministre de la justice.
 
 
 
@@ -1970,7 +1970,7 @@ Présentation
 
 
 
-  Christiane Taubira, garde des sceaux, ministre de la justice.
+  Christiane Taubira, garde des Sceaux, ministre de la justice.
 
 
   Monsieur le président, monsieur le président de la commission des lois, madame la présidente de la commission des affaires sociales, monsieur le rapporteur, madame la rapporteure pour avis, mesdames, messieurs les députés, nous avons l'honneur et le privilège, Dominique Bertinotti, ministre déléguée chargée de la famille, et moi-même, de vous présenter, au nom du Gouvernement, un projet de loi traduisant l'engagement du Président de la République d'ouvrir le mariage et l'adoption aux couples de même sexe.
@@ -2003,7 +2003,7 @@ Si l'on se souvient que le mariage a d'abord été une union de patrimoines, d'h
 
 
 
-  Christiane Taubira, garde des sceaux.
+  Christiane Taubira, garde des Sceaux.
 
 
   ...le fait de reconnaître la liberté de chacun des conjoints est un progrès considérable, aujourd'hui encore inscrit dans le code civil.
@@ -2024,7 +2024,7 @@ Le divorce va donc accompagner très vite le mariage. Il sera prohibé en 1816, 
 
 
 
-  Christiane Taubira, garde des sceaux.
+  Christiane Taubira, garde des Sceaux.
 
 
   C'est donc dans un mouvement de laïcisation de l'état-civil, des libertés individuelles, de la société en général que le divorce sera restauré en 1884. C'est en effet au cours de cette décennie que d'autres lois de liberté individuelle, telles que la loi sur la presse, les lois relatives à la liberté d'association ou à la liberté syndicale, et bientôt la loi de séparation des églises et de l'État, vont intervenir. Le divorce sera consolidé en 1975 par le rétablissement du consentement mutuel, qui était déjà reconnu en 1792, comme d'ailleurs l'incompatibilité d'humeur.
@@ -2046,7 +2046,7 @@ Cette évolution du mariage et du divorce, qui permettra dorénavant aux couples
 
 
 
-  Christiane Taubira, garde des sceaux.
+  Christiane Taubira, garde des Sceaux.
 
 
   ...née avec la laïcisation de la société et du mariage. 
@@ -2067,7 +2067,7 @@ Cette évolution va concerner d'abord les femmes, avec la suppression de la réf
 
 
 
-  Christiane Taubira, garde des sceaux.
+  Christiane Taubira, garde des Sceaux.
 
 
   Cette évolution vers l'égalité, qui va moderniser notre institution du mariage en reconnaissant la femme comme sujet de droit, va reconnaître aussi progressivement les droits des enfants. Par la loi de 1972, le législateur cessera d'établir une différence entre les enfants légitimes et les enfants naturels. Il procédera donc à une refonte de la filiation, de façon à reconnaître une égalité des droits pour les enfants, que leur filiation soit légitime ou naturelle.
@@ -2090,7 +2090,7 @@ C'est bien cette institution que le Gouvernement a décidé d'ouvrir aux couples
 
 
 
-  Christiane Taubira, garde des sceaux.
+  Christiane Taubira, garde des Sceaux.
 
 
   C'est un acte d'égalité. 
@@ -2110,7 +2110,7 @@ C'est bien cette institution que le Gouvernement a décidé d'ouvrir aux couples
 
 
 
-  Christiane Taubira, garde des sceaux.
+  Christiane Taubira, garde des Sceaux.
 
 
   Il s'agit du mariage tel qu'il est institué actuellement dans notre code civil. Il ne s'agit pas d'un mariage au rabais, il ne s'agit pas d'une union civile...
@@ -2130,7 +2130,7 @@ C'est bien cette institution que le Gouvernement a décidé d'ouvrir aux couples
 
 
 
-  Christiane Taubira, garde des sceaux.
+  Christiane Taubira, garde des Sceaux.
 
 
   ...prétendument aménagée. Il ne s'agit pas non plus d'une ruse, d'une entourloupe , il s'agit du mariage en tant que contrat entre deux personnes , en tant qu'institution produisant des règles d'ordre public.
@@ -2162,7 +2162,7 @@ Oui, c'est bien ce mariage que nous ouvrons aux couples de même sexe. Que l'on 
 
 
 
-  Christiane Taubira, garde des sceaux.
+  Christiane Taubira, garde des Sceaux.
 
 
   ...qui ont vieilli ensemble devraient consentir à la précarité, à une fragilité, voire à une injustice, du seul fait que la loi ne leur reconnaît pas les mêmes droits qu'à un autre couple aussi stable qui a choisi de construire sa vie.
@@ -2182,7 +2182,7 @@ Oui, c'est bien ce mariage que nous ouvrons aux couples de même sexe. Que l'on 
 
 
 
-  Christiane Taubira, garde des sceaux.
+  Christiane Taubira, garde des Sceaux.
 
 
   Qu'est-ce que le mariage homosexuel va enlever aux couples hétérosexuels ?  S'il n'enlève rien, nous allons oser poser des mots sur des sentiments et des comportements. Nous allons oser parler de mensonges à l'occasion de cette campagne de panique , sur la pseudo-suppression des mots de « père » et de « mère » du code civil et du livret de famille. 
@@ -2202,10 +2202,10 @@ Oui, c'est bien ce mariage que nous ouvrons aux couples de même sexe. Que l'on 
 
 
 
-  Christiane Taubira, garde des sceaux.
+  Christiane Taubira, garde des Sceaux.
 
 
-  Nous posons les mots et nous parlons d'hypocrisie pour ceux qui refusent de voir ces familles homoparentales et ces enfants, exposés aux aléas de la vie. Nous posons les mots et nous parlons d'égoïsme pour ceux qui s'imaginent qu'une institution de la République pourrait être réservée à une catégorie de citoyens. (Vifs applaudissements sur les bancs des groupes SRC, écologiste, RRDP et GDR. – Protestations sur de nombreux bancs du groupe UMP.)
+  Nous posons les mots et nous parlons d'hypocrisie pour ceux qui refusent de voir ces familles homoparentales et ces enfants, exposés aux aléas de la vie. Nous posons les mots et nous parlons d'égoïsme pour ceux qui s'imaginent qu'une institution de la République pourrait être réservée à une catégorie de citoyens. 
 
 
 
@@ -2222,7 +2222,7 @@ Oui, c'est bien ce mariage que nous ouvrons aux couples de même sexe. Que l'on 
 
 
 
-  Christiane Taubira, garde des sceaux.
+  Christiane Taubira, garde des Sceaux.
 
 
   Nous disons que le mariage ouvert aux couples de même sexe illustre bien la devise de la République. Il illustre la liberté de se choisir, la liberté de décider de vivre ensemble.
@@ -2242,7 +2242,7 @@ Oui, c'est bien ce mariage que nous ouvrons aux couples de même sexe. Que l'on 
 
 
 
-  Christiane Taubira, garde des sceaux.
+  Christiane Taubira, garde des Sceaux.
 
 
   Nous proclamons par ce texte l'égalité de tous les couples, de toutes les familles.
@@ -2262,7 +2262,7 @@ Oui, c'est bien ce mariage que nous ouvrons aux couples de même sexe. Que l'on 
 
 
 
-  Christiane Taubira, garde des sceaux.
+  Christiane Taubira, garde des Sceaux.
 
 
   Enfin, nous disons aussi qu'il y a dans cet acte une démarche de fraternité, parce qu'aucune différence ne peut servir de prétexte à des discriminations d'État. 
@@ -2275,14 +2275,14 @@ Oui, c'est bien ce mariage que nous ouvrons aux couples de même sexe. Que l'on 
   le président
 
 
-   S'il vous plaît, chers collègues ! Écoutez les arguments de Mme la garde des sceaux. Vous aurez l'occasion de vous exprimer par la suite.
+   S'il vous plaît, chers collègues ! Écoutez les arguments de Mme la garde des Sceaux. Vous aurez l'occasion de vous exprimer par la suite.
 
 
 
 
 
 
-  Christiane Taubira, garde des sceaux.
+  Christiane Taubira, garde des Sceaux.
 
 
   Au nom d'un prétendu droit à l'enfant ...
@@ -2302,7 +2302,7 @@ Oui, c'est bien ce mariage que nous ouvrons aux couples de même sexe. Que l'on 
 
 
 
-  Christiane Taubira, garde des sceaux.
+  Christiane Taubira, garde des Sceaux.
 
 
   ...qui n'existe pas, vous protestez parce que le mariage et l'adoption sont ouverts aux couples de même sexe dans exactement les mêmes conditions que pour les couples hétérosexuels.  Autrement dit, ou bien vous nous affirmez que les couples hétérosexuels ont un droit à l'enfant...
@@ -2332,7 +2332,7 @@ Oui, c'est bien ce mariage que nous ouvrons aux couples de même sexe. Que l'on 
 
 
 
-  Christiane Taubira, garde des sceaux.
+  Christiane Taubira, garde des Sceaux.
 
 
   ...inscrit dans le code civil, ou bien ce droit à l'enfant n'existe pas – et de fait il n'existe pas – et les couples homosexuels auront le droit d'adopter dans les mêmes conditions que les couples hétérosexuels. 
@@ -2353,7 +2353,7 @@ Au nom d'un prétendu droit à l'enfant ,...
 
 
 
-  Christiane Taubira, garde des sceaux.
+  Christiane Taubira, garde des Sceaux.
 
 
   ...vous refusez des droits à des enfants que vous choisissez de ne pas voir.  Le texte que nous vous présentons n'a rien de contraire à la Convention internationale des droits de l'enfant.
@@ -2373,7 +2373,7 @@ Au nom d'un prétendu droit à l'enfant ,...
 
 
 
-  Christiane Taubira, garde des sceaux.
+  Christiane Taubira, garde des Sceaux.
 
 
   Au contraire, il protège des enfants que vous refusez de voir. 
@@ -2394,7 +2394,7 @@ Les couples homosexuels pourront adopter dans les mêmes conditions que les coup
 
 
 
-  Christiane Taubira, garde des sceaux.
+  Christiane Taubira, garde des Sceaux.
 
 
   ...selon les mêmes procédures : l'agrément sera accordé dans les mêmes conditions par les conseils généraux, l'adoption prononcée dans les mêmes conditions par le juge, conformément à l'article 353 du code civil,...
@@ -2414,7 +2414,7 @@ Les couples homosexuels pourront adopter dans les mêmes conditions que les coup
 
 
 
-  Christiane Taubira, garde des sceaux.
+  Christiane Taubira, garde des Sceaux.
 
 
   ...qui dispose que l'adoption est prononcée si elle est conforme aux droits de l'enfant. Par conséquent, vos objections n'ont pas de fondement , si ce n'est une réelle difficulté à inclure dans vos représentations la légitimité de ces couples de même sexe. Or vos enfants et petits-enfants les incluent déjà et les incluront de plus en plus.  Et vous serez bien mal à l'aise lorsque, par curiosité, ils liront les comptes rendus de nos débats ! 
@@ -2435,7 +2435,7 @@ Nous avons donc décidé d'ouvrir le mariage et l'adoption aux couples de même 
 
 
 
-  Christiane Taubira, garde des sceaux.
+  Christiane Taubira, garde des Sceaux.
 
 
   Il a été une institution de possession puisque le mari et père avait une autorité absolue sur l'épouse et les enfants. Il a été une institution d'exclusion, nous l'avons vu : le mariage civil a mis un terme à l'exclusion des croyants non catholiques et de certaines professions, donc de toute une série de citoyens. Ce mariage, qui a été une institution d'exclusion, va enfin devenir, par l'inclusion des couples de même sexe, une institution universelle. Enfin, le mariage devient une institution universelle !
@@ -2466,7 +2466,7 @@ Vous pouvez continuer à refuser de voir, à refuser de regarder autour de vous,
 
 
 
-  Christiane Taubira, garde des sceaux.
+  Christiane Taubira, garde des Sceaux.
 
 
   Vous pouvez conserver le regard obstinément rivé sur le passé ,...
@@ -2486,7 +2486,7 @@ Vous pouvez continuer à refuser de voir, à refuser de regarder autour de vous,
 
 
 
-  Christiane Taubira, garde des sceaux.
+  Christiane Taubira, garde des Sceaux.
 
 
   ...et encore, en regardant bien le passé, y trouverez-vous des traces durables de la reconnaissance officielle, y compris par l'Église, de couples homosexuels. 
@@ -2507,7 +2507,7 @@ Vous avez choisi de protester contre la reconnaissance des droits de ces couples
 
 
 
-  Christiane Taubira, garde des sceaux.
+  Christiane Taubira, garde des Sceaux.
 
 
   Nous en sommes si fiers que je voudrais le définir par les mots du poète Léon-Gontran Damas : l'acte que nous allons accomplir est « beau comme une rose dont la tour Eiffel assiégée à l'aube voit s'épanouir enfin les pétales ». Il est « grand comme un besoin de changer d'air ».
@@ -2527,7 +2527,7 @@ Vous avez choisi de protester contre la reconnaissance des droits de ces couples
 
 
 
-  Christiane Taubira, garde des sceaux.
+  Christiane Taubira, garde des Sceaux.
 
 
   Il est « fort comme le cri aigu d'un accent dans la nuit longue ». 
@@ -2907,7 +2907,7 @@ Mais vous savez aussi qu'il y a une multiplication des acteurs impliqués dans s
 
 
   Le plus grand service que l'on puisse rendre à un enfant, c'est de lui reconnaître une histoire dont tous les acteurs et toutes les dimensions, qu'elles soient sociales, biologiques ou culturelles, puissent être connus.
-Assurément, cette loi répond à une vision généreuse de la famille, une vision qui inclut et non qui exclut (Vifs applaudissements sur les bancs des groupes SRC, écologiste, RRDP et GDR.). Cette vision est largement partagée par des pays de plus en plus nombreux. À ce jour, il existe plus d'une quinzaine de pays qui se sont engagés ou qui s'engagent dans cette voie. Lorsque David Cameron, Premier ministre britannique conservateur, dit : « Le mariage est une grande institution, il n'y a pas de raison que les homosexuels en soient exclus »,...
+Assurément, cette loi répond à une vision généreuse de la famille, une vision qui inclut et non qui exclut . Cette vision est largement partagée par des pays de plus en plus nombreux. À ce jour, il existe plus d'une quinzaine de pays qui se sont engagés ou qui s'engagent dans cette voie. Lorsque David Cameron, Premier ministre britannique conservateur, dit : « Le mariage est une grande institution, il n'y a pas de raison que les homosexuels en soient exclus »,...
 
 
 
@@ -2961,7 +2961,7 @@ Il est temps de reconnaître à chacun, quelle que soit son orientation sexuelle
   Reconnaître cette liberté, c'est reconnaître la liberté de tous nos concitoyens. Elle est au cœur même de notre République, cette République que Jean Jaurès a si bien définie dans son adresse à la jeunesse : « La République, c'est un grand acte de confiance. La République, c'est proclamer que des millions d'hommes sauront tracer eux-mêmes la règle commune de leur action, qu'ils sauront concilier la liberté et la loi, le mouvement et l'ordre. Oui la République est un grand acte de confiance et un grand acte d'audace. » Confiance et audace ! 
 J'en appelle, au-delà de la conviction intime de chacun, de ses engagements philosophiques ou religieux, de sa propre expérience, aux forces du changement, aux forces du progrès, à celles qui font avancer l'Histoire. La loi et le droit doivent être les mêmes pour tous. 
 Mais aucune avancée nouvelle n'est possible, aucune ne peut avoir de sens, tant que subsiste l'inégalité de principe qui frappe les couples de même sexe et les familles homoparentales, qui leur barre l'accès à des formes d'engagement – le mariage, la filiation – ouvertes à toutes les autres familles.
-Reconnaître la diversité, ce n'est pas créer des régimes juridiques spécifiques à une catégorie ou qui lui seraient plus particulièrement destinés, comme l'opposition nous le propose. Quand on aime la famille, on aime toutes les familles. Je me tourne vers les rangs de l'opposition (Vives exclamations sur les bancs du groupe UMP), même si je sais qu'en son sein il y a des hommes et des femmes d'ouverture, pour leur rappeler les propos de Nicolas Sarkozy en 2009, qui parlait d'« erreur » commise par la droite à l'époque du PACS : « C'était ridicule et outrancier. On s'est trompés. Jamais il ne faut se raidir, jamais il ne faut se bunkériser, jamais il ne faut détester. » 
+Reconnaître la diversité, ce n'est pas créer des régimes juridiques spécifiques à une catégorie ou qui lui seraient plus particulièrement destinés, comme l'opposition nous le propose. Quand on aime la famille, on aime toutes les familles. Je me tourne vers les rangs de l'opposition , même si je sais qu'en son sein il y a des hommes et des femmes d'ouverture, pour leur rappeler les propos de Nicolas Sarkozy en 2009, qui parlait d'« erreur » commise par la droite à l'époque du PACS : « C'était ridicule et outrancier. On s'est trompés. Jamais il ne faut se raidir, jamais il ne faut se bunkériser, jamais il ne faut détester. » 
 
 
 
@@ -3023,7 +3023,7 @@ Alors votez cette loi d'égalité des droits et des devoirs. Votez cette loi né
   le président
 
 
-   La parole est à M. Erwann Binet, rapporteur de la commission des lois constitutionnelles, de la législation et de l'administration générale de la République. (Vifs applaudissements sur les bancs du groupe SRC.)
+   La parole est à M. Erwann Binet, rapporteur de la commission des lois constitutionnelles, de la législation et de l'administration générale de la République. 
 
 
 
@@ -3033,7 +3033,7 @@ Alors votez cette loi d'égalité des droits et des devoirs. Votez cette loi né
   Erwann Binet, rapporteur de la commission des lois constitutionnelles, de la législation et de l'administration générale de la République. 
 
 
-  onsieur le président, madame la garde des sceaux, madame la ministre, monsieur le ministre, chers collègues, l'esprit et le sens du projet de loi ouvrant le mariage aux couples de personnes de même sexe est d'instaurer l'égalité entre tous les citoyens. Il vise à permettre aux homosexuels qui vivent en couple, à ceux qui ont des enfants, de se marier. Il s'agit de donner des droits essentiels à certains de nos compatriotes qui s'en trouvent encore aujourd'hui dépourvus. C'est une avancée sociétale, c'est un bond en avant des libertés publiques et, comme à chaque fois que notre pays fait progresser l'égalité et reculer les différenciations injustifiées ou les discriminations, c'est un progrès indéniable.
+  onsieur le président, madame la garde des Sceaux, madame la ministre, monsieur le ministre, chers collègues, l'esprit et le sens du projet de loi ouvrant le mariage aux couples de personnes de même sexe est d'instaurer l'égalité entre tous les citoyens. Il vise à permettre aux homosexuels qui vivent en couple, à ceux qui ont des enfants, de se marier. Il s'agit de donner des droits essentiels à certains de nos compatriotes qui s'en trouvent encore aujourd'hui dépourvus. C'est une avancée sociétale, c'est un bond en avant des libertés publiques et, comme à chaque fois que notre pays fait progresser l'égalité et reculer les différenciations injustifiées ou les discriminations, c'est un progrès indéniable.
 Les familles homoparentales existent dans notre pays.
 
 
@@ -3285,7 +3285,7 @@ Les couples homosexuels font des enfants  et ils continueront à en faire parce 
 
    En affirmant une place égale à la filiation juridique, affective et sociale, le code civil a conduit à élaborer un autre modèle de parenté où la filiation homosexuelle devient alors possible. La France ne peut pas tolérer qu'il y ait sur son sol des enfants non protégés du fait de l'orientation sexuelle de leurs parents. Il n'est pas concevable d'accepter, à travers le PACS, la vie de couple, l'amour entre personnes de même sexe, de constater qu'elles font des enfants tout en leur refusant l'accès à l'institution qui rassemble le tout : le mariage.
 Nous avons mené de très nombreuses heures d'auditions qui nous ont apporté un solide éclairage grâce au large faisceau de connaissances, d'expertises, et de compétences : plus de cent vingt personnes sont venues présenter leur expérience ou leur vécu devant les députés. Plusieurs d'entre nous se sont également rendus à Bruxelles pour partager l'expérience d'un pays qui a ouvert, depuis de très nombreuses années, le mariage et la procréation médicalement assistée aux couples homosexuels.
-Je tiens à remercier le président de la commission des lois et le président de l'Assemblée nationale pour avoir accepté les conditions d'organisation et de publicité exceptionnelles qui ont présidé à la tenue de ces auditions. Je tiens aussi à remercier le Gouvernement pour son écoute et pour la bienveillance qu'il a réservée aux initiatives parlementaires, madame la garde des sceaux, madame la ministre.
+Je tiens à remercier le président de la commission des lois et le président de l'Assemblée nationale pour avoir accepté les conditions d'organisation et de publicité exceptionnelles qui ont présidé à la tenue de ces auditions. Je tiens aussi à remercier le Gouvernement pour son écoute et pour la bienveillance qu'il a réservée aux initiatives parlementaires, madame la garde des Sceaux, madame la ministre.
 
 
 
@@ -3626,7 +3626,7 @@ Ce projet de loi s'inscrit dans l'évolution de notre société mais, rappelons-
 
 
    C'est donc vraisemblablement l'adoption de l'enfant du conjoint qui sera privilégiée, et qui permettra à un grand nombre de « parents sociaux » de voir enfin reconnu leur lien de filiation avec les enfants qu'ils élèvent. Mais là encore, c'est l'égalité entre tous les couples qui sera réalisée : mêmes droits, mêmes devoirs.
-Par ailleurs, je suis particulièrement attachée à l'accès à la procréation médicalement assistée pour les couples de femmes qui le souhaitent. (Vives exclamations sur les bancs du groupe UMP.)
+Par ailleurs, je suis particulièrement attachée à l'accès à la procréation médicalement assistée pour les couples de femmes qui le souhaitent. 
 
 
 
@@ -4095,7 +4095,7 @@ Je crois que le problème tient finalement à ce que certains n'admettent la per
   Jean-Jacques Urvoas, président de la commission des lois.
 
 
-  Concernant l'appel au peuple, le Gouvernement, par la voix de la garde des sceaux et de la ministre de la famille en commission des lois, a eu l'occasion de démontrer l'inapplicabilité constitutionnelle d'une telle requête. Je n'y reviens pas, d'autant que nous aurons, je crois, l'occasion d'en reparler dans la soirée.
+  Concernant l'appel au peuple, le Gouvernement, par la voix de la garde des Sceaux et de la ministre de la famille en commission des lois, a eu l'occasion de démontrer l'inapplicabilité constitutionnelle d'une telle requête. Je n'y reviens pas, d'autant que nous aurons, je crois, l'occasion d'en reparler dans la soirée.
 Ce problème juridique mis à part, il ne semble pas que l'usage du référendum sur cette question aurait été pertinent. La nature même de la procédure référendaire, binaire, ne permet pas d'apporter une réponse nuancée à une question complexe.
 
 
@@ -4412,7 +4412,7 @@ Cinquièmement, « quelle que soit ma position envers le projet de loi et le dé
 En rappelant ces engagements, je souhaite insister sur la forme que doivent prendre nos débats et ne pas revivre ce qui s'est passé lors des débats au sein de la commission des affaires sociales, que je préside. Je veux parler de la sortie théâtrale d'un de nos collègues, jusqu'ici fort discret en commission, qui a entraîné derrière lui ses quelques collègues de groupe.
 J'en profite pour saluer à nouveau l'attitude de notre collègue Arnaud Richard, membre du groupe UDI, qui, seul de l'opposition, est resté jusqu'à la fin du débat pour défendre ses amendements. 
 J'espère que le député que je n'ai pas nommé comprendra vite qu'il a été élu, comme nous tous et nous toutes, pour siéger aussi en commission, et que ce n'est pas parce qu'il voit ses deux premiers amendements repoussés qu'il doit quitter la salle. Le fait majoritaire est une réalité, mon cher collègue, et il faudra bien que vous vous en accommodiez !  S'ils avaient eu la même attitude, les membres du groupe socialiste n'auraient pas siégé souvent en commission au cours de la précédente législature. 
-Surtout, le procès en illégitimité du Parlement, qu'il a instruit dans cette commission, n'est pas acceptable. Le Président de la République avait inscrit cette réforme parmi ses soixante propositions – c'était la trente-et-unième – et nous, députés de la majorité, avons été élus pour mettre en œuvre cet engagement. Alors, au-delà de la querelle des chiffres sur les participants aux manifestations, il y a un chiffre qui est officiel, c'est celui des 18 millions de nos concitoyens qui ont voté François Hollande le 6 mai dernier et qui l'ont conforté en lui donnant une majorité parlementaire dans cet hémicycle, et, pendant quatre ans et demi, vous n'y pourrez rien ! (Vives exclamations sur les bancs du groupe UMP.)
+Surtout, le procès en illégitimité du Parlement, qu'il a instruit dans cette commission, n'est pas acceptable. Le Président de la République avait inscrit cette réforme parmi ses soixante propositions – c'était la trente-et-unième – et nous, députés de la majorité, avons été élus pour mettre en œuvre cet engagement. Alors, au-delà de la querelle des chiffres sur les participants aux manifestations, il y a un chiffre qui est officiel, c'est celui des 18 millions de nos concitoyens qui ont voté François Hollande le 6 mai dernier et qui l'ont conforté en lui donnant une majorité parlementaire dans cet hémicycle, et, pendant quatre ans et demi, vous n'y pourrez rien ! 
 
 
 
@@ -4643,7 +4643,7 @@ Le 5 mai 1992, certains d'entre vous s'en souviennent, c'était la nuit tragique
   Henri Guaino
 
 
-   Aujourd'hui, c'est pour autre un texte d'une tout autre nature, qui ne met pas en jeu la souveraineté nationale, mais les fondements même de notre société , un texte qui a l'ambition, comme l'a dit madame le garde des sceaux, de réformer la civilisation, que je viens, avec une voix dont j'ai bien conscience qu'elle n'est pas aussi forte que celle de Philippe Séguin,...
+   Aujourd'hui, c'est pour autre un texte d'une tout autre nature, qui ne met pas en jeu la souveraineté nationale, mais les fondements même de notre société , un texte qui a l'ambition, comme l'a dit madame le garde des Sceaux, de réformer la civilisation, que je viens, avec une voix dont j'ai bien conscience qu'elle n'est pas aussi forte que celle de Philippe Séguin,...
 
 
 
@@ -4857,7 +4857,7 @@ Mes chers collègues, vous qui voulez toujours réhabiliter le Parlement, cessez
   Henri Guaino
 
 
-   Je n'ai invectivé personne, ni coupé la parole à personne ! Mes chers collègues, soyez à la hauteur de ce débat ! (Tumulte sur les bancs du groupe SRC.)
+   Je n'ai invectivé personne, ni coupé la parole à personne ! Mes chers collègues, soyez à la hauteur de ce débat ! 
 
 
 
@@ -5114,7 +5114,7 @@ En parlant du mariage pour tous, le Gouvernement dit : « amour » ! Mais qui su
    Le million de Français qui est descendu dans les rues de Paris le 13 janvier, parlant pour des millions et des millions d'autres qui n'avaient pu venir, n'a pas manifesté contre l'amour, ni contre la liberté, ni contre l'égalité des droits, ni contre le progrès. Il a manifesté pour défendre une institution aussi ancienne que la civilisation. Il a manifesté parce que dénaturer cette institution, ce serait bouleverser l'ordre social, non pas seulement pour les uns, mais aussi pour tous les autres ! 
 La plupart de ceux qui sont opposés à ce projet n'ont ni moins de cœur ni moins de générosité que ceux qui le soutiennent. Ils ne sont pas moins dignes de respect.  Ils savent que la société a changé, que les mentalités ont évolué, que la famille s'est transformée. Ils portent sur le monde un regard bienveillant. Ils ne veulent blesser personne. On avait dit qu'il y aurait des débordements, des outrances. Il n'y en a pas eu une seule ! 
 À ces Français simples et dignes, qui ne demandent au fond qu'un peu de respect, de démocratie et de République, n'allons-nous répondre que par ces deux mots terribles : « taisez-vous ! » ?  Qui peut croire que c'est possible ? 
-« Taisez-vous ! » Qui peut croire que cela ne laissera aucune trace ? (Tumulte sur les bancs du groupe SRC.) « Taisez-vous ! » Qui peut croire que c'est possible ?  « Taisez-vous ! » Qui peut croire que la République n'en sortirait pas blessée ? 
+« Taisez-vous ! » Qui peut croire que cela ne laissera aucune trace ?  « Taisez-vous ! » Qui peut croire que c'est possible ?  « Taisez-vous ! » Qui peut croire que la République n'en sortirait pas blessée ? 
 Mes chers collègues, non seulement nous avons à nous prononcer sur un sujet qui n'est au fond, nous le savons bien, comparable à aucun autre, mais nous avons à le faire dans un de ces moments de l'histoire très particuliers où la politique se voit sommée de redonner un sens aux mots de civilisation, de civilité, de civilisé.
 
 
@@ -5286,7 +5286,7 @@ Avec ce texte, que vous le vouliez ou non, nous n'avons pas à prendre position 
   Bernard Roman
 
 
-   Il faut vivre avec son temps ! (Vives exclamations sur de nombreux bancs du groupe UMP.)
+   Il faut vivre avec son temps ! 
 
 
 
@@ -5811,7 +5811,7 @@ Oui, c'est l'amour qui compte. Mais qu'allons-nous faire de l'amour dans cette h
   Henri Guaino
 
 
-   Oh, certes, une telle société peut advenir, même sans la dénaturation du mariage ! (Vives exclamations sur les bancs du groupe SRC.)
+   Oh, certes, une telle société peut advenir, même sans la dénaturation du mariage ! 
 
 
 
@@ -5831,7 +5831,7 @@ Oui, c'est l'amour qui compte. Mais qu'allons-nous faire de l'amour dans cette h
   Plusieurs députés du groupe SRC
 
 
-   On souffre ! (Très vives protestations et claquements de pupitres sur les bancs du groupe UMP. – De nombreux députés du groupe UMP se lèvent.)
+   On souffre ! 
 
 
 
@@ -5861,8 +5861,8 @@ Oui, c'est l'amour qui compte. Mais qu'allons-nous faire de l'amour dans cette h
   la présidente
 
 
-   Mes chers collègues, asseyez-vous ! (Vives protestations sur de très nombreux bancs du groupe UMP.)
-Monsieur Gosselin, M. Guaino a quasiment épuisé son temps de parole. Je vous propose de le laisser conclure tranquillement. Je vous donnerai la parole après. (Vives exclamations sur de très nombreux bancs du groupe UMP.)
+   Mes chers collègues, asseyez-vous ! 
+Monsieur Gosselin, M. Guaino a quasiment épuisé son temps de parole. Je vous propose de le laisser conclure tranquillement. Je vous donnerai la parole après. 
 
 
 
@@ -6241,14 +6241,14 @@ Motion de rejet préalable (suite)
   la présidente
 
 
-   La parole est à Mme la garde des sceaux.
+   La parole est à Mme la garde des Sceaux.
 
 
 
 
 
 
-  Christiane Taubira,garde des sceaux.
+  Christiane Taubira,garde des Sceaux.
 
 
   J'ai écouté la motion de rejet préalable avec la plus grande attention,...
@@ -6268,7 +6268,7 @@ Motion de rejet préalable (suite)
 
 
 
-  Christiane Taubira,garde des sceaux.
+  Christiane Taubira,garde des Sceaux.
 
 
   ...en scrutant des arguments qui prouveraient l'inconstitutionnalité du projet de loi : aux termes du règlement de l'Assemblée, la motion préalable vise à démontrer qu'il y a des raisons constitutionnelles de rejeter le texte ou qu'il n'y a pas lieu de délibérer.
@@ -6289,7 +6289,7 @@ Je souhaite néanmoins revenir sur quelques points que vous avez évoqués, mons
 
 
 
-  Christiane Taubira,garde des sceaux.
+  Christiane Taubira,garde des Sceaux.
 
 
   Lorsque vous dites que le...
@@ -6309,7 +6309,7 @@ Je souhaite néanmoins revenir sur quelques points que vous avez évoqués, mons
 
 
 
-  Christiane Taubira,garde des sceaux.
+  Christiane Taubira,garde des Sceaux.
 
 
   Vous n'êtes pas obligé d'être incorrects ! Si j'ai marqué une pause, c'est parce que vous êtes nombreux à bouger et que M. Guaino, à qui je m'adresse, n'était plus dans mon champ de vision.
@@ -6329,7 +6329,7 @@ Je souhaite néanmoins revenir sur quelques points que vous avez évoqués, mons
 
 
 
-  Christiane Taubira,garde des sceaux.
+  Christiane Taubira,garde des Sceaux.
 
 
   S'agissant, donc, du référendum, je ne vais pas vous rappeler, à vous et à votre groupe, que la Constitution définit le champ d'application du référendum : j'aurais l'impression de me répéter, et surtout de répéter des choses à quelqu'un qui les connaît par cœur.
@@ -6349,7 +6349,7 @@ Je souhaite néanmoins revenir sur quelques points que vous avez évoqués, mons
 
 
 
-  Christiane Taubira,garde des sceaux.
+  Christiane Taubira,garde des Sceaux.
 
 
   Si la Constitution ne mentionne pas les débats de société comme pouvant faire l'objet d'un référendum, ce n'est pas par oubli : c'est bien au terme de discussions et d'un débat parlementaire qu'il a été décidé que ces sujets ne pourraient être soumis à référendum. J'ai vraiment l'impression de me répéter, mais comme vous-même vous répétez beaucoup, vous aussi, nous sommes contraints de vous faire constamment les mêmes réponses.
@@ -6369,12 +6369,12 @@ Je souhaite néanmoins revenir sur quelques points que vous avez évoqués, mons
 
 
 
-  Christiane Taubira,garde des sceaux.
+  Christiane Taubira,garde des Sceaux.
 
 
   Il est vraiment surprenant de vous entendre soutenir à la tribune que vous ne pouvez pas faire le travail que vous ont confié vos électeurs et que c'est à eux qu'il reviendrait de le faire !
 S'agissant des conventions internationales, je vous rappelle que la dernière en date, la charte des droits fondamentaux de 2000, parle très clairement du droit de se marier, alors que la convention de 1950 parlait du droit de se marier entre un homme et une femme. Cela signifie que la conception même du mariage est en train d'évoluer en Europe ; et l'Europe est tout simplement en train de regarder en face sa réalité sociologique.
-Votre motion de rejet préalable ne contient donc aucun argument, ni sur le plan constitutionnel, ni sur le plan conventionnel. Vous vous dites étonné que ceux qui ont critiqué le mariage par le passé – sans jamais désigner personne – le réclament aujourd'hui. Monsieur Guaino, le mariage est une institution conservatrice... (Vives exclamations sur les bancs du groupe UMP.)
+Votre motion de rejet préalable ne contient donc aucun argument, ni sur le plan constitutionnel, ni sur le plan conventionnel. Vous vous dites étonné que ceux qui ont critiqué le mariage par le passé – sans jamais désigner personne – le réclament aujourd'hui. Monsieur Guaino, le mariage est une institution conservatrice... 
 
 
 
@@ -6391,7 +6391,7 @@ Votre motion de rejet préalable ne contient donc aucun argument, ni sur le plan
 
 
 
-  Christiane Taubira,garde des sceaux. 
+  Christiane Taubira,garde des Sceaux. 
 
 
   #8230;au sens où cette institution témoigne... 
@@ -6404,14 +6404,14 @@ Votre motion de rejet préalable ne contient donc aucun argument, ni sur le plan
   la présidente
 
 
-   Mes chers collègues ! Tout le monde aura la parole dans ce débat : laissez conclure Mme la garde des sceaux.
+   Mes chers collègues ! Tout le monde aura la parole dans ce débat : laissez conclure Mme la garde des Sceaux.
 
 
 
 
 
 
-  Christiane Taubira,garde des sceaux.
+  Christiane Taubira,garde des Sceaux.
 
 
   Le mariage est une institution conservatrice, disais-je, au sens où cette institution témoigne d'un ordre passé. 
@@ -6441,7 +6441,7 @@ Votre motion de rejet préalable ne contient donc aucun argument, ni sur le plan
 
 
 
-  Christiane Taubira, garde des sceaux.
+  Christiane Taubira, garde des Sceaux.
 
 
   Il n'y a rien d'insultant dans une société à conserver...
@@ -6461,7 +6461,7 @@ Votre motion de rejet préalable ne contient donc aucun argument, ni sur le plan
 
 
 
-  Christiane Taubira, garde des sceaux.
+  Christiane Taubira, garde des Sceaux.
 
 
   Non, monsieur Goasguen : si elle était conservatoire, elle serait figée. Elle n'est pas conservatoire, mais bien conservatrice, au sens où elle témoigne d'un temps passé, et surtout de l'évolution de son temps. Elle est objectivement conservatrice, et vous voulez en faire une institution doctrinairement conservatrice,  au sens où vous vous agrippez à un ordre que vous croyez immuable.
@@ -6481,7 +6481,7 @@ Votre motion de rejet préalable ne contient donc aucun argument, ni sur le plan
 
 
 
-  Christiane Taubira, garde des sceaux.
+  Christiane Taubira, garde des Sceaux.
 
 
   Le mariage a traversé des périodes différentes.
@@ -6501,7 +6501,7 @@ Votre motion de rejet préalable ne contient donc aucun argument, ni sur le plan
 
 
 
-  Christiane Taubira, garde des sceaux.
+  Christiane Taubira, garde des Sceaux.
 
 
   Je vous rappelle que l'article 213 du code civil disposait que le mari doit protection à sa femme et la femme obéissance à son mari, et qu'il a fallu attendre le Front populaire pour que soit supprimé, en 1938, le devoir d'obéissance de la femme à son mari. 
@@ -6521,7 +6521,7 @@ Votre motion de rejet préalable ne contient donc aucun argument, ni sur le plan
 
 
 
-  Christiane Taubira, garde des sceaux.
+  Christiane Taubira, garde des Sceaux.
 
 
   Que vous souhaitiez conserver cet aspect du mariage, c'est votre liberté.
@@ -6551,7 +6551,7 @@ Votre motion de rejet préalable ne contient donc aucun argument, ni sur le plan
 
 
 
-  Christiane Taubira, garde des sceaux.
+  Christiane Taubira, garde des Sceaux.
 
 
   Nous disons, pour notre part, que le mariage est une institution qui porte l'empreinte des évolutions de la société. Et c'est cette évolution que nous poursuivons en continuant le processus de laïcisation du mariage. 
@@ -6572,7 +6572,7 @@ Monsieur Guaino, vous dites par ailleurs qu'il suffirait de reconnaître que les
 
 
 
-  Christiane Taubira, garde des sceaux. 
+  Christiane Taubira, garde des Sceaux. 
 
 
   'est leur faire injure que de croire que leur revendication est matérielle, et nous répondons très clairement que c'est bien l'institution du mariage, avec toute sa charge symbolique, que nous ouvrons aux couples homosexuels. Il ne s'agit pas de leur accorder quelques avantages : nous disons que l'institution du mariage n'appartient pas à une catégorie de citoyens. Cette institution est républicaine et nous l'ouvrons aux couples homosexuels.
@@ -6592,7 +6592,7 @@ Monsieur Guaino, vous dites par ailleurs qu'il suffirait de reconnaître que les
 
 
 
-  Christiane Taubira, garde des sceaux.
+  Christiane Taubira, garde des Sceaux.
 
 
   L'essentiel, pour nous, c'est de convaincre,...
@@ -6612,7 +6612,7 @@ Monsieur Guaino, vous dites par ailleurs qu'il suffirait de reconnaître que les
 
 
 
-  Christiane Taubira, garde des sceaux. 
+  Christiane Taubira, garde des Sceaux. 
 
 
   #8230;bien au-delà de vous, de convaincre vos électeurs ; et lorsqu'on voit que 63 % des Français sont favorables au mariage, il n'y a pas de doute que nous les convainquons ! 
@@ -6633,7 +6633,7 @@ Pour parler clairement, je n'ai pas entendu d'argument juridique ni d'argument c
 
 
 
-  Christiane Taubira, garde des sceaux.
+  Christiane Taubira, garde des Sceaux.
 
 
   J'ai entendu, non pas une motion de rejet préalable, mais simplement une motion de regret du passé. Le passé est passé, nous travaillons pour l'avenir ! 
@@ -7012,7 +7012,7 @@ Le groupe socialiste est convaincu du bien-fondé de cette loi, de la nécessit�
 
    Je vous remercie, madame la présidente. Il faudra souffrir de m'écouter, moi aussi, que voulez-vous ! Nous soutiendrons évidemment la motion de rejet de notre collègue Guaino.
 Nous n'avons pas peur du peuple, comme la gauche semble en avoir peur en ce moment.  Oui, l'article 11 de la Constitution permet réellement, à notre sens, le recours au référendum lorsqu'il s'agit de questions sociales. Par le fait qu'il intègre la filiation, le mariage, les droits de succession, les pensions de réversion, la place de l'enfant, des pères et des mères, oui, ce texte concerne bien l'ensemble de la société.  Le mariage est une institution : c'est beaucoup plus qu'un contrat ou que la reconnaissance d'un simple amour entre deux individus, si légitime et si fort soit-il.
-Non, madame la garde des sceaux, le mariage n'est pas le témoin d'un ordre passé. La loi française n'est pas non plus le témoin d'un ordre passé. Nous travaillons pour l'avenir : c'est aussi un enjeu de civilisation. Ce disant, madame la garde des sceaux, je ne fais que reprendre vos propos de novembre 2012 : un enjeu de civilisation ! 
+Non, madame la garde des Sceaux, le mariage n'est pas le témoin d'un ordre passé. La loi française n'est pas non plus le témoin d'un ordre passé. Nous travaillons pour l'avenir : c'est aussi un enjeu de civilisation. Ce disant, madame la garde des Sceaux, je ne fais que reprendre vos propos de novembre 2012 : un enjeu de civilisation ! 
 
 
 
@@ -7099,7 +7099,7 @@ Toujours au titre des explications de vote, la parole est à M. Noël Mamère, p
 
    Madame la présidente, mes chers collègues, il faut reconnaître à notre collègue Henri Guaino une certaine continuité dans sa vision du monde. Lui qui a fait dire à un Président de la République que l'homme noir n'était pas entré dans l'histoire, voilà qu'il vient de nous expliquer que les couples homosexuels ne peuvent pas entrer dans l'histoire ! 
 Derrière le lyrisme des mots se cache un conservatisme accablant. N'est-ce pas ceux qui précédaient M. Guaino sur ces mêmes bancs qui criaient à la dépravation des mœurs lorsque la pilule contraceptive a été autorisée ? Ce sont les mêmes qui ont fait pleurer Mme Veil lorsqu'elle a fait voter l'interruption volontaire de grossesse.  Ce sont les mêmes qui se sont battus contre le divorce. 
-Aujourd'hui M. Guaino vient nous parler – chose effrayante pour ceux qui croient à la démocratie parlementaire et à la République – de la brutalité aveugle de la loi. Est-ce la brutalité aveugle de la loi qui a permis de sortir de l'esclavage, d'abolir la peine de mort, de donner leur liberté aux femmes ? (Vifs applaudissements sur les bancs des groupes SRC, écologiste et RRDP.)
+Aujourd'hui M. Guaino vient nous parler – chose effrayante pour ceux qui croient à la démocratie parlementaire et à la République – de la brutalité aveugle de la loi. Est-ce la brutalité aveugle de la loi qui a permis de sortir de l'esclavage, d'abolir la peine de mort, de donner leur liberté aux femmes ? 
 M. Guaino, enfin, s'est découvert une vocation d'anarchiste. Voilà qu'après être allé devant les électeurs pour leur demander de les représenter, il vient nous expliquer que ce n'est pas ici que doit se construire l'État de droit, mais dans la rue ! Nous ne voterons pas sa motion de renvoi. 
 
 
@@ -7121,7 +7121,7 @@ M. Guaino, enfin, s'est découvert une vocation d'anarchiste. Voilà qu'après �
 
 
    Madame la présidente, mes chers collègues, notre collègue Guaino a voulu, avec des accents à la Malraux, défendre une société qui n'existe plus. Cette société, c'est celle de la reine Victoria. Il aurait pu d'ailleurs, tel Lord Melbourne en 1850, en être le conseiller, comme il a été celui du président Sarkozy. Cette société n'existe plus, cher collègue ! Aujourd'hui, la jeunesse que nous représentons veut cette loi. 
-D'un côté, le passé ; de l'autre, l'avenir. D'un côté, ceux qui se réclament d'un modèle qui n'existe plus ; de l'autre, ceux qui prennent en considération les nouveaux droits, ceux du mariage pour tous, ceux de la nouvelle filiation, ceux de l'adoption. Oui, nous représentons l'avenir ! C'est pourquoi nous rejetterons cette motion qui nous est soumise. (Vifs applaudissements sur les bancs des groupes SRC, écologiste et RRDP.)
+D'un côté, le passé ; de l'autre, l'avenir. D'un côté, ceux qui se réclament d'un modèle qui n'existe plus ; de l'autre, ceux qui prennent en considération les nouveaux droits, ceux du mariage pour tous, ceux de la nouvelle filiation, ceux de l'adoption. Oui, nous représentons l'avenir ! C'est pourquoi nous rejetterons cette motion qui nous est soumise. 
 
 
 
@@ -7143,7 +7143,7 @@ D'un côté, le passé ; de l'autre, l'avenir. D'un côté, ceux qui se réclame
 
    Les députés du Front de gauche ne voteront pas la motion de rejet préalable  pour trois raisons.
 D'abord, si cette motion était adoptée, cela entraînerait le rejet du texte, et nous pensons au contraire qu'il est grand temps d'assurer l'égalité des droits en ouvrant le mariage aux couples de même sexe.
-De plus, comme l'a confirmé le Conseil constitutionnel dans sa décision du 28 janvier 2011, le mariage pour tous est de la compétence du législateur ordinaire, définie à l'article 34 de la Constitution. Nous sommes donc légitimes à légiférer sur ce texte. Monsieur Guaino, lorsque nous faisons ici la loi, nous ne la faisons pas à la place du peuple, mais en son nom ! (Vifs applaudissements sur les bancs des groupes SRC, écologiste, GDR et RRDP.)
+De plus, comme l'a confirmé le Conseil constitutionnel dans sa décision du 28 janvier 2011, le mariage pour tous est de la compétence du législateur ordinaire, définie à l'article 34 de la Constitution. Nous sommes donc légitimes à légiférer sur ce texte. Monsieur Guaino, lorsque nous faisons ici la loi, nous ne la faisons pas à la place du peuple, mais en son nom ! 
 Enfin, à aucun moment notre collègue n'a démontré l'inconstitutionnalité du projet de loi. Nous pensons d'ailleurs qu'aucun article de la déclaration des droits de l'homme, ni aucun des quatre-vingt-neufarticles de notre Constitution ne peut être sollicité pour une telle démonstration.
 Pour toutes ces raisons, nous voterons contre la motion de rejet. 
 
@@ -7170,7 +7170,7 @@ Pour toutes ces raisons, nous voterons contre la motion de rejet.
 Nombre de votants   442
 Nombre de suffrages exprimés   441
 Majorité absolue   221
-(Vifs applaudissements sur les bancs des groupes SRC, écologiste et RRDP.)
+
 
 
 
@@ -7419,7 +7419,7 @@ Un autre signe ? Il vous a été reproché un jour de n'avoir invité, dans une 
 
 
    Il est curieux que vous ayez eu besoin d'un tel rappel à l'ordre pour rétablir – partiellement, il est vrai – un équilibre que vous n'avez, au fond, probablement pas souhaité. Monsieur le rapporteur, de telles proportions nous autorisent à mettre en cause non seulement votre méthode de travail, mais aussi les conclusions auxquelles vous avez abouti.
-Il est vrai que vous avez tenu à inventer une nouvelle méthode. Sur le plan de l'innovation, personne ne peut vous faire de reproches. Ne nous méprenons pas : je ne remets pas en cause la diffusion publique, par Internet, de certaines des auditions. Je trouve cependant paradoxal – pour ne pas dire d'une certaine mauvaise foi – la conjonction de cette organisation et le reproche qui nous a été fait régulièrement ici – parfois même par les membres du Gouvernement, madame la garde des sceaux – de ne pas participer physiquement à des auditions alors même que nous disposions de tous les moyens pour y assister depuis notre bureau ou sur Internet. 
+Il est vrai que vous avez tenu à inventer une nouvelle méthode. Sur le plan de l'innovation, personne ne peut vous faire de reproches. Ne nous méprenons pas : je ne remets pas en cause la diffusion publique, par Internet, de certaines des auditions. Je trouve cependant paradoxal – pour ne pas dire d'une certaine mauvaise foi – la conjonction de cette organisation et le reproche qui nous a été fait régulièrement ici – parfois même par les membres du Gouvernement, madame la garde des Sceaux – de ne pas participer physiquement à des auditions alors même que nous disposions de tous les moyens pour y assister depuis notre bureau ou sur Internet. 
 
 
 
@@ -7850,9 +7850,9 @@ Quelle est cette nouvelle lecture du principe d'égalité selon laquelle la Fran
   Jean-Frédéric Poisson
 
 
-   Faut-il considérer, madame la garde des sceaux, que cette interprétation prévaudra désormais dans l'ensemble des directives et des textes issus de votre ministère ? Cela promettrait une belle désorganisation dans l'ensemble de notre corps social, y compris sur un certain nombre de sujets à propos desquels nous ne manquerions pas d'être saisis, monsieur le président de la commission !
-Vraiment, madame la garde des sceaux, je ne comprends pas comment vous avez pu déclarer que la République française « ruse avec ses propres principes » lorsqu'elle n'admet pas que deux personnes de même sexe puissent accéder au mariage. Il me semble que votre expression était à peu près celle-là – vous me pardonnerez cette inexactitude. J'avais d'ailleurs été un peu étonné par cette expression, même si elle provenait d'un poète qui n'est pas celui que vous avez cité tout à l'heure, mais d'Aimé Césaire, je crois.
-Connaissez-vous, madame la garde des sceaux, une seule société dans laquelle toutes les personnes auraient strictement les mêmes droits ? Bien sûr, cette société n'existe pas ! Je suis prêt à admettre que vous ne souhaitez pas la constituer. Mais alors, mesdames les ministres, monsieur le rapporteur, quelle est la limite de votre argument sur l'égalité ?
+   Faut-il considérer, madame la garde des Sceaux, que cette interprétation prévaudra désormais dans l'ensemble des directives et des textes issus de votre ministère ? Cela promettrait une belle désorganisation dans l'ensemble de notre corps social, y compris sur un certain nombre de sujets à propos desquels nous ne manquerions pas d'être saisis, monsieur le président de la commission !
+Vraiment, madame la garde des Sceaux, je ne comprends pas comment vous avez pu déclarer que la République française « ruse avec ses propres principes » lorsqu'elle n'admet pas que deux personnes de même sexe puissent accéder au mariage. Il me semble que votre expression était à peu près celle-là – vous me pardonnerez cette inexactitude. J'avais d'ailleurs été un peu étonné par cette expression, même si elle provenait d'un poète qui n'est pas celui que vous avez cité tout à l'heure, mais d'Aimé Césaire, je crois.
+Connaissez-vous, madame la garde des Sceaux, une seule société dans laquelle toutes les personnes auraient strictement les mêmes droits ? Bien sûr, cette société n'existe pas ! Je suis prêt à admettre que vous ne souhaitez pas la constituer. Mais alors, mesdames les ministres, monsieur le rapporteur, quelle est la limite de votre argument sur l'égalité ?
 
 
 
@@ -7982,7 +7982,7 @@ Connaissez-vous, madame la garde des sceaux, une seule société dans laquelle t
   Jean-Frédéric Poisson
 
 
-   Dans son article 1er, la Déclaration des droits de l'homme et du citoyen indique très clairement le chemin à suivre : « Les hommes naissent et demeurent libres et égaux en droits. Les distinctions sociales ne peuvent être fondées que sur l'utilité commune ». Au point où nous en sommes de notre réflexion, et à la lumière de cet article 1er, il ressort que vous n'acceptez pas que le fait de fonder le mariage sur l'altérité sexuelle soit de l'ordre de l'utilité commune.  C'est là, madame la garde des sceaux, je le crois, le cœur de notre opposition.
+   Dans son article 1er, la Déclaration des droits de l'homme et du citoyen indique très clairement le chemin à suivre : « Les hommes naissent et demeurent libres et égaux en droits. Les distinctions sociales ne peuvent être fondées que sur l'utilité commune ». Au point où nous en sommes de notre réflexion, et à la lumière de cet article 1er, il ressort que vous n'acceptez pas que le fait de fonder le mariage sur l'altérité sexuelle soit de l'ordre de l'utilité commune.  C'est là, madame la garde des Sceaux, je le crois, le cœur de notre opposition.
 Je reviens à votre texte, monsieur le rapporteur, pour illustrer ce point : « En l'état actuel du droit, le code civil ne contient aucune disposition définissant le mariage. [...] Les rédacteurs du code civil de 1804 n'ont pas éprouvé le besoin de définir le mariage, tant la définition allait de soi » – tout est dans l'imparfait.
 
 
@@ -8147,7 +8147,7 @@ Il n'échappe à personne – et cela me permet de répondre en passant à ceux 
   Jean-Frédéric Poisson
 
 
-   De la même façon que j'avais pris acte de la sincérité de Mme la garde des sceaux Elisabeth Guigou, alors assise au même banc que vous, madame la ministre, et qui avait de dénégations énergiques en en serments enflammés, juré ses grands dieux que jamais au grand jamais, la France n'irait vers le mariage homosexuel à la suite du PACS.
+   De la même façon que j'avais pris acte de la sincérité de Mme la garde des Sceaux Elisabeth Guigou, alors assise au même banc que vous, madame la ministre, et qui avait de dénégations énergiques en en serments enflammés, juré ses grands dieux que jamais au grand jamais, la France n'irait vers le mariage homosexuel à la suite du PACS.
 
 
 
@@ -8188,7 +8188,7 @@ Il n'échappe à personne – et cela me permet de répondre en passant à ceux 
 
 
    Ainsi totalement dissociée des capacités biologiques des personnes, votre conception de la filiation instaure de manière définitive un droit à l'enfant, dont nos codes avaient jusqu'ici réussi à se préserver. J'ai du mal à considérer qu'une telle distance à l'égard de la nature – doublée d'une telle volonté de satisfaire toutes les aspirations individuelles – constitue réellement un progrès social.
-En ce sens, madame la garde des sceaux, nous sommes bien dans un changement de civilisation ou dans une « révolution anthropologique », pour reprendre l'expression de notre rapporteur, même s'il la conteste par ailleurs.
+En ce sens, madame la garde des Sceaux, nous sommes bien dans un changement de civilisation ou dans une « révolution anthropologique », pour reprendre l'expression de notre rapporteur, même s'il la conteste par ailleurs.
 D'abord, parce que nous voyons bien que des bouleversements de ces notions d'égalité et d'utilité commune ne comportent pas que des conséquences purement juridiques. Mais surtout, parce que nous franchissons une limite supplémentaire dans le rapport que nous avons organisé jusqu'à présent entre la loi et la nature. À ceux de mes collègues qui se demandaient l'autre jour ce que peut bien être le « droit naturel », je les invite à relire l'article 2 de la Déclaration des droits de l'homme :...
 
 
@@ -8290,7 +8290,7 @@ Les pratiques sociales et la technologie, il est vrai, ont bousculé notre conce
   Jean-Frédéric Poisson
 
 
-   Mais, madame la garde des sceaux, vous ne pouvez pas considérer qu'une telle attitude puisse valablement constituer un principe, ni théorique, ni pratique. 
+   Mais, madame la garde des Sceaux, vous ne pouvez pas considérer qu'une telle attitude puisse valablement constituer un principe, ni théorique, ni pratique. 
 Sur ce dernier point, je souhaite revenir sur l'article 16 de votre projet de loi, emblématique de votre texte.
 
 
@@ -8416,7 +8416,7 @@ Madame la ministre, cet article de votre projet de loi comporte, et c'est grave,
 En conclusion, sur aucune de ces questions absolument essentielles, monsieur le rapporteur, vous n'avez souhaité écrire le moindre mot. Il me semble pourtant que, quelle qu'ait pu être votre opinion sur chacun de ces sujets, notre commission aurait tiré grand avantage à en débattre au fond.
 À plusieurs reprises, vous avez dans votre texte rappelé qu'à l'évidence le Conseil constitutionnel reconnaît au législateur la capacité de légiférer sur le mariage – il n'y a aucun doute sur ce sujet. Mais il n'y a aucun doute non plus sur la dimension parlementaire des différentes questions que je viens d'évoquer sur le principe d'égalité et de son utilité commune, sur le rapport entre filiation biologique et filiation sociale, sur la question de l'universalité du droit et de son écriture, sur le rôle de la loi et son rapport à l'évolution de la société, etc.
 En choisissant la partialité comme principe d'organisation de votre travail, et le simple déroulement des événements comme clé de voûte de votre argumentation, vous vous êtes coupés de cette possibilité d'aborder en profondeur les questions essentielles posées par ce texte. Et vous en avez par conséquent privé notre commission. De ce fait, il n'est pas envisageable d'engager maintenant ce débat pour examiner au fond ces différents aspects.
-C'est la raison pour laquelle, mes chers collègues je vous demande par votre vote d'adopter cette motion de renvoi en commission. (Mme et MM les députés du groupe UMP se lèvent et applaudissent.)
+C'est la raison pour laquelle, mes chers collègues je vous demande par votre vote d'adopter cette motion de renvoi en commission. 
 
 
 
@@ -8436,7 +8436,7 @@ C'est la raison pour laquelle, mes chers collègues je vous demande par votre vo
   la présidente 
 
 
-  La parole est à Mme la garde des sceaux.
+  La parole est à Mme la garde des Sceaux.
 
 
 
@@ -8473,7 +8473,7 @@ C'est la raison pour laquelle, mes chers collègues je vous demande par votre vo
 
 
 
-  Christiane Taubira, garde des sceaux.
+  Christiane Taubira, garde des Sceaux.
 
 
   Nous sommes habitués à ces excès. 
@@ -8505,7 +8505,7 @@ Vous avez abordé toute une série de points.
 
 
 
-  Christiane Taubira, garde des sceaux.
+  Christiane Taubira, garde des Sceaux.
 
 
   Non ! Ce n'était d'ailleurs pas une motion de renvoi en commission, ne serait-ce que si l'on s'en tient au seul argument de la présence en commission. Il m'est en effet arrivé de répondre à des députés de l'opposition qui réclamaient un débat, qu'il serait déjà bien qu'ils participent aux auditions !
@@ -8525,7 +8525,7 @@ Vous avez abordé toute une série de points.
 
 
 
-  Christiane Taubira,garde des sceaux.
+  Christiane Taubira,garde des Sceaux.
 
 
   Allons ! Vous connaissez suffisamment bien l'Assemblée nationale pour savoir que même les députés qui ne sont pas membres d'une commission sont autorisés à participer à ses débats ! Or vous n'y étiez pas !
@@ -8556,7 +8556,7 @@ Vous nous avez fait croire pendant des mois que le sujet vous passionnait, mais 
 
 
 
-  Christiane Taubira,garde des sceaux.
+  Christiane Taubira,garde des Sceaux.
 
 
   Or voilà que M. le député Poisson nous explique que parce que les auditions étaient diffusées sur Internet, cela dispensait d'y participer !  Sauf que les auditions sont faites pour être actif, c'est-à-dire pour poser des questions, pour obtenir des réponses et pour contester ! Il y a donc une contradiction entre le fait de réclamer sans arrêt des débats et de snober ensuite tous les lieux de débats ! Je le maintiens !
@@ -8586,7 +8586,7 @@ Vous nous avez fait croire pendant des mois que le sujet vous passionnait, mais 
 
 
 
-  Christiane Taubira,garde des sceaux.
+  Christiane Taubira,garde des Sceaux.
 
 
   Vous nous dites également, monsieur Poisson, que vous connaissez des couples homosexuels qui ne sont pas intéressés par le mariage. Or, je connais infiniment plus d'hétérosexuels qui ne s'intéressent pas au mariage ; pour autant, il ne me viendrait pas à l'esprit d'abolir le mariage hétérosexuel ! 
@@ -8608,7 +8608,7 @@ Vous ajoutez par ailleurs que nous ferions une loi pour une minorité.
 
 
 
-  Christiane Taubira,garde des sceaux.
+  Christiane Taubira,garde des Sceaux.
 
 
   Souvent, dans l'histoire, les minorités ont fait progresser le droit,...
@@ -8628,7 +8628,7 @@ Vous ajoutez par ailleurs que nous ferions une loi pour une minorité.
 
 
 
-  Christiane Taubira,garde des sceaux.
+  Christiane Taubira,garde des Sceaux.
 
 
   ...parce que, subissant des injustices, ces minorités se sont souvent plus mobilisées.
@@ -8651,7 +8651,7 @@ Vous nous avez d'ailleurs fait le numéro de l'adoption pour les couples homosex
 
 
 
-  Christiane Taubira,garde des sceaux.
+  Christiane Taubira,garde des Sceaux.
 
 
   Or, lorsque nous vous avons répondu que les célibataires ont le droit d'adopter, vous avez déposé un amendement pour interdire ce droit aux célibataires !  Vous nous avez habitués à une meilleure tenue !
@@ -8717,7 +8717,7 @@ S'agissant d'égalité et d'équité, madame la ministre, un homme, en matière 
   Christian Jacob
 
 
-   Madame la ministre, votre attitude est choquante, et elle est méprisante pour le Parlement ! (Vifs applaudissements sur les bancs du groupe UMP. – Protestations sur les bancs des groupes SRC et GDR.)
+   Madame la ministre, votre attitude est choquante, et elle est méprisante pour le Parlement ! 
 
 
 
