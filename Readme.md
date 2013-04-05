@@ -18,7 +18,11 @@ est importable en l'état dans
 
 [MPT-TXM_2013-03-20](http://perso.obspm.fr/nicolas.legrand/MPT-TXM_2013-03-20.zip)
 est un export des fichiers chargés et lemmatisés pour TXM que vous
-pouvez recharger dans votre propre instance de TXM.
+pouvez recharger dans votre propre instance de TXM. Attention à la
+présence des questions au gouvernement ou d'autres discussion dans le
+corpus. Pour n'interroger que les débats sur l'ouverture du mariage,
+il faut créer un sous corpus à partir du tag « metadata », de
+l'attribute « debat » avec la valeur « mpt ».
 
 Exemples de résultats
 =====================
@@ -73,6 +77,18 @@ Todo
 
 Tester automatiquement la validité du XML (fait grossièrement par
 `xsltproc(1)`).
+
+Bugs
+====
+
+- L'attribut intervention marqué « intervention » ou « interruption » a
+été mis en place automatiquement et devrait être entièrement relu ;
+
+- Il faudrait ajouter les métadonnées nécessaire à Alain Vidalies, qui
+  est mal repéré ;
+
+- Il faudrait ajouter les métadonnées nécessaire pour les ministres
+  lors des questions au gouvernement.
 
 Erreur ?
 ========
