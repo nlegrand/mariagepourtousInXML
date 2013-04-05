@@ -1,0 +1,6 @@
+Il n'y a pas de droit d'auteur pour les documents publics ou officiels
+français, comme indiqué ici :
+<http://www.assemblee-nationale.fr/faq.asp>
+
+L'encodage XML est mon propre travail, sous licence CC by:
+<http://creativecommons.org/licenses/by/3.0/fr/>.
