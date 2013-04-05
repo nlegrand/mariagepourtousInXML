@@ -13,14 +13,14 @@
  ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
  OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 -->
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:mpt="http://mpt.ethelred.fr/ns/0.0/">
 <xsl:output encoding="UTF-8" indent="no" method="text"/>
 
 <xsl:template match="/">
-<xsl:apply-templates select="TEI/text/body"/>
+<xsl:apply-templates select="tei:TEI/tei:text/tei:body"/>
 </xsl:template>
-<xsl:template match="body">
-  <xsl:value-of select="/TEI/teiHeader/fileDesc/titleStmt/title"/>
+<xsl:template match="tei:body">
+  <xsl:value-of select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/>
   <xsl:apply-templates/>
 </xsl:template>
 
