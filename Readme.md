@@ -14,7 +14,7 @@ Télécharger
 [mpt-src](https://sourceforge.net/projects/txm/files/corpora/mpt/mpt-src.zip/download),
 est importable en l'état dans
 [Philologic](https://sites.google.com/site/philologic3/) ou dans
-[mpt-txm](http://textometrie.ens-lyon.fr/)) via le module XML+w/CSV.
+[TXM](http://textometrie.ens-lyon.fr/)) via le module XML+w/CSV.
 
 [mpt.txm](https://sourceforge.net/projects/txm/files/corpora/mpt/MPT.txm/download)
 est un export des fichiers chargés et lemmatisés pour TXM que vous
