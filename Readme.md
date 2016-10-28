@@ -11,12 +11,12 @@ Je décris l'[encodage](Encoding.fr.md) sur sa propre page.
 Télécharger
 ===========
 
-[MPT_2013-03-20](https://sourceforge.net/projects/txm/files/corpora/mpt/mpt-src.zip/download),
+[mpt-src](https://sourceforge.net/projects/txm/files/corpora/mpt/mpt-src.zip/download),
 est importable en l'état dans
 [Philologic](https://sites.google.com/site/philologic3/) ou dans
-[TXM](http://textometrie.ens-lyon.fr/)) via le module XML+w/CSV.
+[mpt-txm](http://textometrie.ens-lyon.fr/)) via le module XML+w/CSV.
 
-[MPT-TXM_2013-03-20](http://perso.obspm.fr/nicolas.legrand/MPT-TXM_2013-03-20.zip)
+[mpt.txm](https://sourceforge.net/projects/txm/files/corpora/mpt/MPT.txm/download)
 est un export des fichiers chargés et lemmatisés pour TXM que vous
 pouvez recharger dans votre propre instance de TXM. Attention à la
 présence des questions au gouvernement ou d'autres discussion dans le
