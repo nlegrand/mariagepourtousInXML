@@ -11,7 +11,7 @@ Je décris l'[encodage](Encoding.fr.md) sur sa propre page.
 Télécharger
 ===========
 
-[MPT_2013-03-20](http://perso.obspm.fr/nicolas.legrand/MPT_2013-03-20.zip),
+[MPT_2013-03-20](https://sourceforge.net/projects/txm/files/corpora/mpt/mpt-src.zip/download),
 est importable en l'état dans
 [Philologic](https://sites.google.com/site/philologic3/) ou dans
 [TXM](http://textometrie.ens-lyon.fr/)) via le module XML+w/CSV.
